@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader xml:lang="slv">
+    <teiHeader xml:lang="sl">
         <fileDesc>
             <titleStmt>
-                <title xml:lang="slv" type="main" level="m">Sejni zapiski Skupščine Socialistične
+                <title xml:lang="sl" type="main" level="m">Sejni zapiski Skupščine Socialistične
                     republike Slovenije</title>
-                <title xml:lang="slv" type="sub" level="m">Seje od 1. I. do 6. II. 1964</title>
-                <title xml:lang="slv" type="desc">Elektronska izdaja</title>
+                <title xml:lang="sl" type="sub" level="m">Seje od 1. I. do 6. II. 1964</title>
+                <title xml:lang="sl" type="desc">Elektronska izdaja</title>
                 <respStmt>
                     <persName>Mojca Šorn</persName>
                     <resp>Preverjanje in validacija OCR</resp>
@@ -23,66 +23,74 @@
             </titleStmt>
             <publicationStmt>
                 <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+                <distributor>DARIAH-SI</distributor>
                 <pubPlace>http://www.sistory.si/SISTORY:ID:27356</pubPlace>
+                <pubPlace>https://github.com/SIstory/Sejni_zapiski/tree/master/1964-01-01.1964-02-06</pubPlace>
                 <idno type="URL">http://www.sistory.si/SISTORY:ID:27356</idno>
                 <date when="2014-11-05+01:00">5. 11. 2014</date>
+                <availability status="free">
+                    <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+                    <p>To delo je ponujeno pod <ref
+                            target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Priznanje avtorstva 4.0 International licenco</ref></p>
+                </availability>
             </publicationStmt>
             <sourceDesc>
-                <biblStruct xml:id="SISTORY.ID.27356">
+                <biblStruct xml:id="sistory.27356">
                     <analytic xml:id="sistory.27357">
                         <idno type="URN">SISTORY:ID:27357#page=5</idno>
-                        <title xml:lang="slv" type="main" level="a">Republiški zbor</title>
-                        <title xml:lang="slv" type="sub" level="a">6. seja - 31. januarja
+                        <title xml:lang="sl" type="main" level="a">Republiški zbor</title>
+                        <title xml:lang="sl" type="sub" level="a">6. seja - 31. januarja
                             1964</title>
-                        <title xml:lang="slv" type="sub" level="a">Sejni zapiski Skupščine
+                        <title xml:lang="sl" type="sub" level="a">Sejni zapiski Skupščine
                             Socialistične republike Slovenije, Seje od 1. I. do 6. II. 1964</title>
-                        <textLang xml:lang="slv" mainLang="slv">slovenski</textLang>
-                        <textLang xml:lang="eng" mainLang="slv">Slovenian</textLang>
+                        <textLang xml:lang="sl" mainLang="slv">slovenski</textLang>
+                        <textLang xml:lang="en" mainLang="slv">Slovenian</textLang>
                     </analytic>
                     <analytic xml:id="sistory.27358">
                         <idno type="URN">SISTORY:ID:27358#page=70</idno>
-                        <title xml:lang="slv" type="main" level="a">Gospodarski zbor</title>
-                        <title xml:lang="slv" type="sub" level="a">5. seja - 31. januarja
+                        <title xml:lang="sl" type="main" level="a">Gospodarski zbor</title>
+                        <title xml:lang="sl" type="sub" level="a">5. seja - 31. januarja
                             1964</title>
-                        <title xml:lang="slv" type="sub" level="a">Sejni zapiski Skupščine
+                        <title xml:lang="sl" type="sub" level="a">Sejni zapiski Skupščine
                             Socialistične republike Slovenije, Seje od 1. I. do 6. II. 1964</title>
-                        <textLang xml:lang="slv" mainLang="slv">slovenski</textLang>
-                        <textLang xml:lang="eng" mainLang="slv">Slovenian</textLang>
+                        <textLang xml:lang="sl" mainLang="slv">slovenski</textLang>
+                        <textLang xml:lang="en" mainLang="slv">Slovenian</textLang>
                     </analytic>
                     <analytic xml:id="sistory.27359">
                         <idno type="URN">SISTORY:ID:27359#page=84</idno>
-                        <title xml:lang="slv" type="main" level="a">Prosvetno-kulturni zbor</title>
-                        <title xml:lang="slv" type="sub" level="a">5. seja - 29. januarja
+                        <title xml:lang="sl" type="main" level="a">Prosvetno-kulturni zbor</title>
+                        <title xml:lang="sl" type="sub" level="a">5. seja - 29. januarja
                             1964</title>
-                        <title xml:lang="slv" type="sub" level="a">Sejni zapiski Skupščine
+                        <title xml:lang="sl" type="sub" level="a">Sejni zapiski Skupščine
                             Socialistične republike Slovenije, Seje od 1. I. do 6. II. 1964</title>
-                        <textLang xml:lang="slv" mainLang="slv">slovenski</textLang>
-                        <textLang xml:lang="eng" mainLang="slv">Slovenian</textLang>
+                        <textLang xml:lang="sl" mainLang="slv">slovenski</textLang>
+                        <textLang xml:lang="en" mainLang="slv">Slovenian</textLang>
                     </analytic>
                     <analytic xml:id="sistory.27360">
                         <idno type="URN">SISTORY:ID:27360#page=125</idno>
-                        <title xml:lang="slv" type="main" level="a">Organizacijsko-politični
+                        <title xml:lang="sl" type="main" level="a">Organizacijsko-politični
                             zbor</title>
-                        <title xml:lang="slv" type="sub" level="a">6. seja - 6. februarja
+                        <title xml:lang="sl" type="sub" level="a">6. seja - 6. februarja
                             1964</title>
-                        <title xml:lang="slv" type="sub" level="a">Sejni zapiski Skupščine
+                        <title xml:lang="sl" type="sub" level="a">Sejni zapiski Skupščine
                             Socialistične republike Slovenije, Seje od 1. I. do 6. II. 1964</title>
-                        <textLang xml:lang="slv" mainLang="slv">slovenski</textLang>
-                        <textLang xml:lang="eng" mainLang="slv">Slovenian</textLang>
+                        <textLang xml:lang="sl" mainLang="slv">slovenski</textLang>
+                        <textLang xml:lang="en" mainLang="slv">Slovenian</textLang>
                     </analytic>
                     <analytic xml:id="sistory.27361">
                         <idno type="URN">SISTORY:ID:27361#page=200</idno>
-                        <title xml:lang="slv" type="main" level="a">Priloge</title>
-                        <title xml:lang="slv" type="sub" level="a">Sejni zapiski Skupščine
+                        <title xml:lang="sl" type="main" level="a">Priloge</title>
+                        <title xml:lang="sl" type="sub" level="a">Sejni zapiski Skupščine
                             Socialistične republike Slovenije, Seje od 1. I. do 6. II. 1964</title>
-                        <textLang xml:lang="slv" mainLang="slv">slovenski</textLang>
-                        <textLang xml:lang="eng" mainLang="slv">Slovenian</textLang>
+                        <textLang xml:lang="sl" mainLang="slv">slovenski</textLang>
+                        <textLang xml:lang="en" mainLang="slv">Slovenian</textLang>
                     </analytic>
                     <monogr>
                         <idno type="URN">SISTORY:ID:27356</idno>
-                        <title xml:lang="slv" type="main" level="m">Sejni zapiski Skupščine
+                        <title xml:lang="sl" type="main" level="m">Sejni zapiski Skupščine
                             Socialistične republike Slovenije</title>
-                        <title xml:lang="slv" type="sub" level="m">Seje od 1. I. do 6. II.
+                        <title xml:lang="sl" type="sub" level="m">Seje od 1. I. do 6. II.
                             1964</title>
                         <imprint>
                             <publisher>Skupščina Socialistične republike Slovenije</publisher>
@@ -93,7 +101,7 @@
                         <title>Sejni zapisi Skupščine Socialistične republike Slovenije</title>
                     </series>
                 </biblStruct>
-                <biblFull sameAs="#SISTORY.ID.27356">
+                <biblFull corresp="#sistory.27356">
                     <titleStmt>
                         <title type="main">Sejni zapiski Skupščine Socialistične republike
                             Slovenije</title>
@@ -104,10 +112,10 @@
                         <date when="1964">1964</date>
                         <availability status="free">
                             <licence target="http://creativecommons.org/publicdomain/mark/1.0/"
-                                xml:lang="slv">Avtorske pravice so potekle, delo je v javni
+                                xml:lang="sl">Avtorske pravice so potekle, delo je v javni
                                 domeni.</licence>
                             <licence target="http://creativecommons.org/publicdomain/mark/1.0/"
-                                xml:lang="eng">Public Domain Mark 1.0</licence>
+                                xml:lang="en">Public Domain Mark 1.0</licence>
                         </availability>
                     </publicationStmt>
                 </biblFull>
@@ -121,22 +129,24 @@
         </encodingDesc>
         <profileDesc>
             <langUsage>
-                <language ident="slv" xml:lang="slv">slovenski</language>
-                <language ident="slv" xml:lang="eng">Slovenian</language>
+                <language ident="sl" xml:lang="sl">slovenski</language>
+                <language ident="sl" xml:lang="en">Slovenian</language>
+                <language ident="en" xml:lang="sl">angleški</language>
+                <language ident="en" xml:lang="en">English</language>
             </langUsage>
             <textClass>
                 <keywords>
                     <list>
-                        <item xml:lang="slv">predstavniška telesa</item>
-                        <item xml:lang="slv">stenografski zapisniki</item>
-                        <item xml:lang="slv">Socialistična republika Slovenija</item>
-                        <item xml:lang="slv">družbeno samoupravljanje</item>
-                        <item xml:lang="slv">5. sklic (1963-1969)</item>
-                        <item xml:lang="eng">representative bodies</item>
-                        <item xml:lang="eng">stenographical minutes</item>
-                        <item xml:lang="eng">Socialist Republic of Slovenia</item>
-                        <item xml:lang="eng">social self-management</item>
-                        <item xml:lang="eng">5th term (1963-1969)</item>
+                        <item xml:lang="sl">predstavniška telesa</item>
+                        <item xml:lang="en">representative bodies</item>
+                        <item xml:lang="sl">stenografski zapisniki</item>
+                        <item xml:lang="en">stenographical minutes</item>
+                        <item xml:lang="sl">Socialistična republika Slovenija</item>
+                        <item xml:lang="en">Socialist Republic of Slovenia</item>
+                        <item xml:lang="sl">družbeno samoupravljanje</item>
+                        <item xml:lang="en">social self-management</item>
+                        <item xml:lang="sl">5. sklic (1963-1969)</item>
+                        <item xml:lang="en">5th term (1963-1969)</item>
                     </list>
                 </keywords>
             </textClass>
@@ -205,30 +215,22 @@
                 <div type="seja" n="6">
                     <head>6. seja</head>
                     <docDate when="1964-01-31">(31. januarja 1964)</docDate>
-                    <timeline xml:id="TL-RZ.1" origin="#TL-RZ.1s" unit="min">
-                        <when synch="#stage.t.1" xml:id="TL-RZ.1s" absolute="09:30:00"/>
-                        <when synch="#stage.t.2" xml:id="TL-RZ.1e" since="#TL-RZ.1s"
-                            absolute="10:00:00" interval="30"/>
-                    </timeline>
-                    <timeline xml:id="TL-RZ.2" origin="#TL-RZ.2s" unit="min">
-                        <when synch="#stage.t.3" xml:id="TL-RZ.2s" absolute="10:15:00"/>
-                        <when synch="#stage.t.4" xml:id="TL-RZ.2e" since="#TL-RZ.2s"
-                            absolute="11:00:00" interval="45"/>
-                    </timeline>
-                    <timeline xml:id="TL-RZ.3" origin="#TL-RZ.3s" unit="min">
-                        <when synch="#stage.t.5" xml:id="TL-RZ.3s" absolute="11:30:00"/>
-                        <when synch="#stage.t.6" xml:id="TL-RZ.3e" since="#TL-RZ.3s"
-                            absolute="13:35:00" interval="125"/>
-                    </timeline>
-                    <timeline xml:id="TL-RZ.4" origin="#TL-RZ.4s" unit="min">
-                        <when synch="#stage.t.7" xml:id="TL-RZ.4s" absolute="16:30:00"/>
-                        <when synch="#stage.t.8" xml:id="TL-RZ.4e" since="#TL-RZ.4s"
-                            absolute="17:40:00" interval="70"/>
-                    </timeline>
-                    <timeline xml:id="TL-RZ.5" origin="#TL-RZ.5s" unit="min">
-                        <when synch="#stage.t.9" xml:id="TL-RZ.5s" absolute="18:00:00"/>
-                        <when synch="#stage.t.10" xml:id="TL-RZ.5e" since="#TL-RZ.5s"
-                            absolute="18:30:00" interval="30"/>
+                    <timeline origin="#TL-RZ.1" unit="min">
+                        <when synch="#stage.t.1" xml:id="TL-RZ.1" absolute="1964-01-31T09:30:00"/>
+                        <when synch="#stage.t.2" since="#TL-RZ.1" absolute="1964-01-31T10:00:00"
+                            interval="30"/>
+                        <when synch="#stage.t.3" xml:id="TL-RZ.2" absolute="1964-01-31T10:15:00"/>
+                        <when synch="#stage.t.4" since="#TL-RZ.2" absolute="1964-01-31T11:00:00"
+                            interval="45"/>
+                        <when synch="#stage.t.5" xml:id="TL-RZ.3" absolute="1964-01-31T11:30:00"/>
+                        <when synch="#stage.t.6" since="#TL-RZ.3" absolute="1964-01-31T13:35:00"
+                            interval="125"/>
+                        <when synch="#stage.t.7" xml:id="TL-RZ.4" absolute="1964-01-31T16:30:00"/>
+                        <when synch="#stage.t.8" since="#TL-RZ.4" absolute="1964-01-31T17:40:00"
+                            interval="70"/>
+                        <when synch="#stage.t.9" xml:id="TL-RZ.5" absolute="1964-01-31T18:00:00"/>
+                        <when synch="#stage.t.10" since="#TL-RZ.5" absolute="1964-01-31T18:30:00"
+                            interval="30"/>
                     </timeline>
                     <castList>
                         <castItem>
@@ -4962,15 +4964,13 @@
                 <div type="seja" n="5">
                     <head>5. seja</head>
                     <docDate when="1964-01-31">(31. januarja 1964)</docDate>
-                    <timeline xml:id="TL-GZ.1" origin="#TL-GZ.1s" unit="min">
-                        <when synch="#stage.t.11" xml:id="TL-GZ.1s" absolute="09:40:00"/>
-                        <when synch="#stage.t.12" xml:id="TL-GZ.1e" since="#TL-GZ.1s"
-                            absolute="09:50:00" interval="10"/>
-                    </timeline>
-                    <timeline xml:id="TL-GZ.2" origin="#TL-GZ.2s" unit="min">
-                        <when synch="#stage.t.13" xml:id="TL-GZ.2s" absolute="16:35:00"/>
-                        <when synch="#stage.t.14" xml:id="TL-GZ.2e" since="#TL-GZ.2s"
-                            absolute="17:30:00" interval="55"/>
+                    <timeline origin="#TL-GZ.1" unit="min">
+                        <when synch="#stage.t.11" xml:id="TL-GZ.1" absolute="1964-01-31T09:40:00"/>
+                        <when synch="#stage.t.12" since="#TL-GZ.1" absolute="1964-01-31T09:50:00"
+                            interval="10"/>
+                        <when synch="#stage.t.13" xml:id="TL-GZ.2" absolute="1964-01-31T16:35:00"/>
+                        <when synch="#stage.t.14" since="#TL-GZ.2" absolute="1964-01-31T17:30:00"
+                            interval="55"/>
                     </timeline>
                     <castList>
                         <castItem><roleDesc>Predsedoval</roleDesc>: <actor
@@ -5868,15 +5868,13 @@
                 <div type="seja" n="5">
                     <head>5. seja</head>
                     <docDate when="1964-01-29">(29. januarja 1964)</docDate>
-                    <timeline xml:id="TL-PKZ.1" origin="#TL-PKZ.1s" unit="min">
-                        <when synch="#stage.t.15" xml:id="TL-PKZ.1s" absolute="09:40:00"/>
-                        <when synch="#stage.t.16" xml:id="TL-PKZ.1e" since="#TL-PKZ.1s"
-                            absolute="10:48:00" interval="68"/>
-                    </timeline>
-                    <timeline xml:id="TL-PKZ.2" origin="#TL-PKZ.2s" unit="min">
-                        <when synch="#stage.t.17" xml:id="TL-PKZ.2s" absolute="11:30:00"/>
-                        <when synch="#stage.t.18" xml:id="TL-PKZ.2e" since="#TL-PKZ.2s"
-                            absolute="13:50:00" interval="140"/>
+                    <timeline origin="#TL-PKZ.1" unit="min">
+                        <when synch="#stage.t.15" xml:id="TL-PKZ.1" absolute="1964-01-29T09:40:00"/>
+                        <when synch="#stage.t.16" since="#TL-PKZ.1" absolute="1964-01-29T10:48:00"
+                            interval="68"/>
+                        <when synch="#stage.t.17" xml:id="TL-PKZ.2" absolute="1964-01-29T11:30:00"/>
+                        <when synch="#stage.t.18" since="#TL-PKZ.2" absolute="1964-01-29T13:50:00"
+                            interval="140"/>
                     </timeline>
                     <castList>
                         <castItem><roleDesc>Predsedoval</roleDesc>: <actor xml:id="sp.PKZ.TavcarIvo"
@@ -6428,26 +6426,31 @@
                                     ki želi vsem posredovati čim več znanja, ročnosti in veselja do
                                     dela.</p>
                                 <p>Rezultat takšnega stanja je:</p>
-                                <p>— da so kapacitete šol neizkoriščene, ker gospodarske
-                                    organizacije ceneje pridejo do kadrov preko vajenskih šol, ki
-                                    jih financira družba, tako kot vse ostale šole II. stopnje;</p>
-                                <p>— da je število učencev v mariborskem okraju padlo, če v šolskem
-                                    letu 1959/60 vzamemo indeks 100, v prvem letu na 96,2, v drugem
-                                    na 94,4 in v tretjem, to je v šolskem letu 1962/63, na 85,9. To
-                                    padanje nas mora močno zaskrbeti;</p>
-                                <p>— da se favorizirajo le tiste šole II. stopnje, ki se še vedno,
-                                    čeprav v zatonu, ponašajo z atributom »srednje«. Tako je v
-                                    mariborskem okraju razmerje med tehnikom in kvalificiranim
-                                    delavcem 3482 : 5813 ali 1 :1,8, medtem ko bi moralo biti 1 :8
-                                    do 1 : 10. Takšno razmerje je hudo zaskrbljujoče in mu bo treba
-                                    posvetiti skrb, ki jo zasluži;</p>
-                                <p>— da veliko mladine po končani 8-letrii šoli ne nadaljuje šolanja
-                                    zato, ker na eni strani ni kapacitet, na drugi strani pa ni
-                                    kadrovskih potreb;</p>
-                                <p>— skrajna komercializacija učnih delavnic šol, ki sredstev ne
-                                    uporabljajo za izboljšanje pouka, kar jim je zakonska dolžnost,
-                                    temveč jih namenijo za znižanje zneska', ki je potreben za
-                                    osnovno dejavnost.</p>
+                                <list>
+                                    <item n="—">da so kapacitete šol neizkoriščene, ker gospodarske
+                                        organizacije ceneje pridejo do kadrov preko vajenskih šol,
+                                        ki jih financira družba, tako kot vse ostale šole II.
+                                        stopnje;</item>
+                                    <item n="—">da je število učencev v mariborskem okraju padlo, če
+                                        v šolskem letu 1959/60 vzamemo indeks 100, v prvem letu na
+                                        96,2, v drugem na 94,4 in v tretjem, to je v šolskem letu
+                                        1962/63, na 85,9. To padanje nas mora močno
+                                        zaskrbeti;</item>
+                                    <item n="—">da se favorizirajo le tiste šole II. stopnje, ki se
+                                        še vedno, čeprav v zatonu, ponašajo z atributom »srednje«.
+                                        Tako je v mariborskem okraju razmerje med tehnikom in
+                                        kvalificiranim delavcem 3482 : 5813 ali 1 :1,8, medtem ko bi
+                                        moralo biti 1 :8 do 1 : 10. Takšno razmerje je hudo
+                                        zaskrbljujoče in mu bo treba posvetiti skrb, ki jo
+                                        zasluži;</item>
+                                    <item n="—">da veliko mladine po končani 8-letrii šoli ne
+                                        nadaljuje šolanja zato, ker na eni strani ni kapacitet, na
+                                        drugi strani pa ni kadrovskih potreb;</item>
+                                    <item n="—">skrajna komercializacija učnih delavnic šol, ki
+                                        sredstev ne uporabljajo za izboljšanje pouka, kar jim je
+                                        zakonska dolžnost, temveč jih namenijo za znižanje zneska',
+                                        ki je potreben za osnovno dejavnost.</item>
+                                </list>
                                 <p>Menim, da je nujno, da se določi komisija, morda v republiškem
                                     merilu, ki naj se pozanima za ta vprašanja in izenači sedanje
                                     industrijske šole z ostalimi šolami II. stopnje.</p>
@@ -8502,30 +8505,22 @@
                 <div type="seja" n="6">
                     <head>6. seja</head>
                     <docDate when="1964-02-06">(6. februarja 1964)</docDate>
-                    <timeline xml:id="TL-OPZ.1" origin="#TL-OPZ.1s" unit="min">
-                        <when synch="#stage.t.19" xml:id="TL-OPZ.1s" absolute="09:35:00"/>
-                        <when synch="#stage.t.20" xml:id="TL-OPZ.1e" since="#TL-OPZ.1s"
-                            absolute="10:50:00" interval="75"/>
-                    </timeline>
-                    <timeline xml:id="TL-OPZ.2" origin="#TL-OPZ.2s" unit="min">
-                        <when synch="#stage.t.21" xml:id="TL-OPZ.2s" absolute="11:30:00"/>
-                        <when synch="#stage.t.22" xml:id="TL-OPZ.2e" since="#TL-OPZ.2s"
-                            absolute="13:00:00" interval="90"/>
-                    </timeline>
-                    <timeline xml:id="TL-OPZ.3" origin="#TL-OPZ.3s" unit="min">
-                        <when synch="#stage.t.23" xml:id="TL-OPZ.3s" absolute="13:15:00"/>
-                        <when synch="#stage.t.24" xml:id="TL-OPZ.3e" since="#TL-OPZ.3s"
-                            absolute="13:45:00" interval="30"/>
-                    </timeline>
-                    <timeline xml:id="TL-OPZ.4" origin="#TL-OPZ.4s" unit="min">
-                        <when synch="#stage.t.25" xml:id="TL-OPZ.4s" absolute="15:35:00"/>
-                        <when synch="#stage.t.26" xml:id="TL-OPZ.4e" since="#TL-OPZ.4s"
-                            absolute="17:45:00" interval="130"/>
-                    </timeline>
-                    <timeline xml:id="TL-OPZ.5" origin="#TL-OPZ.5s" unit="min">
-                        <when synch="#stage.t.27" xml:id="TL-OPZ.5s" absolute="18:15:00"/>
-                        <when synch="#stage.t.28" xml:id="TL-OPZ.5e" since="#TL-OPZ.5s"
-                            absolute="18:45:00" interval="30"/>
+                    <timeline origin="#TL-OPZ.1" unit="min">
+                        <when synch="#stage.t.19" xml:id="TL-OPZ.1" absolute="1964-02-06T09:35:00"/>
+                        <when synch="#stage.t.20" since="#TL-OPZ.1" absolute="1964-02-06T10:50:00"
+                            interval="75"/>
+                        <when synch="#stage.t.21" xml:id="TL-OPZ.2" absolute="1964-02-06T11:30:00"/>
+                        <when synch="#stage.t.22" since="#TL-OPZ.2" absolute="1964-02-06T13:00:00"
+                            interval="90"/>
+                        <when synch="#stage.t.23" xml:id="TL-OPZ.3" absolute="1964-02-06T13:15:00"/>
+                        <when synch="#stage.t.24" since="#TL-OPZ.3" absolute="1964-02-06T13:45:00"
+                            interval="30"/>
+                        <when synch="#stage.t.25" xml:id="TL-OPZ.4" absolute="1964-02-06T15:35:00"/>
+                        <when synch="#stage.t.26" since="#TL-OPZ.4" absolute="1964-02-06T17:45:00"
+                            interval="130"/>
+                        <when synch="#stage.t.27" xml:id="TL-OPZ.5" absolute="1964-02-06T18:15:00"/>
+                        <when synch="#stage.t.28" since="#TL-OPZ.5" absolute="1964-02-06T18:45:00"
+                            interval="30"/>
                     </timeline>
                     <castList>
                         <castItem><roleDesc>Predsedoval</roleDesc>: <actor
