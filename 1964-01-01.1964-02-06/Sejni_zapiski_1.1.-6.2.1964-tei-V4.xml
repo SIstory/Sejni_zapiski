@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xi="http://www.w3.org/2001/XInclude">
     <teiHeader xml:lang="sl">
         <fileDesc>
             <titleStmt>
@@ -126,6 +130,38 @@
                 <p>XML na portalu Zgodovina Slovenije - SIstory narejen v okviru izvajanja
                     infrastrukturnega programa Inštituta za novejšo zgodovino</p>
             </projectDesc>
+            <classDecl>
+                <taxonomy n="stenographic minutes">
+                    <category xml:id="SM.Skup">
+                        <catDesc xml:lang="sl">Skupščina Socialistične republike Slovenije</catDesc>
+                        <catDesc xml:lang="en">Assembly of the People’s Republic of Slovenia</catDesc>
+                        <category xml:id="SM.Zbor">
+                            <catDesc xml:lang="sl">zbor</catDesc>
+                            <catDesc xml:lang="en">Chamber</catDesc>
+                            <category xml:id="SM.Seja">
+                                <catDesc xml:lang="sl">seja</catDesc>
+                                <catDesc xml:lang="en">Session</catDesc>
+                                <category xml:id="SM.PredDnevRed">
+                                    <catDesc>Pred dnevnim redom</catDesc>
+                                    <category xml:id="SM.Odsot">
+                                        <catDesc>Odsotnost: Ugotavljanje odsotnosti poslancev</catDesc>
+                                    </category>
+                                    <category xml:id="SM.DolDnevRed">
+                                        <catDesc>Določitev dnevnega reda</catDesc>
+                                    </category>
+                                </category>
+                                <category xml:id="SM.DnevRed">
+                                    <catDesc>Dnevni red</catDesc>
+                                    <category xml:id="SM.TDR">
+                                        <catDesc>Točka dnevnega reda</catDesc>
+                                    </category>
+                                </category>
+                            </category>
+                        </category>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <!--<xi:include href="../fsdDecl.xml"/>-->
         </encodingDesc>
         <profileDesc>
             <langUsage>
@@ -140,7 +176,7 @@
                         <item xml:lang="sl">predstavniška telesa</item>
                         <item xml:lang="en">representative bodies</item>
                         <item xml:lang="sl">stenografski zapisniki</item>
-                        <item xml:lang="en">stenographical minutes</item>
+                        <item xml:lang="en">stenographic minutes</item>
                         <item xml:lang="sl">Socialistična republika Slovenija</item>
                         <item xml:lang="en">Socialist Republic of Slovenia</item>
                         <item xml:lang="sl">družbeno samoupravljanje</item>
@@ -208,11 +244,11 @@
                 <docDate>1964</docDate>
             </docImprint>
         </front>
-        <body>
-            <div type="zbor">
+        <body ana="#SM.Skup">
+            <div ana="#SM.Zbor">
                 <pb n="3" xml:id="pb.3"/>
                 <head>REPUBLIŠKI ZBOR</head>
-                <div type="seja" n="6">
+                <div ana="#SM.Seja" n="6">
                     <head>6. seja</head>
                     <docDate when="1964-01-31">(31. januarja 1964)</docDate>
                     <timeline origin="#TL-RZ.1" unit="min">
@@ -240,522 +276,522 @@
                     </castList>
                     <stage type="time"><time from="09:30:00" xml:id="stage.t.1">Začetek seje ob
                             9.30</time>.</stage>
-                    <div type="PredDnevnimRedom">
+                    <div ana="#SM.PredDnevRed">
                         <sp who="#sp.RZ.RemskarTine">
                             <speaker>Predsednik Tine Remškar:</speaker>
                             <p>
                                 <s>
-                                    <w ana="Sozer" lemma="tovarišica">Tovarišice</w>
+                                    <w ana="#Sozer" lemma="tovarišica">Tovarišice</w>
                                     <c>&#x20;</c>
-                                    <w ana="Vp" lemma="in">in</w>
+                                    <w ana="#Vp" lemma="in">in</w>
                                     <c>&#x20;</c>
-                                    <w ana="Sommi" lemma="tovariš">tovariši</w>
+                                    <w ana="#Sommi" lemma="tovariš">tovariši</w>
                                     <c>!</c>
                                 </s>
                                 <s>
-                                    <w ana="Ggnspe" lemma="pričenjati">Pričenjam</w>
+                                    <w ana="#Ggnspe" lemma="pričenjati">Pričenjam</w>
                                     <c>&#x20;</c>
-                                    <w ana="Kav" lemma="6.">6.</w>
+                                    <w ana="#Kav" lemma="6.">6.</w>
                                     <c>&#x20;</c>
-                                    <w ana="Sozet" lemma="seja">sejo</w>
+                                    <w ana="#Sozet" lemma="seja">sejo</w>
                                     <c>&#x20;</c>
                                     <orgName>
-                                        <w ana="Ppnmer" lemma="republiški">Republiškega</w>
+                                        <w ana="#Ppnmer" lemma="republiški">Republiškega</w>
                                         <c>&#x20;</c>
-                                        <w ana="Somer" lemma="zbor">zbora</w>
+                                        <w ana="#Somer" lemma="zbor">zbora</w>
                                     </orgName>
                                     <c>&#x20;</c>
                                     <orgName>
-                                        <w ana="Sozer" lemma="skupščina">Skupščine</w>
+                                        <w ana="#Sozer" lemma="skupščina">Skupščine</w>
                                         <c>&#x20;</c>
-                                        <w ana="Ppnzer" lemma="socialističen">Socialistične</w>
+                                        <w ana="#Ppnzer" lemma="socialističen">Socialistične</w>
                                         <c>&#x20;</c>
-                                        <w ana="Sozer" lemma="republika">republike</w>
+                                        <w ana="#Sozer" lemma="republika">republike</w>
                                         <c>&#x20;</c>
-                                        <w ana="Slzer" lemma="Slovenija">Slovenije</w>
+                                        <w ana="#Slzer" lemma="Slovenija">Slovenije</w>
                                     </orgName>
                                     <c>,</c>
                                     <c>&#x20;</c>
-                                    <w ana="Vd" lemma="ki">ki</w>
+                                    <w ana="#Vd" lemma="ki">ki</w>
                                     <c>&#x20;</c>
-                                    <w ana="Gp-spe-n" lemma="biti">sem</w>
+                                    <w ana="#Gp-spe-n" lemma="biti">sem</w>
                                     <c>&#x20;</c>
-                                    <w ana="Zotzet--k" lemma="on">jo</w>
+                                    <w ana="#Zotzet--k" lemma="on">jo</w>
                                     <c>&#x20;</c>
-                                    <w ana="Ggdd-em" lemma="sklicati">sklical</w>
+                                    <w ana="#Ggdd-em" lemma="sklicati">sklical</w>
                                     <c>&#x20;</c>
-                                    <w ana="Dm" lemma="na">na</w>
+                                    <w ana="#Dm" lemma="na">na</w>
                                     <c>&#x20;</c>
-                                    <w ana="Sozem" lemma="podlaga">podlagi</w>
+                                    <w ana="#Sozem" lemma="podlaga">podlagi</w>
                                     <c>&#x20;</c>
-                                    <w ana="Kav" lemma="44.">44.</w>
+                                    <w ana="#Kav" lemma="44.">44.</w>
                                     <c>&#x20;</c>
-                                    <w ana="Somer" lemma="člen">člena</w>
+                                    <w ana="#Somer" lemma="člen">člena</w>
                                     <c>&#x20;</c>
-                                    <w ana="Ppnmer" lemma="začasen">začasnega</w>
+                                    <w ana="#Ppnmer" lemma="začasen">začasnega</w>
                                     <c>&#x20;</c>
-                                    <w ana="Somer" lemma="poslovnik">poslovnika</w>
+                                    <w ana="#Somer" lemma="poslovnik">poslovnika</w>
                                     <c>&#x20;</c>
-                                    <w ana="Zspmerm" lemma="naš">našega</w>
+                                    <w ana="#Zspmerm" lemma="naš">našega</w>
                                     <c>&#x20;</c>
-                                    <w ana="Somer" lemma="zbor">zbora</w>
+                                    <w ana="#Somer" lemma="zbor">zbora</w>
                                     <c>.</c>
                                 </s>
                             </p>
                         </sp>
-                        <div type="Odsotnost">
+                        <div ana="#SM.Odsot">
                             <sp who="#sp.RZ.RemskarTine">
                                 <p>
                                     <s>
-                                        <w ana="Zp-zet" lemma="svoj">Svojo</w>
+                                        <w ana="#Zp-zet" lemma="svoj">Svojo</w>
                                         <c>&#x20;</c>
-                                        <w ana="Sozet" lemma="odsotnost">odsotnost</w>
+                                        <w ana="#Sozet" lemma="odsotnost">odsotnost</w>
                                         <c>&#x20;</c>
-                                        <w ana="Gp-stm-n" lemma="biti">so</w>
+                                        <w ana="#Gp-stm-n" lemma="biti">so</w>
                                         <c>&#x20;</c>
-                                        <w ana="Ggdd-mm" lemma="opravičiti">opravičili</w>
+                                        <w ana="#Ggdd-mm" lemma="opravičiti">opravičili</w>
                                         <c>&#x20;</c>
-                                        <w ana="Sommi" lemma="poslanec">poslanci</w>
+                                        <w ana="#Sommi" lemma="poslanec">poslanci</w>
                                         <c>:</c>
                                         <c>&#x20;</c>
                                         <persName>
-                                            <w ana="Slmei" lemma="Ivo">Ivo</w>
+                                            <w ana="#Slmei" lemma="Ivo">Ivo</w>
                                             <c>&#x20;</c>
-                                            <w ana="Slmei" lemma="Janžekovič">Janžekovič</w>
+                                            <w ana="#Slmei" lemma="Janžekovič">Janžekovič</w>
                                         </persName>
                                         <c>,</c>
                                         <c>&#x20;</c>
                                         <persName>
-                                            <w ana="Slmei" lemma="Vladimir">Vladimir</w>
+                                            <w ana="#Slmei" lemma="Vladimir">Vladimir</w>
                                             <c>&#x20;</c>
-                                            <w ana="Slmei" lemma="Kadunec">Kadunec</w>
+                                            <w ana="#Slmei" lemma="Kadunec">Kadunec</w>
                                         </persName><c>,</c>
                                         <c>&#x20;</c>
                                         <persName>
-                                            <w ana="O" lemma="inž.">inž.</w>
+                                            <w ana="#O" lemma="inž.">inž.</w>
                                             <c>&#x20;</c>
-                                            <w ana="Slmei" lemma="Ivica">Ivica</w>
+                                            <w ana="#Slmei" lemma="Ivica">Ivica</w>
                                             <c>&#x20;</c>
-                                            <w ana="Slmei" lemma="Kavčič">Kavčič</w>
+                                            <w ana="#Slmei" lemma="Kavčič">Kavčič</w>
                                         </persName><c>,</c>
                                         <c>&#x20;</c>
                                         <persName>
-                                            <w ana="Slmei" lemma="Boris">Boris</w>
+                                            <w ana="#Slmei" lemma="Boris">Boris</w>
                                             <c>&#x20;</c>
-                                            <w ana="Slmei" lemma="Kocijančič">Kocijančič</w>
+                                            <w ana="#Slmei" lemma="Kocijančič">Kocijančič</w>
                                         </persName><c>,</c>
                                         <c>&#x20;</c>
                                         <persName>
-                                            <w ana="O" lemma="inž.">inž.</w>
+                                            <w ana="#O" lemma="inž.">inž.</w>
                                             <c>&#x20;</c>
-                                            <w ana="Slmei" lemma="Franc">Franc</w>
+                                            <w ana="#Slmei" lemma="Franc">Franc</w>
                                             <c>&#x20;</c>
-                                            <w ana="Slmei" lemma="Kumše">Kumše</w>
+                                            <w ana="#Slmei" lemma="Kumše">Kumše</w>
                                         </persName><c>,</c>
                                         <c>&#x20;</c>
                                         <persName>
-                                            <w ana="Slmei" lemma="Franc">Franc</w>
+                                            <w ana="#Slmei" lemma="Franc">Franc</w>
                                             <c>&#x20;</c>
-                                            <w ana="Slmei" lemma="Leben">Leben</w>
+                                            <w ana="#Slmei" lemma="Leben">Leben</w>
                                         </persName><c>,</c>
                                         <c>&#x20;</c>
                                         <persName>
-                                            <w ana="O" lemma="dr.">dr.</w>
+                                            <w ana="#O" lemma="dr.">dr.</w>
                                             <c>&#x20;</c>
-                                            <w ana="Slzei" lemma="Meta">Meta</w>
+                                            <w ana="#Slzei" lemma="Meta">Meta</w>
                                             <c>&#x20;</c>
-                                            <w ana="Slmei" lemma="Škerget">Škerget</w>
+                                            <w ana="#Slmei" lemma="Škerget">Škerget</w>
                                         </persName><c>,</c>
                                         <c>&#x20;</c>
                                         <persName>
-                                            <w ana="Slmei" lemma="Viktor">Viktor</w>
+                                            <w ana="#Slmei" lemma="Viktor">Viktor</w>
                                             <c>&#x20;</c>
-                                            <w ana="Slmei" lemma="Zupančič">Zupančič</w>
+                                            <w ana="#Slmei" lemma="Zupančič">Zupančič</w>
                                         </persName>
                                         <c>&#x20;</c>
-                                        <w ana="Vp" lemma="in">in</w>
+                                        <w ana="#Vp" lemma="in">in</w>
                                         <c>&#x20;</c>
                                         <persName>
-                                            <w ana="Slmei" lemma="Miran">Miran</w>
+                                            <w ana="#Slmei" lemma="Miran">Miran</w>
                                             <c>&#x20;</c>
-                                            <w ana="Slmei" lemma="Košmelj">Košmelj</w>
+                                            <w ana="#Slmei" lemma="Košmelj">Košmelj</w>
                                         </persName>
                                         <c>.</c>
                                     </s>
                                 </p>
                             </sp>
                         </div>
-                        <div type="DoločitevDnevnegaReda">
+                        <div ana="#SM.DolDnevRed">
                             <sp who="#sp.RZ.RemskarTine">
                                 <p>
                                     <s>
-                                        <w ana="Do" lemma="z">S</w>
+                                        <w ana="#Do" lemma="z">S</w>
                                         <c>&#x20;</c>
-                                        <w ana="Zk-seo" lemma="ta">tem</w>
+                                        <w ana="#Zk-seo" lemma="ta">tem</w>
                                         <c>&#x20;</c>
-                                        <w ana="Ggnspe" lemma="ugotavljati">ugotavljam</w>
+                                        <w ana="#Ggnspe" lemma="ugotavljati">ugotavljam</w>
                                         <c>,</c>
                                         <c>&#x20;</c>
-                                        <w ana="Vd" lemma="da">da</w>
+                                        <w ana="#Vd" lemma="da">da</w>
                                         <c>&#x20;</c>
-                                        <w ana="Gp-ste-n" lemma="biti">je</w>
+                                        <w ana="#Gp-ste-n" lemma="biti">je</w>
                                         <c>&#x20;</c>
-                                        <w ana="Somei" lemma="zbor">zbor</w>
+                                        <w ana="#Somei" lemma="zbor">zbor</w>
                                         <c>&#x20;</c>
-                                        <w ana="Ppnmein" lemma="sklepčen">sklepčen</w>
+                                        <w ana="#Ppnmein" lemma="sklepčen">sklepčen</w>
                                         <c>&#x20;</c>
-                                        <w ana="Vp" lemma="in">in</w>
+                                        <w ana="#Vp" lemma="in">in</w>
                                         <c>&#x20;</c>
-                                        <w ana="Ggvspe" lemma="predlagati">predlagam</w>
+                                        <w ana="#Ggvspe" lemma="predlagati">predlagam</w>
                                         <c>&#x20;</c>
-                                        <w ana="Dt" lemma="za">za</w>
+                                        <w ana="#Dt" lemma="za">za</w>
                                         <c>&#x20;</c>
-                                        <w ana="Ppnzet" lemma="današnji">današnjo</w>
+                                        <w ana="#Ppnzet" lemma="današnji">današnjo</w>
                                         <c>&#x20;</c>
-                                        <w ana="Sozet" lemma="seja">sejo</w>
+                                        <w ana="#Sozet" lemma="seja">sejo</w>
                                         <c>&#x20;</c>
-                                        <w ana="Ppnmmi" lemma="naslednji">naslednji</w>
+                                        <w ana="#Ppnmmi" lemma="naslednji">naslednji</w>
                                         <c>&#x20;</c>
-                                        <w ana="Ppnmeid" lemma="dneven">dnevni</w>
+                                        <w ana="#Ppnmeid" lemma="dneven">dnevni</w>
                                         <c>&#x20;</c>
-                                        <w ana="Somei" lemma="red">red</w>
+                                        <w ana="#Somei" lemma="red">red</w>
                                         <c>:</c>
                                     </s>
                                 </p>
                                 <list type="ordered">
                                     <item n="1">
                                         <s>
-                                            <w ana="Sozei" lemma="odobritev">odobritev</w>
+                                            <w ana="#Sozei" lemma="odobritev">odobritev</w>
                                             <c>&#x20;</c>
-                                            <w ana="Sommr" lemma="zapisnik">zapisnikov</w>
+                                            <w ana="#Sommr" lemma="zapisnik">zapisnikov</w>
                                             <c>&#x20;</c>
-                                            <w ana="Kav" lemma="4.">4.</w>
+                                            <w ana="#Kav" lemma="4.">4.</w>
                                             <c>&#x20;</c>
-                                            <w ana="Vp" lemma="in">in</w>
+                                            <w ana="#Vp" lemma="in">in</w>
                                             <c>&#x20;</c>
-                                            <w ana="Kav" lemma="5.">5.</w>
+                                            <w ana="#Kav" lemma="5.">5.</w>
                                             <c>&#x20;</c>
-                                            <w ana="Sozer" lemma="seja">seje</w>
+                                            <w ana="#Sozer" lemma="seja">seje</w>
                                             <c>&#x20;</c>
-                                            <w ana="Ppnmer" lemma="republiški">Republiškega</w>
+                                            <w ana="#Ppnmer" lemma="republiški">Republiškega</w>
                                             <c>&#x20;</c>
-                                            <w ana="Somer" lemma="zbor">zbora</w>
+                                            <w ana="#Somer" lemma="zbor">zbora</w>
                                             <c>;</c>
                                         </s>
                                     </item>
                                     <item n="2">
                                         <s>
-                                            <w ana="Soser" lemma="vprašanje">vprašanja</w>
+                                            <w ana="#Soser" lemma="vprašanje">vprašanja</w>
                                             <c>&#x20;</c>
-                                            <w ana="Sommr" lemma="poslanec">poslancev</w>
+                                            <w ana="#Sommr" lemma="poslanec">poslancev</w>
                                             <c>;</c>
                                         </s>
                                     </item>
                                     <item n="3">
                                         <s>
-                                            <w ana="Sozei" lemma="obravnava">obravnava</w>
+                                            <w ana="#Sozei" lemma="obravnava">obravnava</w>
                                             <c>&#x20;</c>
-                                            <w ana="Ppnmmr" lemma="osnoven">osnovnih</w>
+                                            <w ana="#Ppnmmr" lemma="osnoven">osnovnih</w>
                                             <c>&#x20;</c>
-                                            <w ana="Sommr" lemma="problem">problemov</w>
+                                            <w ana="#Sommr" lemma="problem">problemov</w>
                                             <c>&#x20;</c>
-                                            <w ana="Somer" lemma="razvoj">razvoja</w>
+                                            <w ana="#Somer" lemma="razvoj">razvoja</w>
                                             <c>&#x20;</c>
-                                            <w ana="Sozer" lemma="obrt">obrti</w>
+                                            <w ana="#Sozer" lemma="obrt">obrti</w>
                                             <c>&#x20;</c>
-                                            <w ana="Dm" lemma="v">v</w>
+                                            <w ana="#Dm" lemma="v">v</w>
                                             <c>&#x20;</c>
-                                            <w ana="Somei" lemma="SR">SR</w>
+                                            <w ana="#Somei" lemma="SR">SR</w>
                                             <c>&#x20;</c>
-                                            <w ana="Slzem" lemma="Slovenija">Sloveniji</w>
+                                            <w ana="#Slzem" lemma="Slovenija">Sloveniji</w>
                                             <c>;</c>
                                         </s>
                                     </item>
                                     <item n="4">
                                         <s>
-                                            <w ana="Ggnste" lemma="obravnavati">obravnava</w>
+                                            <w ana="#Ggnste" lemma="obravnavati">obravnava</w>
                                             <c>&#x20;</c>
-                                            <w ana="Vp" lemma="in">in</w>
+                                            <w ana="#Vp" lemma="in">in</w>
                                             <c>&#x20;</c>
-                                            <w ana="Soset" lemma="sklepanje">sklepanje</w>
+                                            <w ana="#Soset" lemma="sklepanje">sklepanje</w>
                                             <c>&#x20;</c>
-                                            <w ana="Dm" lemma="o">o</w>
+                                            <w ana="#Dm" lemma="o">o</w>
                                             <c>&#x20;</c>
-                                            <w ana="Somem" lemma="predlog">predlogu</w>
+                                            <w ana="#Somem" lemma="predlog">predlogu</w>
                                             <c>&#x20;</c>
-                                            <w ana="Somer" lemma="zakon">zakona</w>
+                                            <w ana="#Somer" lemma="zakon">zakona</w>
                                             <c>&#x20;</c>
-                                            <w ana="Dm" lemma="o">o</w>
+                                            <w ana="#Dm" lemma="o">o</w>
                                             <c>&#x20;</c>
-                                            <w ana="Ppnzmm" lemma="obrten">obrtnih</w>
+                                            <w ana="#Ppnzmm" lemma="obrten">obrtnih</w>
                                             <c>&#x20;</c>
-                                            <w ana="Sozmm" lemma="delavnica">delavnicah</w>
+                                            <w ana="#Sozmm" lemma="delavnica">delavnicah</w>
                                             <c>&#x20;</c>
-                                            <w ana="Ppnmmr" lemma="samostojen">samostojnih</w>
+                                            <w ana="#Ppnmmr" lemma="samostojen">samostojnih</w>
                                             <c>&#x20;</c>
-                                            <w ana="Sommr" lemma="obrtnik">obrtnikov</w>
+                                            <w ana="#Sommr" lemma="obrtnik">obrtnikov</w>
                                             <c>;</c>
                                         </s>
                                     </item>
                                     <item n="5">
                                         <s>
-                                            <w ana="Ggnste" lemma="obravnavati">obravnava</w>
+                                            <w ana="#Ggnste" lemma="obravnavati">obravnava</w>
                                             <c>&#x20;</c>
-                                            <w ana="Vp" lemma="in">in</w>
+                                            <w ana="#Vp" lemma="in">in</w>
                                             <c>&#x20;</c>
-                                            <w ana="Soset" lemma="sklepanje">sklepanje</w>
+                                            <w ana="#Soset" lemma="sklepanje">sklepanje</w>
                                             <c>&#x20;</c>
-                                            <w ana="Dm" lemma="o">o</w>
+                                            <w ana="#Dm" lemma="o">o</w>
                                             <c>&#x20;</c>
-                                            <w ana="Somem" lemma="predlog">predlogu</w>
+                                            <w ana="#Somem" lemma="predlog">predlogu</w>
                                             <c>&#x20;</c>
-                                            <w ana="Somer" lemma="odlok">odloka</w>
+                                            <w ana="#Somer" lemma="odlok">odloka</w>
                                             <c>&#x20;</c>
-                                            <w ana="Dm" lemma="o">o</w>
+                                            <w ana="#Dm" lemma="o">o</w>
                                             <c>&#x20;</c>
-                                            <w ana="Sozem" lemma="potrditev">potrditvi</w>
+                                            <w ana="#Sozem" lemma="potrditev">potrditvi</w>
                                             <c>&#x20;</c>
-                                            <w ana="Ppnmer" lemma="zaključen">zaključnega</w>
+                                            <w ana="#Ppnmer" lemma="zaključen">zaključnega</w>
                                             <c>&#x20;</c>
-                                            <w ana="Somer" lemma="račun">računa</w>
+                                            <w ana="#Somer" lemma="račun">računa</w>
                                             <c>&#x20;</c>
-                                            <w ana="Ppnmer" lemma="republiški">republiškega</w>
+                                            <w ana="#Ppnmer" lemma="republiški">republiškega</w>
                                             <c>&#x20;</c>
-                                            <w ana="Ppnmer" lemma="investicijski"
+                                            <w ana="#Ppnmer" lemma="investicijski"
                                                 >investicijskega</w>
                                             <c>&#x20;</c>
-                                            <w ana="Somer" lemma="sklad">sklada</w>
+                                            <w ana="#Somer" lemma="sklad">sklada</w>
                                             <c>&#x20;</c>
-                                            <w ana="Dt" lemma="za">za</w>
+                                            <w ana="#Dt" lemma="za">za</w>
                                             <c>&#x20;</c>
-                                            <w ana="Soset" lemma="leto">leto</w>
+                                            <w ana="#Soset" lemma="leto">leto</w>
                                             <c>&#x20;</c>
-                                            <w ana="Kag" lemma="1962">1962</w>
+                                            <w ana="#Kag" lemma="1962">1962</w>
                                             <c>;</c>
                                         </s>
                                     </item>
                                     <item n="6">
                                         <s>
-                                            <w ana="Ggnste" lemma="obravnavati">obravnava</w>
+                                            <w ana="#Ggnste" lemma="obravnavati">obravnava</w>
                                             <c>&#x20;</c>
-                                            <w ana="Vp" lemma="in">in</w>
+                                            <w ana="#Vp" lemma="in">in</w>
                                             <c>&#x20;</c>
-                                            <w ana="Soset" lemma="sklepanje">sklepanje</w>
+                                            <w ana="#Soset" lemma="sklepanje">sklepanje</w>
                                             <c>&#x20;</c>
-                                            <w ana="Dm" lemma="o">o</w>
+                                            <w ana="#Dm" lemma="o">o</w>
                                             <c>&#x20;</c>
-                                            <w ana="Somem" lemma="predlog">predlogu</w>
+                                            <w ana="#Somem" lemma="predlog">predlogu</w>
                                             <c>&#x20;</c>
-                                            <w ana="Somer" lemma="odlok">odloka</w>
+                                            <w ana="#Somer" lemma="odlok">odloka</w>
                                             <c>&#x20;</c>
-                                            <w ana="Dm" lemma="o">o</w>
+                                            <w ana="#Dm" lemma="o">o</w>
                                             <c>&#x20;</c>
-                                            <w ana="Sozem" lemma="sprostitev">sprostitvi</w>
+                                            <w ana="#Sozem" lemma="sprostitev">sprostitvi</w>
                                             <c>&#x20;</c>
-                                            <w ana="Sosmr" lemma="sredstvo">sredstev</w>
+                                            <w ana="#Sosmr" lemma="sredstvo">sredstev</w>
                                             <c>&#x20;</c>
-                                            <w ana="Ppnzer" lemma="poseben">posebne</w>
+                                            <w ana="#Ppnzer" lemma="poseben">posebne</w>
                                             <c>&#x20;</c>
-                                            <w ana="Ppnzer" lemma="obvezen">obvezne</w>
+                                            <w ana="#Ppnzer" lemma="obvezen">obvezne</w>
                                             <c>&#x20;</c>
-                                            <w ana="Sozer" lemma="rezerva">rezerve</w>
+                                            <w ana="#Sozer" lemma="rezerva">rezerve</w>
                                             <c>&#x20;</c>
-                                            <w ana="Sommr" lemma="sklad">skladov</w>
+                                            <w ana="#Sommr" lemma="sklad">skladov</w>
                                             <c>&#x20;</c>
-                                            <w ana="Dr" lemma="iz">iz</w>
+                                            <w ana="#Dr" lemma="iz">iz</w>
                                             <c>&#x20;</c>
-                                            <w ana="Soser" lemma="leto">leta</w>
+                                            <w ana="#Soser" lemma="leto">leta</w>
                                             <c>&#x20;</c>
-                                            <w ana="Kag" lemma="1962">1962</w>
+                                            <w ana="#Kag" lemma="1962">1962</w>
                                             <c>;</c>
                                         </s>
                                     </item>
                                     <item n="7">
                                         <s>
-                                            <w ana="Ggnste" lemma="obravnavati">obravnava</w>
+                                            <w ana="#Ggnste" lemma="obravnavati">obravnava</w>
                                             <c>&#x20;</c>
-                                            <w ana="Vp" lemma="in">in</w>
+                                            <w ana="#Vp" lemma="in">in</w>
                                             <c>&#x20;</c>
-                                            <w ana="Soset" lemma="sklepanje">sklepanje</w>
+                                            <w ana="#Soset" lemma="sklepanje">sklepanje</w>
                                             <c>&#x20;</c>
-                                            <w ana="Dm" lemma="o">o</w>
+                                            <w ana="#Dm" lemma="o">o</w>
                                             <c>&#x20;</c>
-                                            <w ana="Somem" lemma="predlog">predlogu</w>
+                                            <w ana="#Somem" lemma="predlog">predlogu</w>
                                             <c>&#x20;</c>
-                                            <w ana="Somer" lemma="odlok">odloka</w>
+                                            <w ana="#Somer" lemma="odlok">odloka</w>
                                             <c>&#x20;</c>
-                                            <w ana="Dm" lemma="o">o</w>
+                                            <w ana="#Dm" lemma="o">o</w>
                                             <c>&#x20;</c>
-                                            <w ana="Sozem" lemma="oprostitev">oprostitvi</w>
+                                            <w ana="#Sozem" lemma="oprostitev">oprostitvi</w>
                                             <c>&#x20;</c>
-                                            <w ana="Ppnzmr" lemma="invalidski">invalidskih</w>
+                                            <w ana="#Ppnzmr" lemma="invalidski">invalidskih</w>
                                             <c>&#x20;</c>
-                                            <w ana="Sozmr" lemma="delavnica">delavnic</w>
+                                            <w ana="#Sozmr" lemma="delavnica">delavnic</w>
                                             <c>&#x20;</c>
-                                            <w ana="Dt" lemma="za">za</w>
+                                            <w ana="#Dt" lemma="za">za</w>
                                             <c>&#x20;</c>
-                                            <w ana="Ppnzet" lemma="poklicen">poklicno</w>
+                                            <w ana="#Ppnzet" lemma="poklicen">poklicno</w>
                                             <c>&#x20;</c>
-                                            <w ana="Sozet" lemma="rehabilitacija">rehabilitacijo</w>
+                                            <w ana="#Sozet" lemma="rehabilitacija">rehabilitacijo</w>
                                             <c>&#x20;</c>
-                                            <w ana="Vp" lemma="in">in</w>
+                                            <w ana="#Vp" lemma="in">in</w>
                                             <c>&#x20;</c>
-                                            <w ana="Sozet" lemma="zaposlitev">zaposlitev</w>
+                                            <w ana="#Sozet" lemma="zaposlitev">zaposlitev</w>
                                             <c>&#x20;</c>
-                                            <w ana="Sommr" lemma="invalid">invalidov</w>
+                                            <w ana="#Sommr" lemma="invalid">invalidov</w>
                                             <c>&#x20;</c>
-                                            <w ana="Soser" lemma="plačevanje">plačevanja</w>
+                                            <w ana="#Soser" lemma="plačevanje">plačevanja</w>
                                             <c>&#x20;</c>
-                                            <w ana="Soser" lemma="delo">dela</w>
+                                            <w ana="#Soser" lemma="delo">dela</w>
                                             <c>&#x20;</c>
-                                            <w ana="Ppnmer" lemma="proračunski">proračunskega</w>
+                                            <w ana="#Ppnmer" lemma="proračunski">proračunskega</w>
                                             <c>&#x20;</c>
-                                            <w ana="Somer" lemma="prispevek">prispevka</w>
+                                            <w ana="#Somer" lemma="prispevek">prispevka</w>
                                             <c>&#x20;</c>
-                                            <w ana="Dr" lemma="iz">iz</w>
+                                            <w ana="#Dr" lemma="iz">iz</w>
                                             <c>&#x20;</c>
-                                            <w ana="Ppnmer" lemma="oseben">osebnega</w>
+                                            <w ana="#Ppnmer" lemma="oseben">osebnega</w>
                                             <c>&#x20;</c>
-                                            <w ana="Somer" lemma="dohodek">dohodka</w>
+                                            <w ana="#Somer" lemma="dohodek">dohodka</w>
                                             <c>&#x20;</c>
-                                            <w ana="Sommr" lemma="delavec">delavcev</w>
+                                            <w ana="#Sommr" lemma="delavec">delavcev</w>
                                             <c>,</c>
                                             <c>&#x20;</c>
-                                            <w ana="Vd" lemma="ki">ki</w>
+                                            <w ana="#Vd" lemma="ki">ki</w>
                                             <c>&#x20;</c>
-                                            <w ana="Ggnste" lemma="pripadati">pripada</w>
+                                            <w ana="#Ggnste" lemma="pripadati">pripada</w>
                                             <c>&#x20;</c>
-                                            <w ana="Somei" lemma="SR">SR</w>
+                                            <w ana="#Somei" lemma="SR">SR</w>
                                             <c>&#x20;</c>
-                                            <w ana="Slzem" lemma="Slovenija">Sloveniji</w>
+                                            <w ana="#Slzem" lemma="Slovenija">Sloveniji</w>
                                             <c>&#x20;</c>
-                                            <w ana="Dt" lemma="za">za</w>
+                                            <w ana="#Dt" lemma="za">za</w>
                                             <c>&#x20;</c>
-                                            <w ana="Soset" lemma="leto">leto</w>
+                                            <w ana="#Soset" lemma="leto">leto</w>
                                             <c>&#x20;</c>
-                                            <w ana="Kag" lemma="1963">1963</w>
+                                            <w ana="#Kag" lemma="1963">1963</w>
                                             <c>;</c>
                                         </s>
                                     </item>
                                     <item n="8">
                                         <s>
-                                            <w ana="Ggnste" lemma="obravnavati">obravnava</w>
+                                            <w ana="#Ggnste" lemma="obravnavati">obravnava</w>
                                             <c>&#x20;</c>
-                                            <w ana="Vp" lemma="in">in</w>
+                                            <w ana="#Vp" lemma="in">in</w>
                                             <c>&#x20;</c>
-                                            <w ana="Soset" lemma="sklepanje">sklepanje</w>
+                                            <w ana="#Soset" lemma="sklepanje">sklepanje</w>
                                             <c>&#x20;</c>
-                                            <w ana="Dm" lemma="o">o</w>
+                                            <w ana="#Dm" lemma="o">o</w>
                                             <c>&#x20;</c>
-                                            <w ana="Sozmm" lemma="teza">tezah</w>
+                                            <w ana="#Sozmm" lemma="teza">tezah</w>
                                             <c>&#x20;</c>
-                                            <w ana="Dt" lemma="za">za</w>
+                                            <w ana="#Dt" lemma="za">za</w>
                                             <c>&#x20;</c>
-                                            <w ana="Sometn" lemma="zakon">zakon</w>
+                                            <w ana="#Sometn" lemma="zakon">zakon</w>
                                             <c>&#x20;</c>
-                                            <w ana="Dm" lemma="o">o</w>
+                                            <w ana="#Dm" lemma="o">o</w>
                                             <c>&#x20;</c>
-                                            <w ana="Sosmm" lemma="mesto">mestih</w>
+                                            <w ana="#Sosmm" lemma="mesto">mestih</w>
                                             <c>,</c>
                                             <c>&#x20;</c>
-                                            <w ana="Vd" lemma="ki">ki</w>
+                                            <w ana="#Vd" lemma="ki">ki</w>
                                             <c>&#x20;</c>
-                                            <w ana="Gp-stm-n" lemma="biti">so</w>
+                                            <w ana="#Gp-stm-n" lemma="biti">so</w>
                                             <c>&#x20;</c>
-                                            <w ana="Pdnsmi" lemma="razdeljen">razdeljena</w>
+                                            <w ana="#Pdnsmi" lemma="razdeljen">razdeljena</w>
                                             <c>&#x20;</c>
-                                            <w ana="Dt" lemma="na">na</w>
+                                            <w ana="#Dt" lemma="na">na</w>
                                             <c>&#x20;</c>
-                                            <w ana="Sozmi" lemma="občina">občine</w>
+                                            <w ana="#Sozmi" lemma="občina">občine</w>
                                             <c>;</c>
                                         </s>
                                     </item>
                                     <item n="9">
                                         <s>
-                                            <w ana="Ggnste" lemma="obravnavati">obravnava</w>
+                                            <w ana="#Ggnste" lemma="obravnavati">obravnava</w>
                                             <c>&#x20;</c>
-                                            <w ana="Vp" lemma="in">in</w>
+                                            <w ana="#Vp" lemma="in">in</w>
                                             <c>&#x20;</c>
-                                            <w ana="Soset" lemma="sklepanje">sklepanje</w>
+                                            <w ana="#Soset" lemma="sklepanje">sklepanje</w>
                                             <c>&#x20;</c>
-                                            <w ana="Dm" lemma="o">o</w>
+                                            <w ana="#Dm" lemma="o">o</w>
                                             <c>&#x20;</c>
-                                            <w ana="Sozmm" lemma="teza">tezah</w>
+                                            <w ana="#Sozmm" lemma="teza">tezah</w>
                                             <c>&#x20;</c>
-                                            <w ana="Dt" lemma="za">za</w>
+                                            <w ana="#Dt" lemma="za">za</w>
                                             <c>&#x20;</c>
-                                            <w ana="Sometn" lemma="zakon">zakon</w>
+                                            <w ana="#Sometn" lemma="zakon">zakon</w>
                                             <c>&#x20;</c>
-                                            <w ana="Dm" lemma="o">o</w>
+                                            <w ana="#Dm" lemma="o">o</w>
                                             <c>&#x20;</c>
-                                            <w ana="Sosmm" lemma="mesto">mestih</w>
+                                            <w ana="#Sosmm" lemma="mesto">mestih</w>
                                             <c>,</c>
                                             <c>&#x20;</c>
-                                            <w ana="Vd" lemma="ki">ki</w>
+                                            <w ana="#Vd" lemma="ki">ki</w>
                                             <c>&#x20;</c>
-                                            <w ana="Gp-stm-n" lemma="biti">so</w>
+                                            <w ana="#Gp-stm-n" lemma="biti">so</w>
                                             <c>&#x20;</c>
-                                            <w ana="Pdnsmi" lemma="razdeljen">razdeljena</w>
+                                            <w ana="#Pdnsmi" lemma="razdeljen">razdeljena</w>
                                             <c>&#x20;</c>
-                                            <w ana="Dt" lemma="na">na</w>
+                                            <w ana="#Dt" lemma="na">na</w>
                                             <c>&#x20;</c>
-                                            <w ana="Sozmi" lemma="občina">občine</w>
+                                            <w ana="#Sozmi" lemma="občina">občine</w>
                                             <c>;</c>
                                         </s>
                                     </item>
                                     <item n="10">
                                         <s>
-                                            <w ana="Ggnste" lemma="obravnavati">obravnava</w>
+                                            <w ana="#Ggnste" lemma="obravnavati">obravnava</w>
                                             <c>&#x20;</c>
-                                            <w ana="Vp" lemma="in">in</w>
+                                            <w ana="#Vp" lemma="in">in</w>
                                             <c>&#x20;</c>
-                                            <w ana="Soset" lemma="sklepanje">sklepanje</w>
+                                            <w ana="#Soset" lemma="sklepanje">sklepanje</w>
                                             <c>&#x20;</c>
-                                            <w ana="Dm" lemma="o">o</w>
+                                            <w ana="#Dm" lemma="o">o</w>
                                             <c>&#x20;</c>
-                                            <w ana="Somem" lemma="predlog">predlogu</w>
+                                            <w ana="#Somem" lemma="predlog">predlogu</w>
                                             <c>&#x20;</c>
-                                            <w ana="Somer" lemma="zakon">zakona</w>
+                                            <w ana="#Somer" lemma="zakon">zakona</w>
                                             <c>&#x20;</c>
-                                            <w ana="Dm" lemma="o">o</w>
+                                            <w ana="#Dm" lemma="o">o</w>
                                             <c>&#x20;</c>
-                                            <w ana="Sosem" lemma="prenehanje">prenehanju</w>
+                                            <w ana="#Sosem" lemma="prenehanje">prenehanju</w>
                                             <c>&#x20;</c>
-                                            <w ana="Sozer" lemma="veljavnost">veljavnosti</w>
+                                            <w ana="#Sozer" lemma="veljavnost">veljavnosti</w>
                                             <c>&#x20;</c>
-                                            <w ana="Somer" lemma="zakon">zakona</w>
+                                            <w ana="#Somer" lemma="zakon">zakona</w>
                                             <c>&#x20;</c>
-                                            <w ana="Dm" lemma="o">o</w>
+                                            <w ana="#Dm" lemma="o">o</w>
                                             <c>&#x20;</c>
-                                            <w ana="Ppnmmm" lemma="občinski">občinskih</w>
+                                            <w ana="#Ppnmmm" lemma="občinski">občinskih</w>
                                             <c>&#x20;</c>
-                                            <w ana="Ppnmmm" lemma="ljudski">ljudskih</w>
+                                            <w ana="#Ppnmmm" lemma="ljudski">ljudskih</w>
                                             <c>&#x20;</c>
-                                            <w ana="Sommm" lemma="odbor">odborih</w>
+                                            <w ana="#Sommm" lemma="odbor">odborih</w>
                                             <c>&#x20;</c>
-                                            <w ana="Vp" lemma="in">in</w>
+                                            <w ana="#Vp" lemma="in">in</w>
                                             <c>&#x20;</c>
-                                            <w ana="Somer" lemma="zakon">zakona</w>
+                                            <w ana="#Somer" lemma="zakon">zakona</w>
                                             <c>&#x20;</c>
-                                            <w ana="Dm" lemma="o">o</w>
+                                            <w ana="#Dm" lemma="o">o</w>
                                             <c>&#x20;</c>
-                                            <w ana="Ppnmmm" lemma="okrajen">okrajnih</w>
+                                            <w ana="#Ppnmmm" lemma="okrajen">okrajnih</w>
                                             <c>&#x20;</c>
-                                            <w ana="Ppnmmm" lemma="ljudski">ljudskih</w>
+                                            <w ana="#Ppnmmm" lemma="ljudski">ljudskih</w>
                                             <c>&#x20;</c>
-                                            <w ana="Sommm" lemma="odbor">odborih</w>
+                                            <w ana="#Sommm" lemma="odbor">odborih</w>
                                             <c>,</c>
                                             <c>&#x20;</c>
-                                            <w ana="Vp" lemma="in">in</w>
+                                            <w ana="#Vp" lemma="in">in</w>
                                         </s>
                                     </item>
                                     <item n="11">
                                         <s>
-                                            <w ana="Sosmt" lemma="imenovanje">imenovanja</w>
+                                            <w ana="#Sosmt" lemma="imenovanje">imenovanja</w>
                                             <c>&#x20;</c>
-                                            <w ana="Vp" lemma="in">in</w>
+                                            <w ana="#Vp" lemma="in">in</w>
                                             <c>&#x20;</c>
-                                            <w ana="Sozmt" lemma="razrešitev">razrešitve</w>
+                                            <w ana="#Sozmt" lemma="razrešitev">razrešitve</w>
                                             <c>.</c>
                                         </s>
                                     </item>
@@ -763,74 +799,74 @@
                                 <pb n="4" xml:id="pb.4"/>
                                 <p>
                                     <s>
-                                        <w ana="Vp" lemma="ali">Ali</w>
+                                        <w ana="#Vp" lemma="ali">Ali</w>
                                         <c>&#x20;</c>
-                                        <w ana="Zp------k" lemma="se">se</w>
+                                        <w ana="#Zp------k" lemma="se">se</w>
                                         <c>&#x20;</c>
-                                        <w ana="Somei" lemma="zbor">zbor</w>
+                                        <w ana="#Somei" lemma="zbor">zbor</w>
                                         <c>&#x20;</c>
-                                        <w ana="Ggnste" lemma="strinjati">strinja</w>
+                                        <w ana="#Ggnste" lemma="strinjati">strinja</w>
                                         <c>&#x20;</c>
-                                        <w ana="Do" lemma="z">s</w>
+                                        <w ana="#Do" lemma="z">s</w>
                                         <c>&#x20;</c>
-                                        <w ana="Pdnmeo" lemma="predlagan">predlaganim</w>
+                                        <w ana="#Pdnmeo" lemma="predlagan">predlaganim</w>
                                         <c>&#x20;</c>
-                                        <w ana="Ppnmeo" lemma="dneven">dnevnim</w>
+                                        <w ana="#Ppnmeo" lemma="dneven">dnevnim</w>
                                         <c>&#x20;</c>
-                                        <w ana="Someo" lemma="red">redom</w>
+                                        <w ana="#Someo" lemma="red">redom</w>
                                         <c>?</c>
                                         <c>&#x20;</c>
                                     </s>
                                     <stage>
                                         <s>
                                             <c>(</c>
-                                            <w ana="Sommi" lemma="poslanec">Poslanci</w>
+                                            <w ana="#Sommi" lemma="poslanec">Poslanci</w>
                                             <c>&#x20;</c>
-                                            <w ana="Zp------k" lemma="se">se</w>
+                                            <w ana="#Zp------k" lemma="se">se</w>
                                             <c>&#x20;</c>
-                                            <w ana="Ggnstm" lemma="strinjati">strinjajo</w>
+                                            <w ana="#Ggnstm" lemma="strinjati">strinjajo</w>
                                             <c>.</c>
                                             <c>)</c>
                                             <c>&#x20;</c>
                                         </s>
                                     </stage>
                                     <s>
-                                        <w ana="Ggnste-n" lemma="imeti">Ima</w>
+                                        <w ana="#Ggnste-n" lemma="imeti">Ima</w>
                                         <c>&#x20;</c>
-                                        <w ana="L" lemma="morda">morda</w>
+                                        <w ana="#L" lemma="morda">morda</w>
                                         <c>&#x20;</c>
-                                        <w ana="Zv-mei" lemma="kdo">kdo</w>
+                                        <w ana="#Zv-mei" lemma="kdo">kdo</w>
                                         <c>&#x20;</c>
-                                        <w ana="Rsn" lemma="kako">kako</w>
+                                        <w ana="#Rsn" lemma="kako">kako</w>
                                         <c>&#x20;</c>
-                                        <w ana="Sozet" lemma="sprememba">spremembo</w>
+                                        <w ana="#Sozet" lemma="sprememba">spremembo</w>
                                         <c>&#x20;</c>
-                                        <w ana="Vp" lemma="ali">ali</w>
+                                        <w ana="#Vp" lemma="ali">ali</w>
                                         <c>&#x20;</c>
-                                        <w ana="Sometn" lemma="predlog">predlog</w>
+                                        <w ana="#Sometn" lemma="predlog">predlog</w>
                                         <c>&#x20;</c>
-                                        <w ana="Dt" lemma="za">za</w>
+                                        <w ana="#Dt" lemma="za">za</w>
                                         <c>&#x20;</c>
-                                        <w ana="Sozet" lemma="dopolnitev">dopolnitev</w>
+                                        <w ana="#Sozet" lemma="dopolnitev">dopolnitev</w>
                                         <c>&#x20;</c>
-                                        <w ana="Dd" lemma="k">k</w>
+                                        <w ana="#Dd" lemma="k">k</w>
                                         <c>&#x20;</c>
-                                        <w ana="Ppnmed" lemma="dneven">dnevnemu</w>
+                                        <w ana="#Ppnmed" lemma="dneven">dnevnemu</w>
                                         <c>&#x20;</c>
-                                        <w ana="Somed" lemma="red">redu</w>
+                                        <w ana="#Somed" lemma="red">redu</w>
                                         <c>?</c>
                                         <c>&#x20;</c>
                                     </s>
                                     <stage>
                                         <s>
                                             <c>(</c>
-                                            <w ana="L" lemma="ne">Ne</w>
+                                            <w ana="#L" lemma="ne">Ne</w>
                                             <c>&#x20;</c>
-                                            <w ana="Ggdste" lemma="javiti">javi</w>
+                                            <w ana="#Ggdste" lemma="javiti">javi</w>
                                             <c>&#x20;</c>
-                                            <w ana="Zp------k" lemma="se">se</w>
+                                            <w ana="#Zp------k" lemma="se">se</w>
                                             <c>&#x20;</c>
-                                            <w ana="Zl-mei" lemma="nihče">nihče</w>
+                                            <w ana="#Zl-mei" lemma="nihče">nihče</w>
                                             <c>.</c>
                                             <c>)</c>
                                         </s>
@@ -839,8 +875,8 @@
                             </sp>
                         </div>
                     </div>
-                    <div type="DnevniRed">
-                        <div n="1">
+                    <div ana="#SM.DnevRed">
+                        <div n="1" ana="#SM.TDR">
                             <sp who="#sp.RZ.RemskarTine">
                                 <p>Če nima, menim, da je zbor predlog dnevnega reda sprejel in
                                     prehajamo na 1. točko dnevnega reda.</p>
@@ -850,7 +886,7 @@
                                     pripombe, smatram, da sta zapisnika sprejeta.</p>
                             </sp>
                         </div>
-                        <div n="2">
+                        <div n="2" ana="#SM.TDR">
                             <sp who="#sp.RZ.RemskarTine">
                                 <p>Prehajamo na 2. točko dnevnega reda, in sicer na vprašanja
                                     poslancev.</p>
@@ -1229,7 +1265,7 @@
                                         <stage>(Se zadovolji.)</stage></p>
                             </sp>
                         </div>
-                        <div n="3">
+                        <div n="3" ana="#SM.TDR">
                             <sp who="#sp.RZ.RemskarTine">
                                 <p>Ker je s tem ta točka dnevnega reda izčrpana, prehajamo na 3.
                                     točko dnevnega reda, in sicer na obravnavo osnovnih problemov
@@ -3535,7 +3571,7 @@
                                 zbora pa se je <time from="16:30:00" xml:id="stage.t.7">nadaljevala
                                     ob 16.30</time>.)</stage>
                         </div>
-                        <div n="4">
+                        <div n="4" ana="#SM.TDR">
                             <sp who="#sp.RZ.RemskarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Nadaljujemo sejo Republiškega zbora. Prehajamo na 4. točko
@@ -3704,7 +3740,7 @@
                                     Gospodarski zbor.</p>
                             </sp>
                         </div>
-                        <div n="5">
+                        <div n="5" ana="#SM.TDR">
                             <sp who="#sp.RZ.RemskarTine">
                                 <p>S tem prehajamo na 5. točko dnevnega reda, in sicer na obravnavo
                                     in sklepanje o predlogu odloka o potrditvi zaključnega računa
@@ -3925,7 +3961,7 @@
                                     zbor v enakem besedilu sprejel ta odlok.</p>
                             </sp>
                         </div>
-                        <div n="6">
+                        <div n="6" ana="#SM.TDR">
                             <sp who="#sp.RZ.RemskarTine">
                                 <p>Prehajamo na 6. točko dnevnega reda, na obravnavo in sklepanje o
                                     predlogu odloka o sprostitvi sredstev posebne obvezne rezerve
@@ -3983,7 +4019,7 @@
                                     besedilu sprejel tudi Gospodarski zbor.</p>
                             </sp>
                         </div>
-                        <div n="7">
+                        <div n="7" ana="#SM.TDR">
                             <sp who="#sp.RZ.RemskarTine">
                                 <p>Prehajamo na 7. točko dnevnega reda, na obravnavo in sklepanje o
                                     predlogu odloka o oprostitvi invalidskih delavnic za poklicno
@@ -4064,7 +4100,7 @@
                                     besedilu sprejel tudi Gospodarski zbor.</p>
                             </sp>
                         </div>
-                        <div n="8">
+                        <div n="8" ana="#SM.TDR">
                             <sp who="#sp.RZ.RemskarTine">
                                 <p>Prehajamo na 8. točko dnevnega reda, in sicer na obravnavo in
                                     sklepanje o tezah za zakon o mestih, ki so razdeljena na
@@ -4494,13 +4530,11 @@
                                     sprejet.</p>
                                 <p>Odrejam 20 minut odmora.</p>
                             </sp>
-                        </div>
-                        <div>
                             <stage type="time">(Seja je bila <time to="17:40:00" xml:id="stage.t.8"
-                                    >prekinjena ob 17.40</time> in se je <time from="18:00:00"
+                                >prekinjena ob 17.40</time> in se je <time from="18:00:00"
                                     xml:id="stage.t.9">nadaljevala ob 18. uri</time>.)</stage>
                         </div>
-                        <div n="9">
+                        <div n="9" ana="#SM.TDR">
                             <sp who="#sp.RZ.RemskarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Nadaljujemo sejo Republiškega zbora.</p>
@@ -4763,7 +4797,7 @@
                                     Organizacijsko-politični zbor.</p>
                             </sp>
                         </div>
-                        <div n="10">
+                        <div n="10" ana="#SM.TDR">
                             <sp who="#sp.RZ.RemskarTine">
                                 <p>Prehajamo na 10. točko dnevnega reda, na obravnavo in sklepanje o
                                     predlogu zakona o prenehanju veljavnosti zakona o občinskih
@@ -4794,7 +4828,7 @@
                                     razpravljal Organizacijsko-politični zbor.</p>
                             </sp>
                         </div>
-                        <div n="11">
+                        <div n="11" ana="#SM.TDR">
                             <sp who="#sp.RZ.RemskarTine">
                                 <p>Prehajamo na 11. točko dnevnega reda, in sicer na imenovanja in
                                     razrešitve. Ta točka obsega:</p>
@@ -4950,18 +4984,16 @@
                                     gostinstva in o problemih zavarovalnih skupnosti.</p>
                                 <p>S tem zaključujem 6. sejo Republiškega zbora.</p>
                             </sp>
-                        </div>
-                        <div>
                             <stage type="time">(Seja je bila <time to="18:30:00" xml:id="stage.t.10"
-                                    >zaključena ob 18.30</time>.)</stage>
+                                >zaključena ob 18.30</time>.)</stage>
                         </div>
                     </div>
                 </div>
             </div>
-            <div type="zbor">
+            <div ana="#SM.Zbor">
                 <pb n="68" xml:id="pb.68"/>
                 <head>GOSPODARSKI ZBOR</head>
-                <div type="seja" n="5">
+                <div ana="#SM.Seja" n="5">
                     <head>5. seja</head>
                     <docDate when="1964-01-31">(31. januarja 1964)</docDate>
                     <timeline origin="#TL-GZ.1" unit="min">
@@ -4979,19 +5011,19 @@
                     </castList>
                     <stage type="time"><time from="09:40:00" xml:id="stage.t.11">Začetek seje ob
                             9.40</time>.</stage>
-                    <div type="PredDnevnimRedom">
+                    <div ana="#SM.PredDnevRed">
                         <sp who="#sp.GZ.LeopoldKrese">
                             <speaker>Predsednik Leopold Krese:</speaker>
                             <p>Tovariši in tovarišice poslanci! Pričenjamo 5. sejo Gospodarskega
                                 zbora Skupščine SR Slovenije.</p>
                         </sp>
-                        <div type="Odsotnost">
+                        <div ana="#SM.Odsot">
                             <sp who="#sp.GZ.LeopoldKrese">
                                 <p>Odsotnost so opravičili poslanci: Ciril Uršič, inž. Danilo Dolgan
                                     in Franc Čop. Predlagam, da jim odsotnost odobrimo.</p>
                             </sp>
                         </div>
-                        <div type="DoločitevDnevnegaReda">
+                        <div ana="#SM.DolDnevRed">
                             <sp who="#sp.GZ.LeopoldKrese">
                                 <p>Za današnjo sejo predlagam naslednji dnevni red:</p>
                                 <list type="ordered">
@@ -5031,8 +5063,8 @@
                             </sp>
                         </div>
                     </div>
-                    <div type="DnevniRed">
-                        <div n="1">
+                    <div ana="#SM.DnevRed">
+                        <div n="1" ana="#SM.TDR">
                             <sp who="#sp.GZ.LeopoldKrese">
                                 <p>Prehajamo na 1. točko dnevnega reda, to je na odobritev zapisnika
                                     4. seje Gospodarskega zbora.</p>
@@ -5042,7 +5074,7 @@
                             </sp>
                             <pb n="69" xml:id="pb.69"/>
                         </div>
-                        <div n="2">
+                        <div n="2" ana="#SM.TDR">
                             <sp who="#sp.GZ.LeopoldKrese">
                                 <p>Prehajamo na 2. točko dnevnega reda, to je na obravnavo osnovnih
                                     problemov razvoja obrti v SR Sloveniji.</p>
@@ -5054,13 +5086,11 @@
                                     skupne seje prekinemo sejo zbora, nadaljevali jo bomo po končani
                                     razpravi o tej točki.</p>
                             </sp>
-                        </div>
-                        <div>
                             <stage type="time">(Seja je bila <time to="09:50:00" xml:id="stage.t.12"
-                                    >prekinjena ob 9.50</time> in se je <time from="16:35:00"
+                                >prekinjena ob 9.50</time> in se je <time from="16:35:00"
                                     xml:id="stage.t.13">nadaljevala ob 16.35</time>.)</stage>
                         </div>
-                        <div n="3">
+                        <div n="3" ana="#SM.TDR">
                             <sp who="#sp.GZ.LeopoldKrese">
                                 <speaker>Predsednik Leopold Krese:</speaker>
                                 <p>Nadaljujemo sejo. Na vrsti je 3. točka dnevnega reda, to je
@@ -5202,7 +5232,7 @@
                                     zakona v enakem besedilu. O tem bom zbor obvestil kasneje.</p>
                             </sp>
                         </div>
-                        <div n="4">
+                        <div n="4" ana="#SM.TDR">
                             <sp who="#sp.GZ.LeopoldKrese">
                                 <p>Prehajamo na 4. točko dnevnega reda, to je na obravnavo in
                                     sklepanje o predlogu odloka o potrditvi zaključnega računa
@@ -5470,7 +5500,7 @@
                                     rezultatih njegove obravnave vas bom obvestil kasneje.</p>
                             </sp>
                         </div>
-                        <div n="5">
+                        <div n="5" ana="#SM.TDR">
                             <sp who="#sp.GZ.LeopoldKrese">
                                 <p>Prehajamo na 5. točko dnevnega reda, to je na obravnavo in
                                     sklepanje o predlogu odloka o sprostitvi sredstev posebne
@@ -5562,7 +5592,7 @@
                                     sprejet.</p>
                             </sp>
                         </div>
-                        <div n="6">
+                        <div n="6" ana="#SM.TDR">
                             <sp who="#sp.GZ.LeopoldKrese">
                                 <p>Prehajamo na 6. točko dnevnega reda, to je na obravnavo in
                                     sklepanje o predlogu odloka o oprostitvi invalidskih delavnic za
@@ -5632,7 +5662,7 @@
                                     glasovanja polnoveljavna.</p>
                             </sp>
                         </div>
-                        <div n="7">
+                        <div n="7" ana="#SM.TDR">
                             <sp who="#sp.GZ.LeopoldKrese">
                                 <p>Prehajamo na 7. točko dnevnega reda, to je na poslanska
                                     vprašanja. Dajem besedo tovarišu Ediju Komočarju.</p>
@@ -5854,18 +5884,16 @@
                                     zaključujem sejo. Prihodnja seja bo sklicana pismeno, bo pa
                                     predvidoma 15. ali 16. prihodnjega meseca.</p>
                             </sp>
-                        </div>
-                        <div>
                             <stage type="time">(Seja je bila <time to="17:30:00" xml:id="stage.t.14"
-                                    >zaključena ob 17.30</time>.)</stage>
+                                >zaključena ob 17.30</time>.)</stage>
                         </div>
                     </div>
                 </div>
             </div>
-            <div type="zbor">
+            <div ana="#SM.Zbor">
                 <pb n="82" xml:id="pb.82"/>
                 <head>PROSVETNO- KULTURNI ZBOR</head>
-                <div type="seja" n="5">
+                <div ana="#SM.Seja" n="5">
                     <head>5. seja</head>
                     <docDate when="1964-01-29">(29. januarja 1964)</docDate>
                     <timeline origin="#TL-PKZ.1" unit="min">
@@ -5883,20 +5911,20 @@
                     </castList>
                     <stage type="time"><time from="09:40:00" xml:id="stage.t.15">Začetek seje ob
                             9.40</time>.</stage>
-                    <div type="PredDnevnimRedom">
+                    <div ana="#SM.PredDnevRed">
                         <sp who="#sp.PKZ.TavcarIvo">
                             <speaker>Predsednik Ivo Tavčar:</speaker>
                             <p>Tovarišice in tovariši poslanci! Začenjam 5. sejo
                                 Prosvetno-kulturnega zbora Skupščine SR Slovenije.</p>
                         </sp>
-                        <div type="Odsotnost">
+                        <div ana="#SM.Odsot">
                             <sp who="#sp.PKZ.TavcarIvo">
                                 <p>Svojo odsotnost so opravičili naslednji poslanci: Truda
                                     Žoher-Durjava, Bernarda Perc in Jože Šturm. S tem ugotavljam, da
                                     je zbor sklepčen.</p>
                             </sp>
                         </div>
-                        <div type="DoločitevDnevnegaReda">
+                        <div ana="#SM.DolDnevRed">
                             <sp who="#sp.PKZ.TavcarIvo">
                                 <p>Za današnjo sejo je bil predlagan naslednji dnevni red:</p>
                                 <list type="ordered">
@@ -5922,8 +5950,8 @@
                             </sp>
                         </div>
                     </div>
-                    <div type="DnevniRed">
-                        <div n="1">
+                    <div ana="#SM.DnevRed">
+                        <div n="1" ana="#SM.TDR">
                             <sp who="#sp.PKZ.TavcarIvo">
                                 <p>Zapisnik prejšnje seje ste prejeli skupaj z vabilom. Ima kdo
                                     kakšno pripombo k zapisniku? <stage>(Ne javi se nihče.)</stage>
@@ -5931,7 +5959,7 @@
                                     podpisal.</p>
                             </sp>
                         </div>
-                        <div n="2">
+                        <div n="2" ana="#SM.TDR">
                             <sp who="#sp.PKZ.TavcarIvo">
                                 <p>Prehajamo na 2. točko dnevnega reda, na vprašanja poslancev.</p>
                                 <p>Vprašanja poslancev so vam bila pismeno poslana. Poslanec Dušan
@@ -6553,7 +6581,7 @@
                                     splošne pripombe.</p>
                             </sp>
                         </div>
-                        <div n="3">
+                        <div n="3" ana="#SM.TDR">
                             <sp who="#sp.PKZ.TavcarIvo">
                                 <p>Prehajamo na 3. točko dnevnega reda, in sicer na razpravo o
                                     problematiki v zvezi z izdelavo statutov delovnih organizacij s
@@ -8415,7 +8443,7 @@
                                     statutov.</p>
                             </sp>
                         </div>
-                        <div n="4">
+                        <div n="4" ana="#SM.TDR">
                             <sp who="#sp.PKZ.TavcarIvo">
                                 <p>Prehajamo na 4. točko dnevnega reda, in sicer na razpravo o delu
                                     Prosvetno-kulturnega zbora in ustanovitvi začasnih odborov.</p>
@@ -8491,18 +8519,16 @@
                                     soglasno sprejet. Ker je s tem dnevni red današnje seje izčrpan,
                                     zaključujem sejo.</p>
                             </sp>
-                        </div>
-                        <div>
                             <stage type="time">(Seja je bila <time to="13:50:00" xml:id="stage.t.18"
-                                    >zaključena ob 13.50</time>.)</stage>
+                                >zaključena ob 13.50</time>.)</stage>
                         </div>
                     </div>
                 </div>
             </div>
-            <div type="zbor">
+            <div ana="#SM.Zbor">
                 <pb n="123" xml:id="pb.123"/>
                 <head>ORGANIZACIJSKO - POLITIČNI ZBOR</head>
-                <div type="seja" n="6">
+                <div ana="#SM.Seja" n="6">
                     <head>6. seja</head>
                     <docDate when="1964-02-06">(6. februarja 1964)</docDate>
                     <timeline origin="#TL-OPZ.1" unit="min">
@@ -8529,13 +8555,13 @@
                     </castList>
                     <stage type="time"><time from="09:35:00" xml:id="stage.t.19">Začetek seje ob
                             9.35</time>.</stage>
-                    <div type="PredDnevnimRedom">
+                    <div ana="#SM.PredDnevRed">
                         <sp who="#sp.OPZ.HocevarJanez">
                             <speaker>Predsednik Janez Hočevar:</speaker>
                             <p>Tovarišice in tovariši poslanci! Pričenjam 6. sejo
                                 Organizacijsko-političnega zbora Skupščine SR Slovenije.</p>
                         </sp>
-                        <div type="Odsotnost">
+                        <div ana="#SM.Odsot">
                             <sp who="#sp.OPZ.HocevarJanez">
                                 <p>Svojo odsotnost sta opravičili poslanki Mileva Veren in Kristina
                                     Plut. Ugotavljam, da je zbor sklepčen.</p>
@@ -8557,7 +8583,7 @@
                                     razpravi.</p>
                             </sp>
                         </div>
-                        <div type="DoločitevDnevnegaReda">
+                        <div ana="#SM.DolDnevRed">
                             <sp who="#sp.OPZ.HocevarJanez">
                                 <p>Za današnjo sejo zbora predlagam tale dnevni red:</p>
                                 <list type="ordered">
@@ -8590,8 +8616,8 @@
                             </sp>
                         </div>
                     </div>
-                    <div type="DnevniRed">
-                        <div n="1">
+                    <div ana="#SM.DnevRed">
+                        <div n="1" ana="#SM.TDR">
                             <sp who="#sp.OPZ.HocevarJanez">
                                 <p>Prehajamo na 1. točko dnevnega reda. Zapisnika 4. in 5. seje
                                     našega zbora ste prejeli skupaj z vabilom za to sejo. Ima morda
@@ -8601,7 +8627,7 @@
                                     da sta zapisnika odobrena.</p>
                             </sp>
                         </div>
-                        <div n="2">
+                        <div n="2" ana="#SM.TDR">
                             <sp who="#sp.OPZ.HocevarJanez">
                                 <p>Ko prehajamo na 2. točko dnevnega reda, to je na razpravo o
                                     nekaterih vprašanjih občinskih statutov, izpolnjujemo obveznost,
@@ -12030,7 +12056,7 @@
                                     S tem zaključujemo razpravo po tej točki dnevnega reda.</p>
                             </sp>
                         </div>
-                        <div n="3">
+                        <div n="3" ana="#SM.TDR">
                             <sp who="#sp.OPZ.HocevarJanez">
                                 <p>Prehajamo na 3. točko dnevnega reda, to je na obravnavanje in
                                     sklepanje o tezah zakona o mestih, ki so razdeljena na
@@ -12856,7 +12882,7 @@
                                     soglasno sprejet.</p>
                             </sp>
                         </div>
-                        <div n="4">
+                        <div n="4" ana="#SM.TDR">
                             <sp who="#sp.OPZ.HocevarJanez">
                                 <p>Prehajamo na 4. točko dnevnega reda, to je na obravnavo in
                                     sklepanje o predlogu zakona o začetku uporabljanja določil
@@ -13165,7 +13191,7 @@
                                     enakem besedilu.</p>
                             </sp>
                         </div>
-                        <div n="5">
+                        <div n="5" ana="#SM.TDR">
                             <sp who="#sp.OPZ.HocevarJanez">
                                 <p>Prehajamo na 5. točko dnevnega reda, to je na obravnavo in
                                     sklepanje o predlogu zakona o prenehanju veljavnosti zakona o
@@ -13220,7 +13246,7 @@
                                     tudi Republiški zbor.</p>
                             </sp>
                         </div>
-                        <div n="6">
+                        <div n="6" ana="#SM.TDR">
                             <sp who="#sp.OPZ.HocevarJanez">
                                 <p>Prehajamo na 6. točko dnevnega reda, to je na obravnavo predloga
                                     orientacijskega programa dela Organizacijsko-političnega zbora
@@ -13262,17 +13288,15 @@
                                     razpravo in za potrpežljivost ter zaključujem 6. sejo
                                     Organizacijsko-političnega zbora.</p>
                             </sp>
-                        </div>
-                        <div>
                             <stage type="time">(Seja je bila <time to="18:45:00" xml:id="stage.t.28"
-                                    >zaključena ob 18.45</time>.)</stage>
+                                >zaključena ob 18.45</time>.)</stage>
                         </div>
                     </div>
                 </div>
             </div>
         </body>
         <back>
-            <div type="priloge">
+            <div type="appendix">
                 <pb n="198" xml:id="pb.198"/>
                 <head>PRILOGE</head>
                 <div n="1" type="vprasanjaPoslancev">

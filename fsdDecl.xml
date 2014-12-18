@@ -1,0 +1,2114 @@
+<!--Oblikoskladenjske specifikacije JOS, V1.1, 2010-03-07-->
+<!--Automatically generated from XML source - edit at you own risk!-->
+<!-- http://nl.ijs.si/jos/msd/tables/josMSD-lib-sl.xml
+    Zaradi lažje vključitve je ime datoteke preimenovano iz josMSD-lib-sl.xml v fsdDecl -->
+<fsdDecl xmlns="http://www.tei-c.org/ns/1.0">
+<fLib xml:lang="sl">
+<!--1. samostalnik (S)-->
+<f name="besedna_vrsta" xml:id="S0-sl" xml:lang="sl"><symbol value="samostalnik"/></f>
+
+<f name="vrsta" xml:id="S1.o-sl" xml:lang="sl"><symbol value="občno_ime"/></f>
+<f name="vrsta" xml:id="S1.l-sl" xml:lang="sl"><symbol value="lastno_ime"/></f>
+
+<f name="spol" xml:id="S2.m-sl" xml:lang="sl"><symbol value="moški"/></f>
+<f name="spol" xml:id="S2.z-sl" xml:lang="sl"><symbol value="ženski"/></f>
+<f name="spol" xml:id="S2.s-sl" xml:lang="sl"><symbol value="srednji"/></f>
+
+<f name="število" xml:id="S3.e-sl" xml:lang="sl"><symbol value="ednina"/></f>
+<f name="število" xml:id="S3.d-sl" xml:lang="sl"><symbol value="dvojina"/></f>
+<f name="število" xml:id="S3.m-sl" xml:lang="sl"><symbol value="množina"/></f>
+
+<f name="sklon" xml:id="S4.i-sl" xml:lang="sl"><symbol value="imenovalnik"/></f>
+<f name="sklon" xml:id="S4.r-sl" xml:lang="sl"><symbol value="rodilnik"/></f>
+<f name="sklon" xml:id="S4.d-sl" xml:lang="sl"><symbol value="dajalnik"/></f>
+<f name="sklon" xml:id="S4.t-sl" xml:lang="sl"><symbol value="tožilnik"/></f>
+<f name="sklon" xml:id="S4.m-sl" xml:lang="sl"><symbol value="mestnik"/></f>
+<f name="sklon" xml:id="S4.o-sl" xml:lang="sl"><symbol value="orodnik"/></f>
+
+<f name="živost" xml:id="S5.n-sl" xml:lang="sl"><symbol value="ne"/></f>
+<f name="živost" xml:id="S5.d-sl" xml:lang="sl"><symbol value="da"/></f>
+
+<!--2. glagol (G)-->
+<f name="besedna_vrsta" xml:id="G0-sl" xml:lang="sl"><symbol value="glagol"/></f>
+
+<f name="vrsta" xml:id="G1.g-sl" xml:lang="sl"><symbol value="glavni"/></f>
+<f name="vrsta" xml:id="G1.p-sl" xml:lang="sl"><symbol value="pomožni"/></f>
+
+<f name="vid" xml:id="G2.d-sl" xml:lang="sl"><symbol value="dovršni"/></f>
+<f name="vid" xml:id="G2.n-sl" xml:lang="sl"><symbol value="nedovršni"/></f>
+<f name="vid" xml:id="G2.v-sl" xml:lang="sl"><symbol value="dvovidski"/></f>
+
+<f name="oblika" xml:id="G3.n-sl" xml:lang="sl"><symbol value="nedoločnik"/></f>
+<f name="oblika" xml:id="G3.m-sl" xml:lang="sl"><symbol value="namenilnik"/></f>
+<f name="oblika" xml:id="G3.d-sl" xml:lang="sl"><symbol value="deležnik"/></f>
+<f name="oblika" xml:id="G3.s-sl" xml:lang="sl"><symbol value="sedanjik"/></f>
+<f name="oblika" xml:id="G3.p-sl" xml:lang="sl"><symbol value="prihodnjik"/></f>
+<f name="oblika" xml:id="G3.g-sl" xml:lang="sl"><symbol value="pogojnik"/></f>
+<f name="oblika" xml:id="G3.v-sl" xml:lang="sl"><symbol value="velelnik"/></f>
+
+<f name="oseba" xml:id="G4.p-sl" xml:lang="sl"><symbol value="prva"/></f>
+<f name="oseba" xml:id="G4.d-sl" xml:lang="sl"><symbol value="druga"/></f>
+<f name="oseba" xml:id="G4.t-sl" xml:lang="sl"><symbol value="tretja"/></f>
+
+<f name="število" xml:id="G5.e-sl" xml:lang="sl"><symbol value="ednina"/></f>
+<f name="število" xml:id="G5.m-sl" xml:lang="sl"><symbol value="množina"/></f>
+<f name="število" xml:id="G5.d-sl" xml:lang="sl"><symbol value="dvojina"/></f>
+
+<f name="spol" xml:id="G6.m-sl" xml:lang="sl"><symbol value="moški"/></f>
+<f name="spol" xml:id="G6.z-sl" xml:lang="sl"><symbol value="ženski"/></f>
+<f name="spol" xml:id="G6.s-sl" xml:lang="sl"><symbol value="srednji"/></f>
+
+<f name="nikalnost" xml:id="G7.n-sl" xml:lang="sl"><symbol value="nezanikani"/></f>
+<f name="nikalnost" xml:id="G7.d-sl" xml:lang="sl"><symbol value="zanikani"/></f>
+
+<!--3. pridevnik (P)-->
+<f name="besedna_vrsta" xml:id="P0-sl" xml:lang="sl"><symbol value="pridevnik"/></f>
+
+<f name="vrsta" xml:id="P1.p-sl" xml:lang="sl"><symbol value="splošni"/></f>
+<f name="vrsta" xml:id="P1.s-sl" xml:lang="sl"><symbol value="svojilni"/></f>
+<f name="vrsta" xml:id="P1.d-sl" xml:lang="sl"><symbol value="deležniški"/></f>
+
+<f name="stopnja" xml:id="P2.n-sl" xml:lang="sl"><symbol value="nedoločeno"/></f>
+<f name="stopnja" xml:id="P2.p-sl" xml:lang="sl"><symbol value="primernik"/></f>
+<f name="stopnja" xml:id="P2.s-sl" xml:lang="sl"><symbol value="presežnik"/></f>
+
+<f name="spol" xml:id="P3.m-sl" xml:lang="sl"><symbol value="moški"/></f>
+<f name="spol" xml:id="P3.z-sl" xml:lang="sl"><symbol value="ženski"/></f>
+<f name="spol" xml:id="P3.s-sl" xml:lang="sl"><symbol value="srednji"/></f>
+
+<f name="število" xml:id="P4.e-sl" xml:lang="sl"><symbol value="ednina"/></f>
+<f name="število" xml:id="P4.d-sl" xml:lang="sl"><symbol value="dvojina"/></f>
+<f name="število" xml:id="P4.m-sl" xml:lang="sl"><symbol value="množina"/></f>
+
+<f name="sklon" xml:id="P5.i-sl" xml:lang="sl"><symbol value="imenovalnik"/></f>
+<f name="sklon" xml:id="P5.r-sl" xml:lang="sl"><symbol value="rodilnik"/></f>
+<f name="sklon" xml:id="P5.d-sl" xml:lang="sl"><symbol value="dajalnik"/></f>
+<f name="sklon" xml:id="P5.t-sl" xml:lang="sl"><symbol value="tožilnik"/></f>
+<f name="sklon" xml:id="P5.m-sl" xml:lang="sl"><symbol value="mestnik"/></f>
+<f name="sklon" xml:id="P5.o-sl" xml:lang="sl"><symbol value="orodnik"/></f>
+
+<f name="določnost" xml:id="P6.n-sl" xml:lang="sl"><symbol value="ne"/></f>
+<f name="določnost" xml:id="P6.d-sl" xml:lang="sl"><symbol value="da"/></f>
+
+<!--4. prislov (R)-->
+<f name="besedna_vrsta" xml:id="R0-sl" xml:lang="sl"><symbol value="prislov"/></f>
+
+<f name="vrsta" xml:id="R1.s-sl" xml:lang="sl"><symbol value="splošni"/></f>
+<f name="vrsta" xml:id="R1.d-sl" xml:lang="sl"><symbol value="deležje"/></f>
+
+<f name="stopnja" xml:id="R2.n-sl" xml:lang="sl"><symbol value="nedoločeno"/></f>
+<f name="stopnja" xml:id="R2.r-sl" xml:lang="sl"><symbol value="primernik"/></f>
+<f name="stopnja" xml:id="R2.s-sl" xml:lang="sl"><symbol value="presežnik"/></f>
+
+<!--5. zaimek (Z)-->
+<f name="besedna_vrsta" xml:id="Z0-sl" xml:lang="sl"><symbol value="zaimek"/></f>
+
+<f name="vrsta" xml:id="Z1.o-sl" xml:lang="sl"><symbol value="osebni"/></f>
+<f name="vrsta" xml:id="Z1.s-sl" xml:lang="sl"><symbol value="svojilni"/></f>
+<f name="vrsta" xml:id="Z1.k-sl" xml:lang="sl"><symbol value="kazalni"/></f>
+<f name="vrsta" xml:id="Z1.z-sl" xml:lang="sl"><symbol value="oziralni"/></f>
+<f name="vrsta" xml:id="Z1.p-sl" xml:lang="sl"><symbol value="povratni"/></f>
+<f name="vrsta" xml:id="Z1.c-sl" xml:lang="sl"><symbol value="celostni"/></f>
+<f name="vrsta" xml:id="Z1.v-sl" xml:lang="sl"><symbol value="vprašalni"/></f>
+<f name="vrsta" xml:id="Z1.n-sl" xml:lang="sl"><symbol value="nedoločni"/></f>
+<f name="vrsta" xml:id="Z1.l-sl" xml:lang="sl"><symbol value="nikalni"/></f>
+
+<f name="oseba" xml:id="Z2.p-sl" xml:lang="sl"><symbol value="prva"/></f>
+<f name="oseba" xml:id="Z2.d-sl" xml:lang="sl"><symbol value="druga"/></f>
+<f name="oseba" xml:id="Z2.t-sl" xml:lang="sl"><symbol value="tretja"/></f>
+
+<f name="spol" xml:id="Z3.m-sl" xml:lang="sl"><symbol value="moški"/></f>
+<f name="spol" xml:id="Z3.z-sl" xml:lang="sl"><symbol value="ženski"/></f>
+<f name="spol" xml:id="Z3.s-sl" xml:lang="sl"><symbol value="srednji"/></f>
+
+<f name="število" xml:id="Z4.e-sl" xml:lang="sl"><symbol value="ednina"/></f>
+<f name="število" xml:id="Z4.d-sl" xml:lang="sl"><symbol value="dvojina"/></f>
+<f name="število" xml:id="Z4.m-sl" xml:lang="sl"><symbol value="množina"/></f>
+
+<f name="sklon" xml:id="Z5.i-sl" xml:lang="sl"><symbol value="imenovalnik"/></f>
+<f name="sklon" xml:id="Z5.r-sl" xml:lang="sl"><symbol value="rodilnik"/></f>
+<f name="sklon" xml:id="Z5.d-sl" xml:lang="sl"><symbol value="dajalnik"/></f>
+<f name="sklon" xml:id="Z5.t-sl" xml:lang="sl"><symbol value="tožilnik"/></f>
+<f name="sklon" xml:id="Z5.m-sl" xml:lang="sl"><symbol value="mestnik"/></f>
+<f name="sklon" xml:id="Z5.o-sl" xml:lang="sl"><symbol value="orodnik"/></f>
+
+<f name="število_svojine" xml:id="Z6.e-sl" xml:lang="sl"><symbol value="ednina"/></f>
+<f name="število_svojine" xml:id="Z6.d-sl" xml:lang="sl"><symbol value="dvojina"/></f>
+<f name="število_svojine" xml:id="Z6.m-sl" xml:lang="sl"><symbol value="množina"/></f>
+
+<f name="spol_svojine" xml:id="Z7.m-sl" xml:lang="sl"><symbol value="moški"/></f>
+<f name="spol_svojine" xml:id="Z7.z-sl" xml:lang="sl"><symbol value="ženski"/></f>
+<f name="spol_svojine" xml:id="Z7.s-sl" xml:lang="sl"><symbol value="srednji"/></f>
+
+<f name="naslonskost" xml:id="Z8.k-sl" xml:lang="sl"><symbol value="klitična"/></f>
+<f name="naslonskost" xml:id="Z8.z-sl" xml:lang="sl"><symbol value="navezna"/></f>
+
+<!--6. števnik (K)-->
+<f name="besedna_vrsta" xml:id="K0-sl" xml:lang="sl"><symbol value="števnik"/></f>
+
+<f name="zapis" xml:id="K1.a-sl" xml:lang="sl"><symbol value="arabski"/></f>
+<f name="zapis" xml:id="K1.r-sl" xml:lang="sl"><symbol value="rimski"/></f>
+<f name="zapis" xml:id="K1.b-sl" xml:lang="sl"><symbol value="besedni"/></f>
+
+<f name="vrsta" xml:id="K2.g-sl" xml:lang="sl"><symbol value="glavni"/></f>
+<f name="vrsta" xml:id="K2.v-sl" xml:lang="sl"><symbol value="vrstilni"/></f>
+<f name="vrsta" xml:id="K2.z-sl" xml:lang="sl"><symbol value="zaimkovni"/></f>
+<f name="vrsta" xml:id="K2.d-sl" xml:lang="sl"><symbol value="drugi"/></f>
+
+<f name="spol" xml:id="K3.m-sl" xml:lang="sl"><symbol value="moški"/></f>
+<f name="spol" xml:id="K3.z-sl" xml:lang="sl"><symbol value="ženski"/></f>
+<f name="spol" xml:id="K3.s-sl" xml:lang="sl"><symbol value="srednji"/></f>
+
+<f name="število" xml:id="K4.e-sl" xml:lang="sl"><symbol value="ednina"/></f>
+<f name="število" xml:id="K4.d-sl" xml:lang="sl"><symbol value="dvojina"/></f>
+<f name="število" xml:id="K4.m-sl" xml:lang="sl"><symbol value="množina"/></f>
+
+<f name="sklon" xml:id="K5.i-sl" xml:lang="sl"><symbol value="imenovalnik"/></f>
+<f name="sklon" xml:id="K5.r-sl" xml:lang="sl"><symbol value="rodilnik"/></f>
+<f name="sklon" xml:id="K5.d-sl" xml:lang="sl"><symbol value="dajalnik"/></f>
+<f name="sklon" xml:id="K5.t-sl" xml:lang="sl"><symbol value="tožilnik"/></f>
+<f name="sklon" xml:id="K5.m-sl" xml:lang="sl"><symbol value="mestnik"/></f>
+<f name="sklon" xml:id="K5.o-sl" xml:lang="sl"><symbol value="orodnik"/></f>
+
+<f name="določnost" xml:id="K6.n-sl" xml:lang="sl"><symbol value="ne"/></f>
+<f name="določnost" xml:id="K6.d-sl" xml:lang="sl"><symbol value="da"/></f>
+
+<!--7. predlog (D)-->
+<f name="besedna_vrsta" xml:id="D0-sl" xml:lang="sl"><symbol value="predlog"/></f>
+
+<f name="sklon" xml:id="D1.i-sl" xml:lang="sl"><symbol value="imenovalnik"/></f>
+<f name="sklon" xml:id="D1.r-sl" xml:lang="sl"><symbol value="rodilnik"/></f>
+<f name="sklon" xml:id="D1.d-sl" xml:lang="sl"><symbol value="dajalnik"/></f>
+<f name="sklon" xml:id="D1.t-sl" xml:lang="sl"><symbol value="tožilnik"/></f>
+<f name="sklon" xml:id="D1.m-sl" xml:lang="sl"><symbol value="mestnik"/></f>
+<f name="sklon" xml:id="D1.o-sl" xml:lang="sl"><symbol value="orodnik"/></f>
+
+<!--8. veznik (V)-->
+<f name="besedna_vrsta" xml:id="V0-sl" xml:lang="sl"><symbol value="veznik"/></f>
+
+<f name="vrsta" xml:id="V1.p-sl" xml:lang="sl"><symbol value="priredni"/></f>
+<f name="vrsta" xml:id="V1.d-sl" xml:lang="sl"><symbol value="podredni"/></f>
+
+<!--9. členek (L)-->
+<f name="besedna_vrsta" xml:id="L0-sl" xml:lang="sl"><symbol value="členek"/></f>
+
+<!--10. medmet (M)-->
+<f name="besedna_vrsta" xml:id="M0-sl" xml:lang="sl"><symbol value="medmet"/></f>
+
+<!--11. okrajšava (O)-->
+<f name="besedna_vrsta" xml:id="O0-sl" xml:lang="sl"><symbol value="okrajšava"/></f>
+
+<!--12. neuvrščeno (N)-->
+<f name="besedna_vrsta" xml:id="N0-sl" xml:lang="sl"><symbol value="neuvrščeno"/></f>
+
+<f name="vrsta" xml:id="N1.j-sl" xml:lang="sl"><symbol value="tujejezično"/></f>
+<f name="vrsta" xml:id="N1.t-sl" xml:lang="sl"><symbol value="tipkarska"/></f>
+<f name="vrsta" xml:id="N1.p-sl" xml:lang="sl"><symbol value="program"/></f>
+
+</fLib>
+
+<fvLib xml:lang="sl">
+<fs xml:id="Somei" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.m-sl #S3.e-sl #S4.i-sl"/>
+<fs xml:id="Somer" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.m-sl #S3.e-sl #S4.r-sl"/>
+<fs xml:id="Somed" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.m-sl #S3.e-sl #S4.d-sl"/>
+<fs xml:id="Sometn" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.m-sl #S3.e-sl #S4.t-sl #S5.n-sl"/>
+<fs xml:id="Sometd" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.m-sl #S3.e-sl #S4.t-sl #S5.d-sl"/>
+<fs xml:id="Somem" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.m-sl #S3.e-sl #S4.m-sl"/>
+<fs xml:id="Someo" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.m-sl #S3.e-sl #S4.o-sl"/>
+<fs xml:id="Somdi" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.m-sl #S3.d-sl #S4.i-sl"/>
+<fs xml:id="Somdr" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.m-sl #S3.d-sl #S4.r-sl"/>
+<fs xml:id="Somdd" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.m-sl #S3.d-sl #S4.d-sl"/>
+<fs xml:id="Somdt" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.m-sl #S3.d-sl #S4.t-sl"/>
+<fs xml:id="Somdm" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.m-sl #S3.d-sl #S4.m-sl"/>
+<fs xml:id="Somdo" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.m-sl #S3.d-sl #S4.o-sl"/>
+<fs xml:id="Sommi" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.m-sl #S3.m-sl #S4.i-sl"/>
+<fs xml:id="Sommr" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.m-sl #S3.m-sl #S4.r-sl"/>
+<fs xml:id="Sommd" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.m-sl #S3.m-sl #S4.d-sl"/>
+<fs xml:id="Sommt" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.m-sl #S3.m-sl #S4.t-sl"/>
+<fs xml:id="Sommm" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.m-sl #S3.m-sl #S4.m-sl"/>
+<fs xml:id="Sommo" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.m-sl #S3.m-sl #S4.o-sl"/>
+<fs xml:id="Sozei" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.z-sl #S3.e-sl #S4.i-sl"/>
+<fs xml:id="Sozer" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.z-sl #S3.e-sl #S4.r-sl"/>
+<fs xml:id="Sozed" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.z-sl #S3.e-sl #S4.d-sl"/>
+<fs xml:id="Sozet" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.z-sl #S3.e-sl #S4.t-sl"/>
+<fs xml:id="Sozem" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.z-sl #S3.e-sl #S4.m-sl"/>
+<fs xml:id="Sozeo" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.z-sl #S3.e-sl #S4.o-sl"/>
+<fs xml:id="Sozdi" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.z-sl #S3.d-sl #S4.i-sl"/>
+<fs xml:id="Sozdr" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.z-sl #S3.d-sl #S4.r-sl"/>
+<fs xml:id="Sozdd" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.z-sl #S3.d-sl #S4.d-sl"/>
+<fs xml:id="Sozdt" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.z-sl #S3.d-sl #S4.t-sl"/>
+<fs xml:id="Sozdm" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.z-sl #S3.d-sl #S4.m-sl"/>
+<fs xml:id="Sozdo" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.z-sl #S3.d-sl #S4.o-sl"/>
+<fs xml:id="Sozmi" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.z-sl #S3.m-sl #S4.i-sl"/>
+<fs xml:id="Sozmr" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.z-sl #S3.m-sl #S4.r-sl"/>
+<fs xml:id="Sozmd" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.z-sl #S3.m-sl #S4.d-sl"/>
+<fs xml:id="Sozmt" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.z-sl #S3.m-sl #S4.t-sl"/>
+<fs xml:id="Sozmm" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.z-sl #S3.m-sl #S4.m-sl"/>
+<fs xml:id="Sozmo" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.z-sl #S3.m-sl #S4.o-sl"/>
+<fs xml:id="Sosei" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.s-sl #S3.e-sl #S4.i-sl"/>
+<fs xml:id="Soser" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.s-sl #S3.e-sl #S4.r-sl"/>
+<fs xml:id="Sosed" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.s-sl #S3.e-sl #S4.d-sl"/>
+<fs xml:id="Soset" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.s-sl #S3.e-sl #S4.t-sl"/>
+<fs xml:id="Sosem" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.s-sl #S3.e-sl #S4.m-sl"/>
+<fs xml:id="Soseo" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.s-sl #S3.e-sl #S4.o-sl"/>
+<fs xml:id="Sosdi" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.s-sl #S3.d-sl #S4.i-sl"/>
+<fs xml:id="Sosdr" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.s-sl #S3.d-sl #S4.r-sl"/>
+<fs xml:id="Sosdd" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.s-sl #S3.d-sl #S4.d-sl"/>
+<fs xml:id="Sosdt" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.s-sl #S3.d-sl #S4.t-sl"/>
+<fs xml:id="Sosdm" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.s-sl #S3.d-sl #S4.m-sl"/>
+<fs xml:id="Sosdo" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.s-sl #S3.d-sl #S4.o-sl"/>
+<fs xml:id="Sosmi" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.s-sl #S3.m-sl #S4.i-sl"/>
+<fs xml:id="Sosmr" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.s-sl #S3.m-sl #S4.r-sl"/>
+<fs xml:id="Sosmd" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.s-sl #S3.m-sl #S4.d-sl"/>
+<fs xml:id="Sosmt" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.s-sl #S3.m-sl #S4.t-sl"/>
+<fs xml:id="Sosmm" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.s-sl #S3.m-sl #S4.m-sl"/>
+<fs xml:id="Sosmo" xml:lang="sl" feats="#S0-sl #S1.o-sl #S2.s-sl #S3.m-sl #S4.o-sl"/>
+<fs xml:id="Slmei" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.m-sl #S3.e-sl #S4.i-sl"/>
+<fs xml:id="Slmer" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.m-sl #S3.e-sl #S4.r-sl"/>
+<fs xml:id="Slmed" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.m-sl #S3.e-sl #S4.d-sl"/>
+<fs xml:id="Slmetn" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.m-sl #S3.e-sl #S4.t-sl #S5.n-sl"/>
+<fs xml:id="Slmetd" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.m-sl #S3.e-sl #S4.t-sl #S5.d-sl"/>
+<fs xml:id="Slmem" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.m-sl #S3.e-sl #S4.m-sl"/>
+<fs xml:id="Slmeo" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.m-sl #S3.e-sl #S4.o-sl"/>
+<fs xml:id="Slmdi" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.m-sl #S3.d-sl #S4.i-sl"/>
+<fs xml:id="Slmdr" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.m-sl #S3.d-sl #S4.r-sl"/>
+<fs xml:id="Slmdd" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.m-sl #S3.d-sl #S4.d-sl"/>
+<fs xml:id="Slmdt" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.m-sl #S3.d-sl #S4.t-sl"/>
+<fs xml:id="Slmdm" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.m-sl #S3.d-sl #S4.m-sl"/>
+<fs xml:id="Slmdo" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.m-sl #S3.d-sl #S4.o-sl"/>
+<fs xml:id="Slmmi" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.m-sl #S3.m-sl #S4.i-sl"/>
+<fs xml:id="Slmmr" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.m-sl #S3.m-sl #S4.r-sl"/>
+<fs xml:id="Slmmd" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.m-sl #S3.m-sl #S4.d-sl"/>
+<fs xml:id="Slmmt" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.m-sl #S3.m-sl #S4.t-sl"/>
+<fs xml:id="Slmmm" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.m-sl #S3.m-sl #S4.m-sl"/>
+<fs xml:id="Slmmo" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.m-sl #S3.m-sl #S4.o-sl"/>
+<fs xml:id="Slzei" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.z-sl #S3.e-sl #S4.i-sl"/>
+<fs xml:id="Slzer" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.z-sl #S3.e-sl #S4.r-sl"/>
+<fs xml:id="Slzed" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.z-sl #S3.e-sl #S4.d-sl"/>
+<fs xml:id="Slzet" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.z-sl #S3.e-sl #S4.t-sl"/>
+<fs xml:id="Slzem" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.z-sl #S3.e-sl #S4.m-sl"/>
+<fs xml:id="Slzeo" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.z-sl #S3.e-sl #S4.o-sl"/>
+<fs xml:id="Slzdi" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.z-sl #S3.d-sl #S4.i-sl"/>
+<fs xml:id="Slzdr" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.z-sl #S3.d-sl #S4.r-sl"/>
+<fs xml:id="Slzdd" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.z-sl #S3.d-sl #S4.d-sl"/>
+<fs xml:id="Slzdt" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.z-sl #S3.d-sl #S4.t-sl"/>
+<fs xml:id="Slzdm" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.z-sl #S3.d-sl #S4.m-sl"/>
+<fs xml:id="Slzdo" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.z-sl #S3.d-sl #S4.o-sl"/>
+<fs xml:id="Slzmi" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.z-sl #S3.m-sl #S4.i-sl"/>
+<fs xml:id="Slzmr" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.z-sl #S3.m-sl #S4.r-sl"/>
+<fs xml:id="Slzmd" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.z-sl #S3.m-sl #S4.d-sl"/>
+<fs xml:id="Slzmt" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.z-sl #S3.m-sl #S4.t-sl"/>
+<fs xml:id="Slzmm" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.z-sl #S3.m-sl #S4.m-sl"/>
+<fs xml:id="Slzmo" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.z-sl #S3.m-sl #S4.o-sl"/>
+<fs xml:id="Slsei" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.s-sl #S3.e-sl #S4.i-sl"/>
+<fs xml:id="Slser" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.s-sl #S3.e-sl #S4.r-sl"/>
+<fs xml:id="Slsed" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.s-sl #S3.e-sl #S4.d-sl"/>
+<fs xml:id="Slset" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.s-sl #S3.e-sl #S4.t-sl"/>
+<fs xml:id="Slsem" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.s-sl #S3.e-sl #S4.m-sl"/>
+<fs xml:id="Slseo" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.s-sl #S3.e-sl #S4.o-sl"/>
+<fs xml:id="Slsmi" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.s-sl #S3.m-sl #S4.i-sl"/>
+<fs xml:id="Slsmr" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.s-sl #S3.m-sl #S4.r-sl"/>
+<fs xml:id="Slsmd" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.s-sl #S3.m-sl #S4.d-sl"/>
+<fs xml:id="Slsmt" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.s-sl #S3.m-sl #S4.t-sl"/>
+<fs xml:id="Slsmm" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.s-sl #S3.m-sl #S4.m-sl"/>
+<fs xml:id="Slsmo" xml:lang="sl" feats="#S0-sl #S1.l-sl #S2.s-sl #S3.m-sl #S4.o-sl"/>
+<fs xml:id="Ggdn" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.d-sl #G3.n-sl"/>
+<fs xml:id="Ggdm" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.d-sl #G3.m-sl"/>
+<fs xml:id="Ggdd-em" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.d-sl #G3.d-sl #G5.e-sl #G6.m-sl"/>
+<fs xml:id="Ggdd-ez" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.d-sl #G3.d-sl #G5.e-sl #G6.z-sl"/>
+<fs xml:id="Ggdd-es" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.d-sl #G3.d-sl #G5.e-sl #G6.s-sl"/>
+<fs xml:id="Ggdd-mm" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.d-sl #G3.d-sl #G5.m-sl #G6.m-sl"/>
+<fs xml:id="Ggdd-mz" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.d-sl #G3.d-sl #G5.m-sl #G6.z-sl"/>
+<fs xml:id="Ggdd-ms" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.d-sl #G3.d-sl #G5.m-sl #G6.s-sl"/>
+<fs xml:id="Ggdd-dm" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.d-sl #G3.d-sl #G5.d-sl #G6.m-sl"/>
+<fs xml:id="Ggdd-dz" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.d-sl #G3.d-sl #G5.d-sl #G6.z-sl"/>
+<fs xml:id="Ggdd-ds" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.d-sl #G3.d-sl #G5.d-sl #G6.s-sl"/>
+<fs xml:id="Ggdspe" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.d-sl #G3.s-sl #G4.p-sl #G5.e-sl"/>
+<fs xml:id="Ggdspm" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.d-sl #G3.s-sl #G4.p-sl #G5.m-sl"/>
+<fs xml:id="Ggdspd" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.d-sl #G3.s-sl #G4.p-sl #G5.d-sl"/>
+<fs xml:id="Ggdsde" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.d-sl #G3.s-sl #G4.d-sl #G5.e-sl"/>
+<fs xml:id="Ggdsdm" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.d-sl #G3.s-sl #G4.d-sl #G5.m-sl"/>
+<fs xml:id="Ggdsdd" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.d-sl #G3.s-sl #G4.d-sl #G5.d-sl"/>
+<fs xml:id="Ggdste" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.d-sl #G3.s-sl #G4.t-sl #G5.e-sl"/>
+<fs xml:id="Ggdstm" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.d-sl #G3.s-sl #G4.t-sl #G5.m-sl"/>
+<fs xml:id="Ggdstd" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.d-sl #G3.s-sl #G4.t-sl #G5.d-sl"/>
+<fs xml:id="Ggdvpm" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.d-sl #G3.v-sl #G4.p-sl #G5.m-sl"/>
+<fs xml:id="Ggdvpd" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.d-sl #G3.v-sl #G4.p-sl #G5.d-sl"/>
+<fs xml:id="Ggdvde" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.d-sl #G3.v-sl #G4.d-sl #G5.e-sl"/>
+<fs xml:id="Ggdvdm" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.d-sl #G3.v-sl #G4.d-sl #G5.m-sl"/>
+<fs xml:id="Ggdvdd" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.d-sl #G3.v-sl #G4.d-sl #G5.d-sl"/>
+<fs xml:id="Ggnn" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.n-sl"/>
+<fs xml:id="Ggnm" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.m-sl"/>
+<fs xml:id="Ggnd-em" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.d-sl #G5.e-sl #G6.m-sl"/>
+<fs xml:id="Ggnd-ez" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.d-sl #G5.e-sl #G6.z-sl"/>
+<fs xml:id="Ggnd-es" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.d-sl #G5.e-sl #G6.s-sl"/>
+<fs xml:id="Ggnd-mm" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.d-sl #G5.m-sl #G6.m-sl"/>
+<fs xml:id="Ggnd-mz" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.d-sl #G5.m-sl #G6.z-sl"/>
+<fs xml:id="Ggnd-ms" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.d-sl #G5.m-sl #G6.s-sl"/>
+<fs xml:id="Ggnd-dm" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.d-sl #G5.d-sl #G6.m-sl"/>
+<fs xml:id="Ggnd-dz" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.d-sl #G5.d-sl #G6.z-sl"/>
+<fs xml:id="Ggnd-ds" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.d-sl #G5.d-sl #G6.s-sl"/>
+<fs xml:id="Ggnspe" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.s-sl #G4.p-sl #G5.e-sl"/>
+<fs xml:id="Ggnspe-n" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.s-sl #G4.p-sl #G5.e-sl #G7.n-sl"/>
+<fs xml:id="Ggnspe-d" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.s-sl #G4.p-sl #G5.e-sl #G7.d-sl"/>
+<fs xml:id="Ggnspm" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.s-sl #G4.p-sl #G5.m-sl"/>
+<fs xml:id="Ggnspm-n" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.s-sl #G4.p-sl #G5.m-sl #G7.n-sl"/>
+<fs xml:id="Ggnspm-d" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.s-sl #G4.p-sl #G5.m-sl #G7.d-sl"/>
+<fs xml:id="Ggnspd" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.s-sl #G4.p-sl #G5.d-sl"/>
+<fs xml:id="Ggnspd-n" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.s-sl #G4.p-sl #G5.d-sl #G7.n-sl"/>
+<fs xml:id="Ggnspd-d" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.s-sl #G4.p-sl #G5.d-sl #G7.d-sl"/>
+<fs xml:id="Ggnsde" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.s-sl #G4.d-sl #G5.e-sl"/>
+<fs xml:id="Ggnsde-n" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.s-sl #G4.d-sl #G5.e-sl #G7.n-sl"/>
+<fs xml:id="Ggnsde-d" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.s-sl #G4.d-sl #G5.e-sl #G7.d-sl"/>
+<fs xml:id="Ggnsdm" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.s-sl #G4.d-sl #G5.m-sl"/>
+<fs xml:id="Ggnsdm-n" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.s-sl #G4.d-sl #G5.m-sl #G7.n-sl"/>
+<fs xml:id="Ggnsdm-d" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.s-sl #G4.d-sl #G5.m-sl #G7.d-sl"/>
+<fs xml:id="Ggnsdd" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.s-sl #G4.d-sl #G5.d-sl"/>
+<fs xml:id="Ggnsdd-n" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.s-sl #G4.d-sl #G5.d-sl #G7.n-sl"/>
+<fs xml:id="Ggnsdd-d" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.s-sl #G4.d-sl #G5.d-sl #G7.d-sl"/>
+<fs xml:id="Ggnste" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.s-sl #G4.t-sl #G5.e-sl"/>
+<fs xml:id="Ggnste-n" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.s-sl #G4.t-sl #G5.e-sl #G7.n-sl"/>
+<fs xml:id="Ggnste-d" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.s-sl #G4.t-sl #G5.e-sl #G7.d-sl"/>
+<fs xml:id="Ggnstm" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.s-sl #G4.t-sl #G5.m-sl"/>
+<fs xml:id="Ggnstm-n" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.s-sl #G4.t-sl #G5.m-sl #G7.n-sl"/>
+<fs xml:id="Ggnstm-d" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.s-sl #G4.t-sl #G5.m-sl #G7.d-sl"/>
+<fs xml:id="Ggnstd" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.s-sl #G4.t-sl #G5.d-sl"/>
+<fs xml:id="Ggnstd-n" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.s-sl #G4.t-sl #G5.d-sl #G7.n-sl"/>
+<fs xml:id="Ggnstd-d" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.s-sl #G4.t-sl #G5.d-sl #G7.d-sl"/>
+<fs xml:id="Ggnvpm" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.v-sl #G4.p-sl #G5.m-sl"/>
+<fs xml:id="Ggnvpd" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.v-sl #G4.p-sl #G5.d-sl"/>
+<fs xml:id="Ggnvde" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.v-sl #G4.d-sl #G5.e-sl"/>
+<fs xml:id="Ggnvdm" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.v-sl #G4.d-sl #G5.m-sl"/>
+<fs xml:id="Ggnvdd" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.n-sl #G3.v-sl #G4.d-sl #G5.d-sl"/>
+<fs xml:id="Ggvn" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.n-sl"/>
+<fs xml:id="Ggvm" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.m-sl"/>
+<fs xml:id="Ggvd-em" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.d-sl #G5.e-sl #G6.m-sl"/>
+<fs xml:id="Ggvd-ez" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.d-sl #G5.e-sl #G6.z-sl"/>
+<fs xml:id="Ggvd-es" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.d-sl #G5.e-sl #G6.s-sl"/>
+<fs xml:id="Ggvd-mm" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.d-sl #G5.m-sl #G6.m-sl"/>
+<fs xml:id="Ggvd-mz" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.d-sl #G5.m-sl #G6.z-sl"/>
+<fs xml:id="Ggvd-ms" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.d-sl #G5.m-sl #G6.s-sl"/>
+<fs xml:id="Ggvd-dm" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.d-sl #G5.d-sl #G6.m-sl"/>
+<fs xml:id="Ggvd-dz" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.d-sl #G5.d-sl #G6.z-sl"/>
+<fs xml:id="Ggvd-ds" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.d-sl #G5.d-sl #G6.s-sl"/>
+<fs xml:id="Ggvspe" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.s-sl #G4.p-sl #G5.e-sl"/>
+<fs xml:id="Ggvspm" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.s-sl #G4.p-sl #G5.m-sl"/>
+<fs xml:id="Ggvspd" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.s-sl #G4.p-sl #G5.d-sl"/>
+<fs xml:id="Ggvspdz" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.s-sl #G4.p-sl #G5.d-sl #G6.z-sl"/>
+<fs xml:id="Ggvsde" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.s-sl #G4.d-sl #G5.e-sl"/>
+<fs xml:id="Ggvsdm" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.s-sl #G4.d-sl #G5.m-sl"/>
+<fs xml:id="Ggvsdd" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.s-sl #G4.d-sl #G5.d-sl"/>
+<fs xml:id="Ggvste" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.s-sl #G4.t-sl #G5.e-sl"/>
+<fs xml:id="Ggvstm" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.s-sl #G4.t-sl #G5.m-sl"/>
+<fs xml:id="Ggvstd" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.s-sl #G4.t-sl #G5.d-sl"/>
+<fs xml:id="Ggvppe" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.p-sl #G4.p-sl #G5.e-sl"/>
+<fs xml:id="Ggvppm" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.p-sl #G4.p-sl #G5.m-sl"/>
+<fs xml:id="Ggvppd" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.p-sl #G4.p-sl #G5.d-sl"/>
+<fs xml:id="Ggvpde" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.p-sl #G4.d-sl #G5.e-sl"/>
+<fs xml:id="Ggvpdm" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.p-sl #G4.d-sl #G5.m-sl"/>
+<fs xml:id="Ggvpdd" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.p-sl #G4.d-sl #G5.d-sl"/>
+<fs xml:id="Ggvpte" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.p-sl #G4.t-sl #G5.e-sl"/>
+<fs xml:id="Ggvptm" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.p-sl #G4.t-sl #G5.m-sl"/>
+<fs xml:id="Ggvptd" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.p-sl #G4.t-sl #G5.d-sl"/>
+<fs xml:id="Ggvvpm" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.v-sl #G4.p-sl #G5.m-sl"/>
+<fs xml:id="Ggvvpd" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.v-sl #G4.p-sl #G5.d-sl"/>
+<fs xml:id="Ggvvde" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.v-sl #G4.d-sl #G5.e-sl"/>
+<fs xml:id="Ggvvdm" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.v-sl #G4.d-sl #G5.m-sl"/>
+<fs xml:id="Ggvvdd" xml:lang="sl" feats="#G0-sl #G1.g-sl #G2.v-sl #G3.v-sl #G4.d-sl #G5.d-sl"/>
+<fs xml:id="Gp-n" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.n-sl"/>
+<fs xml:id="Gp-m" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.m-sl"/>
+<fs xml:id="Gp-d-em" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.d-sl #G5.e-sl #G6.m-sl"/>
+<fs xml:id="Gp-d-ez" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.d-sl #G5.e-sl #G6.z-sl"/>
+<fs xml:id="Gp-d-es" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.d-sl #G5.e-sl #G6.s-sl"/>
+<fs xml:id="Gp-d-mm" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.d-sl #G5.m-sl #G6.m-sl"/>
+<fs xml:id="Gp-d-mz" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.d-sl #G5.m-sl #G6.z-sl"/>
+<fs xml:id="Gp-d-ms" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.d-sl #G5.m-sl #G6.s-sl"/>
+<fs xml:id="Gp-d-dm" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.d-sl #G5.d-sl #G6.m-sl"/>
+<fs xml:id="Gp-d-dz" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.d-sl #G5.d-sl #G6.z-sl"/>
+<fs xml:id="Gp-d-ds" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.d-sl #G5.d-sl #G6.s-sl"/>
+<fs xml:id="Gp-spe-n" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.s-sl #G4.p-sl #G5.e-sl #G7.n-sl"/>
+<fs xml:id="Gp-spe-d" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.s-sl #G4.p-sl #G5.e-sl #G7.d-sl"/>
+<fs xml:id="Gp-spm-n" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.s-sl #G4.p-sl #G5.m-sl #G7.n-sl"/>
+<fs xml:id="Gp-spm-d" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.s-sl #G4.p-sl #G5.m-sl #G7.d-sl"/>
+<fs xml:id="Gp-spd-n" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.s-sl #G4.p-sl #G5.d-sl #G7.n-sl"/>
+<fs xml:id="Gp-spd-d" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.s-sl #G4.p-sl #G5.d-sl #G7.d-sl"/>
+<fs xml:id="Gp-spdzn" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.s-sl #G4.p-sl #G5.d-sl #G6.z-sl #G7.n-sl"/>
+<fs xml:id="Gp-sde-n" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.s-sl #G4.d-sl #G5.e-sl #G7.n-sl"/>
+<fs xml:id="Gp-sde-d" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.s-sl #G4.d-sl #G5.e-sl #G7.d-sl"/>
+<fs xml:id="Gp-sdm-n" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.s-sl #G4.d-sl #G5.m-sl #G7.n-sl"/>
+<fs xml:id="Gp-sdm-d" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.s-sl #G4.d-sl #G5.m-sl #G7.d-sl"/>
+<fs xml:id="Gp-sdd-n" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.s-sl #G4.d-sl #G5.d-sl #G7.n-sl"/>
+<fs xml:id="Gp-sdd-d" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.s-sl #G4.d-sl #G5.d-sl #G7.d-sl"/>
+<fs xml:id="Gp-ste-n" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.s-sl #G4.t-sl #G5.e-sl #G7.n-sl"/>
+<fs xml:id="Gp-ste-d" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.s-sl #G4.t-sl #G5.e-sl #G7.d-sl"/>
+<fs xml:id="Gp-stm-n" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.s-sl #G4.t-sl #G5.m-sl #G7.n-sl"/>
+<fs xml:id="Gp-stm-d" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.s-sl #G4.t-sl #G5.m-sl #G7.d-sl"/>
+<fs xml:id="Gp-std-n" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.s-sl #G4.t-sl #G5.d-sl #G7.n-sl"/>
+<fs xml:id="Gp-std-d" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.s-sl #G4.t-sl #G5.d-sl #G7.d-sl"/>
+<fs xml:id="Gp-ppe-n" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.p-sl #G4.p-sl #G5.e-sl #G7.n-sl"/>
+<fs xml:id="Gp-ppe-d" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.p-sl #G4.p-sl #G5.e-sl #G7.d-sl"/>
+<fs xml:id="Gp-ppm-n" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.p-sl #G4.p-sl #G5.m-sl #G7.n-sl"/>
+<fs xml:id="Gp-ppm-d" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.p-sl #G4.p-sl #G5.m-sl #G7.d-sl"/>
+<fs xml:id="Gp-ppd" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.p-sl #G4.p-sl #G5.d-sl"/>
+<fs xml:id="Gp-ppd-n" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.p-sl #G4.p-sl #G5.d-sl #G7.n-sl"/>
+<fs xml:id="Gp-ppd-d" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.p-sl #G4.p-sl #G5.d-sl #G7.d-sl"/>
+<fs xml:id="Gp-pde-n" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.p-sl #G4.d-sl #G5.e-sl #G7.n-sl"/>
+<fs xml:id="Gp-pde-d" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.p-sl #G4.d-sl #G5.e-sl #G7.d-sl"/>
+<fs xml:id="Gp-pdm-n" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.p-sl #G4.d-sl #G5.m-sl #G7.n-sl"/>
+<fs xml:id="Gp-pdd-n" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.p-sl #G4.d-sl #G5.d-sl #G7.n-sl"/>
+<fs xml:id="Gp-pte-n" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.p-sl #G4.t-sl #G5.e-sl #G7.n-sl"/>
+<fs xml:id="Gp-pte-d" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.p-sl #G4.t-sl #G5.e-sl #G7.d-sl"/>
+<fs xml:id="Gp-ptm-n" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.p-sl #G4.t-sl #G5.m-sl #G7.n-sl"/>
+<fs xml:id="Gp-ptm-d" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.p-sl #G4.t-sl #G5.m-sl #G7.d-sl"/>
+<fs xml:id="Gp-ptd-n" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.p-sl #G4.t-sl #G5.d-sl #G7.n-sl"/>
+<fs xml:id="Gp-g" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.g-sl"/>
+<fs xml:id="Gp-g---d" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.g-sl #G7.d-sl"/>
+<fs xml:id="Gp-vpm" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.v-sl #G4.p-sl #G5.m-sl"/>
+<fs xml:id="Gp-vpd" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.v-sl #G4.p-sl #G5.d-sl"/>
+<fs xml:id="Gp-vde" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.v-sl #G4.d-sl #G5.e-sl"/>
+<fs xml:id="Gp-vdm" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.v-sl #G4.d-sl #G5.m-sl"/>
+<fs xml:id="Gp-vdd" xml:lang="sl" feats="#G0-sl #G1.p-sl #G3.v-sl #G4.d-sl #G5.d-sl"/>
+<fs xml:id="Ppnmein" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.m-sl #P4.e-sl #P5.i-sl #P6.n-sl"/>
+<fs xml:id="Ppnmeid" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.m-sl #P4.e-sl #P5.i-sl #P6.d-sl"/>
+<fs xml:id="Ppnmer" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.m-sl #P4.e-sl #P5.r-sl"/>
+<fs xml:id="Ppnmed" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.m-sl #P4.e-sl #P5.d-sl"/>
+<fs xml:id="Ppnmet" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.m-sl #P4.e-sl #P5.t-sl"/>
+<fs xml:id="Ppnmetn" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.m-sl #P4.e-sl #P5.t-sl #P6.n-sl"/>
+<fs xml:id="Ppnmetd" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.m-sl #P4.e-sl #P5.t-sl #P6.d-sl"/>
+<fs xml:id="Ppnmem" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.m-sl #P4.e-sl #P5.m-sl"/>
+<fs xml:id="Ppnmeo" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.m-sl #P4.e-sl #P5.o-sl"/>
+<fs xml:id="Ppnmdi" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.m-sl #P4.d-sl #P5.i-sl"/>
+<fs xml:id="Ppnmdr" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.m-sl #P4.d-sl #P5.r-sl"/>
+<fs xml:id="Ppnmdd" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.m-sl #P4.d-sl #P5.d-sl"/>
+<fs xml:id="Ppnmdt" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.m-sl #P4.d-sl #P5.t-sl"/>
+<fs xml:id="Ppnmdm" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.m-sl #P4.d-sl #P5.m-sl"/>
+<fs xml:id="Ppnmdo" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.m-sl #P4.d-sl #P5.o-sl"/>
+<fs xml:id="Ppnmmi" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.m-sl #P4.m-sl #P5.i-sl"/>
+<fs xml:id="Ppnmmr" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.m-sl #P4.m-sl #P5.r-sl"/>
+<fs xml:id="Ppnmmd" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.m-sl #P4.m-sl #P5.d-sl"/>
+<fs xml:id="Ppnmmt" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.m-sl #P4.m-sl #P5.t-sl"/>
+<fs xml:id="Ppnmmm" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.m-sl #P4.m-sl #P5.m-sl"/>
+<fs xml:id="Ppnmmo" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.m-sl #P4.m-sl #P5.o-sl"/>
+<fs xml:id="Ppnzei" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.z-sl #P4.e-sl #P5.i-sl"/>
+<fs xml:id="Ppnzer" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.z-sl #P4.e-sl #P5.r-sl"/>
+<fs xml:id="Ppnzed" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.z-sl #P4.e-sl #P5.d-sl"/>
+<fs xml:id="Ppnzet" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.z-sl #P4.e-sl #P5.t-sl"/>
+<fs xml:id="Ppnzem" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.z-sl #P4.e-sl #P5.m-sl"/>
+<fs xml:id="Ppnzeo" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.z-sl #P4.e-sl #P5.o-sl"/>
+<fs xml:id="Ppnzdi" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.z-sl #P4.d-sl #P5.i-sl"/>
+<fs xml:id="Ppnzdr" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.z-sl #P4.d-sl #P5.r-sl"/>
+<fs xml:id="Ppnzdd" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.z-sl #P4.d-sl #P5.d-sl"/>
+<fs xml:id="Ppnzdt" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.z-sl #P4.d-sl #P5.t-sl"/>
+<fs xml:id="Ppnzdm" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.z-sl #P4.d-sl #P5.m-sl"/>
+<fs xml:id="Ppnzdo" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.z-sl #P4.d-sl #P5.o-sl"/>
+<fs xml:id="Ppnzmi" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.z-sl #P4.m-sl #P5.i-sl"/>
+<fs xml:id="Ppnzmr" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.z-sl #P4.m-sl #P5.r-sl"/>
+<fs xml:id="Ppnzmd" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.z-sl #P4.m-sl #P5.d-sl"/>
+<fs xml:id="Ppnzmt" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.z-sl #P4.m-sl #P5.t-sl"/>
+<fs xml:id="Ppnzmm" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.z-sl #P4.m-sl #P5.m-sl"/>
+<fs xml:id="Ppnzmo" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.z-sl #P4.m-sl #P5.o-sl"/>
+<fs xml:id="Ppnsei" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.s-sl #P4.e-sl #P5.i-sl"/>
+<fs xml:id="Ppnser" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.s-sl #P4.e-sl #P5.r-sl"/>
+<fs xml:id="Ppnsed" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.s-sl #P4.e-sl #P5.d-sl"/>
+<fs xml:id="Ppnset" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.s-sl #P4.e-sl #P5.t-sl"/>
+<fs xml:id="Ppnsem" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.s-sl #P4.e-sl #P5.m-sl"/>
+<fs xml:id="Ppnseo" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.s-sl #P4.e-sl #P5.o-sl"/>
+<fs xml:id="Ppnsdi" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.s-sl #P4.d-sl #P5.i-sl"/>
+<fs xml:id="Ppnsdr" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.s-sl #P4.d-sl #P5.r-sl"/>
+<fs xml:id="Ppnsdd" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.s-sl #P4.d-sl #P5.d-sl"/>
+<fs xml:id="Ppnsdt" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.s-sl #P4.d-sl #P5.t-sl"/>
+<fs xml:id="Ppnsdm" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.s-sl #P4.d-sl #P5.m-sl"/>
+<fs xml:id="Ppnsdo" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.s-sl #P4.d-sl #P5.o-sl"/>
+<fs xml:id="Ppnsmi" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.s-sl #P4.m-sl #P5.i-sl"/>
+<fs xml:id="Ppnsmr" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.s-sl #P4.m-sl #P5.r-sl"/>
+<fs xml:id="Ppnsmd" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.s-sl #P4.m-sl #P5.d-sl"/>
+<fs xml:id="Ppnsmt" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.s-sl #P4.m-sl #P5.t-sl"/>
+<fs xml:id="Ppnsmm" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.s-sl #P4.m-sl #P5.m-sl"/>
+<fs xml:id="Ppnsmo" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.n-sl #P3.s-sl #P4.m-sl #P5.o-sl"/>
+<fs xml:id="Pppmeid" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.m-sl #P4.e-sl #P5.i-sl #P6.d-sl"/>
+<fs xml:id="Pppmer" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.m-sl #P4.e-sl #P5.r-sl"/>
+<fs xml:id="Pppmed" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.m-sl #P4.e-sl #P5.d-sl"/>
+<fs xml:id="Pppmet" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.m-sl #P4.e-sl #P5.t-sl"/>
+<fs xml:id="Pppmetd" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.m-sl #P4.e-sl #P5.t-sl #P6.d-sl"/>
+<fs xml:id="Pppmem" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.m-sl #P4.e-sl #P5.m-sl"/>
+<fs xml:id="Pppmeo" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.m-sl #P4.e-sl #P5.o-sl"/>
+<fs xml:id="Pppmdi" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.m-sl #P4.d-sl #P5.i-sl"/>
+<fs xml:id="Pppmdr" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.m-sl #P4.d-sl #P5.r-sl"/>
+<fs xml:id="Pppmdd" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.m-sl #P4.d-sl #P5.d-sl"/>
+<fs xml:id="Pppmdt" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.m-sl #P4.d-sl #P5.t-sl"/>
+<fs xml:id="Pppmdm" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.m-sl #P4.d-sl #P5.m-sl"/>
+<fs xml:id="Pppmdo" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.m-sl #P4.d-sl #P5.o-sl"/>
+<fs xml:id="Pppmmi" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.m-sl #P4.m-sl #P5.i-sl"/>
+<fs xml:id="Pppmmr" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.m-sl #P4.m-sl #P5.r-sl"/>
+<fs xml:id="Pppmmd" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.m-sl #P4.m-sl #P5.d-sl"/>
+<fs xml:id="Pppmmt" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.m-sl #P4.m-sl #P5.t-sl"/>
+<fs xml:id="Pppmmm" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.m-sl #P4.m-sl #P5.m-sl"/>
+<fs xml:id="Pppmmo" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.m-sl #P4.m-sl #P5.o-sl"/>
+<fs xml:id="Pppzei" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.z-sl #P4.e-sl #P5.i-sl"/>
+<fs xml:id="Pppzer" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.z-sl #P4.e-sl #P5.r-sl"/>
+<fs xml:id="Pppzed" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.z-sl #P4.e-sl #P5.d-sl"/>
+<fs xml:id="Pppzet" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.z-sl #P4.e-sl #P5.t-sl"/>
+<fs xml:id="Pppzem" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.z-sl #P4.e-sl #P5.m-sl"/>
+<fs xml:id="Pppzeo" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.z-sl #P4.e-sl #P5.o-sl"/>
+<fs xml:id="Pppzdi" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.z-sl #P4.d-sl #P5.i-sl"/>
+<fs xml:id="Pppzdr" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.z-sl #P4.d-sl #P5.r-sl"/>
+<fs xml:id="Pppzdd" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.z-sl #P4.d-sl #P5.d-sl"/>
+<fs xml:id="Pppzdt" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.z-sl #P4.d-sl #P5.t-sl"/>
+<fs xml:id="Pppzdm" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.z-sl #P4.d-sl #P5.m-sl"/>
+<fs xml:id="Pppzdo" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.z-sl #P4.d-sl #P5.o-sl"/>
+<fs xml:id="Pppzmi" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.z-sl #P4.m-sl #P5.i-sl"/>
+<fs xml:id="Pppzmr" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.z-sl #P4.m-sl #P5.r-sl"/>
+<fs xml:id="Pppzmd" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.z-sl #P4.m-sl #P5.d-sl"/>
+<fs xml:id="Pppzmt" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.z-sl #P4.m-sl #P5.t-sl"/>
+<fs xml:id="Pppzmm" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.z-sl #P4.m-sl #P5.m-sl"/>
+<fs xml:id="Pppzmo" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.z-sl #P4.m-sl #P5.o-sl"/>
+<fs xml:id="Pppsei" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.s-sl #P4.e-sl #P5.i-sl"/>
+<fs xml:id="Pppser" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.s-sl #P4.e-sl #P5.r-sl"/>
+<fs xml:id="Pppsed" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.s-sl #P4.e-sl #P5.d-sl"/>
+<fs xml:id="Pppset" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.s-sl #P4.e-sl #P5.t-sl"/>
+<fs xml:id="Pppsem" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.s-sl #P4.e-sl #P5.m-sl"/>
+<fs xml:id="Pppseo" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.s-sl #P4.e-sl #P5.o-sl"/>
+<fs xml:id="Pppsdi" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.s-sl #P4.d-sl #P5.i-sl"/>
+<fs xml:id="Pppsdr" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.s-sl #P4.d-sl #P5.r-sl"/>
+<fs xml:id="Pppsdd" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.s-sl #P4.d-sl #P5.d-sl"/>
+<fs xml:id="Pppsdt" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.s-sl #P4.d-sl #P5.t-sl"/>
+<fs xml:id="Pppsdm" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.s-sl #P4.d-sl #P5.m-sl"/>
+<fs xml:id="Pppsdo" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.s-sl #P4.d-sl #P5.o-sl"/>
+<fs xml:id="Pppsmi" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.s-sl #P4.m-sl #P5.i-sl"/>
+<fs xml:id="Pppsmr" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.s-sl #P4.m-sl #P5.r-sl"/>
+<fs xml:id="Pppsmd" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.s-sl #P4.m-sl #P5.d-sl"/>
+<fs xml:id="Pppsmt" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.s-sl #P4.m-sl #P5.t-sl"/>
+<fs xml:id="Pppsmm" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.s-sl #P4.m-sl #P5.m-sl"/>
+<fs xml:id="Pppsmo" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.p-sl #P3.s-sl #P4.m-sl #P5.o-sl"/>
+<fs xml:id="Ppsmeid" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.m-sl #P4.e-sl #P5.i-sl #P6.d-sl"/>
+<fs xml:id="Ppsmer" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.m-sl #P4.e-sl #P5.r-sl"/>
+<fs xml:id="Ppsmed" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.m-sl #P4.e-sl #P5.d-sl"/>
+<fs xml:id="Ppsmet" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.m-sl #P4.e-sl #P5.t-sl"/>
+<fs xml:id="Ppsmetd" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.m-sl #P4.e-sl #P5.t-sl #P6.d-sl"/>
+<fs xml:id="Ppsmem" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.m-sl #P4.e-sl #P5.m-sl"/>
+<fs xml:id="Ppsmeo" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.m-sl #P4.e-sl #P5.o-sl"/>
+<fs xml:id="Ppsmdi" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.m-sl #P4.d-sl #P5.i-sl"/>
+<fs xml:id="Ppsmdr" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.m-sl #P4.d-sl #P5.r-sl"/>
+<fs xml:id="Ppsmdd" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.m-sl #P4.d-sl #P5.d-sl"/>
+<fs xml:id="Ppsmdt" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.m-sl #P4.d-sl #P5.t-sl"/>
+<fs xml:id="Ppsmdm" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.m-sl #P4.d-sl #P5.m-sl"/>
+<fs xml:id="Ppsmdo" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.m-sl #P4.d-sl #P5.o-sl"/>
+<fs xml:id="Ppsmmi" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.m-sl #P4.m-sl #P5.i-sl"/>
+<fs xml:id="Ppsmmr" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.m-sl #P4.m-sl #P5.r-sl"/>
+<fs xml:id="Ppsmmd" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.m-sl #P4.m-sl #P5.d-sl"/>
+<fs xml:id="Ppsmmt" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.m-sl #P4.m-sl #P5.t-sl"/>
+<fs xml:id="Ppsmmm" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.m-sl #P4.m-sl #P5.m-sl"/>
+<fs xml:id="Ppsmmo" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.m-sl #P4.m-sl #P5.o-sl"/>
+<fs xml:id="Ppszei" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.z-sl #P4.e-sl #P5.i-sl"/>
+<fs xml:id="Ppszer" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.z-sl #P4.e-sl #P5.r-sl"/>
+<fs xml:id="Ppszed" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.z-sl #P4.e-sl #P5.d-sl"/>
+<fs xml:id="Ppszet" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.z-sl #P4.e-sl #P5.t-sl"/>
+<fs xml:id="Ppszem" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.z-sl #P4.e-sl #P5.m-sl"/>
+<fs xml:id="Ppszeo" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.z-sl #P4.e-sl #P5.o-sl"/>
+<fs xml:id="Ppszdi" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.z-sl #P4.d-sl #P5.i-sl"/>
+<fs xml:id="Ppszdr" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.z-sl #P4.d-sl #P5.r-sl"/>
+<fs xml:id="Ppszdd" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.z-sl #P4.d-sl #P5.d-sl"/>
+<fs xml:id="Ppszdt" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.z-sl #P4.d-sl #P5.t-sl"/>
+<fs xml:id="Ppszdm" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.z-sl #P4.d-sl #P5.m-sl"/>
+<fs xml:id="Ppszdo" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.z-sl #P4.d-sl #P5.o-sl"/>
+<fs xml:id="Ppszmi" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.z-sl #P4.m-sl #P5.i-sl"/>
+<fs xml:id="Ppszmr" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.z-sl #P4.m-sl #P5.r-sl"/>
+<fs xml:id="Ppszmd" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.z-sl #P4.m-sl #P5.d-sl"/>
+<fs xml:id="Ppszmt" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.z-sl #P4.m-sl #P5.t-sl"/>
+<fs xml:id="Ppszmm" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.z-sl #P4.m-sl #P5.m-sl"/>
+<fs xml:id="Ppszmo" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.z-sl #P4.m-sl #P5.o-sl"/>
+<fs xml:id="Ppssei" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.s-sl #P4.e-sl #P5.i-sl"/>
+<fs xml:id="Ppsser" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.s-sl #P4.e-sl #P5.r-sl"/>
+<fs xml:id="Ppssed" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.s-sl #P4.e-sl #P5.d-sl"/>
+<fs xml:id="Ppsset" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.s-sl #P4.e-sl #P5.t-sl"/>
+<fs xml:id="Ppssem" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.s-sl #P4.e-sl #P5.m-sl"/>
+<fs xml:id="Ppsseo" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.s-sl #P4.e-sl #P5.o-sl"/>
+<fs xml:id="Ppssdi" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.s-sl #P4.d-sl #P5.i-sl"/>
+<fs xml:id="Ppssdr" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.s-sl #P4.d-sl #P5.r-sl"/>
+<fs xml:id="Ppssdd" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.s-sl #P4.d-sl #P5.d-sl"/>
+<fs xml:id="Ppssdt" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.s-sl #P4.d-sl #P5.t-sl"/>
+<fs xml:id="Ppssdm" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.s-sl #P4.d-sl #P5.m-sl"/>
+<fs xml:id="Ppssdo" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.s-sl #P4.d-sl #P5.o-sl"/>
+<fs xml:id="Ppssmi" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.s-sl #P4.m-sl #P5.i-sl"/>
+<fs xml:id="Ppssmr" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.s-sl #P4.m-sl #P5.r-sl"/>
+<fs xml:id="Ppssmd" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.s-sl #P4.m-sl #P5.d-sl"/>
+<fs xml:id="Ppssmt" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.s-sl #P4.m-sl #P5.t-sl"/>
+<fs xml:id="Ppssmm" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.s-sl #P4.m-sl #P5.m-sl"/>
+<fs xml:id="Ppssmo" xml:lang="sl" feats="#P0-sl #P1.p-sl #P2.s-sl #P3.s-sl #P4.m-sl #P5.o-sl"/>
+<fs xml:id="Psnmein" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.m-sl #P4.e-sl #P5.i-sl #P6.n-sl"/>
+<fs xml:id="Psnmer" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.m-sl #P4.e-sl #P5.r-sl"/>
+<fs xml:id="Psnmed" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.m-sl #P4.e-sl #P5.d-sl"/>
+<fs xml:id="Psnmet" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.m-sl #P4.e-sl #P5.t-sl"/>
+<fs xml:id="Psnmetn" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.m-sl #P4.e-sl #P5.t-sl #P6.n-sl"/>
+<fs xml:id="Psnmem" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.m-sl #P4.e-sl #P5.m-sl"/>
+<fs xml:id="Psnmeo" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.m-sl #P4.e-sl #P5.o-sl"/>
+<fs xml:id="Psnmdi" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.m-sl #P4.d-sl #P5.i-sl"/>
+<fs xml:id="Psnmdr" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.m-sl #P4.d-sl #P5.r-sl"/>
+<fs xml:id="Psnmdd" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.m-sl #P4.d-sl #P5.d-sl"/>
+<fs xml:id="Psnmdt" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.m-sl #P4.d-sl #P5.t-sl"/>
+<fs xml:id="Psnmdm" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.m-sl #P4.d-sl #P5.m-sl"/>
+<fs xml:id="Psnmdo" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.m-sl #P4.d-sl #P5.o-sl"/>
+<fs xml:id="Psnmmi" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.m-sl #P4.m-sl #P5.i-sl"/>
+<fs xml:id="Psnmmr" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.m-sl #P4.m-sl #P5.r-sl"/>
+<fs xml:id="Psnmmd" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.m-sl #P4.m-sl #P5.d-sl"/>
+<fs xml:id="Psnmmt" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.m-sl #P4.m-sl #P5.t-sl"/>
+<fs xml:id="Psnmmm" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.m-sl #P4.m-sl #P5.m-sl"/>
+<fs xml:id="Psnmmo" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.m-sl #P4.m-sl #P5.o-sl"/>
+<fs xml:id="Psnzei" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.z-sl #P4.e-sl #P5.i-sl"/>
+<fs xml:id="Psnzer" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.z-sl #P4.e-sl #P5.r-sl"/>
+<fs xml:id="Psnzed" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.z-sl #P4.e-sl #P5.d-sl"/>
+<fs xml:id="Psnzet" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.z-sl #P4.e-sl #P5.t-sl"/>
+<fs xml:id="Psnzem" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.z-sl #P4.e-sl #P5.m-sl"/>
+<fs xml:id="Psnzeo" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.z-sl #P4.e-sl #P5.o-sl"/>
+<fs xml:id="Psnzdi" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.z-sl #P4.d-sl #P5.i-sl"/>
+<fs xml:id="Psnzdr" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.z-sl #P4.d-sl #P5.r-sl"/>
+<fs xml:id="Psnzdd" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.z-sl #P4.d-sl #P5.d-sl"/>
+<fs xml:id="Psnzdt" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.z-sl #P4.d-sl #P5.t-sl"/>
+<fs xml:id="Psnzdm" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.z-sl #P4.d-sl #P5.m-sl"/>
+<fs xml:id="Psnzdo" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.z-sl #P4.d-sl #P5.o-sl"/>
+<fs xml:id="Psnzmi" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.z-sl #P4.m-sl #P5.i-sl"/>
+<fs xml:id="Psnzmr" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.z-sl #P4.m-sl #P5.r-sl"/>
+<fs xml:id="Psnzmd" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.z-sl #P4.m-sl #P5.d-sl"/>
+<fs xml:id="Psnzmt" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.z-sl #P4.m-sl #P5.t-sl"/>
+<fs xml:id="Psnzmm" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.z-sl #P4.m-sl #P5.m-sl"/>
+<fs xml:id="Psnzmo" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.z-sl #P4.m-sl #P5.o-sl"/>
+<fs xml:id="Psnsei" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.s-sl #P4.e-sl #P5.i-sl"/>
+<fs xml:id="Psnser" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.s-sl #P4.e-sl #P5.r-sl"/>
+<fs xml:id="Psnsed" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.s-sl #P4.e-sl #P5.d-sl"/>
+<fs xml:id="Psnset" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.s-sl #P4.e-sl #P5.t-sl"/>
+<fs xml:id="Psnsem" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.s-sl #P4.e-sl #P5.m-sl"/>
+<fs xml:id="Psnseo" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.s-sl #P4.e-sl #P5.o-sl"/>
+<fs xml:id="Psnsdi" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.s-sl #P4.d-sl #P5.i-sl"/>
+<fs xml:id="Psnsdr" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.s-sl #P4.d-sl #P5.r-sl"/>
+<fs xml:id="Psnsdd" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.s-sl #P4.d-sl #P5.d-sl"/>
+<fs xml:id="Psnsdt" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.s-sl #P4.d-sl #P5.t-sl"/>
+<fs xml:id="Psnsdm" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.s-sl #P4.d-sl #P5.m-sl"/>
+<fs xml:id="Psnsdo" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.s-sl #P4.d-sl #P5.o-sl"/>
+<fs xml:id="Psnsmi" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.s-sl #P4.m-sl #P5.i-sl"/>
+<fs xml:id="Psnsmr" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.s-sl #P4.m-sl #P5.r-sl"/>
+<fs xml:id="Psnsmd" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.s-sl #P4.m-sl #P5.d-sl"/>
+<fs xml:id="Psnsmt" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.s-sl #P4.m-sl #P5.t-sl"/>
+<fs xml:id="Psnsmm" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.s-sl #P4.m-sl #P5.m-sl"/>
+<fs xml:id="Psnsmo" xml:lang="sl" feats="#P0-sl #P1.s-sl #P2.n-sl #P3.s-sl #P4.m-sl #P5.o-sl"/>
+<fs xml:id="Pdnmein" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.m-sl #P4.e-sl #P5.i-sl #P6.n-sl"/>
+<fs xml:id="Pdnmeid" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.m-sl #P4.e-sl #P5.i-sl #P6.d-sl"/>
+<fs xml:id="Pdnmer" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.m-sl #P4.e-sl #P5.r-sl"/>
+<fs xml:id="Pdnmed" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.m-sl #P4.e-sl #P5.d-sl"/>
+<fs xml:id="Pdnmet" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.m-sl #P4.e-sl #P5.t-sl"/>
+<fs xml:id="Pdnmetn" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.m-sl #P4.e-sl #P5.t-sl #P6.n-sl"/>
+<fs xml:id="Pdnmetd" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.m-sl #P4.e-sl #P5.t-sl #P6.d-sl"/>
+<fs xml:id="Pdnmem" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.m-sl #P4.e-sl #P5.m-sl"/>
+<fs xml:id="Pdnmeo" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.m-sl #P4.e-sl #P5.o-sl"/>
+<fs xml:id="Pdnmdi" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.m-sl #P4.d-sl #P5.i-sl"/>
+<fs xml:id="Pdnmdr" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.m-sl #P4.d-sl #P5.r-sl"/>
+<fs xml:id="Pdnmdd" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.m-sl #P4.d-sl #P5.d-sl"/>
+<fs xml:id="Pdnmdt" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.m-sl #P4.d-sl #P5.t-sl"/>
+<fs xml:id="Pdnmdm" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.m-sl #P4.d-sl #P5.m-sl"/>
+<fs xml:id="Pdnmdo" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.m-sl #P4.d-sl #P5.o-sl"/>
+<fs xml:id="Pdnmmi" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.m-sl #P4.m-sl #P5.i-sl"/>
+<fs xml:id="Pdnmmr" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.m-sl #P4.m-sl #P5.r-sl"/>
+<fs xml:id="Pdnmmd" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.m-sl #P4.m-sl #P5.d-sl"/>
+<fs xml:id="Pdnmmt" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.m-sl #P4.m-sl #P5.t-sl"/>
+<fs xml:id="Pdnmmm" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.m-sl #P4.m-sl #P5.m-sl"/>
+<fs xml:id="Pdnmmo" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.m-sl #P4.m-sl #P5.o-sl"/>
+<fs xml:id="Pdnzei" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.z-sl #P4.e-sl #P5.i-sl"/>
+<fs xml:id="Pdnzer" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.z-sl #P4.e-sl #P5.r-sl"/>
+<fs xml:id="Pdnzed" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.z-sl #P4.e-sl #P5.d-sl"/>
+<fs xml:id="Pdnzet" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.z-sl #P4.e-sl #P5.t-sl"/>
+<fs xml:id="Pdnzem" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.z-sl #P4.e-sl #P5.m-sl"/>
+<fs xml:id="Pdnzeo" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.z-sl #P4.e-sl #P5.o-sl"/>
+<fs xml:id="Pdnzdi" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.z-sl #P4.d-sl #P5.i-sl"/>
+<fs xml:id="Pdnzdr" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.z-sl #P4.d-sl #P5.r-sl"/>
+<fs xml:id="Pdnzdd" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.z-sl #P4.d-sl #P5.d-sl"/>
+<fs xml:id="Pdnzdt" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.z-sl #P4.d-sl #P5.t-sl"/>
+<fs xml:id="Pdnzdm" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.z-sl #P4.d-sl #P5.m-sl"/>
+<fs xml:id="Pdnzdo" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.z-sl #P4.d-sl #P5.o-sl"/>
+<fs xml:id="Pdnzmi" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.z-sl #P4.m-sl #P5.i-sl"/>
+<fs xml:id="Pdnzmr" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.z-sl #P4.m-sl #P5.r-sl"/>
+<fs xml:id="Pdnzmd" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.z-sl #P4.m-sl #P5.d-sl"/>
+<fs xml:id="Pdnzmt" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.z-sl #P4.m-sl #P5.t-sl"/>
+<fs xml:id="Pdnzmm" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.z-sl #P4.m-sl #P5.m-sl"/>
+<fs xml:id="Pdnzmo" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.z-sl #P4.m-sl #P5.o-sl"/>
+<fs xml:id="Pdnsei" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.s-sl #P4.e-sl #P5.i-sl"/>
+<fs xml:id="Pdnser" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.s-sl #P4.e-sl #P5.r-sl"/>
+<fs xml:id="Pdnsed" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.s-sl #P4.e-sl #P5.d-sl"/>
+<fs xml:id="Pdnset" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.s-sl #P4.e-sl #P5.t-sl"/>
+<fs xml:id="Pdnsem" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.s-sl #P4.e-sl #P5.m-sl"/>
+<fs xml:id="Pdnseo" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.s-sl #P4.e-sl #P5.o-sl"/>
+<fs xml:id="Pdnsdi" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.s-sl #P4.d-sl #P5.i-sl"/>
+<fs xml:id="Pdnsdr" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.s-sl #P4.d-sl #P5.r-sl"/>
+<fs xml:id="Pdnsdd" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.s-sl #P4.d-sl #P5.d-sl"/>
+<fs xml:id="Pdnsdt" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.s-sl #P4.d-sl #P5.t-sl"/>
+<fs xml:id="Pdnsdm" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.s-sl #P4.d-sl #P5.m-sl"/>
+<fs xml:id="Pdnsdo" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.s-sl #P4.d-sl #P5.o-sl"/>
+<fs xml:id="Pdnsmi" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.s-sl #P4.m-sl #P5.i-sl"/>
+<fs xml:id="Pdnsmr" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.s-sl #P4.m-sl #P5.r-sl"/>
+<fs xml:id="Pdnsmd" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.s-sl #P4.m-sl #P5.d-sl"/>
+<fs xml:id="Pdnsmt" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.s-sl #P4.m-sl #P5.t-sl"/>
+<fs xml:id="Pdnsmm" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.s-sl #P4.m-sl #P5.m-sl"/>
+<fs xml:id="Pdnsmo" xml:lang="sl" feats="#P0-sl #P1.d-sl #P2.n-sl #P3.s-sl #P4.m-sl #P5.o-sl"/>
+<fs xml:id="Rsn" xml:lang="sl" feats="#R0-sl #R1.s-sl #R2.n-sl"/>
+<fs xml:id="Rsr" xml:lang="sl" feats="#R0-sl #R1.s-sl #R2.r-sl"/>
+<fs xml:id="Rss" xml:lang="sl" feats="#R0-sl #R1.s-sl #R2.s-sl"/>
+<fs xml:id="Rd" xml:lang="sl" feats="#R0-sl #R1.d-sl"/>
+<fs xml:id="Zop-ei" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.p-sl #Z4.e-sl #Z5.i-sl"/>
+<fs xml:id="Zop-er" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.p-sl #Z4.e-sl #Z5.r-sl"/>
+<fs xml:id="Zop-er--k" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.p-sl #Z4.e-sl #Z5.r-sl #Z8.k-sl"/>
+<fs xml:id="Zop-ed" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.p-sl #Z4.e-sl #Z5.d-sl"/>
+<fs xml:id="Zop-ed--k" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.p-sl #Z4.e-sl #Z5.d-sl #Z8.k-sl"/>
+<fs xml:id="Zop-et" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.p-sl #Z4.e-sl #Z5.t-sl"/>
+<fs xml:id="Zop-et--k" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.p-sl #Z4.e-sl #Z5.t-sl #Z8.k-sl"/>
+<fs xml:id="Zop-et--z" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.p-sl #Z4.e-sl #Z5.t-sl #Z8.z-sl"/>
+<fs xml:id="Zop-em" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.p-sl #Z4.e-sl #Z5.m-sl"/>
+<fs xml:id="Zop-eo" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.p-sl #Z4.e-sl #Z5.o-sl"/>
+<fs xml:id="Zop-dr" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.p-sl #Z4.d-sl #Z5.r-sl"/>
+<fs xml:id="Zop-dd" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.p-sl #Z4.d-sl #Z5.d-sl"/>
+<fs xml:id="Zop-dt" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.p-sl #Z4.d-sl #Z5.t-sl"/>
+<fs xml:id="Zop-dm" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.p-sl #Z4.d-sl #Z5.m-sl"/>
+<fs xml:id="Zop-do" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.p-sl #Z4.d-sl #Z5.o-sl"/>
+<fs xml:id="Zop-mr" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.p-sl #Z4.m-sl #Z5.r-sl"/>
+<fs xml:id="Zop-md" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.p-sl #Z4.m-sl #Z5.d-sl"/>
+<fs xml:id="Zop-mt" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.p-sl #Z4.m-sl #Z5.t-sl"/>
+<fs xml:id="Zop-mm" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.p-sl #Z4.m-sl #Z5.m-sl"/>
+<fs xml:id="Zop-mo" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.p-sl #Z4.m-sl #Z5.o-sl"/>
+<fs xml:id="Zopmdi" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.p-sl #Z3.m-sl #Z4.d-sl #Z5.i-sl"/>
+<fs xml:id="Zopmmi" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.p-sl #Z3.m-sl #Z4.m-sl #Z5.i-sl"/>
+<fs xml:id="Zopzdi" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.p-sl #Z3.z-sl #Z4.d-sl #Z5.i-sl"/>
+<fs xml:id="Zopzmi" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.p-sl #Z3.z-sl #Z4.m-sl #Z5.i-sl"/>
+<fs xml:id="Zopsdi" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.p-sl #Z3.s-sl #Z4.d-sl #Z5.i-sl"/>
+<fs xml:id="Zopsmi" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.p-sl #Z3.s-sl #Z4.m-sl #Z5.i-sl"/>
+<fs xml:id="Zod-ei" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.d-sl #Z4.e-sl #Z5.i-sl"/>
+<fs xml:id="Zod-er" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.d-sl #Z4.e-sl #Z5.r-sl"/>
+<fs xml:id="Zod-er--k" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.d-sl #Z4.e-sl #Z5.r-sl #Z8.k-sl"/>
+<fs xml:id="Zod-ed" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.d-sl #Z4.e-sl #Z5.d-sl"/>
+<fs xml:id="Zod-ed--k" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.d-sl #Z4.e-sl #Z5.d-sl #Z8.k-sl"/>
+<fs xml:id="Zod-et" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.d-sl #Z4.e-sl #Z5.t-sl"/>
+<fs xml:id="Zod-et--k" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.d-sl #Z4.e-sl #Z5.t-sl #Z8.k-sl"/>
+<fs xml:id="Zod-et--z" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.d-sl #Z4.e-sl #Z5.t-sl #Z8.z-sl"/>
+<fs xml:id="Zod-em" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.d-sl #Z4.e-sl #Z5.m-sl"/>
+<fs xml:id="Zod-eo" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.d-sl #Z4.e-sl #Z5.o-sl"/>
+<fs xml:id="Zod-dr" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.d-sl #Z4.d-sl #Z5.r-sl"/>
+<fs xml:id="Zod-dd" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.d-sl #Z4.d-sl #Z5.d-sl"/>
+<fs xml:id="Zod-dt" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.d-sl #Z4.d-sl #Z5.t-sl"/>
+<fs xml:id="Zod-dm" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.d-sl #Z4.d-sl #Z5.m-sl"/>
+<fs xml:id="Zod-do" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.d-sl #Z4.d-sl #Z5.o-sl"/>
+<fs xml:id="Zod-mr" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.d-sl #Z4.m-sl #Z5.r-sl"/>
+<fs xml:id="Zod-md" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.d-sl #Z4.m-sl #Z5.d-sl"/>
+<fs xml:id="Zod-mt" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.d-sl #Z4.m-sl #Z5.t-sl"/>
+<fs xml:id="Zod-mm" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.d-sl #Z4.m-sl #Z5.m-sl"/>
+<fs xml:id="Zod-mo" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.d-sl #Z4.m-sl #Z5.o-sl"/>
+<fs xml:id="Zodmdi" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.d-sl #Z3.m-sl #Z4.d-sl #Z5.i-sl"/>
+<fs xml:id="Zodmmi" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.d-sl #Z3.m-sl #Z4.m-sl #Z5.i-sl"/>
+<fs xml:id="Zodzdi" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.d-sl #Z3.z-sl #Z4.d-sl #Z5.i-sl"/>
+<fs xml:id="Zodzmi" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.d-sl #Z3.z-sl #Z4.m-sl #Z5.i-sl"/>
+<fs xml:id="Zodsdi" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.d-sl #Z3.s-sl #Z4.d-sl #Z5.i-sl"/>
+<fs xml:id="Zodsmi" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.d-sl #Z3.s-sl #Z4.m-sl #Z5.i-sl"/>
+<fs xml:id="Zotmei" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.i-sl"/>
+<fs xml:id="Zotmer" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.r-sl"/>
+<fs xml:id="Zotmer--k" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.r-sl #Z8.k-sl"/>
+<fs xml:id="Zotmed" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.d-sl"/>
+<fs xml:id="Zotmed--k" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.d-sl #Z8.k-sl"/>
+<fs xml:id="Zotmet" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.t-sl"/>
+<fs xml:id="Zotmet--k" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.t-sl #Z8.k-sl"/>
+<fs xml:id="Zotmet--z" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.t-sl #Z8.z-sl"/>
+<fs xml:id="Zotmem" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.m-sl"/>
+<fs xml:id="Zotmeo" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.o-sl"/>
+<fs xml:id="Zotmdi" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.i-sl"/>
+<fs xml:id="Zotmdr" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.r-sl"/>
+<fs xml:id="Zotmdr--k" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.r-sl #Z8.k-sl"/>
+<fs xml:id="Zotmdd" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.d-sl"/>
+<fs xml:id="Zotmdd--k" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.d-sl #Z8.k-sl"/>
+<fs xml:id="Zotmdt" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.t-sl"/>
+<fs xml:id="Zotmdt--k" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.t-sl #Z8.k-sl"/>
+<fs xml:id="Zotmdt--z" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.t-sl #Z8.z-sl"/>
+<fs xml:id="Zotmdm" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.m-sl"/>
+<fs xml:id="Zotmdo" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.o-sl"/>
+<fs xml:id="Zotmmi" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.i-sl"/>
+<fs xml:id="Zotmmr" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.r-sl"/>
+<fs xml:id="Zotmmr--k" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.r-sl #Z8.k-sl"/>
+<fs xml:id="Zotmmd" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.d-sl"/>
+<fs xml:id="Zotmmd--k" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.d-sl #Z8.k-sl"/>
+<fs xml:id="Zotmmt" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.t-sl"/>
+<fs xml:id="Zotmmt--k" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.t-sl #Z8.k-sl"/>
+<fs xml:id="Zotmmt--z" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.t-sl #Z8.z-sl"/>
+<fs xml:id="Zotmmm" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.m-sl"/>
+<fs xml:id="Zotmmo" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.o-sl"/>
+<fs xml:id="Zotzei" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.i-sl"/>
+<fs xml:id="Zotzer" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.r-sl"/>
+<fs xml:id="Zotzer--k" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.r-sl #Z8.k-sl"/>
+<fs xml:id="Zotzed" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.d-sl"/>
+<fs xml:id="Zotzed--k" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.d-sl #Z8.k-sl"/>
+<fs xml:id="Zotzet" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.t-sl"/>
+<fs xml:id="Zotzet--k" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.t-sl #Z8.k-sl"/>
+<fs xml:id="Zotzet--z" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.t-sl #Z8.z-sl"/>
+<fs xml:id="Zotzem" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.m-sl"/>
+<fs xml:id="Zotzeo" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.o-sl"/>
+<fs xml:id="Zotzdi" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.i-sl"/>
+<fs xml:id="Zotzdr" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.r-sl"/>
+<fs xml:id="Zotzdr--k" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.r-sl #Z8.k-sl"/>
+<fs xml:id="Zotzdd" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.d-sl"/>
+<fs xml:id="Zotzdd--k" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.d-sl #Z8.k-sl"/>
+<fs xml:id="Zotzdt" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.t-sl"/>
+<fs xml:id="Zotzdt--k" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.t-sl #Z8.k-sl"/>
+<fs xml:id="Zotzdt--z" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.t-sl #Z8.z-sl"/>
+<fs xml:id="Zotzdm" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.m-sl"/>
+<fs xml:id="Zotzdo" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.o-sl"/>
+<fs xml:id="Zotzmi" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.i-sl"/>
+<fs xml:id="Zotzmr" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.r-sl"/>
+<fs xml:id="Zotzmr--k" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.r-sl #Z8.k-sl"/>
+<fs xml:id="Zotzmd" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.d-sl"/>
+<fs xml:id="Zotzmd--k" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.d-sl #Z8.k-sl"/>
+<fs xml:id="Zotzmt" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.t-sl"/>
+<fs xml:id="Zotzmt--k" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.t-sl #Z8.k-sl"/>
+<fs xml:id="Zotzmt--z" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.t-sl #Z8.z-sl"/>
+<fs xml:id="Zotzmm" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.m-sl"/>
+<fs xml:id="Zotzmo" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.o-sl"/>
+<fs xml:id="Zotsei" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.i-sl"/>
+<fs xml:id="Zotser" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.r-sl"/>
+<fs xml:id="Zotser--k" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.r-sl #Z8.k-sl"/>
+<fs xml:id="Zotsed" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.d-sl"/>
+<fs xml:id="Zotsed--k" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.d-sl #Z8.k-sl"/>
+<fs xml:id="Zotset" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.t-sl"/>
+<fs xml:id="Zotset--k" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.t-sl #Z8.k-sl"/>
+<fs xml:id="Zotset--z" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.t-sl #Z8.z-sl"/>
+<fs xml:id="Zotsem" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.m-sl"/>
+<fs xml:id="Zotseo" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.o-sl"/>
+<fs xml:id="Zotsdi" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.i-sl"/>
+<fs xml:id="Zotsdr" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.r-sl"/>
+<fs xml:id="Zotsdr--k" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.r-sl #Z8.k-sl"/>
+<fs xml:id="Zotsdd" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.d-sl"/>
+<fs xml:id="Zotsdd--k" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.d-sl #Z8.k-sl"/>
+<fs xml:id="Zotsdt" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.t-sl"/>
+<fs xml:id="Zotsdt--k" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.t-sl #Z8.k-sl"/>
+<fs xml:id="Zotsdt--z" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.t-sl #Z8.z-sl"/>
+<fs xml:id="Zotsdm" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.m-sl"/>
+<fs xml:id="Zotsdo" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.o-sl"/>
+<fs xml:id="Zotsmi" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.i-sl"/>
+<fs xml:id="Zotsmr" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.r-sl"/>
+<fs xml:id="Zotsmr--k" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.r-sl #Z8.k-sl"/>
+<fs xml:id="Zotsmd" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.d-sl"/>
+<fs xml:id="Zotsmd--k" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.d-sl #Z8.k-sl"/>
+<fs xml:id="Zotsmt" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.t-sl"/>
+<fs xml:id="Zotsmt--k" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.t-sl #Z8.k-sl"/>
+<fs xml:id="Zotsmt--z" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.t-sl #Z8.z-sl"/>
+<fs xml:id="Zotsmm" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.m-sl"/>
+<fs xml:id="Zotsmo" xml:lang="sl" feats="#Z0-sl #Z1.o-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.o-sl"/>
+<fs xml:id="Zspmeie" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.e-sl #Z5.i-sl #Z6.e-sl"/>
+<fs xml:id="Zspmeid" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.e-sl #Z5.i-sl #Z6.d-sl"/>
+<fs xml:id="Zspmeim" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.e-sl #Z5.i-sl #Z6.m-sl"/>
+<fs xml:id="Zspmere" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.e-sl #Z5.r-sl #Z6.e-sl"/>
+<fs xml:id="Zspmerd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.e-sl #Z5.r-sl #Z6.d-sl"/>
+<fs xml:id="Zspmerm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.e-sl #Z5.r-sl #Z6.m-sl"/>
+<fs xml:id="Zspmede" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.e-sl #Z5.d-sl #Z6.e-sl"/>
+<fs xml:id="Zspmedd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.e-sl #Z5.d-sl #Z6.d-sl"/>
+<fs xml:id="Zspmedm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.e-sl #Z5.d-sl #Z6.m-sl"/>
+<fs xml:id="Zspmete" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.e-sl #Z5.t-sl #Z6.e-sl"/>
+<fs xml:id="Zspmetd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.e-sl #Z5.t-sl #Z6.d-sl"/>
+<fs xml:id="Zspmetm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.e-sl #Z5.t-sl #Z6.m-sl"/>
+<fs xml:id="Zspmeme" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.e-sl #Z5.m-sl #Z6.e-sl"/>
+<fs xml:id="Zspmemd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.e-sl #Z5.m-sl #Z6.d-sl"/>
+<fs xml:id="Zspmemm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.e-sl #Z5.m-sl #Z6.m-sl"/>
+<fs xml:id="Zspmeoe" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.e-sl #Z5.o-sl #Z6.e-sl"/>
+<fs xml:id="Zspmeod" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.e-sl #Z5.o-sl #Z6.d-sl"/>
+<fs xml:id="Zspmeom" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.e-sl #Z5.o-sl #Z6.m-sl"/>
+<fs xml:id="Zspmdie" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.d-sl #Z5.i-sl #Z6.e-sl"/>
+<fs xml:id="Zspmdid" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.d-sl #Z5.i-sl #Z6.d-sl"/>
+<fs xml:id="Zspmdim" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.d-sl #Z5.i-sl #Z6.m-sl"/>
+<fs xml:id="Zspmdre" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.d-sl #Z5.r-sl #Z6.e-sl"/>
+<fs xml:id="Zspmdrd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.d-sl #Z5.r-sl #Z6.d-sl"/>
+<fs xml:id="Zspmdrm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.d-sl #Z5.r-sl #Z6.m-sl"/>
+<fs xml:id="Zspmdde" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.d-sl #Z5.d-sl #Z6.e-sl"/>
+<fs xml:id="Zspmddd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.d-sl #Z5.d-sl #Z6.d-sl"/>
+<fs xml:id="Zspmddm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.d-sl #Z5.d-sl #Z6.m-sl"/>
+<fs xml:id="Zspmdte" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.d-sl #Z5.t-sl #Z6.e-sl"/>
+<fs xml:id="Zspmdtd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.d-sl #Z5.t-sl #Z6.d-sl"/>
+<fs xml:id="Zspmdtm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.d-sl #Z5.t-sl #Z6.m-sl"/>
+<fs xml:id="Zspmdme" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.d-sl #Z5.m-sl #Z6.e-sl"/>
+<fs xml:id="Zspmdmd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.d-sl #Z5.m-sl #Z6.d-sl"/>
+<fs xml:id="Zspmdmm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.d-sl #Z5.m-sl #Z6.m-sl"/>
+<fs xml:id="Zspmdoe" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.d-sl #Z5.o-sl #Z6.e-sl"/>
+<fs xml:id="Zspmdod" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.d-sl #Z5.o-sl #Z6.d-sl"/>
+<fs xml:id="Zspmdom" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.d-sl #Z5.o-sl #Z6.m-sl"/>
+<fs xml:id="Zspmmie" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.m-sl #Z5.i-sl #Z6.e-sl"/>
+<fs xml:id="Zspmmid" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.m-sl #Z5.i-sl #Z6.d-sl"/>
+<fs xml:id="Zspmmim" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.m-sl #Z5.i-sl #Z6.m-sl"/>
+<fs xml:id="Zspmmre" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.m-sl #Z5.r-sl #Z6.e-sl"/>
+<fs xml:id="Zspmmrd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.m-sl #Z5.r-sl #Z6.d-sl"/>
+<fs xml:id="Zspmmrm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.m-sl #Z5.r-sl #Z6.m-sl"/>
+<fs xml:id="Zspmmde" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.m-sl #Z5.d-sl #Z6.e-sl"/>
+<fs xml:id="Zspmmdd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.m-sl #Z5.d-sl #Z6.d-sl"/>
+<fs xml:id="Zspmmdm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.m-sl #Z5.d-sl #Z6.m-sl"/>
+<fs xml:id="Zspmmte" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.m-sl #Z5.t-sl #Z6.e-sl"/>
+<fs xml:id="Zspmmtd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.m-sl #Z5.t-sl #Z6.d-sl"/>
+<fs xml:id="Zspmmtm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.m-sl #Z5.t-sl #Z6.m-sl"/>
+<fs xml:id="Zspmmme" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.m-sl #Z5.m-sl #Z6.e-sl"/>
+<fs xml:id="Zspmmmd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.m-sl #Z5.m-sl #Z6.d-sl"/>
+<fs xml:id="Zspmmmm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.m-sl #Z5.m-sl #Z6.m-sl"/>
+<fs xml:id="Zspmmoe" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.m-sl #Z5.o-sl #Z6.e-sl"/>
+<fs xml:id="Zspmmod" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.m-sl #Z5.o-sl #Z6.d-sl"/>
+<fs xml:id="Zspmmom" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.m-sl #Z4.m-sl #Z5.o-sl #Z6.m-sl"/>
+<fs xml:id="Zspzeie" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.e-sl #Z5.i-sl #Z6.e-sl"/>
+<fs xml:id="Zspzeid" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.e-sl #Z5.i-sl #Z6.d-sl"/>
+<fs xml:id="Zspzeim" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.e-sl #Z5.i-sl #Z6.m-sl"/>
+<fs xml:id="Zspzere" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.e-sl #Z5.r-sl #Z6.e-sl"/>
+<fs xml:id="Zspzerd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.e-sl #Z5.r-sl #Z6.d-sl"/>
+<fs xml:id="Zspzerm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.e-sl #Z5.r-sl #Z6.m-sl"/>
+<fs xml:id="Zspzede" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.e-sl #Z5.d-sl #Z6.e-sl"/>
+<fs xml:id="Zspzedd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.e-sl #Z5.d-sl #Z6.d-sl"/>
+<fs xml:id="Zspzedm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.e-sl #Z5.d-sl #Z6.m-sl"/>
+<fs xml:id="Zspzete" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.e-sl #Z5.t-sl #Z6.e-sl"/>
+<fs xml:id="Zspzetd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.e-sl #Z5.t-sl #Z6.d-sl"/>
+<fs xml:id="Zspzetm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.e-sl #Z5.t-sl #Z6.m-sl"/>
+<fs xml:id="Zspzeme" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.e-sl #Z5.m-sl #Z6.e-sl"/>
+<fs xml:id="Zspzemd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.e-sl #Z5.m-sl #Z6.d-sl"/>
+<fs xml:id="Zspzemm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.e-sl #Z5.m-sl #Z6.m-sl"/>
+<fs xml:id="Zspzeoe" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.e-sl #Z5.o-sl #Z6.e-sl"/>
+<fs xml:id="Zspzeod" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.e-sl #Z5.o-sl #Z6.d-sl"/>
+<fs xml:id="Zspzeom" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.e-sl #Z5.o-sl #Z6.m-sl"/>
+<fs xml:id="Zspzdie" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.d-sl #Z5.i-sl #Z6.e-sl"/>
+<fs xml:id="Zspzdid" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.d-sl #Z5.i-sl #Z6.d-sl"/>
+<fs xml:id="Zspzdim" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.d-sl #Z5.i-sl #Z6.m-sl"/>
+<fs xml:id="Zspzdre" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.d-sl #Z5.r-sl #Z6.e-sl"/>
+<fs xml:id="Zspzdrd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.d-sl #Z5.r-sl #Z6.d-sl"/>
+<fs xml:id="Zspzdrm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.d-sl #Z5.r-sl #Z6.m-sl"/>
+<fs xml:id="Zspzdde" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.d-sl #Z5.d-sl #Z6.e-sl"/>
+<fs xml:id="Zspzddd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.d-sl #Z5.d-sl #Z6.d-sl"/>
+<fs xml:id="Zspzddm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.d-sl #Z5.d-sl #Z6.m-sl"/>
+<fs xml:id="Zspzdte" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.d-sl #Z5.t-sl #Z6.e-sl"/>
+<fs xml:id="Zspzdtd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.d-sl #Z5.t-sl #Z6.d-sl"/>
+<fs xml:id="Zspzdtm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.d-sl #Z5.t-sl #Z6.m-sl"/>
+<fs xml:id="Zspzdme" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.d-sl #Z5.m-sl #Z6.e-sl"/>
+<fs xml:id="Zspzdmd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.d-sl #Z5.m-sl #Z6.d-sl"/>
+<fs xml:id="Zspzdmm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.d-sl #Z5.m-sl #Z6.m-sl"/>
+<fs xml:id="Zspzdoe" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.d-sl #Z5.o-sl #Z6.e-sl"/>
+<fs xml:id="Zspzdod" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.d-sl #Z5.o-sl #Z6.d-sl"/>
+<fs xml:id="Zspzdom" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.d-sl #Z5.o-sl #Z6.m-sl"/>
+<fs xml:id="Zspzmie" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.m-sl #Z5.i-sl #Z6.e-sl"/>
+<fs xml:id="Zspzmid" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.m-sl #Z5.i-sl #Z6.d-sl"/>
+<fs xml:id="Zspzmim" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.m-sl #Z5.i-sl #Z6.m-sl"/>
+<fs xml:id="Zspzmre" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.m-sl #Z5.r-sl #Z6.e-sl"/>
+<fs xml:id="Zspzmrd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.m-sl #Z5.r-sl #Z6.d-sl"/>
+<fs xml:id="Zspzmrm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.m-sl #Z5.r-sl #Z6.m-sl"/>
+<fs xml:id="Zspzmde" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.m-sl #Z5.d-sl #Z6.e-sl"/>
+<fs xml:id="Zspzmdd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.m-sl #Z5.d-sl #Z6.d-sl"/>
+<fs xml:id="Zspzmdm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.m-sl #Z5.d-sl #Z6.m-sl"/>
+<fs xml:id="Zspzmte" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.m-sl #Z5.t-sl #Z6.e-sl"/>
+<fs xml:id="Zspzmtd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.m-sl #Z5.t-sl #Z6.d-sl"/>
+<fs xml:id="Zspzmtm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.m-sl #Z5.t-sl #Z6.m-sl"/>
+<fs xml:id="Zspzmme" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.m-sl #Z5.m-sl #Z6.e-sl"/>
+<fs xml:id="Zspzmmd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.m-sl #Z5.m-sl #Z6.d-sl"/>
+<fs xml:id="Zspzmmm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.m-sl #Z5.m-sl #Z6.m-sl"/>
+<fs xml:id="Zspzmoe" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.m-sl #Z5.o-sl #Z6.e-sl"/>
+<fs xml:id="Zspzmod" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.m-sl #Z5.o-sl #Z6.d-sl"/>
+<fs xml:id="Zspzmom" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.z-sl #Z4.m-sl #Z5.o-sl #Z6.m-sl"/>
+<fs xml:id="Zspseie" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.e-sl #Z5.i-sl #Z6.e-sl"/>
+<fs xml:id="Zspseid" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.e-sl #Z5.i-sl #Z6.d-sl"/>
+<fs xml:id="Zspseim" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.e-sl #Z5.i-sl #Z6.m-sl"/>
+<fs xml:id="Zspsere" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.e-sl #Z5.r-sl #Z6.e-sl"/>
+<fs xml:id="Zspserd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.e-sl #Z5.r-sl #Z6.d-sl"/>
+<fs xml:id="Zspserm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.e-sl #Z5.r-sl #Z6.m-sl"/>
+<fs xml:id="Zspsede" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.e-sl #Z5.d-sl #Z6.e-sl"/>
+<fs xml:id="Zspsedd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.e-sl #Z5.d-sl #Z6.d-sl"/>
+<fs xml:id="Zspsedm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.e-sl #Z5.d-sl #Z6.m-sl"/>
+<fs xml:id="Zspsete" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.e-sl #Z5.t-sl #Z6.e-sl"/>
+<fs xml:id="Zspsetd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.e-sl #Z5.t-sl #Z6.d-sl"/>
+<fs xml:id="Zspsetm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.e-sl #Z5.t-sl #Z6.m-sl"/>
+<fs xml:id="Zspseme" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.e-sl #Z5.m-sl #Z6.e-sl"/>
+<fs xml:id="Zspsemd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.e-sl #Z5.m-sl #Z6.d-sl"/>
+<fs xml:id="Zspsemm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.e-sl #Z5.m-sl #Z6.m-sl"/>
+<fs xml:id="Zspseoe" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.e-sl #Z5.o-sl #Z6.e-sl"/>
+<fs xml:id="Zspseod" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.e-sl #Z5.o-sl #Z6.d-sl"/>
+<fs xml:id="Zspseom" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.e-sl #Z5.o-sl #Z6.m-sl"/>
+<fs xml:id="Zspsdie" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.d-sl #Z5.i-sl #Z6.e-sl"/>
+<fs xml:id="Zspsdid" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.d-sl #Z5.i-sl #Z6.d-sl"/>
+<fs xml:id="Zspsdim" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.d-sl #Z5.i-sl #Z6.m-sl"/>
+<fs xml:id="Zspsdre" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.d-sl #Z5.r-sl #Z6.e-sl"/>
+<fs xml:id="Zspsdrd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.d-sl #Z5.r-sl #Z6.d-sl"/>
+<fs xml:id="Zspsdrm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.d-sl #Z5.r-sl #Z6.m-sl"/>
+<fs xml:id="Zspsdde" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.d-sl #Z5.d-sl #Z6.e-sl"/>
+<fs xml:id="Zspsddd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.d-sl #Z5.d-sl #Z6.d-sl"/>
+<fs xml:id="Zspsddm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.d-sl #Z5.d-sl #Z6.m-sl"/>
+<fs xml:id="Zspsdte" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.d-sl #Z5.t-sl #Z6.e-sl"/>
+<fs xml:id="Zspsdtd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.d-sl #Z5.t-sl #Z6.d-sl"/>
+<fs xml:id="Zspsdtm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.d-sl #Z5.t-sl #Z6.m-sl"/>
+<fs xml:id="Zspsdme" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.d-sl #Z5.m-sl #Z6.e-sl"/>
+<fs xml:id="Zspsdmd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.d-sl #Z5.m-sl #Z6.d-sl"/>
+<fs xml:id="Zspsdmm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.d-sl #Z5.m-sl #Z6.m-sl"/>
+<fs xml:id="Zspsdoe" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.d-sl #Z5.o-sl #Z6.e-sl"/>
+<fs xml:id="Zspsdod" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.d-sl #Z5.o-sl #Z6.d-sl"/>
+<fs xml:id="Zspsdom" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.d-sl #Z5.o-sl #Z6.m-sl"/>
+<fs xml:id="Zspsmie" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.m-sl #Z5.i-sl #Z6.e-sl"/>
+<fs xml:id="Zspsmid" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.m-sl #Z5.i-sl #Z6.d-sl"/>
+<fs xml:id="Zspsmim" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.m-sl #Z5.i-sl #Z6.m-sl"/>
+<fs xml:id="Zspsmre" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.m-sl #Z5.r-sl #Z6.e-sl"/>
+<fs xml:id="Zspsmrd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.m-sl #Z5.r-sl #Z6.d-sl"/>
+<fs xml:id="Zspsmrm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.m-sl #Z5.r-sl #Z6.m-sl"/>
+<fs xml:id="Zspsmde" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.m-sl #Z5.d-sl #Z6.e-sl"/>
+<fs xml:id="Zspsmdd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.m-sl #Z5.d-sl #Z6.d-sl"/>
+<fs xml:id="Zspsmdm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.m-sl #Z5.d-sl #Z6.m-sl"/>
+<fs xml:id="Zspsmte" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.m-sl #Z5.t-sl #Z6.e-sl"/>
+<fs xml:id="Zspsmtd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.m-sl #Z5.t-sl #Z6.d-sl"/>
+<fs xml:id="Zspsmtm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.m-sl #Z5.t-sl #Z6.m-sl"/>
+<fs xml:id="Zspsmme" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.m-sl #Z5.m-sl #Z6.e-sl"/>
+<fs xml:id="Zspsmmd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.m-sl #Z5.m-sl #Z6.d-sl"/>
+<fs xml:id="Zspsmmm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.m-sl #Z5.m-sl #Z6.m-sl"/>
+<fs xml:id="Zspsmoe" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.m-sl #Z5.o-sl #Z6.e-sl"/>
+<fs xml:id="Zspsmod" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.m-sl #Z5.o-sl #Z6.d-sl"/>
+<fs xml:id="Zspsmom" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.p-sl #Z3.s-sl #Z4.m-sl #Z5.o-sl #Z6.m-sl"/>
+<fs xml:id="Zsdmeie" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.e-sl #Z5.i-sl #Z6.e-sl"/>
+<fs xml:id="Zsdmeid" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.e-sl #Z5.i-sl #Z6.d-sl"/>
+<fs xml:id="Zsdmeim" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.e-sl #Z5.i-sl #Z6.m-sl"/>
+<fs xml:id="Zsdmere" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.e-sl #Z5.r-sl #Z6.e-sl"/>
+<fs xml:id="Zsdmerd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.e-sl #Z5.r-sl #Z6.d-sl"/>
+<fs xml:id="Zsdmerm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.e-sl #Z5.r-sl #Z6.m-sl"/>
+<fs xml:id="Zsdmede" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.e-sl #Z5.d-sl #Z6.e-sl"/>
+<fs xml:id="Zsdmedd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.e-sl #Z5.d-sl #Z6.d-sl"/>
+<fs xml:id="Zsdmedm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.e-sl #Z5.d-sl #Z6.m-sl"/>
+<fs xml:id="Zsdmete" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.e-sl #Z5.t-sl #Z6.e-sl"/>
+<fs xml:id="Zsdmetd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.e-sl #Z5.t-sl #Z6.d-sl"/>
+<fs xml:id="Zsdmetm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.e-sl #Z5.t-sl #Z6.m-sl"/>
+<fs xml:id="Zsdmeme" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.e-sl #Z5.m-sl #Z6.e-sl"/>
+<fs xml:id="Zsdmemd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.e-sl #Z5.m-sl #Z6.d-sl"/>
+<fs xml:id="Zsdmemm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.e-sl #Z5.m-sl #Z6.m-sl"/>
+<fs xml:id="Zsdmeoe" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.e-sl #Z5.o-sl #Z6.e-sl"/>
+<fs xml:id="Zsdmeod" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.e-sl #Z5.o-sl #Z6.d-sl"/>
+<fs xml:id="Zsdmeom" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.e-sl #Z5.o-sl #Z6.m-sl"/>
+<fs xml:id="Zsdmdie" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.d-sl #Z5.i-sl #Z6.e-sl"/>
+<fs xml:id="Zsdmdid" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.d-sl #Z5.i-sl #Z6.d-sl"/>
+<fs xml:id="Zsdmdim" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.d-sl #Z5.i-sl #Z6.m-sl"/>
+<fs xml:id="Zsdmdre" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.d-sl #Z5.r-sl #Z6.e-sl"/>
+<fs xml:id="Zsdmdrd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.d-sl #Z5.r-sl #Z6.d-sl"/>
+<fs xml:id="Zsdmdrm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.d-sl #Z5.r-sl #Z6.m-sl"/>
+<fs xml:id="Zsdmdde" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.d-sl #Z5.d-sl #Z6.e-sl"/>
+<fs xml:id="Zsdmddd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.d-sl #Z5.d-sl #Z6.d-sl"/>
+<fs xml:id="Zsdmddm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.d-sl #Z5.d-sl #Z6.m-sl"/>
+<fs xml:id="Zsdmdte" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.d-sl #Z5.t-sl #Z6.e-sl"/>
+<fs xml:id="Zsdmdtd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.d-sl #Z5.t-sl #Z6.d-sl"/>
+<fs xml:id="Zsdmdtm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.d-sl #Z5.t-sl #Z6.m-sl"/>
+<fs xml:id="Zsdmdme" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.d-sl #Z5.m-sl #Z6.e-sl"/>
+<fs xml:id="Zsdmdmd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.d-sl #Z5.m-sl #Z6.d-sl"/>
+<fs xml:id="Zsdmdmm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.d-sl #Z5.m-sl #Z6.m-sl"/>
+<fs xml:id="Zsdmdoe" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.d-sl #Z5.o-sl #Z6.e-sl"/>
+<fs xml:id="Zsdmdod" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.d-sl #Z5.o-sl #Z6.d-sl"/>
+<fs xml:id="Zsdmdom" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.d-sl #Z5.o-sl #Z6.m-sl"/>
+<fs xml:id="Zsdmmie" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.m-sl #Z5.i-sl #Z6.e-sl"/>
+<fs xml:id="Zsdmmid" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.m-sl #Z5.i-sl #Z6.d-sl"/>
+<fs xml:id="Zsdmmim" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.m-sl #Z5.i-sl #Z6.m-sl"/>
+<fs xml:id="Zsdmmre" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.m-sl #Z5.r-sl #Z6.e-sl"/>
+<fs xml:id="Zsdmmrd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.m-sl #Z5.r-sl #Z6.d-sl"/>
+<fs xml:id="Zsdmmrm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.m-sl #Z5.r-sl #Z6.m-sl"/>
+<fs xml:id="Zsdmmde" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.m-sl #Z5.d-sl #Z6.e-sl"/>
+<fs xml:id="Zsdmmdd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.m-sl #Z5.d-sl #Z6.d-sl"/>
+<fs xml:id="Zsdmmdm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.m-sl #Z5.d-sl #Z6.m-sl"/>
+<fs xml:id="Zsdmmte" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.m-sl #Z5.t-sl #Z6.e-sl"/>
+<fs xml:id="Zsdmmtd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.m-sl #Z5.t-sl #Z6.d-sl"/>
+<fs xml:id="Zsdmmtm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.m-sl #Z5.t-sl #Z6.m-sl"/>
+<fs xml:id="Zsdmmme" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.m-sl #Z5.m-sl #Z6.e-sl"/>
+<fs xml:id="Zsdmmmd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.m-sl #Z5.m-sl #Z6.d-sl"/>
+<fs xml:id="Zsdmmmm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.m-sl #Z5.m-sl #Z6.m-sl"/>
+<fs xml:id="Zsdmmoe" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.m-sl #Z5.o-sl #Z6.e-sl"/>
+<fs xml:id="Zsdmmod" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.m-sl #Z5.o-sl #Z6.d-sl"/>
+<fs xml:id="Zsdmmom" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.m-sl #Z4.m-sl #Z5.o-sl #Z6.m-sl"/>
+<fs xml:id="Zsdzeie" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.e-sl #Z5.i-sl #Z6.e-sl"/>
+<fs xml:id="Zsdzeid" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.e-sl #Z5.i-sl #Z6.d-sl"/>
+<fs xml:id="Zsdzeim" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.e-sl #Z5.i-sl #Z6.m-sl"/>
+<fs xml:id="Zsdzere" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.e-sl #Z5.r-sl #Z6.e-sl"/>
+<fs xml:id="Zsdzerd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.e-sl #Z5.r-sl #Z6.d-sl"/>
+<fs xml:id="Zsdzerm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.e-sl #Z5.r-sl #Z6.m-sl"/>
+<fs xml:id="Zsdzede" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.e-sl #Z5.d-sl #Z6.e-sl"/>
+<fs xml:id="Zsdzedd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.e-sl #Z5.d-sl #Z6.d-sl"/>
+<fs xml:id="Zsdzedm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.e-sl #Z5.d-sl #Z6.m-sl"/>
+<fs xml:id="Zsdzete" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.e-sl #Z5.t-sl #Z6.e-sl"/>
+<fs xml:id="Zsdzetd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.e-sl #Z5.t-sl #Z6.d-sl"/>
+<fs xml:id="Zsdzetm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.e-sl #Z5.t-sl #Z6.m-sl"/>
+<fs xml:id="Zsdzeme" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.e-sl #Z5.m-sl #Z6.e-sl"/>
+<fs xml:id="Zsdzemd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.e-sl #Z5.m-sl #Z6.d-sl"/>
+<fs xml:id="Zsdzemm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.e-sl #Z5.m-sl #Z6.m-sl"/>
+<fs xml:id="Zsdzeoe" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.e-sl #Z5.o-sl #Z6.e-sl"/>
+<fs xml:id="Zsdzeod" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.e-sl #Z5.o-sl #Z6.d-sl"/>
+<fs xml:id="Zsdzeom" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.e-sl #Z5.o-sl #Z6.m-sl"/>
+<fs xml:id="Zsdzdie" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.d-sl #Z5.i-sl #Z6.e-sl"/>
+<fs xml:id="Zsdzdid" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.d-sl #Z5.i-sl #Z6.d-sl"/>
+<fs xml:id="Zsdzdim" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.d-sl #Z5.i-sl #Z6.m-sl"/>
+<fs xml:id="Zsdzdre" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.d-sl #Z5.r-sl #Z6.e-sl"/>
+<fs xml:id="Zsdzdrd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.d-sl #Z5.r-sl #Z6.d-sl"/>
+<fs xml:id="Zsdzdrm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.d-sl #Z5.r-sl #Z6.m-sl"/>
+<fs xml:id="Zsdzdde" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.d-sl #Z5.d-sl #Z6.e-sl"/>
+<fs xml:id="Zsdzddd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.d-sl #Z5.d-sl #Z6.d-sl"/>
+<fs xml:id="Zsdzddm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.d-sl #Z5.d-sl #Z6.m-sl"/>
+<fs xml:id="Zsdzdte" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.d-sl #Z5.t-sl #Z6.e-sl"/>
+<fs xml:id="Zsdzdtd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.d-sl #Z5.t-sl #Z6.d-sl"/>
+<fs xml:id="Zsdzdtm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.d-sl #Z5.t-sl #Z6.m-sl"/>
+<fs xml:id="Zsdzdme" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.d-sl #Z5.m-sl #Z6.e-sl"/>
+<fs xml:id="Zsdzdmd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.d-sl #Z5.m-sl #Z6.d-sl"/>
+<fs xml:id="Zsdzdmm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.d-sl #Z5.m-sl #Z6.m-sl"/>
+<fs xml:id="Zsdzdoe" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.d-sl #Z5.o-sl #Z6.e-sl"/>
+<fs xml:id="Zsdzdod" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.d-sl #Z5.o-sl #Z6.d-sl"/>
+<fs xml:id="Zsdzdom" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.d-sl #Z5.o-sl #Z6.m-sl"/>
+<fs xml:id="Zsdzmie" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.m-sl #Z5.i-sl #Z6.e-sl"/>
+<fs xml:id="Zsdzmid" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.m-sl #Z5.i-sl #Z6.d-sl"/>
+<fs xml:id="Zsdzmim" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.m-sl #Z5.i-sl #Z6.m-sl"/>
+<fs xml:id="Zsdzmre" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.m-sl #Z5.r-sl #Z6.e-sl"/>
+<fs xml:id="Zsdzmrd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.m-sl #Z5.r-sl #Z6.d-sl"/>
+<fs xml:id="Zsdzmrm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.m-sl #Z5.r-sl #Z6.m-sl"/>
+<fs xml:id="Zsdzmde" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.m-sl #Z5.d-sl #Z6.e-sl"/>
+<fs xml:id="Zsdzmdd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.m-sl #Z5.d-sl #Z6.d-sl"/>
+<fs xml:id="Zsdzmdm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.m-sl #Z5.d-sl #Z6.m-sl"/>
+<fs xml:id="Zsdzmte" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.m-sl #Z5.t-sl #Z6.e-sl"/>
+<fs xml:id="Zsdzmtd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.m-sl #Z5.t-sl #Z6.d-sl"/>
+<fs xml:id="Zsdzmtm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.m-sl #Z5.t-sl #Z6.m-sl"/>
+<fs xml:id="Zsdzmme" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.m-sl #Z5.m-sl #Z6.e-sl"/>
+<fs xml:id="Zsdzmmd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.m-sl #Z5.m-sl #Z6.d-sl"/>
+<fs xml:id="Zsdzmmm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.m-sl #Z5.m-sl #Z6.m-sl"/>
+<fs xml:id="Zsdzmoe" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.m-sl #Z5.o-sl #Z6.e-sl"/>
+<fs xml:id="Zsdzmod" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.m-sl #Z5.o-sl #Z6.d-sl"/>
+<fs xml:id="Zsdzmom" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.z-sl #Z4.m-sl #Z5.o-sl #Z6.m-sl"/>
+<fs xml:id="Zsdseie" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.e-sl #Z5.i-sl #Z6.e-sl"/>
+<fs xml:id="Zsdseid" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.e-sl #Z5.i-sl #Z6.d-sl"/>
+<fs xml:id="Zsdseim" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.e-sl #Z5.i-sl #Z6.m-sl"/>
+<fs xml:id="Zsdsere" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.e-sl #Z5.r-sl #Z6.e-sl"/>
+<fs xml:id="Zsdserd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.e-sl #Z5.r-sl #Z6.d-sl"/>
+<fs xml:id="Zsdserm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.e-sl #Z5.r-sl #Z6.m-sl"/>
+<fs xml:id="Zsdsede" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.e-sl #Z5.d-sl #Z6.e-sl"/>
+<fs xml:id="Zsdsedd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.e-sl #Z5.d-sl #Z6.d-sl"/>
+<fs xml:id="Zsdsedm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.e-sl #Z5.d-sl #Z6.m-sl"/>
+<fs xml:id="Zsdsete" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.e-sl #Z5.t-sl #Z6.e-sl"/>
+<fs xml:id="Zsdsetd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.e-sl #Z5.t-sl #Z6.d-sl"/>
+<fs xml:id="Zsdsetm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.e-sl #Z5.t-sl #Z6.m-sl"/>
+<fs xml:id="Zsdseme" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.e-sl #Z5.m-sl #Z6.e-sl"/>
+<fs xml:id="Zsdsemd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.e-sl #Z5.m-sl #Z6.d-sl"/>
+<fs xml:id="Zsdsemm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.e-sl #Z5.m-sl #Z6.m-sl"/>
+<fs xml:id="Zsdseoe" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.e-sl #Z5.o-sl #Z6.e-sl"/>
+<fs xml:id="Zsdseod" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.e-sl #Z5.o-sl #Z6.d-sl"/>
+<fs xml:id="Zsdseom" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.e-sl #Z5.o-sl #Z6.m-sl"/>
+<fs xml:id="Zsdsdie" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.d-sl #Z5.i-sl #Z6.e-sl"/>
+<fs xml:id="Zsdsdid" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.d-sl #Z5.i-sl #Z6.d-sl"/>
+<fs xml:id="Zsdsdim" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.d-sl #Z5.i-sl #Z6.m-sl"/>
+<fs xml:id="Zsdsdre" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.d-sl #Z5.r-sl #Z6.e-sl"/>
+<fs xml:id="Zsdsdrd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.d-sl #Z5.r-sl #Z6.d-sl"/>
+<fs xml:id="Zsdsdrm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.d-sl #Z5.r-sl #Z6.m-sl"/>
+<fs xml:id="Zsdsdde" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.d-sl #Z5.d-sl #Z6.e-sl"/>
+<fs xml:id="Zsdsddd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.d-sl #Z5.d-sl #Z6.d-sl"/>
+<fs xml:id="Zsdsddm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.d-sl #Z5.d-sl #Z6.m-sl"/>
+<fs xml:id="Zsdsdte" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.d-sl #Z5.t-sl #Z6.e-sl"/>
+<fs xml:id="Zsdsdtd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.d-sl #Z5.t-sl #Z6.d-sl"/>
+<fs xml:id="Zsdsdtm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.d-sl #Z5.t-sl #Z6.m-sl"/>
+<fs xml:id="Zsdsdme" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.d-sl #Z5.m-sl #Z6.e-sl"/>
+<fs xml:id="Zsdsdmd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.d-sl #Z5.m-sl #Z6.d-sl"/>
+<fs xml:id="Zsdsdmm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.d-sl #Z5.m-sl #Z6.m-sl"/>
+<fs xml:id="Zsdsdoe" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.d-sl #Z5.o-sl #Z6.e-sl"/>
+<fs xml:id="Zsdsdod" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.d-sl #Z5.o-sl #Z6.d-sl"/>
+<fs xml:id="Zsdsdom" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.d-sl #Z5.o-sl #Z6.m-sl"/>
+<fs xml:id="Zsdsmie" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.m-sl #Z5.i-sl #Z6.e-sl"/>
+<fs xml:id="Zsdsmid" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.m-sl #Z5.i-sl #Z6.d-sl"/>
+<fs xml:id="Zsdsmim" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.m-sl #Z5.i-sl #Z6.m-sl"/>
+<fs xml:id="Zsdsmre" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.m-sl #Z5.r-sl #Z6.e-sl"/>
+<fs xml:id="Zsdsmrd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.m-sl #Z5.r-sl #Z6.d-sl"/>
+<fs xml:id="Zsdsmrm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.m-sl #Z5.r-sl #Z6.m-sl"/>
+<fs xml:id="Zsdsmde" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.m-sl #Z5.d-sl #Z6.e-sl"/>
+<fs xml:id="Zsdsmdd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.m-sl #Z5.d-sl #Z6.d-sl"/>
+<fs xml:id="Zsdsmdm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.m-sl #Z5.d-sl #Z6.m-sl"/>
+<fs xml:id="Zsdsmte" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.m-sl #Z5.t-sl #Z6.e-sl"/>
+<fs xml:id="Zsdsmtd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.m-sl #Z5.t-sl #Z6.d-sl"/>
+<fs xml:id="Zsdsmtm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.m-sl #Z5.t-sl #Z6.m-sl"/>
+<fs xml:id="Zsdsmme" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.m-sl #Z5.m-sl #Z6.e-sl"/>
+<fs xml:id="Zsdsmmd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.m-sl #Z5.m-sl #Z6.d-sl"/>
+<fs xml:id="Zsdsmmm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.m-sl #Z5.m-sl #Z6.m-sl"/>
+<fs xml:id="Zsdsmoe" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.m-sl #Z5.o-sl #Z6.e-sl"/>
+<fs xml:id="Zsdsmod" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.m-sl #Z5.o-sl #Z6.d-sl"/>
+<fs xml:id="Zsdsmom" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.d-sl #Z3.s-sl #Z4.m-sl #Z5.o-sl #Z6.m-sl"/>
+<fs xml:id="Zstmeiem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.i-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstmeiez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.i-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstmeies" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.i-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstmeid" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.i-sl #Z6.d-sl"/>
+<fs xml:id="Zstmeim" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.i-sl #Z6.m-sl"/>
+<fs xml:id="Zstmerem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.r-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstmerez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.r-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstmeres" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.r-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstmerd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.r-sl #Z6.d-sl"/>
+<fs xml:id="Zstmerm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.r-sl #Z6.m-sl"/>
+<fs xml:id="Zstmedem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.d-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstmedez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.d-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstmedes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.d-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstmedd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.d-sl #Z6.d-sl"/>
+<fs xml:id="Zstmedm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.d-sl #Z6.m-sl"/>
+<fs xml:id="Zstmetem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.t-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstmetez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.t-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstmetes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.t-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstmetd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.t-sl #Z6.d-sl"/>
+<fs xml:id="Zstmetm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.t-sl #Z6.m-sl"/>
+<fs xml:id="Zstmemem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.m-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstmemez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.m-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstmemes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.m-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstmemd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.m-sl #Z6.d-sl"/>
+<fs xml:id="Zstmemm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.m-sl #Z6.m-sl"/>
+<fs xml:id="Zstmeoem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.o-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstmeoez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.o-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstmeoes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.o-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstmeod" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.o-sl #Z6.d-sl"/>
+<fs xml:id="Zstmeom" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.e-sl #Z5.o-sl #Z6.m-sl"/>
+<fs xml:id="Zstmdiem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.i-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstmdiez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.i-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstmdies" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.i-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstmdid" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.i-sl #Z6.d-sl"/>
+<fs xml:id="Zstmdim" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.i-sl #Z6.m-sl"/>
+<fs xml:id="Zstmdrem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.r-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstmdrez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.r-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstmdres" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.r-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstmdrd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.r-sl #Z6.d-sl"/>
+<fs xml:id="Zstmdrm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.r-sl #Z6.m-sl"/>
+<fs xml:id="Zstmddem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.d-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstmddez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.d-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstmddes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.d-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstmddd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.d-sl #Z6.d-sl"/>
+<fs xml:id="Zstmddm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.d-sl #Z6.m-sl"/>
+<fs xml:id="Zstmdtem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.t-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstmdtez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.t-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstmdtes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.t-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstmdtd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.t-sl #Z6.d-sl"/>
+<fs xml:id="Zstmdtm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.t-sl #Z6.m-sl"/>
+<fs xml:id="Zstmdmem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.m-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstmdmez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.m-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstmdmes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.m-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstmdmd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.m-sl #Z6.d-sl"/>
+<fs xml:id="Zstmdmm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.m-sl #Z6.m-sl"/>
+<fs xml:id="Zstmdoem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.o-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstmdoez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.o-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstmdoes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.o-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstmdod" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.o-sl #Z6.d-sl"/>
+<fs xml:id="Zstmdom" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.d-sl #Z5.o-sl #Z6.m-sl"/>
+<fs xml:id="Zstmmiem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.i-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstmmiez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.i-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstmmies" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.i-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstmmid" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.i-sl #Z6.d-sl"/>
+<fs xml:id="Zstmmim" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.i-sl #Z6.m-sl"/>
+<fs xml:id="Zstmmrem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.r-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstmmrez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.r-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstmmres" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.r-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstmmrd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.r-sl #Z6.d-sl"/>
+<fs xml:id="Zstmmrm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.r-sl #Z6.m-sl"/>
+<fs xml:id="Zstmmdem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.d-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstmmdez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.d-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstmmdes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.d-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstmmdd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.d-sl #Z6.d-sl"/>
+<fs xml:id="Zstmmdm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.d-sl #Z6.m-sl"/>
+<fs xml:id="Zstmmtem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.t-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstmmtez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.t-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstmmtes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.t-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstmmtd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.t-sl #Z6.d-sl"/>
+<fs xml:id="Zstmmtm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.t-sl #Z6.m-sl"/>
+<fs xml:id="Zstmmmem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.m-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstmmmez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.m-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstmmmes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.m-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstmmmd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.m-sl #Z6.d-sl"/>
+<fs xml:id="Zstmmmm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.m-sl #Z6.m-sl"/>
+<fs xml:id="Zstmmoem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.o-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstmmoez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.o-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstmmoes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.o-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstmmod" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.o-sl #Z6.d-sl"/>
+<fs xml:id="Zstmmom" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.m-sl #Z4.m-sl #Z5.o-sl #Z6.m-sl"/>
+<fs xml:id="Zstzeiem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.i-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstzeiez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.i-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstzeies" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.i-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstzeid" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.i-sl #Z6.d-sl"/>
+<fs xml:id="Zstzeim" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.i-sl #Z6.m-sl"/>
+<fs xml:id="Zstzerem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.r-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstzerez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.r-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstzeres" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.r-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstzerd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.r-sl #Z6.d-sl"/>
+<fs xml:id="Zstzerm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.r-sl #Z6.m-sl"/>
+<fs xml:id="Zstzedem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.d-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstzedez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.d-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstzedes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.d-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstzedd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.d-sl #Z6.d-sl"/>
+<fs xml:id="Zstzedm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.d-sl #Z6.m-sl"/>
+<fs xml:id="Zstzetem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.t-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstzetez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.t-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstzetes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.t-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstzetd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.t-sl #Z6.d-sl"/>
+<fs xml:id="Zstzetm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.t-sl #Z6.m-sl"/>
+<fs xml:id="Zstzemem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.m-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstzemez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.m-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstzemes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.m-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstzemd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.m-sl #Z6.d-sl"/>
+<fs xml:id="Zstzemm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.m-sl #Z6.m-sl"/>
+<fs xml:id="Zstzeoem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.o-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstzeoez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.o-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstzeoes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.o-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstzeod" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.o-sl #Z6.d-sl"/>
+<fs xml:id="Zstzeom" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.e-sl #Z5.o-sl #Z6.m-sl"/>
+<fs xml:id="Zstzdiem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.i-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstzdiez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.i-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstzdies" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.i-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstzdid" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.i-sl #Z6.d-sl"/>
+<fs xml:id="Zstzdim" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.i-sl #Z6.m-sl"/>
+<fs xml:id="Zstzdrem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.r-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstzdrez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.r-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstzdres" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.r-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstzdrd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.r-sl #Z6.d-sl"/>
+<fs xml:id="Zstzdrm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.r-sl #Z6.m-sl"/>
+<fs xml:id="Zstzddem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.d-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstzddez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.d-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstzddes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.d-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstzddd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.d-sl #Z6.d-sl"/>
+<fs xml:id="Zstzddm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.d-sl #Z6.m-sl"/>
+<fs xml:id="Zstzdtem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.t-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstzdtez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.t-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstzdtes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.t-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstzdtd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.t-sl #Z6.d-sl"/>
+<fs xml:id="Zstzdtm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.t-sl #Z6.m-sl"/>
+<fs xml:id="Zstzdmem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.m-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstzdmez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.m-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstzdmes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.m-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstzdmd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.m-sl #Z6.d-sl"/>
+<fs xml:id="Zstzdmm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.m-sl #Z6.m-sl"/>
+<fs xml:id="Zstzdoem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.o-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstzdoez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.o-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstzdoes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.o-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstzdod" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.o-sl #Z6.d-sl"/>
+<fs xml:id="Zstzdom" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.d-sl #Z5.o-sl #Z6.m-sl"/>
+<fs xml:id="Zstzmiem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.i-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstzmiez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.i-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstzmies" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.i-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstzmid" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.i-sl #Z6.d-sl"/>
+<fs xml:id="Zstzmim" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.i-sl #Z6.m-sl"/>
+<fs xml:id="Zstzmrem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.r-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstzmrez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.r-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstzmres" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.r-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstzmrd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.r-sl #Z6.d-sl"/>
+<fs xml:id="Zstzmrm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.r-sl #Z6.m-sl"/>
+<fs xml:id="Zstzmdem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.d-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstzmdez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.d-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstzmdes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.d-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstzmdd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.d-sl #Z6.d-sl"/>
+<fs xml:id="Zstzmdm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.d-sl #Z6.m-sl"/>
+<fs xml:id="Zstzmtem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.t-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstzmtez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.t-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstzmtes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.t-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstzmtd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.t-sl #Z6.d-sl"/>
+<fs xml:id="Zstzmtm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.t-sl #Z6.m-sl"/>
+<fs xml:id="Zstzmmem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.m-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstzmmez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.m-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstzmmes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.m-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstzmmd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.m-sl #Z6.d-sl"/>
+<fs xml:id="Zstzmmm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.m-sl #Z6.m-sl"/>
+<fs xml:id="Zstzmoem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.o-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstzmoez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.o-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstzmoes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.o-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstzmod" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.o-sl #Z6.d-sl"/>
+<fs xml:id="Zstzmom" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.z-sl #Z4.m-sl #Z5.o-sl #Z6.m-sl"/>
+<fs xml:id="Zstseiem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.i-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstseiez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.i-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstseies" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.i-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstseid" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.i-sl #Z6.d-sl"/>
+<fs xml:id="Zstseim" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.i-sl #Z6.m-sl"/>
+<fs xml:id="Zstserem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.r-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstserez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.r-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstseres" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.r-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstserd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.r-sl #Z6.d-sl"/>
+<fs xml:id="Zstserm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.r-sl #Z6.m-sl"/>
+<fs xml:id="Zstsedem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.d-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstsedez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.d-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstsedes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.d-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstsedd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.d-sl #Z6.d-sl"/>
+<fs xml:id="Zstsedm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.d-sl #Z6.m-sl"/>
+<fs xml:id="Zstsetem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.t-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstsetez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.t-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstsetes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.t-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstsetd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.t-sl #Z6.d-sl"/>
+<fs xml:id="Zstsetm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.t-sl #Z6.m-sl"/>
+<fs xml:id="Zstsemem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.m-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstsemez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.m-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstsemes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.m-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstsemd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.m-sl #Z6.d-sl"/>
+<fs xml:id="Zstsemm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.m-sl #Z6.m-sl"/>
+<fs xml:id="Zstseoem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.o-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstseoez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.o-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstseoes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.o-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstseod" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.o-sl #Z6.d-sl"/>
+<fs xml:id="Zstseom" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.e-sl #Z5.o-sl #Z6.m-sl"/>
+<fs xml:id="Zstsdiem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.i-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstsdiez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.i-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstsdies" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.i-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstsdid" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.i-sl #Z6.d-sl"/>
+<fs xml:id="Zstsdim" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.i-sl #Z6.m-sl"/>
+<fs xml:id="Zstsdrem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.r-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstsdrez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.r-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstsdres" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.r-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstsdrd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.r-sl #Z6.d-sl"/>
+<fs xml:id="Zstsdrm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.r-sl #Z6.m-sl"/>
+<fs xml:id="Zstsddem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.d-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstsddez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.d-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstsddes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.d-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstsddd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.d-sl #Z6.d-sl"/>
+<fs xml:id="Zstsddm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.d-sl #Z6.m-sl"/>
+<fs xml:id="Zstsdtem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.t-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstsdtez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.t-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstsdtes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.t-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstsdtd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.t-sl #Z6.d-sl"/>
+<fs xml:id="Zstsdtm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.t-sl #Z6.m-sl"/>
+<fs xml:id="Zstsdmem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.m-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstsdmez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.m-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstsdmes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.m-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstsdmd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.m-sl #Z6.d-sl"/>
+<fs xml:id="Zstsdmm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.m-sl #Z6.m-sl"/>
+<fs xml:id="Zstsdoem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.o-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstsdoez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.o-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstsdoes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.o-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstsdod" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.o-sl #Z6.d-sl"/>
+<fs xml:id="Zstsdom" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.d-sl #Z5.o-sl #Z6.m-sl"/>
+<fs xml:id="Zstsmiem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.i-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstsmiez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.i-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstsmies" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.i-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstsmid" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.i-sl #Z6.d-sl"/>
+<fs xml:id="Zstsmim" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.i-sl #Z6.m-sl"/>
+<fs xml:id="Zstsmrem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.r-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstsmrez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.r-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstsmres" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.r-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstsmrd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.r-sl #Z6.d-sl"/>
+<fs xml:id="Zstsmrm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.r-sl #Z6.m-sl"/>
+<fs xml:id="Zstsmdem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.d-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstsmdez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.d-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstsmdes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.d-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstsmdd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.d-sl #Z6.d-sl"/>
+<fs xml:id="Zstsmdm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.d-sl #Z6.m-sl"/>
+<fs xml:id="Zstsmtem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.t-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstsmtez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.t-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstsmtes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.t-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstsmtd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.t-sl #Z6.d-sl"/>
+<fs xml:id="Zstsmtm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.t-sl #Z6.m-sl"/>
+<fs xml:id="Zstsmmem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.m-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstsmmez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.m-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstsmmes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.m-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstsmmd" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.m-sl #Z6.d-sl"/>
+<fs xml:id="Zstsmmm" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.m-sl #Z6.m-sl"/>
+<fs xml:id="Zstsmoem" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.o-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zstsmoez" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.o-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zstsmoes" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.o-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zstsmod" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.o-sl #Z6.d-sl"/>
+<fs xml:id="Zstsmom" xml:lang="sl" feats="#Z0-sl #Z1.s-sl #Z2.t-sl #Z3.s-sl #Z4.m-sl #Z5.o-sl #Z6.m-sl"/>
+<fs xml:id="Zk-mei" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.m-sl #Z4.e-sl #Z5.i-sl"/>
+<fs xml:id="Zk-mer" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.m-sl #Z4.e-sl #Z5.r-sl"/>
+<fs xml:id="Zk-med" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.m-sl #Z4.e-sl #Z5.d-sl"/>
+<fs xml:id="Zk-met" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.m-sl #Z4.e-sl #Z5.t-sl"/>
+<fs xml:id="Zk-mem" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.m-sl #Z4.e-sl #Z5.m-sl"/>
+<fs xml:id="Zk-meo" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.m-sl #Z4.e-sl #Z5.o-sl"/>
+<fs xml:id="Zk-mdi" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.m-sl #Z4.d-sl #Z5.i-sl"/>
+<fs xml:id="Zk-mdr" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.m-sl #Z4.d-sl #Z5.r-sl"/>
+<fs xml:id="Zk-mdd" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.m-sl #Z4.d-sl #Z5.d-sl"/>
+<fs xml:id="Zk-mdt" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.m-sl #Z4.d-sl #Z5.t-sl"/>
+<fs xml:id="Zk-mdm" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.m-sl #Z4.d-sl #Z5.m-sl"/>
+<fs xml:id="Zk-mdo" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.m-sl #Z4.d-sl #Z5.o-sl"/>
+<fs xml:id="Zk-mmi" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.m-sl #Z4.m-sl #Z5.i-sl"/>
+<fs xml:id="Zk-mmr" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.m-sl #Z4.m-sl #Z5.r-sl"/>
+<fs xml:id="Zk-mmd" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.m-sl #Z4.m-sl #Z5.d-sl"/>
+<fs xml:id="Zk-mmt" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.m-sl #Z4.m-sl #Z5.t-sl"/>
+<fs xml:id="Zk-mmm" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.m-sl #Z4.m-sl #Z5.m-sl"/>
+<fs xml:id="Zk-mmo" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.m-sl #Z4.m-sl #Z5.o-sl"/>
+<fs xml:id="Zk-zei" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.z-sl #Z4.e-sl #Z5.i-sl"/>
+<fs xml:id="Zk-zer" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.z-sl #Z4.e-sl #Z5.r-sl"/>
+<fs xml:id="Zk-zed" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.z-sl #Z4.e-sl #Z5.d-sl"/>
+<fs xml:id="Zk-zet" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.z-sl #Z4.e-sl #Z5.t-sl"/>
+<fs xml:id="Zk-zem" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.z-sl #Z4.e-sl #Z5.m-sl"/>
+<fs xml:id="Zk-zeo" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.z-sl #Z4.e-sl #Z5.o-sl"/>
+<fs xml:id="Zk-zdi" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.z-sl #Z4.d-sl #Z5.i-sl"/>
+<fs xml:id="Zk-zdr" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.z-sl #Z4.d-sl #Z5.r-sl"/>
+<fs xml:id="Zk-zdd" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.z-sl #Z4.d-sl #Z5.d-sl"/>
+<fs xml:id="Zk-zdt" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.z-sl #Z4.d-sl #Z5.t-sl"/>
+<fs xml:id="Zk-zdm" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.z-sl #Z4.d-sl #Z5.m-sl"/>
+<fs xml:id="Zk-zdo" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.z-sl #Z4.d-sl #Z5.o-sl"/>
+<fs xml:id="Zk-zmi" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.z-sl #Z4.m-sl #Z5.i-sl"/>
+<fs xml:id="Zk-zmr" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.z-sl #Z4.m-sl #Z5.r-sl"/>
+<fs xml:id="Zk-zmd" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.z-sl #Z4.m-sl #Z5.d-sl"/>
+<fs xml:id="Zk-zmt" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.z-sl #Z4.m-sl #Z5.t-sl"/>
+<fs xml:id="Zk-zmm" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.z-sl #Z4.m-sl #Z5.m-sl"/>
+<fs xml:id="Zk-zmo" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.z-sl #Z4.m-sl #Z5.o-sl"/>
+<fs xml:id="Zk-sei" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.s-sl #Z4.e-sl #Z5.i-sl"/>
+<fs xml:id="Zk-ser" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.s-sl #Z4.e-sl #Z5.r-sl"/>
+<fs xml:id="Zk-sed" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.s-sl #Z4.e-sl #Z5.d-sl"/>
+<fs xml:id="Zk-set" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.s-sl #Z4.e-sl #Z5.t-sl"/>
+<fs xml:id="Zk-sem" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.s-sl #Z4.e-sl #Z5.m-sl"/>
+<fs xml:id="Zk-seo" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.s-sl #Z4.e-sl #Z5.o-sl"/>
+<fs xml:id="Zk-sdi" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.s-sl #Z4.d-sl #Z5.i-sl"/>
+<fs xml:id="Zk-sdr" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.s-sl #Z4.d-sl #Z5.r-sl"/>
+<fs xml:id="Zk-sdd" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.s-sl #Z4.d-sl #Z5.d-sl"/>
+<fs xml:id="Zk-sdt" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.s-sl #Z4.d-sl #Z5.t-sl"/>
+<fs xml:id="Zk-sdm" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.s-sl #Z4.d-sl #Z5.m-sl"/>
+<fs xml:id="Zk-sdo" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.s-sl #Z4.d-sl #Z5.o-sl"/>
+<fs xml:id="Zk-smi" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.s-sl #Z4.m-sl #Z5.i-sl"/>
+<fs xml:id="Zk-smr" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.s-sl #Z4.m-sl #Z5.r-sl"/>
+<fs xml:id="Zk-smd" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.s-sl #Z4.m-sl #Z5.d-sl"/>
+<fs xml:id="Zk-smt" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.s-sl #Z4.m-sl #Z5.t-sl"/>
+<fs xml:id="Zk-smm" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.s-sl #Z4.m-sl #Z5.m-sl"/>
+<fs xml:id="Zk-smo" xml:lang="sl" feats="#Z0-sl #Z1.k-sl #Z3.s-sl #Z4.m-sl #Z5.o-sl"/>
+<fs xml:id="Zz" xml:lang="sl" feats="#Z0-sl #Z1.z-sl"/>
+<fs xml:id="Zz----em" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zz-mei" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.m-sl #Z4.e-sl #Z5.i-sl"/>
+<fs xml:id="Zz-mer" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.m-sl #Z4.e-sl #Z5.r-sl"/>
+<fs xml:id="Zz-med" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.m-sl #Z4.e-sl #Z5.d-sl"/>
+<fs xml:id="Zz-met" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.m-sl #Z4.e-sl #Z5.t-sl"/>
+<fs xml:id="Zz-mem" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.m-sl #Z4.e-sl #Z5.m-sl"/>
+<fs xml:id="Zz-meo" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.m-sl #Z4.e-sl #Z5.o-sl"/>
+<fs xml:id="Zz-mdi" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.m-sl #Z4.d-sl #Z5.i-sl"/>
+<fs xml:id="Zz-mdr" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.m-sl #Z4.d-sl #Z5.r-sl"/>
+<fs xml:id="Zz-mdd" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.m-sl #Z4.d-sl #Z5.d-sl"/>
+<fs xml:id="Zz-mdt" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.m-sl #Z4.d-sl #Z5.t-sl"/>
+<fs xml:id="Zz-mdm" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.m-sl #Z4.d-sl #Z5.m-sl"/>
+<fs xml:id="Zz-mdo" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.m-sl #Z4.d-sl #Z5.o-sl"/>
+<fs xml:id="Zz-mmi" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.m-sl #Z4.m-sl #Z5.i-sl"/>
+<fs xml:id="Zz-mmr" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.m-sl #Z4.m-sl #Z5.r-sl"/>
+<fs xml:id="Zz-mmd" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.m-sl #Z4.m-sl #Z5.d-sl"/>
+<fs xml:id="Zz-mmt" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.m-sl #Z4.m-sl #Z5.t-sl"/>
+<fs xml:id="Zz-mmm" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.m-sl #Z4.m-sl #Z5.m-sl"/>
+<fs xml:id="Zz-mmo" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.m-sl #Z4.m-sl #Z5.o-sl"/>
+<fs xml:id="Zz-zei" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.z-sl #Z4.e-sl #Z5.i-sl"/>
+<fs xml:id="Zz-zer" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.z-sl #Z4.e-sl #Z5.r-sl"/>
+<fs xml:id="Zz-zed" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.z-sl #Z4.e-sl #Z5.d-sl"/>
+<fs xml:id="Zz-zet" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.z-sl #Z4.e-sl #Z5.t-sl"/>
+<fs xml:id="Zz-zem" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.z-sl #Z4.e-sl #Z5.m-sl"/>
+<fs xml:id="Zz-zeo" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.z-sl #Z4.e-sl #Z5.o-sl"/>
+<fs xml:id="Zz-zdi" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.z-sl #Z4.d-sl #Z5.i-sl"/>
+<fs xml:id="Zz-zdr" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.z-sl #Z4.d-sl #Z5.r-sl"/>
+<fs xml:id="Zz-zdd" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.z-sl #Z4.d-sl #Z5.d-sl"/>
+<fs xml:id="Zz-zdt" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.z-sl #Z4.d-sl #Z5.t-sl"/>
+<fs xml:id="Zz-zdm" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.z-sl #Z4.d-sl #Z5.m-sl"/>
+<fs xml:id="Zz-zdo" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.z-sl #Z4.d-sl #Z5.o-sl"/>
+<fs xml:id="Zz-zmi" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.z-sl #Z4.m-sl #Z5.i-sl"/>
+<fs xml:id="Zz-zmr" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.z-sl #Z4.m-sl #Z5.r-sl"/>
+<fs xml:id="Zz-zmd" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.z-sl #Z4.m-sl #Z5.d-sl"/>
+<fs xml:id="Zz-zmt" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.z-sl #Z4.m-sl #Z5.t-sl"/>
+<fs xml:id="Zz-zmm" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.z-sl #Z4.m-sl #Z5.m-sl"/>
+<fs xml:id="Zz-zmo" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.z-sl #Z4.m-sl #Z5.o-sl"/>
+<fs xml:id="Zz-sei" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.s-sl #Z4.e-sl #Z5.i-sl"/>
+<fs xml:id="Zz-ser" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.s-sl #Z4.e-sl #Z5.r-sl"/>
+<fs xml:id="Zz-sed" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.s-sl #Z4.e-sl #Z5.d-sl"/>
+<fs xml:id="Zz-set" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.s-sl #Z4.e-sl #Z5.t-sl"/>
+<fs xml:id="Zz-sem" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.s-sl #Z4.e-sl #Z5.m-sl"/>
+<fs xml:id="Zz-seo" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.s-sl #Z4.e-sl #Z5.o-sl"/>
+<fs xml:id="Zz-sdi" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.s-sl #Z4.d-sl #Z5.i-sl"/>
+<fs xml:id="Zz-sdr" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.s-sl #Z4.d-sl #Z5.r-sl"/>
+<fs xml:id="Zz-sdd" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.s-sl #Z4.d-sl #Z5.d-sl"/>
+<fs xml:id="Zz-sdt" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.s-sl #Z4.d-sl #Z5.t-sl"/>
+<fs xml:id="Zz-sdm" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.s-sl #Z4.d-sl #Z5.m-sl"/>
+<fs xml:id="Zz-sdo" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.s-sl #Z4.d-sl #Z5.o-sl"/>
+<fs xml:id="Zz-smi" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.s-sl #Z4.m-sl #Z5.i-sl"/>
+<fs xml:id="Zz-smr" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.s-sl #Z4.m-sl #Z5.r-sl"/>
+<fs xml:id="Zz-smd" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.s-sl #Z4.m-sl #Z5.d-sl"/>
+<fs xml:id="Zz-smt" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.s-sl #Z4.m-sl #Z5.t-sl"/>
+<fs xml:id="Zz-smm" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.s-sl #Z4.m-sl #Z5.m-sl"/>
+<fs xml:id="Zz-smo" xml:lang="sl" feats="#Z0-sl #Z1.z-sl #Z3.s-sl #Z4.m-sl #Z5.o-sl"/>
+<fs xml:id="Zp------k" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z8.k-sl"/>
+<fs xml:id="Zp---r" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z5.r-sl"/>
+<fs xml:id="Zp---d" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z5.d-sl"/>
+<fs xml:id="Zp---d--k" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z5.d-sl #Z8.k-sl"/>
+<fs xml:id="Zp---t" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z5.t-sl"/>
+<fs xml:id="Zp---t--z" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z5.t-sl #Z8.z-sl"/>
+<fs xml:id="Zp---m" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z5.m-sl"/>
+<fs xml:id="Zp---o" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z5.o-sl"/>
+<fs xml:id="Zp-mei" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.m-sl #Z4.e-sl #Z5.i-sl"/>
+<fs xml:id="Zp-mer" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.m-sl #Z4.e-sl #Z5.r-sl"/>
+<fs xml:id="Zp-med" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.m-sl #Z4.e-sl #Z5.d-sl"/>
+<fs xml:id="Zp-met" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.m-sl #Z4.e-sl #Z5.t-sl"/>
+<fs xml:id="Zp-mem" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.m-sl #Z4.e-sl #Z5.m-sl"/>
+<fs xml:id="Zp-meo" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.m-sl #Z4.e-sl #Z5.o-sl"/>
+<fs xml:id="Zp-mdi" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.m-sl #Z4.d-sl #Z5.i-sl"/>
+<fs xml:id="Zp-mdr" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.m-sl #Z4.d-sl #Z5.r-sl"/>
+<fs xml:id="Zp-mdd" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.m-sl #Z4.d-sl #Z5.d-sl"/>
+<fs xml:id="Zp-mdt" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.m-sl #Z4.d-sl #Z5.t-sl"/>
+<fs xml:id="Zp-mdm" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.m-sl #Z4.d-sl #Z5.m-sl"/>
+<fs xml:id="Zp-mdo" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.m-sl #Z4.d-sl #Z5.o-sl"/>
+<fs xml:id="Zp-mmi" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.m-sl #Z4.m-sl #Z5.i-sl"/>
+<fs xml:id="Zp-mmr" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.m-sl #Z4.m-sl #Z5.r-sl"/>
+<fs xml:id="Zp-mmd" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.m-sl #Z4.m-sl #Z5.d-sl"/>
+<fs xml:id="Zp-mmt" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.m-sl #Z4.m-sl #Z5.t-sl"/>
+<fs xml:id="Zp-mmm" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.m-sl #Z4.m-sl #Z5.m-sl"/>
+<fs xml:id="Zp-mmo" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.m-sl #Z4.m-sl #Z5.o-sl"/>
+<fs xml:id="Zp-zei" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.z-sl #Z4.e-sl #Z5.i-sl"/>
+<fs xml:id="Zp-zer" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.z-sl #Z4.e-sl #Z5.r-sl"/>
+<fs xml:id="Zp-zed" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.z-sl #Z4.e-sl #Z5.d-sl"/>
+<fs xml:id="Zp-zet" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.z-sl #Z4.e-sl #Z5.t-sl"/>
+<fs xml:id="Zp-zem" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.z-sl #Z4.e-sl #Z5.m-sl"/>
+<fs xml:id="Zp-zeo" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.z-sl #Z4.e-sl #Z5.o-sl"/>
+<fs xml:id="Zp-zdi" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.z-sl #Z4.d-sl #Z5.i-sl"/>
+<fs xml:id="Zp-zdr" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.z-sl #Z4.d-sl #Z5.r-sl"/>
+<fs xml:id="Zp-zdd" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.z-sl #Z4.d-sl #Z5.d-sl"/>
+<fs xml:id="Zp-zdt" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.z-sl #Z4.d-sl #Z5.t-sl"/>
+<fs xml:id="Zp-zdm" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.z-sl #Z4.d-sl #Z5.m-sl"/>
+<fs xml:id="Zp-zdo" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.z-sl #Z4.d-sl #Z5.o-sl"/>
+<fs xml:id="Zp-zmi" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.z-sl #Z4.m-sl #Z5.i-sl"/>
+<fs xml:id="Zp-zmr" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.z-sl #Z4.m-sl #Z5.r-sl"/>
+<fs xml:id="Zp-zmd" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.z-sl #Z4.m-sl #Z5.d-sl"/>
+<fs xml:id="Zp-zmt" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.z-sl #Z4.m-sl #Z5.t-sl"/>
+<fs xml:id="Zp-zmm" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.z-sl #Z4.m-sl #Z5.m-sl"/>
+<fs xml:id="Zp-zmo" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.z-sl #Z4.m-sl #Z5.o-sl"/>
+<fs xml:id="Zp-sei" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.s-sl #Z4.e-sl #Z5.i-sl"/>
+<fs xml:id="Zp-ser" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.s-sl #Z4.e-sl #Z5.r-sl"/>
+<fs xml:id="Zp-sed" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.s-sl #Z4.e-sl #Z5.d-sl"/>
+<fs xml:id="Zp-set" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.s-sl #Z4.e-sl #Z5.t-sl"/>
+<fs xml:id="Zp-sem" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.s-sl #Z4.e-sl #Z5.m-sl"/>
+<fs xml:id="Zp-seo" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.s-sl #Z4.e-sl #Z5.o-sl"/>
+<fs xml:id="Zp-sdi" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.s-sl #Z4.d-sl #Z5.i-sl"/>
+<fs xml:id="Zp-sdr" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.s-sl #Z4.d-sl #Z5.r-sl"/>
+<fs xml:id="Zp-sdd" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.s-sl #Z4.d-sl #Z5.d-sl"/>
+<fs xml:id="Zp-sdt" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.s-sl #Z4.d-sl #Z5.t-sl"/>
+<fs xml:id="Zp-sdm" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.s-sl #Z4.d-sl #Z5.m-sl"/>
+<fs xml:id="Zp-sdo" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.s-sl #Z4.d-sl #Z5.o-sl"/>
+<fs xml:id="Zp-smi" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.s-sl #Z4.m-sl #Z5.i-sl"/>
+<fs xml:id="Zp-smr" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.s-sl #Z4.m-sl #Z5.r-sl"/>
+<fs xml:id="Zp-smd" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.s-sl #Z4.m-sl #Z5.d-sl"/>
+<fs xml:id="Zp-smt" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.s-sl #Z4.m-sl #Z5.t-sl"/>
+<fs xml:id="Zp-smm" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.s-sl #Z4.m-sl #Z5.m-sl"/>
+<fs xml:id="Zp-smo" xml:lang="sl" feats="#Z0-sl #Z1.p-sl #Z3.s-sl #Z4.m-sl #Z5.o-sl"/>
+<fs xml:id="Zc-mei" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.m-sl #Z4.e-sl #Z5.i-sl"/>
+<fs xml:id="Zc-mer" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.m-sl #Z4.e-sl #Z5.r-sl"/>
+<fs xml:id="Zc-med" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.m-sl #Z4.e-sl #Z5.d-sl"/>
+<fs xml:id="Zc-met" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.m-sl #Z4.e-sl #Z5.t-sl"/>
+<fs xml:id="Zc-mem" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.m-sl #Z4.e-sl #Z5.m-sl"/>
+<fs xml:id="Zc-meo" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.m-sl #Z4.e-sl #Z5.o-sl"/>
+<fs xml:id="Zc-mdi" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.m-sl #Z4.d-sl #Z5.i-sl"/>
+<fs xml:id="Zc-mdr" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.m-sl #Z4.d-sl #Z5.r-sl"/>
+<fs xml:id="Zc-mdd" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.m-sl #Z4.d-sl #Z5.d-sl"/>
+<fs xml:id="Zc-mdt" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.m-sl #Z4.d-sl #Z5.t-sl"/>
+<fs xml:id="Zc-mdm" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.m-sl #Z4.d-sl #Z5.m-sl"/>
+<fs xml:id="Zc-mdo" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.m-sl #Z4.d-sl #Z5.o-sl"/>
+<fs xml:id="Zc-mmi" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.m-sl #Z4.m-sl #Z5.i-sl"/>
+<fs xml:id="Zc-mmr" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.m-sl #Z4.m-sl #Z5.r-sl"/>
+<fs xml:id="Zc-mmd" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.m-sl #Z4.m-sl #Z5.d-sl"/>
+<fs xml:id="Zc-mmt" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.m-sl #Z4.m-sl #Z5.t-sl"/>
+<fs xml:id="Zc-mmm" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.m-sl #Z4.m-sl #Z5.m-sl"/>
+<fs xml:id="Zc-mmo" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.m-sl #Z4.m-sl #Z5.o-sl"/>
+<fs xml:id="Zc-zei" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.z-sl #Z4.e-sl #Z5.i-sl"/>
+<fs xml:id="Zc-zer" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.z-sl #Z4.e-sl #Z5.r-sl"/>
+<fs xml:id="Zc-zed" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.z-sl #Z4.e-sl #Z5.d-sl"/>
+<fs xml:id="Zc-zet" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.z-sl #Z4.e-sl #Z5.t-sl"/>
+<fs xml:id="Zc-zem" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.z-sl #Z4.e-sl #Z5.m-sl"/>
+<fs xml:id="Zc-zeo" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.z-sl #Z4.e-sl #Z5.o-sl"/>
+<fs xml:id="Zc-zdi" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.z-sl #Z4.d-sl #Z5.i-sl"/>
+<fs xml:id="Zc-zdr" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.z-sl #Z4.d-sl #Z5.r-sl"/>
+<fs xml:id="Zc-zdd" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.z-sl #Z4.d-sl #Z5.d-sl"/>
+<fs xml:id="Zc-zdt" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.z-sl #Z4.d-sl #Z5.t-sl"/>
+<fs xml:id="Zc-zdm" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.z-sl #Z4.d-sl #Z5.m-sl"/>
+<fs xml:id="Zc-zdo" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.z-sl #Z4.d-sl #Z5.o-sl"/>
+<fs xml:id="Zc-zmi" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.z-sl #Z4.m-sl #Z5.i-sl"/>
+<fs xml:id="Zc-zmr" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.z-sl #Z4.m-sl #Z5.r-sl"/>
+<fs xml:id="Zc-zmd" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.z-sl #Z4.m-sl #Z5.d-sl"/>
+<fs xml:id="Zc-zmt" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.z-sl #Z4.m-sl #Z5.t-sl"/>
+<fs xml:id="Zc-zmm" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.z-sl #Z4.m-sl #Z5.m-sl"/>
+<fs xml:id="Zc-zmo" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.z-sl #Z4.m-sl #Z5.o-sl"/>
+<fs xml:id="Zc-sei" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.s-sl #Z4.e-sl #Z5.i-sl"/>
+<fs xml:id="Zc-ser" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.s-sl #Z4.e-sl #Z5.r-sl"/>
+<fs xml:id="Zc-sed" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.s-sl #Z4.e-sl #Z5.d-sl"/>
+<fs xml:id="Zc-set" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.s-sl #Z4.e-sl #Z5.t-sl"/>
+<fs xml:id="Zc-sem" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.s-sl #Z4.e-sl #Z5.m-sl"/>
+<fs xml:id="Zc-seo" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.s-sl #Z4.e-sl #Z5.o-sl"/>
+<fs xml:id="Zc-sdi" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.s-sl #Z4.d-sl #Z5.i-sl"/>
+<fs xml:id="Zc-sdr" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.s-sl #Z4.d-sl #Z5.r-sl"/>
+<fs xml:id="Zc-sdd" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.s-sl #Z4.d-sl #Z5.d-sl"/>
+<fs xml:id="Zc-sdt" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.s-sl #Z4.d-sl #Z5.t-sl"/>
+<fs xml:id="Zc-sdm" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.s-sl #Z4.d-sl #Z5.m-sl"/>
+<fs xml:id="Zc-sdo" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.s-sl #Z4.d-sl #Z5.o-sl"/>
+<fs xml:id="Zc-smi" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.s-sl #Z4.m-sl #Z5.i-sl"/>
+<fs xml:id="Zc-smr" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.s-sl #Z4.m-sl #Z5.r-sl"/>
+<fs xml:id="Zc-smd" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.s-sl #Z4.m-sl #Z5.d-sl"/>
+<fs xml:id="Zc-smt" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.s-sl #Z4.m-sl #Z5.t-sl"/>
+<fs xml:id="Zc-smm" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.s-sl #Z4.m-sl #Z5.m-sl"/>
+<fs xml:id="Zc-smo" xml:lang="sl" feats="#Z0-sl #Z1.c-sl #Z3.s-sl #Z4.m-sl #Z5.o-sl"/>
+<fs xml:id="Zv----em" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z6.e-sl #Z7.m-sl"/>
+<fs xml:id="Zv----ez" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z6.e-sl #Z7.z-sl"/>
+<fs xml:id="Zv----es" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z6.e-sl #Z7.s-sl"/>
+<fs xml:id="Zv----d" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z6.d-sl"/>
+<fs xml:id="Zv----m" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z6.m-sl"/>
+<fs xml:id="Zv-mei" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.m-sl #Z4.e-sl #Z5.i-sl"/>
+<fs xml:id="Zv-mer" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.m-sl #Z4.e-sl #Z5.r-sl"/>
+<fs xml:id="Zv-med" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.m-sl #Z4.e-sl #Z5.d-sl"/>
+<fs xml:id="Zv-met" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.m-sl #Z4.e-sl #Z5.t-sl"/>
+<fs xml:id="Zv-mem" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.m-sl #Z4.e-sl #Z5.m-sl"/>
+<fs xml:id="Zv-meo" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.m-sl #Z4.e-sl #Z5.o-sl"/>
+<fs xml:id="Zv-mdi" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.m-sl #Z4.d-sl #Z5.i-sl"/>
+<fs xml:id="Zv-mdr" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.m-sl #Z4.d-sl #Z5.r-sl"/>
+<fs xml:id="Zv-mdd" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.m-sl #Z4.d-sl #Z5.d-sl"/>
+<fs xml:id="Zv-mdt" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.m-sl #Z4.d-sl #Z5.t-sl"/>
+<fs xml:id="Zv-mdm" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.m-sl #Z4.d-sl #Z5.m-sl"/>
+<fs xml:id="Zv-mdo" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.m-sl #Z4.d-sl #Z5.o-sl"/>
+<fs xml:id="Zv-mmi" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.m-sl #Z4.m-sl #Z5.i-sl"/>
+<fs xml:id="Zv-mmr" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.m-sl #Z4.m-sl #Z5.r-sl"/>
+<fs xml:id="Zv-mmd" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.m-sl #Z4.m-sl #Z5.d-sl"/>
+<fs xml:id="Zv-mmt" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.m-sl #Z4.m-sl #Z5.t-sl"/>
+<fs xml:id="Zv-mmm" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.m-sl #Z4.m-sl #Z5.m-sl"/>
+<fs xml:id="Zv-mmo" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.m-sl #Z4.m-sl #Z5.o-sl"/>
+<fs xml:id="Zv-zei" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.z-sl #Z4.e-sl #Z5.i-sl"/>
+<fs xml:id="Zv-zer" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.z-sl #Z4.e-sl #Z5.r-sl"/>
+<fs xml:id="Zv-zed" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.z-sl #Z4.e-sl #Z5.d-sl"/>
+<fs xml:id="Zv-zet" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.z-sl #Z4.e-sl #Z5.t-sl"/>
+<fs xml:id="Zv-zem" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.z-sl #Z4.e-sl #Z5.m-sl"/>
+<fs xml:id="Zv-zeo" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.z-sl #Z4.e-sl #Z5.o-sl"/>
+<fs xml:id="Zv-zdi" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.z-sl #Z4.d-sl #Z5.i-sl"/>
+<fs xml:id="Zv-zdr" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.z-sl #Z4.d-sl #Z5.r-sl"/>
+<fs xml:id="Zv-zdd" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.z-sl #Z4.d-sl #Z5.d-sl"/>
+<fs xml:id="Zv-zdt" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.z-sl #Z4.d-sl #Z5.t-sl"/>
+<fs xml:id="Zv-zdm" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.z-sl #Z4.d-sl #Z5.m-sl"/>
+<fs xml:id="Zv-zdo" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.z-sl #Z4.d-sl #Z5.o-sl"/>
+<fs xml:id="Zv-zmi" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.z-sl #Z4.m-sl #Z5.i-sl"/>
+<fs xml:id="Zv-zmr" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.z-sl #Z4.m-sl #Z5.r-sl"/>
+<fs xml:id="Zv-zmd" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.z-sl #Z4.m-sl #Z5.d-sl"/>
+<fs xml:id="Zv-zmt" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.z-sl #Z4.m-sl #Z5.t-sl"/>
+<fs xml:id="Zv-zmm" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.z-sl #Z4.m-sl #Z5.m-sl"/>
+<fs xml:id="Zv-zmo" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.z-sl #Z4.m-sl #Z5.o-sl"/>
+<fs xml:id="Zv-sei" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.s-sl #Z4.e-sl #Z5.i-sl"/>
+<fs xml:id="Zv-ser" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.s-sl #Z4.e-sl #Z5.r-sl"/>
+<fs xml:id="Zv-sed" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.s-sl #Z4.e-sl #Z5.d-sl"/>
+<fs xml:id="Zv-set" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.s-sl #Z4.e-sl #Z5.t-sl"/>
+<fs xml:id="Zv-sem" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.s-sl #Z4.e-sl #Z5.m-sl"/>
+<fs xml:id="Zv-seo" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.s-sl #Z4.e-sl #Z5.o-sl"/>
+<fs xml:id="Zv-sdi" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.s-sl #Z4.d-sl #Z5.i-sl"/>
+<fs xml:id="Zv-sdr" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.s-sl #Z4.d-sl #Z5.r-sl"/>
+<fs xml:id="Zv-sdd" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.s-sl #Z4.d-sl #Z5.d-sl"/>
+<fs xml:id="Zv-sdt" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.s-sl #Z4.d-sl #Z5.t-sl"/>
+<fs xml:id="Zv-sdm" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.s-sl #Z4.d-sl #Z5.m-sl"/>
+<fs xml:id="Zv-sdo" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.s-sl #Z4.d-sl #Z5.o-sl"/>
+<fs xml:id="Zv-smi" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.s-sl #Z4.m-sl #Z5.i-sl"/>
+<fs xml:id="Zv-smr" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.s-sl #Z4.m-sl #Z5.r-sl"/>
+<fs xml:id="Zv-smd" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.s-sl #Z4.m-sl #Z5.d-sl"/>
+<fs xml:id="Zv-smt" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.s-sl #Z4.m-sl #Z5.t-sl"/>
+<fs xml:id="Zv-smm" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.s-sl #Z4.m-sl #Z5.m-sl"/>
+<fs xml:id="Zv-smo" xml:lang="sl" feats="#Z0-sl #Z1.v-sl #Z3.s-sl #Z4.m-sl #Z5.o-sl"/>
+<fs xml:id="Zn-mei" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.m-sl #Z4.e-sl #Z5.i-sl"/>
+<fs xml:id="Zn-mer" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.m-sl #Z4.e-sl #Z5.r-sl"/>
+<fs xml:id="Zn-med" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.m-sl #Z4.e-sl #Z5.d-sl"/>
+<fs xml:id="Zn-met" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.m-sl #Z4.e-sl #Z5.t-sl"/>
+<fs xml:id="Zn-mem" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.m-sl #Z4.e-sl #Z5.m-sl"/>
+<fs xml:id="Zn-meo" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.m-sl #Z4.e-sl #Z5.o-sl"/>
+<fs xml:id="Zn-mdi" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.m-sl #Z4.d-sl #Z5.i-sl"/>
+<fs xml:id="Zn-mdr" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.m-sl #Z4.d-sl #Z5.r-sl"/>
+<fs xml:id="Zn-mdd" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.m-sl #Z4.d-sl #Z5.d-sl"/>
+<fs xml:id="Zn-mdt" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.m-sl #Z4.d-sl #Z5.t-sl"/>
+<fs xml:id="Zn-mdm" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.m-sl #Z4.d-sl #Z5.m-sl"/>
+<fs xml:id="Zn-mdo" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.m-sl #Z4.d-sl #Z5.o-sl"/>
+<fs xml:id="Zn-mmi" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.m-sl #Z4.m-sl #Z5.i-sl"/>
+<fs xml:id="Zn-mmr" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.m-sl #Z4.m-sl #Z5.r-sl"/>
+<fs xml:id="Zn-mmd" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.m-sl #Z4.m-sl #Z5.d-sl"/>
+<fs xml:id="Zn-mmt" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.m-sl #Z4.m-sl #Z5.t-sl"/>
+<fs xml:id="Zn-mmm" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.m-sl #Z4.m-sl #Z5.m-sl"/>
+<fs xml:id="Zn-mmo" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.m-sl #Z4.m-sl #Z5.o-sl"/>
+<fs xml:id="Zn-zei" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.z-sl #Z4.e-sl #Z5.i-sl"/>
+<fs xml:id="Zn-zer" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.z-sl #Z4.e-sl #Z5.r-sl"/>
+<fs xml:id="Zn-zed" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.z-sl #Z4.e-sl #Z5.d-sl"/>
+<fs xml:id="Zn-zet" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.z-sl #Z4.e-sl #Z5.t-sl"/>
+<fs xml:id="Zn-zem" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.z-sl #Z4.e-sl #Z5.m-sl"/>
+<fs xml:id="Zn-zeo" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.z-sl #Z4.e-sl #Z5.o-sl"/>
+<fs xml:id="Zn-zdi" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.z-sl #Z4.d-sl #Z5.i-sl"/>
+<fs xml:id="Zn-zdr" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.z-sl #Z4.d-sl #Z5.r-sl"/>
+<fs xml:id="Zn-zdd" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.z-sl #Z4.d-sl #Z5.d-sl"/>
+<fs xml:id="Zn-zdt" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.z-sl #Z4.d-sl #Z5.t-sl"/>
+<fs xml:id="Zn-zdm" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.z-sl #Z4.d-sl #Z5.m-sl"/>
+<fs xml:id="Zn-zdo" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.z-sl #Z4.d-sl #Z5.o-sl"/>
+<fs xml:id="Zn-zmi" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.z-sl #Z4.m-sl #Z5.i-sl"/>
+<fs xml:id="Zn-zmr" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.z-sl #Z4.m-sl #Z5.r-sl"/>
+<fs xml:id="Zn-zmd" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.z-sl #Z4.m-sl #Z5.d-sl"/>
+<fs xml:id="Zn-zmt" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.z-sl #Z4.m-sl #Z5.t-sl"/>
+<fs xml:id="Zn-zmm" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.z-sl #Z4.m-sl #Z5.m-sl"/>
+<fs xml:id="Zn-zmo" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.z-sl #Z4.m-sl #Z5.o-sl"/>
+<fs xml:id="Zn-sei" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.s-sl #Z4.e-sl #Z5.i-sl"/>
+<fs xml:id="Zn-ser" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.s-sl #Z4.e-sl #Z5.r-sl"/>
+<fs xml:id="Zn-sed" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.s-sl #Z4.e-sl #Z5.d-sl"/>
+<fs xml:id="Zn-set" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.s-sl #Z4.e-sl #Z5.t-sl"/>
+<fs xml:id="Zn-sem" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.s-sl #Z4.e-sl #Z5.m-sl"/>
+<fs xml:id="Zn-seo" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.s-sl #Z4.e-sl #Z5.o-sl"/>
+<fs xml:id="Zn-sdi" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.s-sl #Z4.d-sl #Z5.i-sl"/>
+<fs xml:id="Zn-sdr" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.s-sl #Z4.d-sl #Z5.r-sl"/>
+<fs xml:id="Zn-sdd" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.s-sl #Z4.d-sl #Z5.d-sl"/>
+<fs xml:id="Zn-sdt" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.s-sl #Z4.d-sl #Z5.t-sl"/>
+<fs xml:id="Zn-sdm" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.s-sl #Z4.d-sl #Z5.m-sl"/>
+<fs xml:id="Zn-sdo" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.s-sl #Z4.d-sl #Z5.o-sl"/>
+<fs xml:id="Zn-smi" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.s-sl #Z4.m-sl #Z5.i-sl"/>
+<fs xml:id="Zn-smr" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.s-sl #Z4.m-sl #Z5.r-sl"/>
+<fs xml:id="Zn-smd" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.s-sl #Z4.m-sl #Z5.d-sl"/>
+<fs xml:id="Zn-smt" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.s-sl #Z4.m-sl #Z5.t-sl"/>
+<fs xml:id="Zn-smm" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.s-sl #Z4.m-sl #Z5.m-sl"/>
+<fs xml:id="Zn-smo" xml:lang="sl" feats="#Z0-sl #Z1.n-sl #Z3.s-sl #Z4.m-sl #Z5.o-sl"/>
+<fs xml:id="Zl-mei" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.m-sl #Z4.e-sl #Z5.i-sl"/>
+<fs xml:id="Zl-mer" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.m-sl #Z4.e-sl #Z5.r-sl"/>
+<fs xml:id="Zl-med" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.m-sl #Z4.e-sl #Z5.d-sl"/>
+<fs xml:id="Zl-met" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.m-sl #Z4.e-sl #Z5.t-sl"/>
+<fs xml:id="Zl-mem" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.m-sl #Z4.e-sl #Z5.m-sl"/>
+<fs xml:id="Zl-meo" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.m-sl #Z4.e-sl #Z5.o-sl"/>
+<fs xml:id="Zl-mdi" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.m-sl #Z4.d-sl #Z5.i-sl"/>
+<fs xml:id="Zl-mdr" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.m-sl #Z4.d-sl #Z5.r-sl"/>
+<fs xml:id="Zl-mdd" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.m-sl #Z4.d-sl #Z5.d-sl"/>
+<fs xml:id="Zl-mdt" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.m-sl #Z4.d-sl #Z5.t-sl"/>
+<fs xml:id="Zl-mdm" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.m-sl #Z4.d-sl #Z5.m-sl"/>
+<fs xml:id="Zl-mdo" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.m-sl #Z4.d-sl #Z5.o-sl"/>
+<fs xml:id="Zl-mmi" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.m-sl #Z4.m-sl #Z5.i-sl"/>
+<fs xml:id="Zl-mmr" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.m-sl #Z4.m-sl #Z5.r-sl"/>
+<fs xml:id="Zl-mmd" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.m-sl #Z4.m-sl #Z5.d-sl"/>
+<fs xml:id="Zl-mmt" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.m-sl #Z4.m-sl #Z5.t-sl"/>
+<fs xml:id="Zl-mmm" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.m-sl #Z4.m-sl #Z5.m-sl"/>
+<fs xml:id="Zl-mmo" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.m-sl #Z4.m-sl #Z5.o-sl"/>
+<fs xml:id="Zl-zei" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.z-sl #Z4.e-sl #Z5.i-sl"/>
+<fs xml:id="Zl-zer" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.z-sl #Z4.e-sl #Z5.r-sl"/>
+<fs xml:id="Zl-zed" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.z-sl #Z4.e-sl #Z5.d-sl"/>
+<fs xml:id="Zl-zet" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.z-sl #Z4.e-sl #Z5.t-sl"/>
+<fs xml:id="Zl-zem" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.z-sl #Z4.e-sl #Z5.m-sl"/>
+<fs xml:id="Zl-zeo" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.z-sl #Z4.e-sl #Z5.o-sl"/>
+<fs xml:id="Zl-zdi" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.z-sl #Z4.d-sl #Z5.i-sl"/>
+<fs xml:id="Zl-zdr" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.z-sl #Z4.d-sl #Z5.r-sl"/>
+<fs xml:id="Zl-zdd" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.z-sl #Z4.d-sl #Z5.d-sl"/>
+<fs xml:id="Zl-zdt" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.z-sl #Z4.d-sl #Z5.t-sl"/>
+<fs xml:id="Zl-zdm" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.z-sl #Z4.d-sl #Z5.m-sl"/>
+<fs xml:id="Zl-zdo" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.z-sl #Z4.d-sl #Z5.o-sl"/>
+<fs xml:id="Zl-zmi" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.z-sl #Z4.m-sl #Z5.i-sl"/>
+<fs xml:id="Zl-zmr" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.z-sl #Z4.m-sl #Z5.r-sl"/>
+<fs xml:id="Zl-zmd" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.z-sl #Z4.m-sl #Z5.d-sl"/>
+<fs xml:id="Zl-zmt" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.z-sl #Z4.m-sl #Z5.t-sl"/>
+<fs xml:id="Zl-zmm" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.z-sl #Z4.m-sl #Z5.m-sl"/>
+<fs xml:id="Zl-zmo" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.z-sl #Z4.m-sl #Z5.o-sl"/>
+<fs xml:id="Zl-sei" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.s-sl #Z4.e-sl #Z5.i-sl"/>
+<fs xml:id="Zl-ser" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.s-sl #Z4.e-sl #Z5.r-sl"/>
+<fs xml:id="Zl-sed" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.s-sl #Z4.e-sl #Z5.d-sl"/>
+<fs xml:id="Zl-set" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.s-sl #Z4.e-sl #Z5.t-sl"/>
+<fs xml:id="Zl-sem" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.s-sl #Z4.e-sl #Z5.m-sl"/>
+<fs xml:id="Zl-seo" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.s-sl #Z4.e-sl #Z5.o-sl"/>
+<fs xml:id="Zl-sdi" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.s-sl #Z4.d-sl #Z5.i-sl"/>
+<fs xml:id="Zl-sdr" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.s-sl #Z4.d-sl #Z5.r-sl"/>
+<fs xml:id="Zl-sdd" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.s-sl #Z4.d-sl #Z5.d-sl"/>
+<fs xml:id="Zl-sdt" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.s-sl #Z4.d-sl #Z5.t-sl"/>
+<fs xml:id="Zl-sdm" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.s-sl #Z4.d-sl #Z5.m-sl"/>
+<fs xml:id="Zl-sdo" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.s-sl #Z4.d-sl #Z5.o-sl"/>
+<fs xml:id="Zl-smi" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.s-sl #Z4.m-sl #Z5.i-sl"/>
+<fs xml:id="Zl-smr" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.s-sl #Z4.m-sl #Z5.r-sl"/>
+<fs xml:id="Zl-smd" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.s-sl #Z4.m-sl #Z5.d-sl"/>
+<fs xml:id="Zl-smt" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.s-sl #Z4.m-sl #Z5.t-sl"/>
+<fs xml:id="Zl-smm" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.s-sl #Z4.m-sl #Z5.m-sl"/>
+<fs xml:id="Zl-smo" xml:lang="sl" feats="#Z0-sl #Z1.l-sl #Z3.s-sl #Z4.m-sl #Z5.o-sl"/>
+<fs xml:id="Kag" xml:lang="sl" feats="#K0-sl #K1.a-sl #K2.g-sl"/>
+<fs xml:id="Kav" xml:lang="sl" feats="#K0-sl #K1.a-sl #K2.v-sl"/>
+<fs xml:id="Krg" xml:lang="sl" feats="#K0-sl #K1.r-sl #K2.g-sl"/>
+<fs xml:id="Krv" xml:lang="sl" feats="#K0-sl #K1.r-sl #K2.v-sl"/>
+<fs xml:id="Kbg-mi" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K4.m-sl #K5.i-sl"/>
+<fs xml:id="Kbg-mr" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K4.m-sl #K5.r-sl"/>
+<fs xml:id="Kbg-md" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K4.m-sl #K5.d-sl"/>
+<fs xml:id="Kbg-mt" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K4.m-sl #K5.t-sl"/>
+<fs xml:id="Kbg-mm" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K4.m-sl #K5.m-sl"/>
+<fs xml:id="Kbg-mo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K4.m-sl #K5.o-sl"/>
+<fs xml:id="Kbgmdi" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.m-sl #K4.d-sl #K5.i-sl"/>
+<fs xml:id="Kbgmdr" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.m-sl #K4.d-sl #K5.r-sl"/>
+<fs xml:id="Kbgmdd" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.m-sl #K4.d-sl #K5.d-sl"/>
+<fs xml:id="Kbgmdt" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.m-sl #K4.d-sl #K5.t-sl"/>
+<fs xml:id="Kbgmdm" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.m-sl #K4.d-sl #K5.m-sl"/>
+<fs xml:id="Kbgmdo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.m-sl #K4.d-sl #K5.o-sl"/>
+<fs xml:id="Kbgmmi" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.m-sl #K4.m-sl #K5.i-sl"/>
+<fs xml:id="Kbgmmr" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.m-sl #K4.m-sl #K5.r-sl"/>
+<fs xml:id="Kbgmmd" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.m-sl #K4.m-sl #K5.d-sl"/>
+<fs xml:id="Kbgmmt" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.m-sl #K4.m-sl #K5.t-sl"/>
+<fs xml:id="Kbgmmm" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.m-sl #K4.m-sl #K5.m-sl"/>
+<fs xml:id="Kbgmmo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.m-sl #K4.m-sl #K5.o-sl"/>
+<fs xml:id="Kbgzdi" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.z-sl #K4.d-sl #K5.i-sl"/>
+<fs xml:id="Kbgzdr" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.z-sl #K4.d-sl #K5.r-sl"/>
+<fs xml:id="Kbgzdd" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.z-sl #K4.d-sl #K5.d-sl"/>
+<fs xml:id="Kbgzdt" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.z-sl #K4.d-sl #K5.t-sl"/>
+<fs xml:id="Kbgzdm" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.z-sl #K4.d-sl #K5.m-sl"/>
+<fs xml:id="Kbgzdo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.z-sl #K4.d-sl #K5.o-sl"/>
+<fs xml:id="Kbgzmi" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.z-sl #K4.m-sl #K5.i-sl"/>
+<fs xml:id="Kbgzmr" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.z-sl #K4.m-sl #K5.r-sl"/>
+<fs xml:id="Kbgzmd" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.z-sl #K4.m-sl #K5.d-sl"/>
+<fs xml:id="Kbgzmt" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.z-sl #K4.m-sl #K5.t-sl"/>
+<fs xml:id="Kbgzmm" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.z-sl #K4.m-sl #K5.m-sl"/>
+<fs xml:id="Kbgzmo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.z-sl #K4.m-sl #K5.o-sl"/>
+<fs xml:id="Kbgsdi" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.s-sl #K4.d-sl #K5.i-sl"/>
+<fs xml:id="Kbgsdr" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.s-sl #K4.d-sl #K5.r-sl"/>
+<fs xml:id="Kbgsdd" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.s-sl #K4.d-sl #K5.d-sl"/>
+<fs xml:id="Kbgsdt" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.s-sl #K4.d-sl #K5.t-sl"/>
+<fs xml:id="Kbgsdm" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.s-sl #K4.d-sl #K5.m-sl"/>
+<fs xml:id="Kbgsdo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.s-sl #K4.d-sl #K5.o-sl"/>
+<fs xml:id="Kbgsmi" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.s-sl #K4.m-sl #K5.i-sl"/>
+<fs xml:id="Kbgsmr" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.s-sl #K4.m-sl #K5.r-sl"/>
+<fs xml:id="Kbgsmd" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.s-sl #K4.m-sl #K5.d-sl"/>
+<fs xml:id="Kbgsmt" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.s-sl #K4.m-sl #K5.t-sl"/>
+<fs xml:id="Kbgsmm" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.s-sl #K4.m-sl #K5.m-sl"/>
+<fs xml:id="Kbgsmo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.g-sl #K3.s-sl #K4.m-sl #K5.o-sl"/>
+<fs xml:id="Kbvmei" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.m-sl #K4.e-sl #K5.i-sl"/>
+<fs xml:id="Kbvmer" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.m-sl #K4.e-sl #K5.r-sl"/>
+<fs xml:id="Kbvmed" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.m-sl #K4.e-sl #K5.d-sl"/>
+<fs xml:id="Kbvmet" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.m-sl #K4.e-sl #K5.t-sl"/>
+<fs xml:id="Kbvmem" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.m-sl #K4.e-sl #K5.m-sl"/>
+<fs xml:id="Kbvmeo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.m-sl #K4.e-sl #K5.o-sl"/>
+<fs xml:id="Kbvmdi" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.m-sl #K4.d-sl #K5.i-sl"/>
+<fs xml:id="Kbvmdr" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.m-sl #K4.d-sl #K5.r-sl"/>
+<fs xml:id="Kbvmdd" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.m-sl #K4.d-sl #K5.d-sl"/>
+<fs xml:id="Kbvmdt" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.m-sl #K4.d-sl #K5.t-sl"/>
+<fs xml:id="Kbvmdm" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.m-sl #K4.d-sl #K5.m-sl"/>
+<fs xml:id="Kbvmdo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.m-sl #K4.d-sl #K5.o-sl"/>
+<fs xml:id="Kbvmmi" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.m-sl #K4.m-sl #K5.i-sl"/>
+<fs xml:id="Kbvmmr" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.m-sl #K4.m-sl #K5.r-sl"/>
+<fs xml:id="Kbvmmd" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.m-sl #K4.m-sl #K5.d-sl"/>
+<fs xml:id="Kbvmmt" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.m-sl #K4.m-sl #K5.t-sl"/>
+<fs xml:id="Kbvmmm" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.m-sl #K4.m-sl #K5.m-sl"/>
+<fs xml:id="Kbvmmo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.m-sl #K4.m-sl #K5.o-sl"/>
+<fs xml:id="Kbvzei" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.z-sl #K4.e-sl #K5.i-sl"/>
+<fs xml:id="Kbvzer" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.z-sl #K4.e-sl #K5.r-sl"/>
+<fs xml:id="Kbvzed" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.z-sl #K4.e-sl #K5.d-sl"/>
+<fs xml:id="Kbvzet" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.z-sl #K4.e-sl #K5.t-sl"/>
+<fs xml:id="Kbvzem" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.z-sl #K4.e-sl #K5.m-sl"/>
+<fs xml:id="Kbvzeo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.z-sl #K4.e-sl #K5.o-sl"/>
+<fs xml:id="Kbvzdi" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.z-sl #K4.d-sl #K5.i-sl"/>
+<fs xml:id="Kbvzdr" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.z-sl #K4.d-sl #K5.r-sl"/>
+<fs xml:id="Kbvzdd" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.z-sl #K4.d-sl #K5.d-sl"/>
+<fs xml:id="Kbvzdt" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.z-sl #K4.d-sl #K5.t-sl"/>
+<fs xml:id="Kbvzdm" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.z-sl #K4.d-sl #K5.m-sl"/>
+<fs xml:id="Kbvzdo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.z-sl #K4.d-sl #K5.o-sl"/>
+<fs xml:id="Kbvzmi" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.z-sl #K4.m-sl #K5.i-sl"/>
+<fs xml:id="Kbvzmr" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.z-sl #K4.m-sl #K5.r-sl"/>
+<fs xml:id="Kbvzmd" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.z-sl #K4.m-sl #K5.d-sl"/>
+<fs xml:id="Kbvzmt" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.z-sl #K4.m-sl #K5.t-sl"/>
+<fs xml:id="Kbvzmm" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.z-sl #K4.m-sl #K5.m-sl"/>
+<fs xml:id="Kbvzmo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.z-sl #K4.m-sl #K5.o-sl"/>
+<fs xml:id="Kbvsei" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.s-sl #K4.e-sl #K5.i-sl"/>
+<fs xml:id="Kbvser" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.s-sl #K4.e-sl #K5.r-sl"/>
+<fs xml:id="Kbvsed" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.s-sl #K4.e-sl #K5.d-sl"/>
+<fs xml:id="Kbvset" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.s-sl #K4.e-sl #K5.t-sl"/>
+<fs xml:id="Kbvsem" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.s-sl #K4.e-sl #K5.m-sl"/>
+<fs xml:id="Kbvseo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.s-sl #K4.e-sl #K5.o-sl"/>
+<fs xml:id="Kbvsdi" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.s-sl #K4.d-sl #K5.i-sl"/>
+<fs xml:id="Kbvsdr" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.s-sl #K4.d-sl #K5.r-sl"/>
+<fs xml:id="Kbvsdd" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.s-sl #K4.d-sl #K5.d-sl"/>
+<fs xml:id="Kbvsdt" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.s-sl #K4.d-sl #K5.t-sl"/>
+<fs xml:id="Kbvsdm" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.s-sl #K4.d-sl #K5.m-sl"/>
+<fs xml:id="Kbvsdo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.s-sl #K4.d-sl #K5.o-sl"/>
+<fs xml:id="Kbvsmi" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.s-sl #K4.m-sl #K5.i-sl"/>
+<fs xml:id="Kbvsmr" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.s-sl #K4.m-sl #K5.r-sl"/>
+<fs xml:id="Kbvsmd" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.s-sl #K4.m-sl #K5.d-sl"/>
+<fs xml:id="Kbvsmt" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.s-sl #K4.m-sl #K5.t-sl"/>
+<fs xml:id="Kbvsmm" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.s-sl #K4.m-sl #K5.m-sl"/>
+<fs xml:id="Kbvsmo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.v-sl #K3.s-sl #K4.m-sl #K5.o-sl"/>
+<fs xml:id="Kbzmei" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.m-sl #K4.e-sl #K5.i-sl"/>
+<fs xml:id="Kbzmein" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.m-sl #K4.e-sl #K5.i-sl #K6.n-sl"/>
+<fs xml:id="Kbzmeid" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.m-sl #K4.e-sl #K5.i-sl #K6.d-sl"/>
+<fs xml:id="Kbzmer" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.m-sl #K4.e-sl #K5.r-sl"/>
+<fs xml:id="Kbzmed" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.m-sl #K4.e-sl #K5.d-sl"/>
+<fs xml:id="Kbzmet" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.m-sl #K4.e-sl #K5.t-sl"/>
+<fs xml:id="Kbzmetn" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.m-sl #K4.e-sl #K5.t-sl #K6.n-sl"/>
+<fs xml:id="Kbzmetd" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.m-sl #K4.e-sl #K5.t-sl #K6.d-sl"/>
+<fs xml:id="Kbzmem" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.m-sl #K4.e-sl #K5.m-sl"/>
+<fs xml:id="Kbzmeo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.m-sl #K4.e-sl #K5.o-sl"/>
+<fs xml:id="Kbzmdi" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.m-sl #K4.d-sl #K5.i-sl"/>
+<fs xml:id="Kbzmdr" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.m-sl #K4.d-sl #K5.r-sl"/>
+<fs xml:id="Kbzmdd" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.m-sl #K4.d-sl #K5.d-sl"/>
+<fs xml:id="Kbzmdt" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.m-sl #K4.d-sl #K5.t-sl"/>
+<fs xml:id="Kbzmdm" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.m-sl #K4.d-sl #K5.m-sl"/>
+<fs xml:id="Kbzmdo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.m-sl #K4.d-sl #K5.o-sl"/>
+<fs xml:id="Kbzmmi" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.m-sl #K4.m-sl #K5.i-sl"/>
+<fs xml:id="Kbzmmr" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.m-sl #K4.m-sl #K5.r-sl"/>
+<fs xml:id="Kbzmmd" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.m-sl #K4.m-sl #K5.d-sl"/>
+<fs xml:id="Kbzmmt" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.m-sl #K4.m-sl #K5.t-sl"/>
+<fs xml:id="Kbzmmm" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.m-sl #K4.m-sl #K5.m-sl"/>
+<fs xml:id="Kbzmmo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.m-sl #K4.m-sl #K5.o-sl"/>
+<fs xml:id="Kbzzei" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.z-sl #K4.e-sl #K5.i-sl"/>
+<fs xml:id="Kbzzer" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.z-sl #K4.e-sl #K5.r-sl"/>
+<fs xml:id="Kbzzed" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.z-sl #K4.e-sl #K5.d-sl"/>
+<fs xml:id="Kbzzet" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.z-sl #K4.e-sl #K5.t-sl"/>
+<fs xml:id="Kbzzem" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.z-sl #K4.e-sl #K5.m-sl"/>
+<fs xml:id="Kbzzeo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.z-sl #K4.e-sl #K5.o-sl"/>
+<fs xml:id="Kbzzdi" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.z-sl #K4.d-sl #K5.i-sl"/>
+<fs xml:id="Kbzzdr" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.z-sl #K4.d-sl #K5.r-sl"/>
+<fs xml:id="Kbzzdd" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.z-sl #K4.d-sl #K5.d-sl"/>
+<fs xml:id="Kbzzdt" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.z-sl #K4.d-sl #K5.t-sl"/>
+<fs xml:id="Kbzzdm" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.z-sl #K4.d-sl #K5.m-sl"/>
+<fs xml:id="Kbzzdo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.z-sl #K4.d-sl #K5.o-sl"/>
+<fs xml:id="Kbzzmi" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.z-sl #K4.m-sl #K5.i-sl"/>
+<fs xml:id="Kbzzmr" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.z-sl #K4.m-sl #K5.r-sl"/>
+<fs xml:id="Kbzzmd" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.z-sl #K4.m-sl #K5.d-sl"/>
+<fs xml:id="Kbzzmt" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.z-sl #K4.m-sl #K5.t-sl"/>
+<fs xml:id="Kbzzmm" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.z-sl #K4.m-sl #K5.m-sl"/>
+<fs xml:id="Kbzzmo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.z-sl #K4.m-sl #K5.o-sl"/>
+<fs xml:id="Kbzsei" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.s-sl #K4.e-sl #K5.i-sl"/>
+<fs xml:id="Kbzser" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.s-sl #K4.e-sl #K5.r-sl"/>
+<fs xml:id="Kbzsed" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.s-sl #K4.e-sl #K5.d-sl"/>
+<fs xml:id="Kbzset" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.s-sl #K4.e-sl #K5.t-sl"/>
+<fs xml:id="Kbzsem" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.s-sl #K4.e-sl #K5.m-sl"/>
+<fs xml:id="Kbzseo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.s-sl #K4.e-sl #K5.o-sl"/>
+<fs xml:id="Kbzsdi" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.s-sl #K4.d-sl #K5.i-sl"/>
+<fs xml:id="Kbzsdr" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.s-sl #K4.d-sl #K5.r-sl"/>
+<fs xml:id="Kbzsdd" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.s-sl #K4.d-sl #K5.d-sl"/>
+<fs xml:id="Kbzsdt" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.s-sl #K4.d-sl #K5.t-sl"/>
+<fs xml:id="Kbzsdm" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.s-sl #K4.d-sl #K5.m-sl"/>
+<fs xml:id="Kbzsdo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.s-sl #K4.d-sl #K5.o-sl"/>
+<fs xml:id="Kbzsmi" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.s-sl #K4.m-sl #K5.i-sl"/>
+<fs xml:id="Kbzsmr" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.s-sl #K4.m-sl #K5.r-sl"/>
+<fs xml:id="Kbzsmd" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.s-sl #K4.m-sl #K5.d-sl"/>
+<fs xml:id="Kbzsmt" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.s-sl #K4.m-sl #K5.t-sl"/>
+<fs xml:id="Kbzsmm" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.s-sl #K4.m-sl #K5.m-sl"/>
+<fs xml:id="Kbzsmo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.z-sl #K3.s-sl #K4.m-sl #K5.o-sl"/>
+<fs xml:id="Kbdmein" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.m-sl #K4.e-sl #K5.i-sl #K6.n-sl"/>
+<fs xml:id="Kbdmeid" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.m-sl #K4.e-sl #K5.i-sl #K6.d-sl"/>
+<fs xml:id="Kbdmer" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.m-sl #K4.e-sl #K5.r-sl"/>
+<fs xml:id="Kbdmed" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.m-sl #K4.e-sl #K5.d-sl"/>
+<fs xml:id="Kbdmet" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.m-sl #K4.e-sl #K5.t-sl"/>
+<fs xml:id="Kbdmetn" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.m-sl #K4.e-sl #K5.t-sl #K6.n-sl"/>
+<fs xml:id="Kbdmetd" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.m-sl #K4.e-sl #K5.t-sl #K6.d-sl"/>
+<fs xml:id="Kbdmem" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.m-sl #K4.e-sl #K5.m-sl"/>
+<fs xml:id="Kbdmeo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.m-sl #K4.e-sl #K5.o-sl"/>
+<fs xml:id="Kbdmdi" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.m-sl #K4.d-sl #K5.i-sl"/>
+<fs xml:id="Kbdmdr" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.m-sl #K4.d-sl #K5.r-sl"/>
+<fs xml:id="Kbdmdd" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.m-sl #K4.d-sl #K5.d-sl"/>
+<fs xml:id="Kbdmdt" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.m-sl #K4.d-sl #K5.t-sl"/>
+<fs xml:id="Kbdmdm" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.m-sl #K4.d-sl #K5.m-sl"/>
+<fs xml:id="Kbdmdo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.m-sl #K4.d-sl #K5.o-sl"/>
+<fs xml:id="Kbdmmi" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.m-sl #K4.m-sl #K5.i-sl"/>
+<fs xml:id="Kbdmmr" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.m-sl #K4.m-sl #K5.r-sl"/>
+<fs xml:id="Kbdmmd" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.m-sl #K4.m-sl #K5.d-sl"/>
+<fs xml:id="Kbdmmt" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.m-sl #K4.m-sl #K5.t-sl"/>
+<fs xml:id="Kbdmmm" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.m-sl #K4.m-sl #K5.m-sl"/>
+<fs xml:id="Kbdmmo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.m-sl #K4.m-sl #K5.o-sl"/>
+<fs xml:id="Kbdzei" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.z-sl #K4.e-sl #K5.i-sl"/>
+<fs xml:id="Kbdzer" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.z-sl #K4.e-sl #K5.r-sl"/>
+<fs xml:id="Kbdzed" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.z-sl #K4.e-sl #K5.d-sl"/>
+<fs xml:id="Kbdzet" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.z-sl #K4.e-sl #K5.t-sl"/>
+<fs xml:id="Kbdzem" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.z-sl #K4.e-sl #K5.m-sl"/>
+<fs xml:id="Kbdzeo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.z-sl #K4.e-sl #K5.o-sl"/>
+<fs xml:id="Kbdzdi" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.z-sl #K4.d-sl #K5.i-sl"/>
+<fs xml:id="Kbdzdr" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.z-sl #K4.d-sl #K5.r-sl"/>
+<fs xml:id="Kbdzdd" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.z-sl #K4.d-sl #K5.d-sl"/>
+<fs xml:id="Kbdzdt" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.z-sl #K4.d-sl #K5.t-sl"/>
+<fs xml:id="Kbdzdm" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.z-sl #K4.d-sl #K5.m-sl"/>
+<fs xml:id="Kbdzdo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.z-sl #K4.d-sl #K5.o-sl"/>
+<fs xml:id="Kbdzmi" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.z-sl #K4.m-sl #K5.i-sl"/>
+<fs xml:id="Kbdzmr" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.z-sl #K4.m-sl #K5.r-sl"/>
+<fs xml:id="Kbdzmd" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.z-sl #K4.m-sl #K5.d-sl"/>
+<fs xml:id="Kbdzmt" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.z-sl #K4.m-sl #K5.t-sl"/>
+<fs xml:id="Kbdzmm" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.z-sl #K4.m-sl #K5.m-sl"/>
+<fs xml:id="Kbdzmo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.z-sl #K4.m-sl #K5.o-sl"/>
+<fs xml:id="Kbdsei" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.s-sl #K4.e-sl #K5.i-sl"/>
+<fs xml:id="Kbdser" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.s-sl #K4.e-sl #K5.r-sl"/>
+<fs xml:id="Kbdsed" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.s-sl #K4.e-sl #K5.d-sl"/>
+<fs xml:id="Kbdset" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.s-sl #K4.e-sl #K5.t-sl"/>
+<fs xml:id="Kbdsem" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.s-sl #K4.e-sl #K5.m-sl"/>
+<fs xml:id="Kbdseo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.s-sl #K4.e-sl #K5.o-sl"/>
+<fs xml:id="Kbdsdi" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.s-sl #K4.d-sl #K5.i-sl"/>
+<fs xml:id="Kbdsdr" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.s-sl #K4.d-sl #K5.r-sl"/>
+<fs xml:id="Kbdsdd" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.s-sl #K4.d-sl #K5.d-sl"/>
+<fs xml:id="Kbdsdt" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.s-sl #K4.d-sl #K5.t-sl"/>
+<fs xml:id="Kbdsdm" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.s-sl #K4.d-sl #K5.m-sl"/>
+<fs xml:id="Kbdsdo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.s-sl #K4.d-sl #K5.o-sl"/>
+<fs xml:id="Kbdsmi" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.s-sl #K4.m-sl #K5.i-sl"/>
+<fs xml:id="Kbdsmr" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.s-sl #K4.m-sl #K5.r-sl"/>
+<fs xml:id="Kbdsmd" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.s-sl #K4.m-sl #K5.d-sl"/>
+<fs xml:id="Kbdsmt" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.s-sl #K4.m-sl #K5.t-sl"/>
+<fs xml:id="Kbdsmm" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.s-sl #K4.m-sl #K5.m-sl"/>
+<fs xml:id="Kbdsmo" xml:lang="sl" feats="#K0-sl #K1.b-sl #K2.d-sl #K3.s-sl #K4.m-sl #K5.o-sl"/>
+<fs xml:id="Di" xml:lang="sl" feats="#D0-sl #D1.i-sl"/>
+<fs xml:id="Dr" xml:lang="sl" feats="#D0-sl #D1.r-sl"/>
+<fs xml:id="Dd" xml:lang="sl" feats="#D0-sl #D1.d-sl"/>
+<fs xml:id="Dt" xml:lang="sl" feats="#D0-sl #D1.t-sl"/>
+<fs xml:id="Dm" xml:lang="sl" feats="#D0-sl #D1.m-sl"/>
+<fs xml:id="Do" xml:lang="sl" feats="#D0-sl #D1.o-sl"/>
+<fs xml:id="Vp" xml:lang="sl" feats="#V0-sl #V1.p-sl"/>
+<fs xml:id="Vd" xml:lang="sl" feats="#V0-sl #V1.d-sl"/>
+<fs xml:id="L" xml:lang="sl" feats="#L0-sl"/>
+<fs xml:id="M" xml:lang="sl" feats="#M0-sl"/>
+<fs xml:id="O" xml:lang="sl" feats="#O0-sl"/>
+<fs xml:id="N" xml:lang="sl" feats="#N0-sl"/>
+<fs xml:id="Nj" xml:lang="sl" feats="#N0-sl #N1.j-sl"/>
+<fs xml:id="Nt" xml:lang="sl" feats="#N0-sl #N1.t-sl"/>
+<fs xml:id="Np" xml:lang="sl" feats="#N0-sl #N1.p-sl"/>
+</fvLib>
+</fsdDecl>
