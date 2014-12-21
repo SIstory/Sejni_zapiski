@@ -118,6 +118,10 @@
                                 <catDesc xml:lang="sl">Sporočila</catDesc>
                                 <catDesc xml:lang="en">Messages</catDesc>
                             </category>
+                            <category xml:id="PAR.IzvKomis">
+                                <catDesc xml:lang="sl">Izvolitev komisij</catDesc>
+                                <catDesc xml:lang="en">Election of the commission</catDesc>
+                            </category>
                         </category>
                         <category xml:id="PAR.DnevRed">
                             <catDesc>Dnevni red</catDesc>
