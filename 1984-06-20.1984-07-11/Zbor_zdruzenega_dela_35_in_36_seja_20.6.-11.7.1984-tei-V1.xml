@@ -1,39 +1,132 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Sejni Zapisniki</title>
-                <author>Mikrografija d.o.o.</author>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2014-11-05</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <p>unknown</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Converted from a Word document </p>
-            </sourceDesc>
-        </fileDesc>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude">
+    <teiHeader xml:lang="slv">
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="slv" type="main" level="m">Sejni zapisi Skupščine Socialistične republike Slovenije za 9. sklic (1982-1986), št. zvezka  18</title>
+            <title xml:lang="slv" type="sub" level="m">Vsebina: 18.knjiga (1.zvezek)</title>
+            <title xml:lang="slv" type="sub" level="m">Zbor združenega dela,  35. seja (20. junija 1984)</title>
+            <title xml:lang="slv" type="sub" level="m">Zbor združenega dela,  36. seja (11. julija 1984)</title>
+            <title xml:lang="slv" type="desc">Elektronska izdaja</title>
+             <respStmt>
+                 <persName>Andrej Pančur</persName>
+                 <resp>Kodiranje TEI in računalniški zapis</resp>
+             </respStmt>
+             <respStmt>
+                 <persName>Marta Rendla</persName>
+                 <resp>Preverjanje in validacija OCR</resp>
+             </respStmt>
+             <respStmt>
+                 <persName>Andrej Pančur</persName>
+                 <resp>Validacija metapodatkov uvoženih iz SIstory</resp>
+             </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+             <distributor>DARIAH-SI</distributor>
+             <idno type="URN">http://www.sistory.si/SISTORY:ID:15841</idno>
+             <pubPlace>http://sistory.si/SISTORY:ID:15841</pubPlace>
+             <pubPlace>https://github.com/SIstory/Sejni_zapiski/tree/master/1984-06-20.1984-07-11</pubPlace>
+             <availability status="free">
+                 <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+                 <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+             </availability>
+             <date when="2014-12-21+01:00">21. 12. 2014</date>
+         </publicationStmt>
+         <sourceDesc>
+             <biblStruct xml:id="sistory.15841">
+               <analytic xml:id="sistory.15842">
+                  <idno>SISTORY:ID:15842#page=4</idno>
+                  <title xml:lang="slv" type="main" level="a">Zbor združenega dela,  35. seja (20. junija 1984)</title>
+                  <title xml:lang="slv" type="sub" level="a">Sejni zapisi Skupščine Socialistične republike Slovenije za 9. sklic (1982-1986), št. zvezka  18</title>
+                  <title xml:lang="slv" type="sub" level="a">Vsebina: 18.knjiga (1.zvezek)</title>
+                  <textLang xml:lang="slv" mainLang="slv">slovenski</textLang>
+                  <textLang xml:lang="eng" mainLang="slv">Slovenian</textLang>
+               </analytic>
+               <analytic xml:id="sistory.15843">
+                  <idno>SISTORY:ID:15843#page=53</idno>
+                  <title xml:lang="slv" type="main" level="a">Zbor združenega dela,  36. seja (11. julija 1984)</title>
+                  <title xml:lang="slv" type="sub" level="a">Sejni zapisi Skupščine Socialistične republike Slovenije za 9. sklic (1982-1986), št. zvezka  18</title>
+                  <title xml:lang="slv" type="sub" level="a">Vsebina: 18.knjiga (1.zvezek)</title>
+                  <textLang xml:lang="slv" mainLang="slv">slovenski</textLang>
+                  <textLang xml:lang="eng" mainLang="slv">Slovenian</textLang>
+               </analytic>
+               <monogr>
+                  <title xml:lang="slv" type="main" level="m">Sejni zapisi Skupščine Socialistične republike Slovenije za 9. sklic (1982-1986), št. zvezka  18</title>
+                  <title xml:lang="slv" type="sub" level="m">Vsebina: 18.knjiga (1.zvezek)</title>
+                  <title xml:lang="slv" type="sub" level="m">Zbor združenega dela,  35. seja (20. junija 1984)</title>
+                  <title xml:lang="slv" type="sub" level="m">Zbor združenega dela,  36. seja (11. julija 1984)</title>
+                  <imprint>
+                     <biblScope type="vol">18</biblScope>
+                     <publisher>Skupščina Socialistične republike Slovenije</publisher>
+                     <date when="1984">1984</date>
+                  </imprint>
+               </monogr>
+               <series>
+                  <title>Sejni zapisi Skupščine Socialistične republike Slovenije</title>
+               </series>
+            </biblStruct>
+             <biblFull corresp="#15841">
+                 <titleStmt>
+                     <title type="main">Sejni zapisi Skupščine Socialistične republike Slovenije za 9. sklic (1982-1986), št. zvezka  18</title>
+                     <title type="sub">Vsebina: 18.knjiga (1.zvezek)</title>
+                 </titleStmt>
+                 <publicationStmt>
+                     <publisher>Skupščina Socialistične republike Slovenije</publisher>
+                     <date when="1973">1984</date>
+                     <availability status="free">
+                         <licence target="http://creativecommons.org/publicdomain/mark/1.0/"
+                             xml:lang="slv">Avtorske pravice so potekle, delo je v javni
+                             domeni.</licence>
+                         <licence target="http://creativecommons.org/publicdomain/mark/1.0/"
+                             xml:lang="eng">Public Domain Mark 1.0</licence>
+                     </availability>
+                 </publicationStmt>
+             </biblFull>
+         </sourceDesc>
+      </fileDesc>
         <encodingDesc>
-            <appInfo>
-                <application ident="TEI_fromDOCX" version="2.15.0">
-                    <label>DOCX to TEI</label>
-                </application>
-            </appInfo>
+            <projectDesc>
+                <p>XML na portalu Zgodovina Slovenije - SIstory narejen v okviru izvajanja
+                    infrastrukturnega programa Inštituta za novejšo zgodovino</p>
+            </projectDesc>
+            <!-- Vključena classDecl/taxonomy -->
+            <xi:include href="../taxonomy.xml"/>
         </encodingDesc>
-        <revisionDesc>
-            <listChange>
-                <change>
-                    <date>2014-12-21T17:24:55Z</date>
-                    <name>Mikrografija d.o.o.</name>
-                </change>
-            </listChange>
-        </revisionDesc>
-    </teiHeader>
+      <profileDesc>
+          <langUsage>
+              <language ident="slv" xml:lang="slv">slovenski</language>
+              <language ident="slv" xml:lang="eng">Slovenian</language>
+              <language ident="en" xml:lang="sl">angleški</language>
+              <language ident="en" xml:lang="en">English</language>
+          </langUsage>
+          <textClass>
+            <keywords>
+                <list>
+                    <item xml:lang="slv">predstavniška telesa</item>
+                    <item xml:lang="eng">representative bodies</item>
+                    <item xml:lang="slv">stenografski zapisniki</item>
+                    <item xml:lang="eng">stenographical minutes</item>
+                    <item xml:lang="slv">Socialistična republika Slovenija</item>
+                    <item xml:lang="eng">Socialist Republic of Slovenia</item>
+                    <item xml:lang="slv">družbeno samoupravljanje</item>
+                    <item xml:lang="eng">social self-management</item>
+                    <item xml:lang="slv">6. sklic (1969-1974)</item>
+                    <item xml:lang="eng">6th term (1969-1974)</item>
+                </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2014-12-21">
+             <name>Andrej Pančur</name>: izvoz in preverjanje metapodatkov iz SIstory, izdelava
+             teiHeader</change>
+          <change from="2014-12-09" to="2014-12-16">
+              <name>Marta Rendla</name>: pregled in poprava OCR </change>
+      </revisionDesc>
+   </teiHeader>
     <text>
         <body>
             <p>SKUPŠČINA<lb/>SOCIALISTIČNE REPUBLIKE SLOVENIJE</p>
@@ -91,7 +184,7 @@
                 Slovenije, Izobraževalne<lb/>skupnosti Slovenije, Raziskovalne skupnosti Slovenije,
                 Zveze kmetijskih zem-<lb/>ljiških skupnosti Slovenije, Zadružne zveze Slovenije,
                 Zavoda SR Slovenije za<lb/>statistiko, Zveze obrtnih združenj Slovenije in Zveze
-                združenj borcev NOV Slo-<lb/>venije .</p>
+                združenj borcev NOV Slo-<lb/>venije.</p>
             <p>Na sejo zbora so vabljeni člani delegacije Skupščine SR Slovenije v
                 Zboru<lb/>republik in pokrajin Skupščine SFRJ, delegati v Zveznem zboru Skupščine
                 SFRJ<lb/>iz SR Slovenije ter predsedniki in poročevalci odborov, komisij in skupin
@@ -201,8 +294,7 @@
             <p>Danes ste prejeli predlog Izvršnega sveta Skupščine SR Slovenije, da tudi<lb/>predlog
                 za izdajo zakona o Službi družbenega knjigovodstva v SR Sloveniji z osnutkom zakona
                 obravnava zbor le v prvi fazi zakonodajnega postopka, ker ni bilo mogoče do seje
-                zbora razčistiti vprašanja glede tretjega odstavka 15. člena<lb/>osnutka zakona.
-                .</p>
+                zbora razčistiti vprašanja glede tretjega odstavka 15. člena<lb/>osnutka zakona.</p>
             <p>Želi o tem kdo razpravljati? (Nihče.) Če ne želi nihče razpravljati, potem
                 ugotavljam, da zbor soglaša s predlogom, da se predlog za izdajo zakona
                 o<lb/>spremembah in dopolnitvah zakona o varnosti cestnega prometa in predlog za
