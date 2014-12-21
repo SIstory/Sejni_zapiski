@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
     xmlns:xi="http://www.w3.org/2001/XInclude">
     <teiHeader xml:lang="sl">
@@ -13275,7 +13272,7 @@
                 <head>PRILOGE</head>
                 <div n="1" ana="#PQ.VprPos">
                     <head>VPRAŠANJA POSLANCEV</head>
-                    <div ana="#PQ.Vpr">
+                    <div ana="#PQ.Vprasanje">
                         <byline>
                             <docAuthor><persName>Dušan Šinigoj</persName><lb/> poslanec
                                 Prosvetno-kulturnega zbora Skupščine SR Slovenije</docAuthor>
@@ -13302,7 +13299,7 @@
                                     Ljubljani storil, da bi se ta problem čimbolj omilil.</p></item>
                         </list>
                     </div>
-                    <div ana="#PQ.Vpr">
+                    <div ana=" #PQ.Vprasanje">
                         <byline>
                             <docAuthor><persName>Bojan Černjavič</persName>
                                 <lb/>poslanec Prosvetno-kulturnega zbora Skupščine SR
@@ -13341,7 +13338,7 @@
                             arhivih in kdaj lahko pričakujemo, da bo osnutek zakona predložen
                             Skupščini SR Slovenije?</p>
                     </div>
-                    <div ana="#PQ.Vpr">
+                    <div ana=" #PQ.Vprasanje">
                         <byline>
                             <docAuthor><persName>Davorin Ferligoj</persName><lb/> poslanec
                                 Republiškega zbora Skupščine SR Slovenije</docAuthor>
@@ -13423,16 +13420,16 @@
                             Republiškega zbora Skupščine SR Slovenije in vas prosim, da predložite
                             Izvršnemu svetu Skupščine SR Slovenije naslednji vprašanji:</p>
                         <list type="ordered">
-                            <item n="1">Kakšne ukrepe namerava Izvršni svet podvzeti, da bi
+                            <item ana="#PQ.Vprasanje" n="1">Kakšne ukrepe namerava Izvršni svet podvzeti, da bi
                                 uravnovesil vedno večji disproporc v ekonomski pogojih
                                 gozdnogospodarskih organizacij z območja listavcev, s pogoji
                                 gozdnogospodarskih organizacij z območja iglavcev?</item>
-                            <item n="2">Kakšne ukrepe namerava Izvršni svet podvzeti, da bi omogočil
+                            <item ana="#PQ.Vprasanje" n="2">Kakšne ukrepe namerava Izvršni svet podvzeti, da bi omogočil
                                 znatnejši dvig prirastka lesa v naših gozdovih in kako programira
                                 financiranje gozdnih melioracij v pasu degradiranih gozdov
                                 listavcev?</item>
                         </list>
-                        <div>
+                        <div ana="#PQ.Vprasanje" n="1">
                             <head>Obrazložitev prvega vprašanja:</head>
                             <p>Cene gozdnih sortimentov niso sproščene, temveč jih še vedno določa
                                 Zvezni izvršni svet. S temi administrativno določenimi cenami se
@@ -13523,7 +13520,7 @@
                                 pogojih pri posameznih gozdnogospodarskih organizacijah v SR
                                 Sloveniji.</p>
                         </div>
-                        <div>
+                        <div ana="#PQ.Vprasanje" n="2">
                             <head>Obrazložitev drugega vprašanja</head>
                             <p>Prirastek gozdov v SR Sloveniji se ceni na <measure unit="m3"
                                     quantity="3200000">3 200 000 m3</measure>. Če bi hoteli
@@ -20523,7 +20520,7 @@
                         Marjan Mehle, Franc Špendal, dr. Anton Vidic</p>
                 </div>
                 <pb n="314" xml:id="pb.314"/>
-                <div n="28" type="seznamGovornikov">
+                <div n="28">
                     <castList>
                         <head>SEZNAM GOVORNIKOV</head>
                         <castGroup>

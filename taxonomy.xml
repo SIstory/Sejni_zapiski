@@ -91,6 +91,9 @@
                             <catDesc xml:lang="sl">Seja</catDesc>
                             <catDesc xml:lang="en">Session</catDesc>
                         </category>
+                        <category xml:id="PAR.Zasedanje">
+                            <catDesc>Zasedanje</catDesc>
+                        </category>
                         <category xml:id="PAR.SkupSeja">
                             <catDesc xml:lang="sl">Skupna seja</catDesc>
                             <catDesc xml:lang="en">Joint Session</catDesc>
@@ -111,6 +114,10 @@
                             <category xml:id="PAR.DolDnevRed">
                                 <catDesc>Določitev dnevnega reda</catDesc>
                             </category>
+                            <category xml:id="PAR.Sporoc">
+                                <catDesc xml:lang="sl">Sporočila</catDesc>
+                                <catDesc xml:lang="en">Messages</catDesc>
+                            </category>
                         </category>
                         <category xml:id="PAR.DnevRed">
                             <catDesc>Dnevni red</catDesc>
@@ -126,10 +133,14 @@
     <taxonomy n="parliamentary questions">
         <category xml:id="PQ.VprPos">
             <catDesc xml:lang="sl">Pismena vprašanja poslancev</catDesc>
-            <catDesc xml:lang="en">Parliamentary questions</catDesc>
+            <catDesc xml:lang="en">Written parliamentary questions</catDesc>
             <category xml:id="PQ.Vpr">
-                <catDesc xml:lang="sl">Vprašanje</catDesc>
-                <catDesc xml:lang="en">Question</catDesc>
+                <catDesc xml:lang="sl">Vprašanja poslanca</catDesc>
+                <catDesc xml:lang="en">Questions addressed by Member of Parliament</catDesc>
+                <category xml:id="PQ.Vprasanje">
+                    <catDesc xml:lang="sl">Vprašanje</catDesc>
+                    <catDesc xml:lang="en">Question</catDesc>
+                </category>
             </category>
         </category>
     </taxonomy>
@@ -142,6 +153,10 @@
         <category>
             <catDesc xml:lang="sl">Zakonodajni postopek</catDesc>
             <catDesc xml:lang="en">Legislative procedure</catDesc>
+            <category xml:id="LEX.Osnutek">
+                <catDesc xml:lang="sl">Osnutek</catDesc>
+                <catDesc xml:lang="en">Draft</catDesc>
+            </category>
             <category xml:id="LEX.Predlog">
                 <catDesc xml:lang="sl">Predlog</catDesc>
                 <catDesc xml:lang="en">Proposal</catDesc>
@@ -176,9 +191,27 @@
             </category>
             <category xml:id="Lex.Pravilnik">
                 <catDesc xml:lang="sl">Pravilnik</catDesc>
+                <catDesc xml:lang="en">Rules</catDesc>
             </category>
             <category xml:id="LEX.Sklep">
                 <catDesc xml:lang="sl">Sklep</catDesc>
+                <catDesc xml:lang="en">Conclusion</catDesc>
+            </category>
+            <category xml:id="LEX.Priporocilo">
+                <catDesc xml:lang="sl">Priporočilo</catDesc>
+                <catDesc xml:lang="en">Recommendation</catDesc>
+            </category>
+            <category xml:id="LEX.Stalisce">
+                <catDesc xml:lang="sl">Stališče</catDesc>
+                <catDesc xml:lang="en">Position</catDesc>
+            </category>
+            <category xml:id="LEX.Ugotov">
+                <catDesc xml:lang="sl">Ugotovitve</catDesc>
+                <catDesc xml:lang="en">Findings</catDesc>
+            </category>
+            <category xml:id="LEX.Mnenje">
+                <catDesc xml:lang="sl">Mnenje</catDesc>
+                <catDesc xml:lang="en">Opinion</catDesc>
             </category>
         </category>
         <category>
@@ -187,12 +220,20 @@
             <category xml:id="LEX.Besedilo">
                 <catDesc xml:lang="sl">Besedilo</catDesc>
                 <catDesc xml:lang="en">Text</catDesc>
-                <category xml:id="LEX.Poglavje">
-                    <catDesc xml:lang="sl">Poglavje</catDesc>
-                    <catDesc xml:lang="en">Chapter</catDesc>
-                    <category xml:id="LEX.Clen">
-                        <catDesc xml:lang="sl">Člen</catDesc>
-                        <catDesc xml:lang="en">Article</catDesc>
+                <category xml:id="LEX.Del">
+                    <catDesc xml:lang="sl">Del</catDesc>
+                    <catDesc xml:lang="en">Part</catDesc>
+                    <category xml:id="LEX.Poglavje">
+                        <catDesc xml:lang="sl">Poglavje</catDesc>
+                        <catDesc xml:lang="en">Chapter</catDesc>
+                        <category xml:id="LEX.PodPoglavje">
+                            <catDesc xml:lang="sl">Podpoglavje</catDesc>
+                            <catDesc xml:lang="en">Sub-Chapter</catDesc>
+                            <category xml:id="LEX.Clen">
+                                <catDesc xml:lang="sl">Člen</catDesc>
+                                <catDesc xml:lang="en">Article</catDesc>
+                            </category>
+                        </category>
                     </category>
                 </category>
                 <category xml:id="LEX.Tocka">
