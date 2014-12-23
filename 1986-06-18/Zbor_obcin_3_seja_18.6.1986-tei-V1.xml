@@ -138,172 +138,172 @@
                     <item>PRED DNEVNIM REDOM:
                         <list>
                             <item>1. Izvolitev komisije za verifikacijo pooblastil in imunitetna
-                                vprašanja ter poročilo te komisije 1
+                                vprašanja ter poročilo te komisije <ref target="#pb.1">1</ref>
                                 <list>
                                     <head>GOVORNIKI:</head>
-                                    <item>Feliks Peter 2</item>
-                                    <item>Matija Kavtičnik 2</item>
-                                    <item>Franc Žigman 2</item>
+                                    <item>Feliks Peter <ref target="#pb.2">2</ref></item>
+                                    <item>Matija Kavtičnik <ref target="#pb.2">2</ref></item>
+                                    <item>Franc Žigman <ref target="#pb.2">2</ref></item>
                                 </list>
                             </item>
-                            <item>2. Določitev dnevnega reda 3</item>
+                            <item>2. Določitev dnevnega reda <ref target="#pb.3">3</ref></item>
                         </list>
                     </item>
                     <item>DNEVNI RED:
                         <list>
                             <item>1. Odobritev zapisnika 2. seje zbora (1. točka dnevnega reda)
-                                5</item>
+                                <ref target="#pb.5">5</ref></item>
                             <item>2. Poročilo o varnostnih razmerah in drugih notranjih zadevah ter
                                 delu organov za notranje zadeve v letu 1985 (2. točka dnevnega reda)
-                                6
+                                <ref target="#pb.6">6</ref>
                                 <list>
                                     <head>GOVORNIKI:</head>
-                                    <item>Janez Medvešček 6</item>
-                                    <item>Peter Jančan 7</item>
-                                    <item>Franc Albreht 8</item>
-                                    <item>Janez Kovačič 9</item>
-                                    <item>Drago Justin 10</item>
-                                    <item>Maks Skušek 11</item>
-                                    <item>Stane Božič 11</item>
-                                    <item>Stane Iglič 12</item>
+                                    <item>Janez Medvešček <ref target="#pb.6">6</ref></item>
+                                    <item>Peter Jančan <ref target="#pb.7">7</ref></item>
+                                    <item>Franc Albreht <ref target="#pb.8">8</ref></item>
+                                    <item>Janez Kovačič <ref target="#pb.9">9</ref></item>
+                                    <item>Drago Justin <ref target="#pb.10">10</ref></item>
+                                    <item>Maks Skušek <ref target="#pb.11">11</ref></item>
+                                    <item>Stane Božič <ref target="#pb.11">11</ref></item>
+                                    <item>Stane Iglič <ref target="#pb.12">12</ref></item>
                                 </list>
                             </item>
                             <item>3. Predlog zakona o nepravdnem postopku (4. točka dnevnega reda)
-                                15
+                                <ref target="#pb.15">15</ref>
                                 <list>
                                     <head>GOVORNIK:</head>
-                                    <item>Janez Breznik 15</item>
+                                    <item>Janez Breznik <ref target="#pb.15">15</ref></item>
                                 </list>
                             </item>
                             <item>4. Predlog za izdajo zakona o ukrepih za pospeševanje proizvodnje
                                 hrane in zagotavljanje osnovne preskrbe ter o samoupravni interesni
-                                organiziranosti na teh področjih (5. točka dnevnega reda) 17
+                                organiziranosti na teh področjih (5. točka dnevnega reda) <ref target="#pb.17">17</ref>
                                 <list>
                                     <head>GOVORNIKI:</head>
                                     <item>Milan Kneževič</item>
                                     <pb n="I/2" xml:id="pb.I.2"/>
-                                    <item>Feliks Peter 21</item>
-                                    <item>Ivanka Komprej 22</item>
-                                    <item>Emilija Šuman 23</item>
-                                    <item>dr. Oskar Fritz 24</item>
-                                    <item>Gorazd Žmavc 25</item>
-                                    <item>Drago Justin 26</item>
-                                    <item>Stane Božič 27</item>
-                                    <item>Edvard Perhavec 28</item>
-                                    <item>Zoran Lešnik 31</item>
-                                    <item>Boris Završnik 33</item>
-                                    <item>Janez Kocijančič 33</item>
-                                    <item>Danica Železnikar 35</item>
-                                    <item>Milan Kneževič 36</item>
+                                    <item>Feliks Peter <ref target="#pb.21">21</ref></item>
+                                    <item>Ivanka Komprej <ref target="#pb.22">22</ref></item>
+                                    <item>Emilija Šuman <ref target="#pb.23">23</ref></item>
+                                    <item>dr. Oskar Fritz <ref target="#pb.24">24</ref></item>
+                                    <item>Gorazd Žmavc <ref target="#pb.25">25</ref></item>
+                                    <item>Drago Justin <ref target="#pb.26">26</ref></item>
+                                    <item>Stane Božič <ref target="#pb.27">27</ref></item>
+                                    <item>Edvard Perhavec <ref target="#pb.28">28</ref></item>
+                                    <item>Zoran Lešnik <ref target="#pb.31">31</ref></item>
+                                    <item>Boris Završnik <ref target="#pb.33">33</ref></item>
+                                    <item>Janez Kocijančič <ref target="#pb.33">33</ref></item>
+                                    <item>Danica Železnikar <ref target="#pb.35">35</ref></item>
+                                    <item>Milan Kneževič <ref target="#pb.36">36</ref></item>
                                 </list>
                             </item>
                             <item>5. Predlog zakona o spremembah in dopolnitvah zakona o osnovni
-                                šoli (3. točka dnevnega reda) 38
+                                šoli (3. točka dnevnega reda) <ref target="#pb.38">38</ref>
                                 <list>
                                     <head>GOVORNIKA:</head>
-                                    <item>Boštjan Zgonc 38</item>
-                                    <item>Alojz Husjak 39</item>
+                                    <item>Boštjan Zgonc <ref target="#pb.38">38</ref></item>
+                                    <item>Alojz Husjak <ref target="#pb.39">39</ref></item>
                                 </list>
                             </item>
                             <item>6. Predlog za izdajo o varstvu prebivalcev pred nalezljivimi
-                                boleznimi (6. točka dnevnega reda) 40
+                                boleznimi (6. točka dnevnega reda) <ref target="#pb.40">40</ref>
                                 <list>
                                     <head>GOVORNIKI:</head>
-                                    <item>dr. Dinko Leskovšek 40</item>
-                                    <item>Franc Albreht 41</item>
-                                    <item>Ivanka Komprej 41</item>
+                                    <item>dr. Dinko Leskovšek <ref target="#pb.40">40</ref></item>
+                                    <item>Franc Albreht <ref target="#pb.41">41</ref></item>
+                                    <item>Ivanka Komprej <ref target="#pb.41">41</ref></item>
                                 </list>
                             </item>
                             <item>7. Osnutek zakona o zagotovitvi sredstev za prispevek SFR
                                 Jugoslavije k svetovnemu programu hrane (WFP) za leto 1985 in 1986
-                                (7. točka dnevnega reda) 42</item>
+                                (7. točka dnevnega reda) <ref target="#pb.42">42</ref></item>
                             <item>8. Osnutek zakona o prenehanju veljavnosti zakona o zagotovitvi
                                 sredstev za financiranje graditve "Spomenika zmage" (8. točka
-                                dnevnega reda) 43</item>
+                                dnevnega reda) <ref target="#pb.43">43</ref></item>
                             <item>9. Predlog družbenega dogovora o zagotavljanju sredstev za
                                 graditev in ureditev spominskega obeležja "Sremska fronta" (9. točka
-                                dnevnega reda) 43
+                                dnevnega reda) <ref target="#pb.43">43</ref>
                                 <list>
                                     <head>GOVORNIKI:</head>
-                                    <item>Primož Hainz 44</item>
-                                    <item>Franc Albreht 46</item>
-                                    <item>Valentin Lovrenčič 46</item>
-                                    <item>Franjo Marošek 46</item>
-                                    <item>Ivanka Komprej 47</item>
-                                    <item>Dušanka Kotnik 47</item>
-                                    <item>Primož Hainz 48<pb n="I/3" xml:id="pb.I.3"/></item>
+                                    <item>Primož Hainz <ref target="#pb.44">44</ref></item>
+                                    <item>Franc Albreht <ref target="#pb.46">46</ref></item>
+                                    <item>Valentin Lovrenčič <ref target="#pb.46">46</ref></item>
+                                    <item>Franjo Marošek <ref target="#pb.46">46</ref></item>
+                                    <item>Ivanka Komprej <ref target="#pb.47">47</ref></item>
+                                    <item>Dušanka Kotnik <ref target="#pb.47">47</ref></item>
+                                    <item>Primož Hainz <ref target="#pb.48">48</ref><pb n="I/3" xml:id="pb.I.3"/></item>
                                 </list>
                             </item>
                             <item>10. Predlog zakona o spremembah in dopolnitvah zakona o osnovni
-                                šoli (nadaljevanje 3. točke dnevnega reda) 48
+                                šoli (nadaljevanje 3. točke dnevnega reda) <ref target="#pb.48">48</ref>
                                 <list>
                                     <head>GOVORNIKI:</head>
-                                    <item>Boštjan Zgonc 48</item>
-                                    <item>Janez Kocijančič</item>
-                                    <item>49 Peter Šubic 49</item>
-                                    <item>Vlado Barabaš 49</item>
+                                    <item>Boštjan Zgonc <ref target="#pb.48">48</ref></item>
+                                    <item>Janez Kocijančič <ref target="#pb.49">49</ref></item>
+                                    <item>Peter Šubic <ref target="#pb.49">49</ref></item>
+                                    <item>Vlado Barabaš <ref target="#pb.49">49</ref></item>
                                 </list>
                             </item>
                             <item>11. Osnutek odloka o valorizaciji sredstev, ki so jih vplačale
                                 republike in avtonomni pokrajini za leto 1985 za odpravo posledic
                                 katastrofalnega potresa, ki je prizadel območje SR Črne gore v letu
-                                1979 (10. točka dnevnega reda) 50
+                                1979 (10. točka dnevnega reda) <ref target="#pb.50">50</ref>
                                 <list>
                                     <head>GOVORNIKI:</head>
-                                    <item>dr. Jože Kunič 50</item>
-                                    <item>Drago Justin 52</item>
-                                    <item>Branka Jurak 52</item>
+                                    <item>dr. Jože Kunič <ref target="#pb.50">50</ref></item>
+                                    <item>Drago Justin <ref target="#pb.52">52</ref></item>
+                                    <item>Branka Jurak <ref target="#pb.52">52</ref></item>
                                 </list>
                             </item>
                             <item>12. Osnutek odloka o obveznostih republik in avtonomnih pokrajin
                                 za leto 1986, določenih z zakonom o sredstvih za odpravo posledic
                                 katastrofalnega potresa, ki je prizadel območje SR Črne gore v letu
-                                1979 (11. točka dnevnega reda) 52
+                                1979 (11. točka dnevnega reda) <ref target="#pb.52">52</ref>
                                 <list>
                                     <head>GOVORNIKI:</head>
-                                    <item>Dušanka Kotnik 53</item>
-                                    <item>Pavle Leban 53</item>
-                                    <item>dr. Jože Kunič 53</item>
+                                    <item>Dušanka Kotnik <ref target="#pb.53">53</ref></item>
+                                    <item>Pavle Leban <ref target="#pb.53">53</ref></item>
+                                    <item>dr. Jože Kunič <ref target="#pb.53">53</ref></item>
                                 </list>
                             </item>
                             <item>13. Predlog zakona o spremembah in dopolnitvah zakona o osnovni
-                                šoli (nadaljevanje 3. točke dnevnega reda) 54
+                                šoli (nadaljevanje 3. točke dnevnega reda) <ref target="#pb.54">54</ref>
                                 <list>
                                     <head>GOVORNIKI:</head>
-                                    <item>Vilijem Veršaj 54</item>
-                                    <item>Boštjan Zgonc 55</item>
-                                    <item>Tone Jerovšek 55</item>
-                                    <item>Stane Ferfilar 55</item>
-                                    <item>Stane Božič 56</item>
-                                    <item>Borut Plavšak 56</item>
+                                    <item>Vilijem Veršaj <ref target="#pb.54">54</ref></item>
+                                    <item>Boštjan Zgonc <ref target="#pb.55">55</ref></item>
+                                    <item>Tone Jerovšek <ref target="#pb.55">55</ref></item>
+                                    <item>Stane Ferfilar <ref target="#pb.55">55</ref></item>
+                                    <item>Stane Božič <ref target="#pb.56">56</ref></item>
+                                    <item>Borut Plavšak <ref target="#pb.56">56</ref></item>
                                 </list>
                             </item>
                             <item>14. Osnutek odloka o zmanjševanju obveznosti republik in
                                 avtonomnih pokrajin za leto 1986, določenih z zakonom o sredstvih za
                                 odpravo posledic katastrofalnega potresa, ki je prizadel območje SR
-                                Črne gore v letu 1979 (12. točka dnevnega reda) 57<pb n="I/4" xml:id="pb.I.4"/>
+                                Črne gore v letu 1979 (12. točka dnevnega reda) <ref target="#pb.57">57</ref><pb n="I/4" xml:id="pb.I.4"/>
                             </item>
                             <item>15. Predlog zakona o ratifikaciji pogodbe med SFR Jugoslavijo in
                                 LR Madžarsko o izogibanju dvojnemu obdavčevanju dohodka in
-                                premoženja (13. točka dnevnega reda) 57</item>
+                                premoženja (13. točka dnevnega reda) <ref target="#pb.57">57</ref></item>
                             <item>16. Predlog za soglasje za kandidaturo Judo zveze Jugoslavije za
                                 organizacijo evropskega prvenstva Evrope za člane in članice za leto
-                                1986 v Novem Sadu (14. točka dnevnega reda) 57 </item>
+                                1986 v Novem Sadu (14. točka dnevnega reda) <ref target="#pb.57">57</ref> </item>
                             <item>17. Pobude, predlogi in vprašanja delegatov (15. točka dnevnega
-                                reda) 58
+                                reda) <ref target="#pb.58">58</ref>
                                 <list>
                                     <head>GOVORNIKI:</head>
-                                    <item>Milan Kneževič 59</item>
-                                    <item>Pavel Kunc 61</item>
-                                    <item>Miro Steržaj 62</item>
-                                    <item>Franjo Marošek 62</item>
-                                    <item>Franc Albreht 63</item>
-                                    <item>Tomaž Zalokar 67</item>
-                                    <item>Janja Domitrovič 68</item>
-                                    <item>Drago Šulek 68</item>
+                                    <item>Milan Kneževič <ref target="#pb.59">59</ref></item>
+                                    <item>Pavel Kunc <ref target="#pb.61">61</ref></item>
+                                    <item>Miro Steržaj <ref target="#pb.62">62</ref></item>
+                                    <item>Franjo Marošek <ref target="#pb.62">62</ref></item>
+                                    <item>Franc Albreht <ref target="#pb.63">63</ref></item>
+                                    <item>Tomaž Zalokar <ref target="#pb.67">67</ref></item>
+                                    <item>Janja Domitrovič <ref target="#pb.68">68</ref></item>
+                                    <item>Drago Šulek <ref target="#pb.68">68</ref></item>
                                 </list>
                             </item>
-                            <item>18. Seznam govornikov II/l</item>
+                            <item>18. Seznam govornikov <ref target="#pb.II.1">II/1</ref></item>
                         </list>
                     </item>
                 </list>
