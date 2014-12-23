@@ -423,13 +423,22 @@
                 <head>ZBOR OBČIN <lb/>SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE</head>
                 <div ana="#PAR.Seja" n="3">
                     <head>3. seja</head>
-                    <docDate>(18. junij 1986)</docDate>
+                    <docDate when="1986-06-18">(18. junij 1986)</docDate>
+                    <timeline origin="#TL.1" unit="min">
+                        <when synch="#stage.t.1" xml:id="TL.1" absolute="1986-06-18T09:00:00"/>
+                        <when synch="#stage.t.2" since="#TL.1" absolute="1986-06-18T09:25:00" interval="25"/>
+                        <when synch="#stage.t.3" xml:id="TL.2" absolute="1986-06-18T10:35:00"/>
+                        <when synch="#stage.t.4" since="#TL.2" absolute="1986-06-18T12:30:00" interval="115"/>
+                        <when synch="#stage.t.5" xml:id="TL.3" absolute="1986-06-18T13:05:00"/>
+                        <when synch="#stage.t.6" since="#TL.3" absolute="1986-06-18T15:55:00" interval="110"/>
+                    </timeline>
                     <castList>
                         <castItem><roleDesc>Sejo je vodil</roleDesc>
-                            <actor xml:id="sp.BeznikVlado">Vlado Beznik</actor>, <role>predsednik Zbora
-                            občin</role>.</castItem>
+                            <actor xml:id="sp.BeznikVlado">Vlado Beznik</actor>, <role>predsednik
+                                Zbora občin</role>.</castItem>
                     </castList>
-                    <stage>Seja se je pričela ob 9.00 uri.</stage>
+                    <stage type="time">Seja se je <time from="09:00:00" xml:id="stage.t.1">pričela
+                            ob 9.00 uri</time>.</stage>
                     <sp who="#sp.BeznikVlado">
                         <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                         <p>Tovarišice in tovariši delegati! Pričenjam 3. sejo Zbora občin Skupščine
@@ -720,8 +729,10 @@
                                     nadstropju, kjer bomo opravili skupno zasedanje. Prekinjam sejo
                                     Zbora občin.</p>
                             </sp>
-                            <stage>(Seja zbora je bila prekinjena ob 9.25 uri in se je
-                                nadaljevala ob 10.35 uri.)</stage>
+                            <stage type="time">(Seja zbora je bila <time to="09:25:00"
+                                    xml:id="stage.t.2">prekinjena ob 9.25 uri</time> in se je <time
+                                    from="10:35:00" xml:id="stage.t.3">nadaljevala ob 10.35
+                                    uri</time>.)</stage>
                             <sp who="#sp.BeznikVlado">
                                 <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                                 <p>Tovarišice in tovariši delegati! Nadaljujemo sejo zbora.<pb n="6"
@@ -2217,8 +2228,9 @@
                                     odmor ter bi po njem nadaljevali z razpravo k tej točki dnevnega
                                     reda.</p>
                             </sp>
-                            <stage>(Seja je bila prekinjena ob 12.30 uri in se je nadaljevala ob
-                                13.05 uri.)</stage>
+                            <stage type="time">(Seja je bila <time to="12:30:00" xml:id="stage.t.4">prekinjena ob 12.30
+                                uri</time> in se je <time from="13:05:00" xml:id="stage.t.5">nadaljevala ob 13.05
+                                    uri</time>.)</stage>
                             <sp who="#sp.BeznikVlado">
                                 <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                                 <p>Nadaljujemo z razpravo k 5. točki dnevnega reda. Besedo ima Zoran
@@ -4532,7 +4544,8 @@
                                 <p>Zahvaljujem se vam za udeležbo na seji in za razpravo.
                                     Zaključujem 3. sejo Zbora občin.</p>
                             </sp>
-                            <stage>(Seja je bila končana 18. junija 1986 ob 15.55 uri.)</stage>
+                            <stage type="time">(Seja je bila <time to="1986-06-18T15:55:00" xml:id="stage.t.6">končana
+                                    18. junija 1986 ob 15.55 uri</time>.)</stage>
                         </div>
                     </div>
                 </div>
