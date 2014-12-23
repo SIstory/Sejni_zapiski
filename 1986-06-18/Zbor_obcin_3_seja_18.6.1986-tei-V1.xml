@@ -116,6 +116,22 @@
             </textClass>
         </profileDesc>
         <revisionDesc>
+            <change from="2014-12-22" to="2014-12-23">
+                <name>Andrej Pančur</name>: <list>
+                    <item>//front//*</item>
+                    <item>//text//div</item>
+                    <item>//body//div/stage</item>
+                    <item>//head</item>
+                    <item>//sp</item>
+                    <item>//back//list</item>
+                    <item>//castList</item>
+                    <item>//pb/@n</item>
+                    <item>//p/stage</item>
+                    <item>//sp/speaker</item>
+                    <item>//docDate</item>
+                    <item>//timeline</item>
+                </list>
+            </change>
             <change when="2014-12-22">
                 <name>Andrej Pančur</name>: izvoz in preverjanje metapodatkov iz SIstory, izdelava
                 teiHeader</change>
@@ -125,9 +141,15 @@
     </teiHeader>
     <text>
         <front>
-            <p>ZBOR OBČIN SKUPŠČINE REPUBLIKE SLOVENIJE</p>
-            <p>Sejni zapiski</p>
-            <p>3. seja - 18. junij 1986</p>
+            <docTitle>
+                <titlePart>ZBOR OBČIN<lb/> SKUPŠČINE REPUBLIKE SLOVENIJE</titlePart>
+                <titlePart>Sejni zapiski</titlePart>
+                <titlePart>3. seja - 18. junij 1986</titlePart>
+            </docTitle>
+            <docImprint>
+                <pubPlace>Ljubljana</pubPlace>
+            </docImprint>
+            <docDate>1986</docDate>
             <pb n="I/1" xml:id="pb.I.1"/>
             <div type="contents">
                 <head>VSEBINA</head>
