@@ -146,26 +146,53 @@
     </teiHeader>
     <text>
         <front>
-            <p>SKUPŠČINA SOCIALISTIČNE REPUBLIKE SLOVENIJE</p>
-            <p>Sejni zapiski</p>
-            <p>18. knjiga (1. zvezek)</p>
-            <p>Zbor združenega dela</p>
-            <p>seja, 20.6.1984</p>
-            <p>seja, 11.7.1984</p>
-            <p>seja, 25.7.1984</p>
-            <p>Zbor občin</p>
-            <p>seja, 20.6.1984</p>
-            <p>seja, 11.7.1984</p>
-            <p>seja, 25.7.1984 Družbenopolitični zbor</p>
-            <p>seja, 20.6.1984</p>
-            <p>seja, 11.7.1984</p>
-            <p>seja, 25.7.1984</p>
-            <p>seja, 27.7.1984 (str. 391)</p>
-            <p>Skupščine SIS (kot četrti zbor) 11. seja Skupščine Zdravstvene skupnosti Slovenije,
-                18.7.1984 10. seja Skupščine Skupnosti socialnega varstva Slovenije, 19.7.1984</p>
-            <p>Skupno zasedanje zborov -20.6.1984-(str. 409)</p>
-            <p>- 11.7.1984 - (str. 418) -25.7.1984-(str. 432)</p>
-            <p>Dokumentacijsko-knjižnični oddelek Pododdelek sejnih zapiskov Ljubljana, 2000</p>
+            <docTitle>
+                <titlePart>SKUPŠČINA SOCIALISTIČNE REPUBLIKE SLOVENIJE</titlePart>
+                <titlePart>Sejni zapiski</titlePart>
+                <titlePart>18. knjiga (1. zvezek)</titlePart>
+            </docTitle>
+            <docImprint>
+                <publisher>
+                    <name>Dokumentacijsko-knjižnični oddelek</name>
+                    <name>Pododdelek sejnih zapiskov</name>
+                </publisher>
+                <pubPlace>Ljubljana</pubPlace>
+            </docImprint>
+            <docDate>2000</docDate>
+            <div>
+                <list type="simple">
+                    <head>Zbor združenega dela</head>
+                    <item>35. seja, 20.6.1984</item>
+                    <item>36. seja, 11.7.1984</item>
+                    <item>37. seja, 25.7.1984</item>
+                </list>
+                <list type="simple">
+                    <head>Zbor občin</head>
+                    <item>35. seja, 20.6.1984</item>
+                    <item>36. seja, 11.7.1984</item>
+                    <item>37. seja, 25.7.1984</item>
+                </list>
+                <list type="simple">
+                    <head>Družbenopolitični zbor</head>
+                    <item>33. seja, 20.6.1984</item>
+                    <item>34. seja, 11.7.1984</item>
+                    <item>35. seja, 25.7.1984</item>
+                    <item>36. seja, 27.7.1984 (str. 391)</item>
+                </list>
+                <list type="simple">
+                    <head>Skupščine SIS (kot četrti zbor)</head>
+                    <item>11. seja Skupščine Zdravstvene skupnosti Slovenije, 18.7.1984</item>
+                    <item>10. seja Skupščine Skupnosti socialnega varstva Slovenije,
+                        19.7.1984</item>
+                </list>
+                <list type="bulleted">
+                    <head>Skupno zasedanje zborov</head>
+                    <item n="-">20.6.1984 - (str. 409)</item>
+                    <item n="-">11.7.1984 - (str. 418)</item>
+                    <item n="-">25.7.1984 - (str. 432)</item>
+                </list>
+            </div>
+
         </front>
         <body>
             <pb n="1"/>
