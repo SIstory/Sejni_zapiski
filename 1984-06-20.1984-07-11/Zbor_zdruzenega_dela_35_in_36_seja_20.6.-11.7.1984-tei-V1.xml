@@ -405,7 +405,7 @@
                             <sp>
                                 <p>Glede na navedeno predlagam, da zbor za današnjo sejo sprejme
                                     naslednji dnevni red:</p>
-                                <list>
+                                <list type="ordered">
                                     <item n="1">odobritev zapisnika 34. seje zbora,</item>
                                     <item n="2">izvolitev predsednika in dveh članov Izvršnega sveta
                                         Skupščine SR Slovenije in imenovanje dveh predsednikov
@@ -1182,8 +1182,8 @@
                                     nesprejemljiva in združeno delo prav nasprotno zahteva konkretne
                                     aktivnosti teh organov v smislu razreševanja naslednjih
                                     problemov.</p>
-                                <list>
-                                    <item>1. V sprejetih usmeritvah družbenoekonomske politike, ki
+                                <list type="ordered">
+                                    <item n="1">V sprejetih usmeritvah družbenoekonomske politike, ki
                                         je bila predlagana in sprejeta s strani zveznih organov, je
                                         v poglavju o cenovni politiki zahtevano, da se le-ta izvaja
                                         s posebnim poudarkom na upoštevanje ekonomskih zakonitosti,
@@ -1205,7 +1205,7 @@
                                         da ustrezni republiški in zvezni organi izvršijo analizo cen
                                         proizvodov bazne industrije domačih in tujih proizvajalcev
                                         in da se na osnovi tega sprejmejo ustrezni ukrepi.</item>
-                                    <item>2. Zvezni izvršni svet daje v majski analizi poseben
+                                    <item n="2">Zvezni izvršni svet daje v majski analizi poseben
                                         poudarek povečanju izvoza in deviznemu prilivu, kar je
                                         pravilno. Združeno delo ugotavlja, da bo temu potrebno
                                         podrediti vse druge interese, posebej kratkoročne, med
@@ -1222,7 +1222,7 @@
                                         s svojim vplivom preprečijo prevladovanje ozkih interesov,
                                         ki niso v skladu z interesi najširše družbene
                                         skupnosti.</item>
-                                    <item>3. Velikokrat je s strani najvišjih republiških in zveznih
+                                    <item n="3">Velikokrat je s strani najvišjih republiških in zveznih
                                         organov poudarjena zahteva po odpravljanju cenovnih
                                         neskladij, kar je tudi eden od ukrepov dolgoročnega programa
                                         gospodarske stabilizacije. Dogajanja na področju cen v času
@@ -1237,7 +1237,7 @@
                                         cene. Reševanje je mogoče le na konkretnih primerih v
                                         okvirih posameznih branž ali celo ožjih proizvodnih
                                         procesov.</item>
-                                    <item>4. Uveljavljanje sprejetih ekonomskih zakonitosti oziroma
+                                    <item n="4">Uveljavljanje sprejetih ekonomskih zakonitosti oziroma
                                         ukrepov je pripeljalo do zaostrenih pogojev gospodarjenja in
                                         povzročilo pri organizacijah združenega dela z neustreznimi
                                         proizvodnimi programi in usmeritvami konstantno nerentabilno
@@ -1545,9 +1545,8 @@
                             <sp>
                                 <speaker>Alojz Klemenčič:</speaker>
                                 <p>V svoji razpravi bi opozoril na tri vprašanja.</p>
-                                <list>
-                                    <item>
-                                        <p>1. Po razpravi delegata, ki je govoril o odkupu pšenice,
+                                <list type="ordered">
+                                    <item n="1">Po razpravi delegata, ki je govoril o odkupu pšenice,
                                             je ostal neprijeten vtis, da stvari niso dobro
                                             pripravljene, in to sedaj ko se moramo vsi z veliko
                                             zavzetostjo lotevati te naloge, da bi dosegli načrtovan
@@ -1569,10 +1568,9 @@
                                             na odkup pšenice. Gre torej za dodatne premije,ki jih je
                                             potrebno zagotoviti poleg cene, ki naj bi bila približno
                                             22 ali 23 dinarjev, o čemer se je potrebno še
-                                            uskladiti.</p>
-                                    </item>
-                                    <item>
-                                        <p>2. Glede koruze. Brez dvoma je to eden od ključnih
+                                            uskladiti.</item>
+                                    <item n="2">
+                                        <p>Glede koruze. Brez dvoma je to eden od ključnih
                                             ukrepov v tem paketu a odkup pšenice, kajti v Sloveniji
                                             se še vedno velik del pšenice namenja tudi za krmo, kar
                                             moramo z vsemi ekonomskimi in organizacijskimi premijami
@@ -1634,8 +1632,8 @@
                                             okvire. Zato so pričakovanja glede tega marsikoga tudi
                                             razočarala.</p>
                                     </item>
-                                    <item>
-                                        <p>3. Glede pripombe, da je prišlo do odstopanja v uvodni
+                                    <item n="3">
+                                        <p>Glede pripombe, da je prišlo do odstopanja v uvodni
                                             besedi od dosedanjih stališč na področju socialne
                                             politike, ugotavljamo, da se morda nismo dobro razumeli.
                                             Poudarjeno je bilo, da morajo organizacije združenega
@@ -2248,8 +2246,8 @@
                                 <p>V načelni razpravi je skupina podprla sprejem navedenega poročila
                                     in zaključnega računa. Skupina delegatov daje v zvezi z delom
                                     Službe družbenega knjigovodstva naslednje predloge.</p>
-                                <list>
-                                    <item>1. Menimo, da bi v Službi družbenega knjigovodstva morali
+                                <list type="ordered">
+                                    <item n="1">Menimo, da bi v Službi družbenega knjigovodstva morali
                                         še bolj intenzivno delovati pri racionalizaciji njihovega
                                         načina dela in si prizadevati za zmanjševanje števila
                                         postavk v posameznih bilančnih obrazcih in tudi za
@@ -2257,7 +2255,7 @@
                                         obrazcev oziroma podatkov, ki jih moramo uporabniki
                                         družbenih sredstev predlagati v periodičnih in zaključnih
                                         računih.</item>
-                                    <item>2. Prouči naj se možnost, da se periodični obračuni za
+                                    <item n="2">Prouči naj se možnost, da se periodični obračuni za
                                         prvo trimesečje ne bi več sestavljali, ker se podatki iz teh
                                         le malokje uporabljajo. Predlagamo, da pristojni organi
                                         sprožijo postopke za spremembo zveznih predpisov, ki bi
@@ -2405,9 +2403,9 @@
                                 <p>Zaradi tega bi se v nadaljevanju zadržal samo pri nekaterih
                                     predlaganih spremembah, o katerih je bilo ob obravnavi
                                     predlaganega besedila osnutkov zakonov največ razprav.</p>
-                                <list>
-                                    <item>
-                                        <p>1. Najpomembnejša sprememba, ki je vgrajena v osnutek
+                                <list type="ordered">
+                                    <item n="1">
+                                        <p>Najpomembnejša sprememba, ki je vgrajena v osnutek
                                             zakona o vojaških invalidih, se nanaša na vštevanje
                                             invalidskih prejemkov pri ugotavljanju gmotnega položaja
                                             upravičenca. Pri tem izhajamo iz dejstva, da imajo sicer
@@ -2443,7 +2441,7 @@
                                             sprememb, ki smo jih navedli v gradivu ob predlogu za
                                             izdajo zakona. </p>
                                     </item>
-                                    <item>2. Glede vštevanja drugih prejemkov upravičencev in
+                                    <item n="2">Glede vštevanja drugih prejemkov upravičencev in
                                         njihovih družinskih članov predlagamo v osnutku zakona, da
                                         se zadrži približno enaka ureditev kot v veljavnem zakonu,
                                         vendar nekoliko poenostavljena. Pri tem smo menili, da je
@@ -2453,7 +2451,7 @@
                                         članov družine, ki so se že osamosvojili, ne bi upoštevali -
                                         doslej so se upoštevali - temveč samo prejemke tistih članov
                                         družine, ki jih je upravičenec dolžan vzdrževati.</item>
-                                    <item>3. Omeniti je treba še predlagano spremembo pri vštevanju
+                                    <item n="3">Omeniti je treba še predlagano spremembo pri vštevanju
                                         katastrskega dohodka. Ta se po veljavnem predpisu všteva v
                                         višino 40 %. Taka ureditev je bila uvedena leta 1978. Od
                                         tedaj se je višina invalidskega dodatka povečala za nekaj
@@ -2467,7 +2465,7 @@
                                         manjši invalidski' dodatek. To, menimo, da je tudi v skladu
                                         s politiko o obdelovanju kmetijskih zemljišč, zlasti še v
                                         današnjih razmerah.</item>
-                                    <item>4. Naslednja sprememba se nanaša na določbe o pomoči pri
+                                    <item n="4">Naslednja sprememba se nanaša na določbe o pomoči pri
                                         nakupu motornega vozila. Ponovno je treba omeniti, da so
                                         najtežji vojaški invalidi upravičenci do osebnega motornega
                                         vozila po zveznih predpisih. Po veljavnem republiškem zakonu
@@ -2742,8 +2740,8 @@
                                 <p>Tovariš predsednik, tovarišice in tovariši delegati! V vseh
                                     šestih mariborskih občinah smo v skupinah delegatov zavzeli
                                     skupne predloge in pripombe k predloženemu osnutku zakona.</p>
-                                <list>
-                                    <item>1. Sredstva, ki bi predvidoma ostala glede na izračunane
+                                <list type="ordered">
+                                    <item n="1">Sredstva, ki bi predvidoma ostala glede na izračunane
                                         po osnutku zakona, se naj porabila za povečanje dodatka
                                         tistim kategorijam invalidov, ki imajo najmanjše dohodke in
                                         najnižji dodatek. Poudarjamo, da sredstva, ki se pri tem
@@ -2754,7 +2752,7 @@
                                         pa poseg v zmanjševanje sredstev in pravic na tem področju v
                                         tem trenutku in g e de na sedanje ekonomske razmere
                                         upravičencev tudi politično nesprejemljiv.</item>
-                                    <item>2. Menimo, da se kljub mnenju predlagatelja o pravilnejši
+                                    <item n="2">Menimo, da se kljub mnenju predlagatelja o pravilnejši
                                         razporeditvi sredstev med upravičence v upoštevanje dohodka
                                         ne bi smela šteti osebna invalidnina in občinska
                                         priznavalnina. Menimo namreč, da je invalidnina nadomestilo
@@ -2762,7 +2760,7 @@
                                         pa je tudi element<pb n="34"/> socialne pomoči, do katere so
                                         upravičeni le tisti borci, ki po nobenem drugem predpisu ne
                                         morejo dobiti ekvivalentov.</item>
-                                    <item>3. Glede denarnih pomoči za nakup osebnih avtomobilov so
+                                    <item n="3">Glede denarnih pomoči za nakup osebnih avtomobilov so
                                         delegati mnenja, da se naj sprejme varianta v osnutku
                                         zakona, pa tudi, da bi ostala višina regresa takšna kot
                                         doslej, s tem da se preveri, pri katerih upravičencih je
@@ -2888,16 +2886,16 @@
                                 <p>Tovariš predsednik, tovarišice in tovariši delegati!</p>
                                 <p>Skupina delegatov iz občine Radovljica daje k osnutku zakona
                                     te-le pripombe.</p>
-                                <list>
-                                    <item>
-                                        <p>1. Civilni invalidi vojne naj bi se izenačili z vojaškimi
+                                <list type="ordered">
+                                    <item n="1">
+                                        <p>Civilni invalidi vojne naj bi se izenačili z vojaškimi
                                             invalidi po zakonu o temeljnih pravicah vojaških
                                             invalidov in družin padlih borcev.</p>
                                         <p>Civilni invalid I. skupine naj bi bil enak vojaškemu
                                             invalidu I. skupine, civilni invalid II. skupine pa enak
                                             z vojaškim invalidom II. skupine.</p>
                                     </item>
-                                    <item>2. Prav tako naj se vzpostavi enakomeren odnos med
+                                    <item n="2">Prav tako naj se vzpostavi enakomeren odnos med
                                         dodatkom za postrežbo in tujo pomoč civilnih invalidov vojne
                                         z dodatkom za postrežbo in tujo pomoč vojaških
                                         invalidov.</item>
@@ -3014,10 +3012,10 @@
                                     področja občin Domžale in Kranj.</p>
                                 <p>Zboru predlagam, da k tej točki dnevnega reda sprejme ta-le
                                     sklep:</p>
-                                <list>
-                                    <item>1. Predlog za izdajo zakona o spremembah in dopolnitvah
+                                <list type="ordered">
+                                    <item n="1">Predlog za izdajo zakona o spremembah in dopolnitvah
                                         zakona o varnosti cestnega prometa se sprejme.</item>
-                                    <item>2. Osnutek zakona o spremembah in dopolnitvah zakona o
+                                    <item n="2">Osnutek zakona o spremembah in dopolnitvah zakona o
                                         varnosti cestnega prometa naj pripravi Izvršni svet
                                         Skupščine SR Slovenije in pri tem upošteva pripombe,
                                         predloge in stališča delovnih teles Skupščine in zbora ter
@@ -3072,8 +3070,8 @@
                                     določili zakona o urejanju naselij in drugih posegov v prostor.
                                     Izločene so tudi kazenske določbe. Najpomembnejše spremembe, ki
                                     jih predlagamo v osnutku, pa so naslednje.</p>
-                                <list>
-                                    <item>1. Prerazporeditev pristojnosti med občinskimi in
+                                <list type="ordered">
+                                    <item n="2">Prerazporeditev pristojnosti med občinskimi in
                                         republiškim sanitarnim inšpektoratom. Po dosedanjem zakonu
                                         je republiški sanitarni inšpektorat na osnovi 11. člena
                                         sodeloval v procesu izdajanja soglasij do izdaje uporabnega
@@ -3089,7 +3087,7 @@
                                         po izdaji uporabnega dovoljenja. Pri tem pa so izločeni
                                         objekti oziroma prostori za pripravo in delitev
                                         hrane.</item>
-                                    <item>2. Glede na že sprejete prostorske zakone bodo odpadla
+                                    <item n="2">Glede na že sprejete prostorske zakone bodo odpadla
                                         prejšnja soglasja za nekatere objekte, ki se bodo gradili v
                                         skladu s sprejetimi prostorskimi in Izvedbenimi načrti,
                                         oziroma poprejšnja soglasja za določene objekte sploh ne
@@ -3123,8 +3121,8 @@
                                     za izdajo zakona o spremembah in dopolnitvah zakona o sanitarni
                                     inšpekciji z osnutkom zakona ter sprejela naslednje
                                     pripombe:</p>
-                                <list>
-                                    <item>1. V 1. členu osnutka predlagamo spremembo zadnjega
+                                <list type="ordered">
+                                    <item n="1">V 1. členu osnutka predlagamo spremembo zadnjega
                                         odstavka, ki obravnava 11. točko. Besedilo naj bi se
                                         glasilo: "preprečevanjem škodljivih vplivov na zdravje in
                                         zdravo okolje, ki jih lahko povzroči onesnažen zrak,
@@ -3133,7 +3131,7 @@
                                         inšpekcije glede odplak in odpadnih snovi in so organi
                                         sanitarnih inšpekcij morali opravljati nadzor tudi, ko niso
                                         bili prisotni elementi škodljivosti zdravja.</item>
-                                    <item>2. V 4. členu osnutka v 5. točki je določen nadzor
+                                    <item n="2">V 4. členu osnutka v 5. točki je določen nadzor
                                         Republiškega sanitarnega inšpektorata nad bolnišnicami,
                                         zdravilišči in termalnimi kopališči, razen nad prostori v
                                         teh objektih, v katerih se pripravlja in deli hrana, kar bi
@@ -3142,7 +3140,7 @@
                                         delitev hrane opravlja tudi v bolnišničnih oddelkih<pb
                                             n="39"/> in bojimo se, da se bi delo podvajalo in
                                         izrekali različni ukrepi.</item>
-                                    <item>3. V 4. členu osnutka so v točki 7. in 8. opredeljene
+                                    <item n="3">V 4. členu osnutka so v točki 7. in 8. opredeljene
                                         industrijske panoge, v katerih bi republiški sanitarni
                                         inšpektorat opravljal nadzor nad proizvodnjo in v smislu lo.
                                         točke istega člena še nadzor v omenjenih industrijskih
@@ -3441,12 +3439,12 @@
                                     obravnavi dogovor. Vsekakor je prisoten problem radia in
                                     televizije, o čemer v razpravah ni bilo bistvenih nasprotovanj.
                                     Zato predlagam zboru, da sprejme sklep z naslednjo vsebino:</p>
-                                <list>
-                                    <item>1. Predlog za izdajo zakona o sofinanciranju programa
+                                <list type="ordered">
+                                    <item n="1">Predlog za izdajo zakona o sofinanciranju programa
                                         obnove in modernizacije oddajniškega in prenosnega sistema
                                         Radio-televizije Ljubljana v obdobju 1984-19 86 z osnutkom
                                         zakona se sprejme. </item>
-                                    <item>2. 3. Predlog zakona pripravi Izvršni svet Skupščine SR
+                                    <item n="2">Predlog zakona pripravi Izvršni svet Skupščine SR
                                         Slovenije.</item>
                                 </list>
                                 <p>Pri pripravi predloga zakona naj predlagatelj prouči in ustrezno
@@ -3515,12 +3513,12 @@
                                     letnemu poročilu o izvajanju skupne emisijske, denarne in
                                     devizne politike ter skupnih temeljev kreditne politike v letu
                                     1983 naslednja stališča in pripombe,</p>
-                                <list>
-                                    <item>1. V obsežnem letnem poročilu se na mnogih mestih ponavlja
+                                <list type="ordered">
+                                    <item n="1">V obsežnem letnem poročilu se na mnogih mestih ponavlja
                                         vsa širina družbenoekonomske problematike in tako po
                                         nepotrebnem povečuje obseg gradiva. Če pogledamo celotno
                                         gradivo, obsega le-to okrog 200 strani.</item>
-                                    <item>2. V poročilu ni v zadostni meri zaslediti učinkov
+                                    <item n="">V poročilu ni v zadostni meri zaslediti učinkov
                                         kreditno-monetarne in devizne politike, ki je bila vodena v
                                         preteklem letu. Koristno bi bilo namreč na osnovi
                                         faktografskih informacij oblikovati strokovne zaključke, ki
@@ -3534,14 +3532,14 @@
                                         meri je dobro vplivala uveljavljena politika in v kakšni
                                         meri slabo. Nedvomno moramo biti sposobni, da na osnovi
                                         letnega poročila ocenimo uspešnost vodene politike.</item>
-                                    <item>3. Poročilo ugotavlja, da je glavna značilnost sedanjega
+                                    <item n="3">Poročilo ugotavlja, da je glavna značilnost sedanjega
                                         stanja gospodarstva Jugoslavije nelikvidnost in
                                         nesolventnost. čeprav je takšno stanje zlasti posledica
                                         gospodarjenja, ni zanemarljiv vpliv denarno-kreditne
                                         politike oziroma njenih agregatov. Koristno bi bilo
                                         ugotoviti, kakšne učinke je povzročala oziroma če jih je
                                         sploh povzročala.</item>
-                                    <item>4. Vodena denarno-kreditna politika je v letu 1983
+                                    <item n="4">Vodena denarno-kreditna politika je v letu 1983
                                         pospeševala depozitno-kreditne odnose in odvisnost
                                         gospodarstva od finančnih organizacij, predvsem Narodne
                                         banke Jugoslavije, kot tudi poslovnih bank. To je v
@@ -3549,7 +3547,7 @@
                                         reči, kako si sploh predstavljamo oziroma kako si
                                         predstavlja Narodna banka Jugoslavije krepitev združevanja
                                         dela in sredstev,</item>
-                                    <item>5. Poročilo je ostalo nedorečeno glede neposrednega vpliva
+                                    <item n="5">Poročilo je ostalo nedorečeno glede neposrednega vpliva
                                         kreditno-denarne politike, zlasti vpliva tečaja in obrestnih
                                         mer na cene, oblike neoficialnega denarja in medsebojne
                                         odvisnosti kreditno-denarne politike in medsebojnega
@@ -3564,7 +3562,7 @@
                                         Na tak način bi bilo mogoče letno poročilo občutneje
                                         skrajšati po obsegu in vsebinsko popestriti z informacijami,
                                         ki bodo služile za bodoče odločitve.</item>
-                                    <item>6. Načrtovana sredstva za delovno skupnost naj bi v večji
+                                    <item n="6">Načrtovana sredstva za delovno skupnost naj bi v večji
                                         meri odražala soodvisnost kvalitete in kvantitete, ki so v
                                         skladu z družbeno funkcijo Narodne banke Jugoslavije. Hvala.
                                     </item>
@@ -3795,10 +3793,10 @@
                                     republiških organov, da je za to občino ob navedenih ugotovitvah
                                     nujno zagotoviti čimprej sredstva za odpravo posledic zaradi
                                     močnega vetra, sta bila sprejeta naslednja sklepa: </p>
-                                <list>
-                                    <item>1. Skupščini občine Tolmin se odobrijo akontativna
+                                <list type="ordered">
+                                    <item n="1">Skupščini občine Tolmin se odobrijo akontativna
                                         sredstva v višini 15 milijonov dinarjev. </item>
-                                    <item>2. Vloge ostalih občin se bodo obravnavale po prejetju
+                                    <item n="2">Vloge ostalih občin se bodo obravnavale po prejetju
                                         vlog vseh prizadetih občin, v katerih bo prikazana ocena
                                         škode v skladu z veljavno metodologijo in na te vloge
                                         pridobljena strokovna mnenja pristojnih resorskih
@@ -4088,28 +4086,28 @@
                             <sp>
                                 <p>Glede na navedeno predlagam, da zbor za današnjo sejo sprejme
                                     naslednji dnevni red: </p>
-                                <list>
-                                    <item>1. odobritev zapisnika 35. seje zbora,</item>
-                                    <item>2. poročilo Zveznega izvršnega sveta o uresničevanju
+                                <list type="ordered">
+                                    <item n="1">odobritev zapisnika 35. seje zbora,</item>
+                                    <item n="2">poročilo Zveznega izvršnega sveta o uresničevanju
                                         družbenega plana Jugoslavije za obdobje 1981-1985 v letih
                                         1983 in 1984 z oceno možnosti razvoja v letu 1985, </item>
-                                    <item>3. poročilo o obsegu, vzrokih in načinu pokrivanja izgub,
+                                    <item n="3">poročilo o obsegu, vzrokih in načinu pokrivanja izgub,
                                         izkazanih v zaključnih računih za leto 1983 ,</item>
-                                    <item>4. predlog za izdajo zakona o spremembi zakona o proračunu
+                                    <item n="4">predlog za izdajo zakona o spremembi zakona o proračunu
                                         SR Slovenije za leto 1984 z osnutkom zakona,</item>
-                                    <item>5. predlog zakona o obveznem posojilu SR Sloveniji v letu
+                                    <item n="5">predlog zakona o obveznem posojilu SR Sloveniji v letu
                                         1984,</item>
-                                    <item>6. predlog za izdajo zakona o Višji upravni šoli s
+                                    <item n="6">predlog za izdajo zakona o Višji upravni šoli s
                                         predlogom zakona,</item>
-                                    <item>7. osnutek zakona o spremembah zakona o skupnem znesku
+                                    <item n="7">osnutek zakona o spremembah zakona o skupnem znesku
                                         sredstev za financiranj e programa graditve in modernizacije
                                         tehnične baze Radia Jugoslavija v obdobju od leta 1981 do
                                         1990, </item>
-                                    <item>8. osnutek zakona o dopolnitvah zakona o opravljanju
+                                    <item n="8">osnutek zakona o dopolnitvah zakona o opravljanju
                                         menjalniških poslov in prometu efektivnega tujega denarja v
                                         Jugoslaviji,</item>
-                                    <item>9. volitve in imenovanja,</item>
-                                    <item>10. pobude, predlogi in vprašanja delegatov.</item>
+                                    <item n="9">volitve in imenovanja,</item>
+                                    <item n="10">pobude, predlogi in vprašanja delegatov.</item>
                                 </list>
                                 <p>Predlaga kdo kakšno spremembo ali dopolnitev tako predlaganega
                                     dnevnega reda? (Nihče.) Dajem na glasovanje predlog dnevnega
@@ -4255,13 +4253,13 @@
                                     tudi usklajeno v Združenju bank Jugoslavije z naslednjimi
                                     značilnostmi:</p>
                                 <list type="ordered">
-                                    <item>1. da se prihodki od zvišanih aktivnih obrestnih mer
+                                    <item n="1">da se prihodki od zvišanih aktivnih obrestnih mer
                                         oblikujejo le v višini, ki je globalno potrebna za
                                         pokrivanje zvišanih pasivnih obresti, ne pa tudi za
                                         pokrivanje razmejenih in tekočih tečajnih razlik, vse dokler
                                         zakonsko ne bi bili opredeljeni načini in namenski viri za
                                         pokrivanje teh tečajnih razlik;</item>
-                                    <item>2. da so bile aktivne obrestne mere določene selektivno
+                                    <item n="2">da so bile aktivne obrestne mere določene selektivno
                                         glede na prioritete, zapisane v naših planskih aktih in
                                         dokumentih v letošnji poslovni politiki, seveda v odnosih,
                                         kakor so jih dopuščale obvezne minimalne obrestne
@@ -4553,17 +4551,17 @@
                                     poslali Skupščini, žal pa jih niste dobili, ker je. verjetno
                                     bilo prepozno. Nekatera stališča želim posebej poudariti.</p>
                                 <p>Ekonomski odnosi s tujino:</p>
-                                <list>
-                                    <item>1. Strinjamo se, kot je rekel tudi tovariš Potrč in kot je
+                                <list type="ordered">
+                                    <item n="1">Strinjamo se, kot je rekel tudi tovariš Potrč in kot je
                                         zapisano v mnenjih, da je najpomembneje, da se do konca leta
                                         za gospodarstvo ne poslabša razpolaganje z devizami 46 , 54
                                         odstotka.</item>
-                                    <item>2. Da se, tako kot je sprejeto, družbeno priznane
+                                    <item n="2">Da se, tako kot je sprejeto, družbeno priznane
                                         reprodukcijske potrebe ali, kot mi rečemo "DRP" uskladijo z
                                         realnimi možnostmi uvoza in da se ne vztraja na zgodovinskih
                                         pravicah zadnjih dveh let, ko se je na mnogo načinov lahko
                                         to uvažalo.</item>
-                                    <item>3. Da se s tem v zvezi predvsem zahteva, da banke ne
+                                    <item n="3">Da se s tem v zvezi predvsem zahteva, da banke ne
                                         dajejo garancij po teh pravicah iz "DRP" nad realno
                                         razpolaganimi devizami. Zahteva naj se, da se dosledno vodi
                                         politika ekonomskih spodbud za izvoz, saj gospodarstvo
@@ -4721,8 +4719,8 @@
                                     roka.</p>
                                 <p>Ključni cilji v naslednjem obdobju, ki jim morajo biti
                                     opredeljeni vsi ekonomski ukrepi, so po našem mnenju:</p>
-                                <list>
-                                    <item>1. povečanje deleža dohodka, o katerem odloča gospodarstvo
+                                <list type="ordered">
+                                    <item n="1">povečanje deleža dohodka, o katerem odloča gospodarstvo
                                         ter večja samostojnost organizacij združenega dela pri
                                         upravljalskih in poslovnih odločitvah na podlagi
                                         zmanjševanja administrativne regulative v prid tržni.
@@ -4731,11 +4729,11 @@
                                         Dejstvo je, da se je delež čistega dohodka OZD v dohodku
                                         zmanjšal od 62 na 58.7 %; menim, da je to
                                         nesprejemljivo;</item>
-                                    <item>2. obvladovanje inflacije in občutna znižanje njene
+                                    <item n="2">obvladovanje inflacije in občutna znižanje njene
                                         stopnje; </item>
-                                    <item>3. zagotovitev pogojev za pozitivno delovanje trga
+                                    <item n="3">zagotovitev pogojev za pozitivno delovanje trga
                                         in</item>
-                                    <item>4. nadaljnje povečanje proizvodnje in konvertibilnega
+                                    <item n="4">nadaljnje povečanje proizvodnje in konvertibilnega
                                         izvoza ter utrjevanje finančnega stanja v reprodukciji s
                                         ciljem odpravljanja tržnih in drugih materialnih neskladij,
                                         izpolnjevanje obveznosti do tujine ter odpravljanje
@@ -4858,20 +4856,20 @@
                                     zadnja leta ogromno vlagali in kjer smo tudi veliko dosegli.</p>
                                 <p>Da se temu izognemo, bi morali nujno sprejeti naslednje
                                     ukrepe.</p>
-                                <list>
-                                    <item>1. Zagotavljanje krmil ali koruze po sprejemljivi ceni.
+                                <list type="ordered">
+                                    <item n="1">Zagotavljanje krmil ali koruze po sprejemljivi ceni.
                                         Kolikor tega ukrepa ni. mogoče sprejeti na nivoju
                                         Jugoslavije, potem je nujno, da to stori Slovenija. Morali
                                         bi poiskati devize za uvoz in na tem področju intervenirati.
                                         Menim, da mora imeti to prioriteto predvsem drugim. Kolikor
                                         uvoz ni mogoč - bojimo se tudi, da ne bo pravočasen -
                                         predlagamo regresiranje koruze.</item>
-                                    <item>2. Kreditiranje proizvodnje in zalog mesa, seveda pod
+                                    <item n="2">Kreditiranje proizvodnje in zalog mesa, seveda pod
                                         sprejemljivimi pogoji. Kmetijski bančni konzorcij v
                                         Sloveniji je že predlagal, da se naj posebej združujejo
                                         obratna sredstva za kreditiranje zalog mesa, vendar je
                                         predlog propadel.</item>
-                                    <item>3. Pokrivanje disparitet v cenah.</item>
+                                    <item n="3">Pokrivanje disparitet v cenah.</item>
                                 </list>
                                 <p>Morda so še kake druge rešitve. Naša želja bi bila, da opozorimo
                                     širšo družbeno skupnost na ta problem in na nujnost za določene
@@ -5073,18 +5071,18 @@
                                     nimam. Želi še kdo razpravljati? (Ne.) Če ne želi nihče
                                     razpravljati, potem zaključujem razpravo in predlagam zboru, da
                                     sprejme naslednji sklep:</p>
-                                <list>
-                                    <item>1. Predlog za izdajo zakona o spremembi zakona o proračunu
+                                <list type="ordered">
+                                    <item n="1">Predlog za izdajo zakona o spremembi zakona o proračunu
                                         SR Slovenije za leto 1984 z osnutkom zakona se
                                         sprejme.</item>
-                                    <item>
-                                        <p>2. Predlog zakona pripravi Izvršni svet Skupščine SR
+                                    <item n="2">
+                                        <p>Predlog zakona pripravi Izvršni svet Skupščine SR
                                             Slovenije.</p>
                                         <p>Pri pripravi predloga zakona naj predlagatelj prouči in
                                             ustrezno upošteva stališča Odbora za finance in stališča
                                             in pripombe delegatov na seji.</p>
                                     </item>
-                                    <item>3. Zbor soglaša, da se na podlagi 306. člena poslovnika
+                                    <item n="3">Zbor soglaša, da se na podlagi 306. člena poslovnika
                                         Skupščine SR Slovenije skrajša rok za pripravo in obravnavo
                                         predloga zakona o spremembi zakona o proračunu SR Slovenije
                                         za leto 1984.</item>
@@ -5142,9 +5140,9 @@
                                     zahtevo, da je potrebno glede na uresničevanje ukrepov za
                                     razbremenjevanje gospodarstva določiti nove kriterije za
                                     sovlaganja.</p>
-                                <list>
-                                    <item>
-                                        <p>1. Dodatno obremenjevanje gospodarstva ni v skladu z
+                                <list type="ordered">
+                                    <item n="1">
+                                        <p>Dodatno obremenjevanje gospodarstva ni v skladu z
                                             resolucijo in načeli niti v skladu z vsemi
                                             stabilizacijskimi programi, ki so bili pripravljeni ali
                                             sprejeti na ravni federacije ali republike. Za
@@ -5180,7 +5178,7 @@
                                             smo, da je podoben položaj v organizacijah združenega
                                             dela v vsej Sloveniji.</p>
                                     </item>
-                                    <item>2. Tak način je pomanjkljiv tudi zaradi tega, ker hkrati z
+                                    <item n="2">Tak način je pomanjkljiv tudi zaradi tega, ker hkrati z
                                         zakonom ni predložen načrt ali povzetek načrtov za celovito
                                         sanacijo, gospodarskih in likvidnostnih razmer v SAP Kosovo.
                                         Samo tak sanacijski načrt bi lahko nudil garancijo, da se
@@ -5188,10 +5186,10 @@
                                         ponavljalo že od leta 1980. Hkrati bi bila to garancija za
                                         to, da se bodo ta sredstva enkrat vrnila
                                         gospodarstvu.</item>
-                                    <item>3. Delegati menimo, da so organizacije združenega dela z
+                                    <item n="3">Delegati menimo, da so organizacije združenega dela z
                                         osnutkom tega zakona slabo seznanjene, kar na splošno
                                         ugotavljamo tudi ob sprejemanju drugih zakonov.</item>
-                                    <item>4. Postavljamo vprašanje, zakaj bo vplačani znesek
+                                    <item n="4">Postavljamo vprašanje, zakaj bo vplačani znesek
                                         organizacijam združenega dela vrnila SR Slovenija, ne pa
                                         Sklad federacije za kreditiranje hitrejšega razvoja
                                         gospodarsko manj razvitih republik in avtonomnih
@@ -5420,14 +5418,14 @@
                                 <p>Tovariš predsednik, tovarišice in tovariši delegati! Naša skupina
                                     delegatov je ob obravnavi navedenega zakona sklenila, da glasuje
                                     proti sprejemu osnutka tega zakona iz naslednjih razlogov.</p>
-                                <list>
-                                    <item>1. Skupina meni, da glede na obrazložitev porabe do sedaj
+                                <list type="ordered">
+                                    <item n="1">Skupina meni, da glede na obrazložitev porabe do sedaj
                                         zbranih sredstev ne vidi" upravičenosti za nadaljnjo gradnjo
                                         navedenega objekta, saj je predračunska vrednost po novem
                                         programu ponovno opredeljena po sedanjih cenah In pri tem ne
                                         upošteva inflacije. Takšna napaka je bila storjena že leta
                                         1976 in je ne kaže ponavljati.</item>
-                                    <item>2. Predlagatelj gradiva ni prepričal skupine glede
+                                    <item n="2">Predlagatelj gradiva ni prepričal skupine glede
                                         upravičenosti za tako hitro nadaljnjo gradnjo, katere oprema
                                         temelji izključno na uvozu, pri -smer pa vemo, da bi se
                                         domači proizvajalci lahko v večji meri vključili v ta
@@ -5915,26 +5913,26 @@
                                     predlaga zborom, da sprejmejo naslednje dopolnitve k
                                     ugotovitvam, stališčem in sklepom, ki ste jih prejeli na
                                     klop.</p>
-                                <list>
-                                    <item>1. Na koncu prvega odstavka 1. točke naj se doda besedilo:
+                                <list type="ordered">
+                                    <item n="1">Na koncu prvega odstavka 1. točke naj se doda besedilo:
                                         "gradiva pa tudi ne analizirajo vzrokov za dosežene
                                         pozitivne premike".</item>
-                                    <item>2. Na koncu drugega odstavka I. točke naj se doda
+                                    <item n="2">Na koncu drugega odstavka I. točke naj se doda
                                         besedilo: "pri čemer doseženi rezultati niso primerjani s
                                         cilji dolgoročnega programa ekonomske stabilizacije.«<pb
                                             n="76"/>
                                     </item>
-                                    <item>3. V trinajsti vrsti I. točke naj se črtata besedi
+                                    <item n="3">V trinajsti vrsti I. točke naj se črtata besedi
                                         "usmeritev in".</item>
-                                    <item>
-                                        <p>4 . Na koncu tretjega odstavka te iste točke naj se doda
+                                    <item n="4">
+                                        <p>Na koncu tretjega odstavka te iste točke naj se doda
                                             besedilo: "na ta način pa tudi osnovo za prehod od
                                             kratkoročnega pretežno administrativnega ukrepanja v
                                             dolgoročno usmerjanje gospodarskih gibanj v skladu z
                                             dolgoročnim programom gospodarske stabilizacije".</p>
                                         <p>To so bile štiri pripombe k prvi strani.</p>
                                     </item>
-                                    <item>5. Na drugi strani naj se v drugi alinei I. točke besedilo
+                                    <item n="5">Na drugi strani naj se v drugi alinei I. točke besedilo
                                         spremeni tako, da se glasi: "pripraviti temeljito analizo po
                                         poslih s tujino, ki se opravljajo v razmerju 1 : 1, predvsem
                                         pa kompenzacijskih poslov, s posebnim poudarkom na oceni
@@ -5946,40 +5944,40 @@
                                         in strukture z odlokom o skupni devizni politiki, da bi se
                                         na ta način tudi preprečilo zmanjševanje izdvajanja deviz za
                                         skupne potrebe".</item>
-                                    <item>6. V četrti alinei te točke naj se v tretji vrsti za
+                                    <item n="6">V četrti alinei te točke naj se v tretji vrsti za
                                         podpičjem vstavi naslednje besedilo: "zagotoviti, da banke
                                         izdajajo garancije za uvoz samo na podlagi realnega
                                         deviznega pokritja".</item>
-                                    <item>7. V prvi vrsti prve alinee II. točke naj se besedilo "ter
+                                    <item n="7">V prvi vrsti prve alinee II. točke naj se besedilo "ter
                                         s tem" nadomesti z besedami "ter na tej podlagi". </item>
-                                    <item>8. V šesti vrstici prve alinee II. točke naj se za
+                                    <item n="8">V šesti vrstici prve alinee II. točke naj se za
                                         podpičjem doda naslednje besedilo: "pri najemanju novih
                                         kreditov v tujini za potrebe infrastrukture je treba vnaprej
                                         upoštevati vse stroške kreditov in določiti nosilce teh
-                                        stroškov” . </item>
-                                    <item>9. V osmi vrsti prve alinee II. točke naj se za besedo
+                                        stroškov”.</item>
+                                    <item n="9">V osmi vrsti prve alinee II. točke naj se za besedo
                                         "ter" vstavi beseda "preveriti".</item>
-                                    <item>10. Na tretji strani v drugi vrsti prve alinee, naj se za
+                                    <item n="10">Na tretji strani v drugi vrsti prve alinee, naj se za
                                         besedama "z njo" doda beseda "medsebojno". V isti vrsti naj
                                         se črta beseda "posameznih".</item>
-                                    <item>11. Doda naj se nova alinea 3. točke, ki naj se glasi:
+                                    <item n="11">Doda naj se nova alinea 3. točke, ki naj se glasi:
                                         "čimprej oceniti in pripraviti ukrepe za odpravo cenovnih
                                         neskladij v kmetijstvu, posebej med cenami koruze in cenami
                                         mesa, da bi se tako vplivalo na stabilizacijo živinorejske
                                         proizvodnje".</item>
-                                    <item>12. Četrta alinea 3. točke naj se spremeni tako, da se
+                                    <item n="12">Četrta alinea 3. točke naj se spremeni tako, da se
                                         glasi: "takoj pripraviti in sprejeti program prehoda iz
                                         dosedanjega režima prijavljanja cen 30 dni pred njihovo
                                         uveljavitvijo".</item>
-                                    <item>13. Doda naj se nova alinea 3. točke na tretji strani, ki
+                                    <item n="13">Doda naj se nova alinea 3. točke na tretji strani, ki
                                         naj se glasi: oceniti potek samoupravnega sporazumevanja o
                                         cenah v smislu odloka Zveznega izvršnega sveta".</item>
-                                    <item>14. Prvi del tretje alinee 4. točke naj se spremeni tako,
+                                    <item n="14">Prvi del tretje alinee 4. točke naj se spremeni tako,
                                         da se glasi: s povečanjem družbene produktivnosti dela in
                                         izborom programov, upoštevaje ekonomsko funkcijo osebnih
                                         dohodkov, preprečiti nadaljnje upadanje realnih osebnih
                                         dohodkov."</item>
-                                    <item>15. V tretji vrstici III. točke naj se zamenja vrstni red
+                                    <item n="15">V tretji vrstici III. točke naj se zamenja vrstni red
                                         besed: "proizvodnje in konvertibilnega izvoza", tako da se
                                         ta del besedila glasi: "nadaljnje povečanje konvertibilnega
                                         izvoza in proizvodnje".</item>
@@ -6225,18 +6223,18 @@
                                     sistemskih napak in opredelitev.</p>
                                 <p>Za rešitve problemov proizvodnje rude in primarne predelave rude
                                     predlagamo:</p>
-                                <list>
-                                    <item>1. Zbor združenega dela Skupščine SR Slovenije naj sprejme
+                                <list type="ordered">
+                                    <item n="1">Zbor združenega dela Skupščine SR Slovenije naj sprejme
                                         stališče, da se problem izgub Rudnika Mežica dolgoročno reši
                                         z zagotavljanjem trajnega vira sredstev za rudarsko geološke
                                         raziskave v okviru Raziskovalne skupnosti Slovenije<pb
                                             n="80"/> oziroma z zagotovitvijo trajnih sredstev za te
                                         namene iz ustreznega vira;</item>
-                                    <item>2. da se vključi pridobivanje svinca in cinka ter
+                                    <item n="2">da se vključi pridobivanje svinca in cinka ter
                                         rudarsko-geološke raziskave za svinec in cink v Sloveniji v
                                         vse planske dokumente Slovenije in s tem omogoči trajna
                                         normalna eksploatacija Rudnika Mežica,</item>
-                                    <item>3. da se status rudarjev iz Rudnika Mežica izenači s
+                                    <item n="3">da se status rudarjev iz Rudnika Mežica izenači s
                                         statusom ostalih rudarjev v Sloveniji, vključno z
                                         izenačitvijo ravni osebnih dohodkov z delavci v drugih
                                         rudnikih v Sloveniji z upoštevanjem posebnih pogojev dela.
@@ -6649,14 +6647,14 @@
                                     doseženimi v prvih treh četrtletjih, nepokriti del pa iz lastnih
                                     sredstev rezerv. Pri analizi poslovanja so bili ugotovljeni
                                     naslednji vzroki slabih rezultatov:</p>
-                                <list>
-                                    <item>1. Nesorazmerje med porastom cen glavnih surovin, energije
+                                <list type="ordered">
+                                    <item n="1">Nesorazmerje med porastom cen glavnih surovin, energije
                                         in transporta primerjavi s cenami izdelkov črne
                                         metalurgije.</item>
-                                    <item>2. Zastarel in zaradi visoke porabe energije ter dragega
+                                    <item n="2">Zastarel in zaradi visoke porabe energije ter dragega
                                         vložka in vzdrževanja dohodkovno močno negativen postopek
                                         pridobivanja jekla v Siemens-Martinovih pečeh.</item>
-                                    <item>3. Neustrezna oskrba kot rezultat pomanjkanja
+                                    <item n="3">Neustrezna oskrba kot rezultat pomanjkanja
                                         deviz.</item>
                                 </list>
                                 <p>Cene posameznih surovin in energije so se kljub zamrznitvi v letu
@@ -6706,17 +6704,17 @@
                                     interne akcijske ukrepe, vendar bi bilo potrebno storiti še
                                         naslednje:<pb n="86"/>
                                 </p>
-                                <list>
-                                    <item>1. Tekoče usklajevati rasti cen jeklarskih proizvodov z
+                                <list type="ordered">
+                                    <item n="1">Tekoče usklajevati rasti cen jeklarskih proizvodov z
                                         rastjo cen surovin, energije in storitev;</item>
-                                    <item>2. razreševanje devizne problematike v naslednjih smereh:
+                                    <item n="2">razreševanje devizne problematike v naslednjih smereh:
                                         omogočiti pravico nakupa deviz na deviznem trgu, za črno
                                         metalurgijo v SR Sloveniji socializirati odplačilo deviznih
                                         anuitet in pokritje tečajnih razlik, razrešiti vprašanja
                                         tekočega deviznega debalansa, ki ga ima Železarna, ter
                                         legalizirati združevanje deviznih sredstev tako, da bo
                                         združevanje lahko nemoteno potekalo;</item>
-                                    <item>3. zaradi bistveno slabših pogojev poslovanja, katerega
+                                    <item n="3">zaradi bistveno slabših pogojev poslovanja, katerega
                                         prvi vzrok je zastarel proizvodni postopek, želimo širšo
                                         družbeno podporo za pričetek izgradnje Jeklarne II in s tem
                                         tudi sanacijo tekoče reprodukcije. Hvala lepa.</item>
@@ -7138,8 +7136,8 @@
                             <sp>
                                 <p>Prehajamo na 9. točko dnevnega reda, to so volitve in
                                     imenovanja.</p>
-                                <list>
-                                    <item>1. Predlog odloka o razrešitvi in izvolitvi nekaterih
+                                <list type="ordered">
+                                    <item n="1">Predlog odloka o razrešitvi in izvolitvi nekaterih
                                         podpredsednikov in članov odborov Zbora združenega dela
                                         Skupščine SR Slovenije je predložila Komisija za volitve,
                                         imenovanja in administrativne zadeve. </item>
@@ -7187,8 +7185,8 @@
                                     izvoljen Janez Bratkovič, za člane odbora pa so izvoljeni Jože
                                     Bešvir, Franc Hanžič, Franko Pečar, Albin Potisk, Vlado
                                     Šafranko, Martin Šetinc in Josip Žitnik.</p>
-                                <list>
-                                    <item>2. Predlog odloka o razrešitvi in izvolitvi predsednika
+                                <list type="ordered">
+                                    <item n="2">Predlog odloka o razrešitvi in izvolitvi predsednika
                                         Komisije Skupščine SR Slovenije za narodnosti ter o
                                         razrešitvi in izvolitvi nekaterih članov komisij Skupščine
                                         SR Slovenije je predložila Komisija za volitve, imenovanja
@@ -7200,11 +7198,11 @@
                                     Komisije za spremljanje izvajanja zakona o združenem delu (stran
                                     3) namesto besedila "se razreši" uporabi besedilo: "se
                                     ugotavlja:</p>
-                                <list>
-                                    <item>- da je član Komisije za vprašanja borcev NOV Tomaž Mislej
+                                <list type="bulleted">
+                                    <item n="-">da je član Komisije za vprašanja borcev NOV Tomaž Mislej
                                         umrl in da je bilo zaradi tega izpraznjeno mesto člana v tej
                                         komisiji;</item>
-                                    <item>- da je član Komisije za spremljanje izvajanja zakona o
+                                    <item n="-">da je član Komisije za spremljanje izvajanja zakona o
                                         združenem delu Boris Pavlin umrl in da je bilo zaradi tega
                                         izpraznjeno mesto člana v tej komisiji.</item>
                                 </list>
@@ -7227,8 +7225,8 @@
                                     Slovenije s predlaganimi spremembami soglasno sprejet. S tem so
                                     razrešeni in izvoljeni vsi, ki so navedeni v predlogu
                                     odloka.</p>
-                                <list>
-                                    <item>3. Predlog sklepa o razrešitvi in imenovanju predsednika
+                                <list type="ordered">
+                                    <item n="3">Predlog sklepa o razrešitvi in imenovanju predsednika
                                         in članov v nekaterih medzborovskih skupinah delegatov je
                                         predložila Komisija za volitve, imenovanja in
                                         administrativne zadeve.</item>
@@ -7245,8 +7243,8 @@
                                 <p>S tem so razrešeni in imenovani predsedniki in člani
                                     medzborovskih skupin delegatov, ki so navedeni v predloženem
                                     odloku. </p>
-                                <list>
-                                    <item>4. Predlog odloka o imenovanju predsednika in članov
+                                <list type="ordered">
+                                    <item n="4">Predlog odloka o imenovanju predsednika in članov
                                         Strokovnega sveta SR Slovenije za vzgojo in izobraževanje je
                                         prav tako predložila Komisija za volitve, imenovanja in
                                         administrativne zadeve na predlog predsedstva Republiške
@@ -7264,8 +7262,8 @@
                                 <p>S tem so za predsednika in člane Strokovnega sveta SR Slovenije
                                     za vzgojo in Izobraževanje imenovani kandidati, navedeni v
                                     predloženem odloku.</p>
-                                <list>
-                                    <item>5. Predlog odloka o razrešitvi sodnika Višjega sodišča v
+                                <list type="ordered">
+                                    <item n="5">Predlog odloka o razrešitvi sodnika Višjega sodišča v
                                         Celju je prav tako predložila Komisija za volitve,
                                         imenovanja in administrativne zadeve.</item>
                                 </list>
@@ -7300,7 +7298,7 @@
                                 <p>Želi o navedenih gradivih kdo razpravljati? (Ne.) Če ne želi
                                     nihče, potem zaključujem razpravo in na podlagi predloga Odbora
                                     za finance predlagam zboru tale sklep:</p>
-                                <list>
+                                <list type="simple">
                                     <item>Izvršni svet Skupščine SR Slovenije naj prouči, za katere
                                         vrste proizvodov in storitev bi bilo mogoče v najkrajšem
                                         času znižati tarife posebnega prometnega davka oziroma
@@ -7330,7 +7328,7 @@
                                     s 430. členom poslovnika Skupščine SR Slovenije.</p>
                                 <p>Mislim, da na osnovi te informacije lahko zboru predlagam sklep,
                                     ki se glasi:</p>
-                                <list>
+                                <list type="simple">
                                     <item>Zbor združenega dela Skupščine SR Slovenije sprejema na
                                         znanje poročilo Samoupravne interesne skupnosti za ekonomske
                                         odnose s tujino SR Slovenije o razdelitvi sredstev za
