@@ -137,6 +137,8 @@
             </textClass>
         </profileDesc>
         <revisionDesc>
+            <change when="2014-12-23">
+                <name>Andrej Pančur</name>: Kodiranje //text//node()</change>
             <change when="2014-12-21">
                 <name>Andrej Pančur</name>: izvoz in preverjanje metapodatkov iz SIstory, izdelava
                 teiHeader</change>
@@ -202,7 +204,16 @@
                     <head>35. SEJA</head>
                     <docDate when="1984-06-20">(20. junija 1984)</docDate>
                     <p>Predsedoval: Martin Mlinar, predsednik Zbora združenega dela</p>
-                    <stage type="time">Začetek seje ob 9. uri.</stage>
+                    <timeline origin="#TL.1" unit="min">
+                        <when synch="#stage.t.1" xml:id="TL.1" absolute="1984-06-20T09:00:00"/>
+                        <when synch="#stage.t.2" since="#TL.1" absolute="1984-06-20T09:30:00" interval="30"/>
+                        <when synch="#stage.t.3" xml:id="TL.2" absolute="1984-06-20T10:15:00"/>
+                        <when synch="#stage.t.4" since="#TL.2" absolute="1984-06-20T11:25:00" interval="70"/>
+                        <when synch="#stage.t.5" xml:id="TL.3" absolute="1984-06-20T12:15:00"/>
+                        <when synch="#stage.t.6" since="#TL.3" absolute="1984-06-20T15:00:00" interval="165"/>
+                    </timeline>
+                    <stage type="time"><time from="09:00:00" xml:id="stage.t.1">Začetek seje ob 9.
+                            uri</time>.</stage>
                     <sp>
                         <speaker>Predsednik Martin Mlinar;</speaker>
                         <p>Tovarišice in tovariši delegati! Pričenjam 35. sejo Zbora združenega dela
@@ -482,8 +493,10 @@
                                 <p>Sedaj bomo počakali delegate ostalih dveh zborov in nadaljevali s
                                     skupnim zasedanjem vseh treh zborov.</p>
                             </sp>
-                            <stage type="time">(Seja zbora je bila prekinjena ob 9.30 uri in se je
-                                nadaljevala ob 10.15 uri.)</stage>
+                            <stage type="time">(Seja zbora je bila <time to="09:30:00"
+                                    xml:id="stage.t.2">prekinjena ob 9.30 uri</time> in se je <time
+                                    from="10:15:00" xml:id="stage.t.3">nadaljevala ob 10.15
+                                    uri</time>.)</stage>
                             <sp>
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Tovarišice in tovariši delegati!</p>
@@ -1183,28 +1196,29 @@
                                     aktivnosti teh organov v smislu razreševanja naslednjih
                                     problemov.</p>
                                 <list type="ordered">
-                                    <item n="1">V sprejetih usmeritvah družbenoekonomske politike, ki
-                                        je bila predlagana in sprejeta s strani zveznih organov, je
-                                        v poglavju o cenovni politiki zahtevano, da se le-ta izvaja
-                                        s posebnim poudarkom na upoštevanje ekonomskih zakonitosti,
-                                        svetovnega trga oziroma njegovih cen. V praksi se dovoljuje,
-                                        da cene proizvodov barvne industrije rastejo 10 do 15 %
-                                        hitreje kot cene proizvodov predelovalne industrije, čeprav
-                                        je znano, da je cena mnogih surovin in repromaterialov
-                                        domače bazne industrije celo dva ali trikrat večja kot na
-                                        svetovnem trgu. Hkrati se od predelovalne industrije
-                                        pričakuje občutno povečanje izvoza tržišča, na katerih je
-                                        številna konkurenca v osnovi v boljšem položaju zaradi
-                                        nižjih materialnih stroškov proizvodnje, pri kateri vrednost
-                                        osnovnega materiala v ceni proizvoda predstavlja celo 80 %.
-                                        Tečajne razlike omenjene problematike ne morejo vedno
-                                        reševati, zato je razumljivo, da se izpadli osebni dohodek
-                                        pri izvozu za vsako ceno pokriva z nenehno rastjo cen
-                                        proizvodov na domačem trgu, posledice takšnega obnašanja pa
-                                        se kažejo v znani stopnji inflacije. Združeno delo zahteva,
-                                        da ustrezni republiški in zvezni organi izvršijo analizo cen
-                                        proizvodov bazne industrije domačih in tujih proizvajalcev
-                                        in da se na osnovi tega sprejmejo ustrezni ukrepi.</item>
+                                    <item n="1">V sprejetih usmeritvah družbenoekonomske politike,
+                                        ki je bila predlagana in sprejeta s strani zveznih organov,
+                                        je v poglavju o cenovni politiki zahtevano, da se le-ta
+                                        izvaja s posebnim poudarkom na upoštevanje ekonomskih
+                                        zakonitosti, svetovnega trga oziroma njegovih cen. V praksi
+                                        se dovoljuje, da cene proizvodov barvne industrije rastejo
+                                        10 do 15 % hitreje kot cene proizvodov predelovalne
+                                        industrije, čeprav je znano, da je cena mnogih surovin in
+                                        repromaterialov domače bazne industrije celo dva ali trikrat
+                                        večja kot na svetovnem trgu. Hkrati se od predelovalne
+                                        industrije pričakuje občutno povečanje izvoza tržišča, na
+                                        katerih je številna konkurenca v osnovi v boljšem položaju
+                                        zaradi nižjih materialnih stroškov proizvodnje, pri kateri
+                                        vrednost osnovnega materiala v ceni proizvoda predstavlja
+                                        celo 80 %. Tečajne razlike omenjene problematike ne morejo
+                                        vedno reševati, zato je razumljivo, da se izpadli osebni
+                                        dohodek pri izvozu za vsako ceno pokriva z nenehno rastjo
+                                        cen proizvodov na domačem trgu, posledice takšnega obnašanja
+                                        pa se kažejo v znani stopnji inflacije. Združeno delo
+                                        zahteva, da ustrezni republiški in zvezni organi izvršijo
+                                        analizo cen proizvodov bazne industrije domačih in tujih
+                                        proizvajalcev in da se na osnovi tega sprejmejo ustrezni
+                                        ukrepi.</item>
                                     <item n="2">Zvezni izvršni svet daje v majski analizi poseben
                                         poudarek povečanju izvoza in deviznemu prilivu, kar je
                                         pravilno. Združeno delo ugotavlja, da bo temu potrebno
@@ -1222,8 +1236,8 @@
                                         s svojim vplivom preprečijo prevladovanje ozkih interesov,
                                         ki niso v skladu z interesi najširše družbene
                                         skupnosti.</item>
-                                    <item n="3">Velikokrat je s strani najvišjih republiških in zveznih
-                                        organov poudarjena zahteva po odpravljanju cenovnih
+                                    <item n="3">Velikokrat je s strani najvišjih republiških in
+                                        zveznih organov poudarjena zahteva po odpravljanju cenovnih
                                         neskladij, kar je tudi eden od ukrepov dolgoročnega programa
                                         gospodarske stabilizacije. Dogajanja na področju cen v času
                                         po sprejetju ukrepov kažejo, da se cenovna neskladja ne
@@ -1237,22 +1251,22 @@
                                         cene. Reševanje je mogoče le na konkretnih primerih v
                                         okvirih posameznih branž ali celo ožjih proizvodnih
                                         procesov.</item>
-                                    <item n="4">Uveljavljanje sprejetih ekonomskih zakonitosti oziroma
-                                        ukrepov je pripeljalo do zaostrenih pogojev gospodarjenja in
-                                        povzročilo pri organizacijah združenega dela z neustreznimi
-                                        proizvodnimi programi in usmeritvami konstantno nerentabilno
-                                        proizvodnjo ali celo poslovanje z izgubo. Združeno delo
-                                            ugotavlja,<pb n="15"/> da se sprejeta ekonomska politika
-                                        oziroma ekonomske zakonitosti ne uveljavljajo dosledno, zato
-                                        je vedno več organizacij združenega dela, ki permanentno
-                                        poslujejo z izgubo, kljub temu pa trdovratno vztrajajo pri
-                                        svojih proizvodnih usmeritvah in se ne strinjajo s
-                                        preusmeritvijo v druge programe. Zaostreni pogoji
-                                        gospodarjenja takšnega obnašanja ne dovolijo več. Zato
-                                        združeno delo zahteva, da se preneha s solidarnostjo do
-                                        takšnih organizacij združenega dela, pri čemer morajo
-                                        najpomembnejšo vlogo odigrati ustrezni občinski, posebej pa
-                                        republiški in zvezni organi.</item>
+                                    <item n="4">Uveljavljanje sprejetih ekonomskih zakonitosti
+                                        oziroma ukrepov je pripeljalo do zaostrenih pogojev
+                                        gospodarjenja in povzročilo pri organizacijah združenega
+                                        dela z neustreznimi proizvodnimi programi in usmeritvami
+                                        konstantno nerentabilno proizvodnjo ali celo poslovanje z
+                                        izgubo. Združeno delo ugotavlja,<pb n="15"/> da se sprejeta
+                                        ekonomska politika oziroma ekonomske zakonitosti ne
+                                        uveljavljajo dosledno, zato je vedno več organizacij
+                                        združenega dela, ki permanentno poslujejo z izgubo, kljub
+                                        temu pa trdovratno vztrajajo pri svojih proizvodnih
+                                        usmeritvah in se ne strinjajo s preusmeritvijo v druge
+                                        programe. Zaostreni pogoji gospodarjenja takšnega obnašanja
+                                        ne dovolijo več. Zato združeno delo zahteva, da se preneha s
+                                        solidarnostjo do takšnih organizacij združenega dela, pri
+                                        čemer morajo najpomembnejšo vlogo odigrati ustrezni
+                                        občinski, posebej pa republiški in zvezni organi.</item>
                                 </list>
                                 <p>Vsi navedeni problemi gospodarstvo močno finančno obremenjujejo,
                                     zato bi rezultati razbremenjevanja ob razrešitvi teh problemov v
@@ -1532,8 +1546,10 @@
                                     Kolikor bomo z razčiščevanjem nadaljevali, moram prej odrediti
                                     odmor in bomo z razpravo nadaljevali kasneje. Odrejam odmor.</p>
                             </sp>
-                            <stage type="time">(Seja zbora je bila prekinjena ob 11.25 uri in se je
-                                nadaljevala ob 12.15 uri.)</stage>
+                            <stage type="time">(Seja zbora je bila <time to="11:25:00"
+                                    xml:id="stage.t.4">prekinjena ob 11.25 uri</time> in se je <time
+                                    from="12:15:00" xml:id="stage.t.5">nadaljevala ob 12.15
+                                    uri</time>.)</stage>
                         </div>
                         <div ana="#PAR.TDR" n="5">
                             <sp>
@@ -1546,34 +1562,32 @@
                                 <speaker>Alojz Klemenčič:</speaker>
                                 <p>V svoji razpravi bi opozoril na tri vprašanja.</p>
                                 <list type="ordered">
-                                    <item n="1">Po razpravi delegata, ki je govoril o odkupu pšenice,
-                                            je ostal neprijeten vtis, da stvari niso dobro
-                                            pripravljene, in to sedaj ko se moramo vsi z veliko
-                                            zavzetostjo lotevati te naloge, da bi dosegli načrtovan
-                                            odkup pšenice. Ta naloga je vsekakor izredno težka. V
-                                            Sloveniji je treba odkupiti 75 ton pšenice, če želimo
-                                            doseči še tretje leto, da ne bo treba pšenice uvažati.
-                                            To je plan, ki pomeni 42 % od tržnosti odkupa, kar je
-                                            drugo najslabše mesto v Jugoslaviji. Samo Črna gora je
-                                            še za nami v tržnosti odkupa pšenice. Menimo, da ta cilj
-                                            ni preambiciozno zastavljen, vendar pa zahteva nekatere
-                                            dobro organizirane aktivnosti in sprejetje nekaterih
-                                            ukrepov. O tem so razprave pravočasno stekle, o
-                                            nekaterih ukrepih in o predlogu rešitev pa sem danes
-                                            govoril v uvodni besedi. Če ne bomo iskali dodatnih
-                                            sredstev za regresiranje odkupa pšenice, ne bo mogoče<pb
-                                                n="19"/> rešiti vseh teh problemov, ker je cena, ki
-                                            je predvidena v dogovoru, ki bo ta teden usklajen in
-                                            podpisan, nižja, kot pa bo mogoče stimulativno vplivati
-                                            na odkup pšenice. Gre torej za dodatne premije,ki jih je
-                                            potrebno zagotoviti poleg cene, ki naj bi bila približno
-                                            22 ali 23 dinarjev, o čemer se je potrebno še
-                                            uskladiti.</item>
+                                    <item n="1">Po razpravi delegata, ki je govoril o odkupu
+                                        pšenice, je ostal neprijeten vtis, da stvari niso dobro
+                                        pripravljene, in to sedaj ko se moramo vsi z veliko
+                                        zavzetostjo lotevati te naloge, da bi dosegli načrtovan
+                                        odkup pšenice. Ta naloga je vsekakor izredno težka. V
+                                        Sloveniji je treba odkupiti 75 ton pšenice, če želimo doseči
+                                        še tretje leto, da ne bo treba pšenice uvažati. To je plan,
+                                        ki pomeni 42 % od tržnosti odkupa, kar je drugo najslabše
+                                        mesto v Jugoslaviji. Samo Črna gora je še za nami v tržnosti
+                                        odkupa pšenice. Menimo, da ta cilj ni preambiciozno
+                                        zastavljen, vendar pa zahteva nekatere dobro organizirane
+                                        aktivnosti in sprejetje nekaterih ukrepov. O tem so razprave
+                                        pravočasno stekle, o nekaterih ukrepih in o predlogu rešitev
+                                        pa sem danes govoril v uvodni besedi. Če ne bomo iskali
+                                        dodatnih sredstev za regresiranje odkupa pšenice, ne bo
+                                            mogoče<pb n="19"/> rešiti vseh teh problemov, ker je
+                                        cena, ki je predvidena v dogovoru, ki bo ta teden usklajen
+                                        in podpisan, nižja, kot pa bo mogoče stimulativno vplivati
+                                        na odkup pšenice. Gre torej za dodatne premije,ki jih je
+                                        potrebno zagotoviti poleg cene, ki naj bi bila približno 22
+                                        ali 23 dinarjev, o čemer se je potrebno še uskladiti.</item>
                                     <item n="2">
-                                        <p>Glede koruze. Brez dvoma je to eden od ključnih
-                                            ukrepov v tem paketu a odkup pšenice, kajti v Sloveniji
-                                            se še vedno velik del pšenice namenja tudi za krmo, kar
-                                            moramo z vsemi ekonomskimi in organizacijskimi premijami
+                                        <p>Glede koruze. Brez dvoma je to eden od ključnih ukrepov v
+                                            tem paketu a odkup pšenice, kajti v Sloveniji se še
+                                            vedno velik del pšenice namenja tudi za krmo, kar moramo
+                                            z vsemi ekonomskimi in organizacijskimi premijami
                                             preprečevati. Eden izmed teh ukrepov je tudi, da dobijo
                                             kmetje koruzo v zameno za pšenico. Težave s koruzo
                                             poznate, vendar se pred temi ne moremo ustaviti in je
@@ -2247,10 +2261,10 @@
                                     in zaključnega računa. Skupina delegatov daje v zvezi z delom
                                     Službe družbenega knjigovodstva naslednje predloge.</p>
                                 <list type="ordered">
-                                    <item n="1">Menimo, da bi v Službi družbenega knjigovodstva morali
-                                        še bolj intenzivno delovati pri racionalizaciji njihovega
-                                        načina dela in si prizadevati za zmanjševanje števila
-                                        postavk v posameznih bilančnih obrazcih in tudi za
+                                    <item n="1">Menimo, da bi v Službi družbenega knjigovodstva
+                                        morali še bolj intenzivno delovati pri racionalizaciji
+                                        njihovega načina dela in si prizadevati za zmanjševanje
+                                        števila postavk v posameznih bilančnih obrazcih in tudi za
                                         zmanjševanje števila dodatnih, dopolnilnih in posebnih
                                         obrazcev oziroma podatkov, ki jih moramo uporabniki
                                         družbenih sredstev predlagati v periodičnih in zaključnih
@@ -2405,9 +2419,9 @@
                                     predlaganega besedila osnutkov zakonov največ razprav.</p>
                                 <list type="ordered">
                                     <item n="1">
-                                        <p>Najpomembnejša sprememba, ki je vgrajena v osnutek
-                                            zakona o vojaških invalidih, se nanaša na vštevanje
-                                            invalidskih prejemkov pri ugotavljanju gmotnega položaja
+                                        <p>Najpomembnejša sprememba, ki je vgrajena v osnutek zakona
+                                            o vojaških invalidih, se nanaša na vštevanje invalidskih
+                                            prejemkov pri ugotavljanju gmotnega položaja
                                             upravičenca. Pri tem izhajamo iz dejstva, da imajo sicer
                                             vsi invalidski prejemki svoj namen, zlasti še dodatek za
                                             postrežbo in tujo pomoč in ortopedski dodatek.
@@ -2451,11 +2465,11 @@
                                         članov družine, ki so se že osamosvojili, ne bi upoštevali -
                                         doslej so se upoštevali - temveč samo prejemke tistih članov
                                         družine, ki jih je upravičenec dolžan vzdrževati.</item>
-                                    <item n="3">Omeniti je treba še predlagano spremembo pri vštevanju
-                                        katastrskega dohodka. Ta se po veljavnem predpisu všteva v
-                                        višino 40 %. Taka ureditev je bila uvedena leta 1978. Od
-                                        tedaj se je višina invalidskega dodatka povečala za nekaj
-                                        več kot štirikrat, katastrski dohodek pa je ostal
+                                    <item n="3">Omeniti je treba še predlagano spremembo pri
+                                        vštevanju katastrskega dohodka. Ta se po veljavnem predpisu
+                                        všteva v višino 40 %. Taka ureditev je bila uvedena leta
+                                        1978. Od tedaj se je višina invalidskega dodatka povečala za
+                                        nekaj več kot štirikrat, katastrski dohodek pa je ostal
                                         nespremenjen. Zato v osnutku zakona predlagamo, da se všteva
                                         katastrski dohodek v celoti in to kljub opravljeni
                                         valorizaciji. Izračuni so pokazali, da to ne bo vplivalo na
@@ -2465,8 +2479,8 @@
                                         manjši invalidski' dodatek. To, menimo, da je tudi v skladu
                                         s politiko o obdelovanju kmetijskih zemljišč, zlasti še v
                                         današnjih razmerah.</item>
-                                    <item n="4">Naslednja sprememba se nanaša na določbe o pomoči pri
-                                        nakupu motornega vozila. Ponovno je treba omeniti, da so
+                                    <item n="4">Naslednja sprememba se nanaša na določbe o pomoči
+                                        pri nakupu motornega vozila. Ponovno je treba omeniti, da so
                                         najtežji vojaški invalidi upravičenci do osebnega motornega
                                         vozila po zveznih predpisih. Po veljavnem republiškem zakonu
                                         pa prejemajo denarno pomoč pri nakupu vozila tudi invalidi
@@ -2741,27 +2755,28 @@
                                     šestih mariborskih občinah smo v skupinah delegatov zavzeli
                                     skupne predloge in pripombe k predloženemu osnutku zakona.</p>
                                 <list type="ordered">
-                                    <item n="1">Sredstva, ki bi predvidoma ostala glede na izračunane
-                                        po osnutku zakona, se naj porabila za povečanje dodatka
-                                        tistim kategorijam invalidov, ki imajo najmanjše dohodke in
-                                        najnižji dodatek. Poudarjamo, da sredstva, ki se pri tem
-                                        privarčujejo, niso tolikšna, da bi prav na tem področju
-                                        morali posegati v restriktivne ukrepe, saj je treba
+                                    <item n="1">Sredstva, ki bi predvidoma ostala glede na
+                                        izračunane po osnutku zakona, se naj porabila za povečanje
+                                        dodatka tistim kategorijam invalidov, ki imajo najmanjše
+                                        dohodke in najnižji dodatek. Poudarjamo, da sredstva, ki se
+                                        pri tem privarčujejo, niso tolikšna, da bi prav na tem
+                                        področju morali posegati v restriktivne ukrepe, saj je treba
                                         upoštevati tudi umrljivost borcev in vojaških invalidov, s
                                         čimer se takšna sredstva avtomatično tudi znižujejo. Sicer
                                         pa poseg v zmanjševanje sredstev in pravic na tem področju v
                                         tem trenutku in g e de na sedanje ekonomske razmere
                                         upravičencev tudi politično nesprejemljiv.</item>
-                                    <item n="2">Menimo, da se kljub mnenju predlagatelja o pravilnejši
-                                        razporeditvi sredstev med upravičence v upoštevanje dohodka
-                                        ne bi smela šteti osebna invalidnina in občinska
-                                        priznavalnina. Menimo namreč, da je invalidnina nadomestilo
-                                        za telesno okvaro, ne pa upoštevani dohodek. Priznavalnina
-                                        pa je tudi element<pb n="34"/> socialne pomoči, do katere so
-                                        upravičeni le tisti borci, ki po nobenem drugem predpisu ne
-                                        morejo dobiti ekvivalentov.</item>
-                                    <item n="3">Glede denarnih pomoči za nakup osebnih avtomobilov so
-                                        delegati mnenja, da se naj sprejme varianta v osnutku
+                                    <item n="2">Menimo, da se kljub mnenju predlagatelja o
+                                        pravilnejši razporeditvi sredstev med upravičence v
+                                        upoštevanje dohodka ne bi smela šteti osebna invalidnina in
+                                        občinska priznavalnina. Menimo namreč, da je invalidnina
+                                        nadomestilo za telesno okvaro, ne pa upoštevani dohodek.
+                                        Priznavalnina pa je tudi element<pb n="34"/> socialne
+                                        pomoči, do katere so upravičeni le tisti borci, ki po
+                                        nobenem drugem predpisu ne morejo dobiti
+                                        ekvivalentov.</item>
+                                    <item n="3">Glede denarnih pomoči za nakup osebnih avtomobilov
+                                        so delegati mnenja, da se naj sprejme varianta v osnutku
                                         zakona, pa tudi, da bi ostala višina regresa takšna kot
                                         doslej, s tem da se preveri, pri katerih upravičencih je
                                         prišlo do nezakonite uporabe tega nadomestila, naprej pa se
@@ -3514,9 +3529,9 @@
                                     devizne politike ter skupnih temeljev kreditne politike v letu
                                     1983 naslednja stališča in pripombe,</p>
                                 <list type="ordered">
-                                    <item n="1">V obsežnem letnem poročilu se na mnogih mestih ponavlja
-                                        vsa širina družbenoekonomske problematike in tako po
-                                        nepotrebnem povečuje obseg gradiva. Če pogledamo celotno
+                                    <item n="1">V obsežnem letnem poročilu se na mnogih mestih
+                                        ponavlja vsa širina družbenoekonomske problematike in tako
+                                        po nepotrebnem povečuje obseg gradiva. Če pogledamo celotno
                                         gradivo, obsega le-to okrog 200 strani.</item>
                                     <item n="">V poročilu ni v zadostni meri zaslediti učinkov
                                         kreditno-monetarne in devizne politike, ki je bila vodena v
@@ -3532,8 +3547,8 @@
                                         meri je dobro vplivala uveljavljena politika in v kakšni
                                         meri slabo. Nedvomno moramo biti sposobni, da na osnovi
                                         letnega poročila ocenimo uspešnost vodene politike.</item>
-                                    <item n="3">Poročilo ugotavlja, da je glavna značilnost sedanjega
-                                        stanja gospodarstva Jugoslavije nelikvidnost in
+                                    <item n="3">Poročilo ugotavlja, da je glavna značilnost
+                                        sedanjega stanja gospodarstva Jugoslavije nelikvidnost in
                                         nesolventnost. čeprav je takšno stanje zlasti posledica
                                         gospodarjenja, ni zanemarljiv vpliv denarno-kreditne
                                         politike oziroma njenih agregatov. Koristno bi bilo
@@ -3547,14 +3562,14 @@
                                         reči, kako si sploh predstavljamo oziroma kako si
                                         predstavlja Narodna banka Jugoslavije krepitev združevanja
                                         dela in sredstev,</item>
-                                    <item n="5">Poročilo je ostalo nedorečeno glede neposrednega vpliva
-                                        kreditno-denarne politike, zlasti vpliva tečaja in obrestnih
-                                        mer na cene, oblike neoficialnega denarja in medsebojne
-                                        odvisnosti kreditno-denarne politike in medsebojnega
-                                        kreditiranja organizacij združenega dela, vpliv organizacij
-                                        združenega dela na oblikovanje ciljev in nalog in na
-                                        poslovanje bank, vpliv denarno-kreditne politike in tako
-                                        dalje, Čeprav je v poročilu rečeno, da bo Narodna banka
+                                    <item n="5">Poročilo je ostalo nedorečeno glede neposrednega
+                                        vpliva kreditno-denarne politike, zlasti vpliva tečaja in
+                                        obrestnih mer na cene, oblike neoficialnega denarja in
+                                        medsebojne odvisnosti kreditno-denarne politike in
+                                        medsebojnega kreditiranja organizacij združenega dela, vpliv
+                                        organizacij združenega dela na oblikovanje ciljev in nalog
+                                        in na poslovanje bank, vpliv denarno-kreditne politike in
+                                        tako dalje, Čeprav je v poročilu rečeno, da bo Narodna banka
                                         Jugoslavije pripravila o teh vprašanjih posebno poročilo, bi
                                         bilo dobro, če bi poročilo posvečalo takim zadevam več
                                         prostora, opustilo pa splošne informacije, ki so posredovane
@@ -3562,10 +3577,10 @@
                                         Na tak način bi bilo mogoče letno poročilo občutneje
                                         skrajšati po obsegu in vsebinsko popestriti z informacijami,
                                         ki bodo služile za bodoče odločitve.</item>
-                                    <item n="6">Načrtovana sredstva za delovno skupnost naj bi v večji
-                                        meri odražala soodvisnost kvalitete in kvantitete, ki so v
-                                        skladu z družbeno funkcijo Narodne banke Jugoslavije. Hvala.
-                                    </item>
+                                    <item n="6">Načrtovana sredstva za delovno skupnost naj bi v
+                                        večji meri odražala soodvisnost kvalitete in kvantitete, ki
+                                        so v skladu z družbeno funkcijo Narodne banke Jugoslavije.
+                                        Hvala. </item>
                                 </list>
                             </sp>
                             <sp>
@@ -3920,7 +3935,8 @@
                                 <p>S tem zaključujem 35. sejo Zbora združenega dela in se vam
                                     zahvaljujem za udeležbo in sodelovanje na seji.</p>
                             </sp>
-                            <stage type="time">(Seja zbora je bila končana ob 15. uri.)</stage>
+                            <stage type="time">(Seja zbora je bila <time to="15:00:00"
+                                    xml:id="stage.t.6">končana ob 15. uri</time>.)</stage>
                         </div>
                     </div>
                 </div>
@@ -3930,9 +3946,20 @@
                 <head>ZBOR ZDRUŽENEGA DELA</head>
                 <div ana="#PAR.Seja" n="36">
                     <head>36. SEJA</head>
-                    <docDate>(11. JULIJA 1984)</docDate>
+                    <docDate when="1984-07-11">(11. JULIJA 1984)</docDate>
                     <p>Predsedoval: Martin Mlinar , predsednik Zbora združenega dela</p>
-                    <stage type="time">Začetek seje ob 9. uri.</stage>
+                    <timeline origin="#TL.4" unit="min">
+                        <when synch="#stage.t.7" xml:id="TL.4" absolute="1984-07-11T09:00:00"/>
+                        <when synch="#stage.t.8" since="#TL.4" absolute="1984-07-11T09:20:00" interval="20"/>
+                        <when synch="#stage.t.9" xml:id="TL.5" absolute="1984-07-11T10:40:00"/>
+                        <when synch="#stage.t.10" since="#TL.5" absolute="1984-07-11T11:40:00" interval="60"/>
+                        <when synch="#stage.t.11" xml:id="TL.6" absolute="1984-07-11T12:30:00"/>
+                        <when synch="#stage.t.12" since="#TL.6" absolute="1984-07-11T15:25:00" interval="175"/>
+                        <when synch="#stage.t.13" xml:id="TL.7" absolute="1984-07-11T15:30:00"/>
+                        <when synch="#stage.t.14" since="#TL.7" absolute="1984-07-11T16:40:00" interval="70"/>
+                    </timeline>
+                    <stage type="time"><time from="09:00:00" xml:id="stage.t.7">Začetek seje ob 9.
+                            uri</time>.</stage>
                     <sp>
                         <speaker>Predsednik Martin Mlinar:</speaker>
                         <p>Tovarišice in tovariši delegati!</p>
@@ -4091,12 +4118,13 @@
                                     <item n="2">poročilo Zveznega izvršnega sveta o uresničevanju
                                         družbenega plana Jugoslavije za obdobje 1981-1985 v letih
                                         1983 in 1984 z oceno možnosti razvoja v letu 1985, </item>
-                                    <item n="3">poročilo o obsegu, vzrokih in načinu pokrivanja izgub,
-                                        izkazanih v zaključnih računih za leto 1983 ,</item>
-                                    <item n="4">predlog za izdajo zakona o spremembi zakona o proračunu
-                                        SR Slovenije za leto 1984 z osnutkom zakona,</item>
-                                    <item n="5">predlog zakona o obveznem posojilu SR Sloveniji v letu
-                                        1984,</item>
+                                    <item n="3">poročilo o obsegu, vzrokih in načinu pokrivanja
+                                        izgub, izkazanih v zaključnih računih za leto 1983 ,</item>
+                                    <item n="4">predlog za izdajo zakona o spremembi zakona o
+                                        proračunu SR Slovenije za leto 1984 z osnutkom
+                                        zakona,</item>
+                                    <item n="5">predlog zakona o obveznem posojilu SR Sloveniji v
+                                        letu 1984,</item>
                                     <item n="6">predlog za izdajo zakona o Višji upravni šoli s
                                         predlogom zakona,</item>
                                     <item n="7">osnutek zakona o spremembah zakona o skupnem znesku
@@ -4145,8 +4173,10 @@
                                     dela odobren.</p>
                                 <p>Delo bomo nadaljevali na skupnem zasedanju vseh treh zborov.</p>
                             </sp>
-                            <stage type="time">(Seja zbora je bila prekinjena ob 9.20 uri in se je
-                                nadaljevala ob 10.40 uri.)</stage>
+                            <stage type="time">(Seja zbora je bila <time to="09:20:00"
+                                    xml:id="stage.t.8">prekinjena ob 9.20</time> uri in se je <time
+                                    from="10:40:00" xml:id="stage.t.9">nadaljevala ob 10.40
+                                    uri</time>.)</stage>
                             <sp>
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Tovarišice in tovariši delegati! Nadaljujemo sejo zbora.</p>
@@ -4552,10 +4582,10 @@
                                     bilo prepozno. Nekatera stališča želim posebej poudariti.</p>
                                 <p>Ekonomski odnosi s tujino:</p>
                                 <list type="ordered">
-                                    <item n="1">Strinjamo se, kot je rekel tudi tovariš Potrč in kot je
-                                        zapisano v mnenjih, da je najpomembneje, da se do konca leta
-                                        za gospodarstvo ne poslabša razpolaganje z devizami 46 , 54
-                                        odstotka.</item>
+                                    <item n="1">Strinjamo se, kot je rekel tudi tovariš Potrč in kot
+                                        je zapisano v mnenjih, da je najpomembneje, da se do konca
+                                        leta za gospodarstvo ne poslabša razpolaganje z devizami 46
+                                        , 54 odstotka.</item>
                                     <item n="2">Da se, tako kot je sprejeto, družbeno priznane
                                         reprodukcijske potrebe ali, kot mi rečemo "DRP" uskladijo z
                                         realnimi možnostmi uvoza in da se ne vztraja na zgodovinskih
@@ -4720,9 +4750,9 @@
                                 <p>Ključni cilji v naslednjem obdobju, ki jim morajo biti
                                     opredeljeni vsi ekonomski ukrepi, so po našem mnenju:</p>
                                 <list type="ordered">
-                                    <item n="1">povečanje deleža dohodka, o katerem odloča gospodarstvo
-                                        ter večja samostojnost organizacij združenega dela pri
-                                        upravljalskih in poslovnih odločitvah na podlagi
+                                    <item n="1">povečanje deleža dohodka, o katerem odloča
+                                        gospodarstvo ter večja samostojnost organizacij združenega
+                                        dela pri upravljalskih in poslovnih odločitvah na podlagi
                                         zmanjševanja administrativne regulative v prid tržni.
                                         Mislimo, da je to tudi eden od osnovnih elementov
                                         uresničevanja dolgoročnega programa ekonomske stabilizacije.
@@ -5027,8 +5057,9 @@
                                     čakati. Zato predlagam, da spremenimo vrstni red tako, kot sem
                                     že navedel. Odrejam odmor do 12.30 ure.</p>
                             </sp>
-                            <stage>(Seja zbora je bila prekinjena ob 11.40 uri in se je nadaljevala
-                                ob 30 uri.)</stage>
+                            <stage>(Seja zbora je bila <time to="11:40:00" xml:id="stage.t.10"
+                                    >prekinjena ob 11.40 uri</time> in se je <time from="12:30:00"
+                                    xml:id="stage.t.11">nadaljevala ob 12.30 uri</time>.)</stage>
                         </div>
                         <div ana="#PAR.TDR" n="4">
                             <sp>
@@ -5072,8 +5103,8 @@
                                     razpravljati, potem zaključujem razpravo in predlagam zboru, da
                                     sprejme naslednji sklep:</p>
                                 <list type="ordered">
-                                    <item n="1">Predlog za izdajo zakona o spremembi zakona o proračunu
-                                        SR Slovenije za leto 1984 z osnutkom zakona se
+                                    <item n="1">Predlog za izdajo zakona o spremembi zakona o
+                                        proračunu SR Slovenije za leto 1984 z osnutkom zakona se
                                         sprejme.</item>
                                     <item n="2">
                                         <p>Predlog zakona pripravi Izvršni svet Skupščine SR
@@ -5178,16 +5209,16 @@
                                             smo, da je podoben položaj v organizacijah združenega
                                             dela v vsej Sloveniji.</p>
                                     </item>
-                                    <item n="2">Tak način je pomanjkljiv tudi zaradi tega, ker hkrati z
-                                        zakonom ni predložen načrt ali povzetek načrtov za celovito
-                                        sanacijo, gospodarskih in likvidnostnih razmer v SAP Kosovo.
-                                        Samo tak sanacijski načrt bi lahko nudil garancijo, da se
-                                        tako stanje ne bo ponavljalo tudi vnaprej. To se je
-                                        ponavljalo že od leta 1980. Hkrati bi bila to garancija za
-                                        to, da se bodo ta sredstva enkrat vrnila
+                                    <item n="2">Tak način je pomanjkljiv tudi zaradi tega, ker
+                                        hkrati z zakonom ni predložen načrt ali povzetek načrtov za
+                                        celovito sanacijo, gospodarskih in likvidnostnih razmer v
+                                        SAP Kosovo. Samo tak sanacijski načrt bi lahko nudil
+                                        garancijo, da se tako stanje ne bo ponavljalo tudi vnaprej.
+                                        To se je ponavljalo že od leta 1980. Hkrati bi bila to
+                                        garancija za to, da se bodo ta sredstva enkrat vrnila
                                         gospodarstvu.</item>
-                                    <item n="3">Delegati menimo, da so organizacije združenega dela z
-                                        osnutkom tega zakona slabo seznanjene, kar na splošno
+                                    <item n="3">Delegati menimo, da so organizacije združenega dela
+                                        z osnutkom tega zakona slabo seznanjene, kar na splošno
                                         ugotavljamo tudi ob sprejemanju drugih zakonov.</item>
                                     <item n="4">Postavljamo vprašanje, zakaj bo vplačani znesek
                                         organizacijam združenega dela vrnila SR Slovenija, ne pa
@@ -5419,12 +5450,12 @@
                                     delegatov je ob obravnavi navedenega zakona sklenila, da glasuje
                                     proti sprejemu osnutka tega zakona iz naslednjih razlogov.</p>
                                 <list type="ordered">
-                                    <item n="1">Skupina meni, da glede na obrazložitev porabe do sedaj
-                                        zbranih sredstev ne vidi" upravičenosti za nadaljnjo gradnjo
-                                        navedenega objekta, saj je predračunska vrednost po novem
-                                        programu ponovno opredeljena po sedanjih cenah In pri tem ne
-                                        upošteva inflacije. Takšna napaka je bila storjena že leta
-                                        1976 in je ne kaže ponavljati.</item>
+                                    <item n="1">Skupina meni, da glede na obrazložitev porabe do
+                                        sedaj zbranih sredstev ne vidi" upravičenosti za nadaljnjo
+                                        gradnjo navedenega objekta, saj je predračunska vrednost po
+                                        novem programu ponovno opredeljena po sedanjih cenah In pri
+                                        tem ne upošteva inflacije. Takšna napaka je bila storjena že
+                                        leta 1976 in je ne kaže ponavljati.</item>
                                     <item n="2">Predlagatelj gradiva ni prepričal skupine glede
                                         upravičenosti za tako hitro nadaljnjo gradnjo, katere oprema
                                         temelji izključno na uvozu, pri -smer pa vemo, da bi se
@@ -5914,9 +5945,9 @@
                                     ugotovitvam, stališčem in sklepom, ki ste jih prejeli na
                                     klop.</p>
                                 <list type="ordered">
-                                    <item n="1">Na koncu prvega odstavka 1. točke naj se doda besedilo:
-                                        "gradiva pa tudi ne analizirajo vzrokov za dosežene
-                                        pozitivne premike".</item>
+                                    <item n="1">Na koncu prvega odstavka 1. točke naj se doda
+                                        besedilo: "gradiva pa tudi ne analizirajo vzrokov za
+                                        dosežene pozitivne premike".</item>
                                     <item n="2">Na koncu drugega odstavka I. točke naj se doda
                                         besedilo: "pri čemer doseženi rezultati niso primerjani s
                                         cilji dolgoročnega programa ekonomske stabilizacije.«<pb
@@ -5932,24 +5963,24 @@
                                             dolgoročnim programom gospodarske stabilizacije".</p>
                                         <p>To so bile štiri pripombe k prvi strani.</p>
                                     </item>
-                                    <item n="5">Na drugi strani naj se v drugi alinei I. točke besedilo
-                                        spremeni tako, da se glasi: "pripraviti temeljito analizo po
-                                        poslih s tujino, ki se opravljajo v razmerju 1 : 1, predvsem
-                                        pa kompenzacijskih poslov, s posebnim poudarkom na oceni
-                                        regionalne usmerjenosti in dejanske upravičenosti naraščanja
-                                        teh poslov v zadnjem obdobju. Zagotoviti je treba sprotno
-                                        spremljanje obsega teh poslov, upoštevaje specifičnost
-                                        posameznih poslov in njihov pomen za normalno odvijanje
-                                        proizvodnje ter zagotavljati usklajevanje njihovega obsega
-                                        in strukture z odlokom o skupni devizni politiki, da bi se
-                                        na ta način tudi preprečilo zmanjševanje izdvajanja deviz za
-                                        skupne potrebe".</item>
+                                    <item n="5">Na drugi strani naj se v drugi alinei I. točke
+                                        besedilo spremeni tako, da se glasi: "pripraviti temeljito
+                                        analizo po poslih s tujino, ki se opravljajo v razmerju 1 :
+                                        1, predvsem pa kompenzacijskih poslov, s posebnim poudarkom
+                                        na oceni regionalne usmerjenosti in dejanske upravičenosti
+                                        naraščanja teh poslov v zadnjem obdobju. Zagotoviti je treba
+                                        sprotno spremljanje obsega teh poslov, upoštevaje
+                                        specifičnost posameznih poslov in njihov pomen za normalno
+                                        odvijanje proizvodnje ter zagotavljati usklajevanje
+                                        njihovega obsega in strukture z odlokom o skupni devizni
+                                        politiki, da bi se na ta način tudi preprečilo zmanjševanje
+                                        izdvajanja deviz za skupne potrebe".</item>
                                     <item n="6">V četrti alinei te točke naj se v tretji vrsti za
                                         podpičjem vstavi naslednje besedilo: "zagotoviti, da banke
                                         izdajajo garancije za uvoz samo na podlagi realnega
                                         deviznega pokritja".</item>
-                                    <item n="7">V prvi vrsti prve alinee II. točke naj se besedilo "ter
-                                        s tem" nadomesti z besedami "ter na tej podlagi". </item>
+                                    <item n="7">V prvi vrsti prve alinee II. točke naj se besedilo
+                                        "ter s tem" nadomesti z besedami "ter na tej podlagi". </item>
                                     <item n="8">V šesti vrstici prve alinee II. točke naj se za
                                         podpičjem doda naslednje besedilo: "pri najemanju novih
                                         kreditov v tujini za potrebe infrastrukture je treba vnaprej
@@ -5957,9 +5988,9 @@
                                         stroškov”.</item>
                                     <item n="9">V osmi vrsti prve alinee II. točke naj se za besedo
                                         "ter" vstavi beseda "preveriti".</item>
-                                    <item n="10">Na tretji strani v drugi vrsti prve alinee, naj se za
-                                        besedama "z njo" doda beseda "medsebojno". V isti vrsti naj
-                                        se črta beseda "posameznih".</item>
+                                    <item n="10">Na tretji strani v drugi vrsti prve alinee, naj se
+                                        za besedama "z njo" doda beseda "medsebojno". V isti vrsti
+                                        naj se črta beseda "posameznih".</item>
                                     <item n="11">Doda naj se nova alinea 3. točke, ki naj se glasi:
                                         "čimprej oceniti in pripraviti ukrepe za odpravo cenovnih
                                         neskladij v kmetijstvu, posebej med cenami koruze in cenami
@@ -5969,18 +6000,18 @@
                                         glasi: "takoj pripraviti in sprejeti program prehoda iz
                                         dosedanjega režima prijavljanja cen 30 dni pred njihovo
                                         uveljavitvijo".</item>
-                                    <item n="13">Doda naj se nova alinea 3. točke na tretji strani, ki
-                                        naj se glasi: oceniti potek samoupravnega sporazumevanja o
-                                        cenah v smislu odloka Zveznega izvršnega sveta".</item>
-                                    <item n="14">Prvi del tretje alinee 4. točke naj se spremeni tako,
-                                        da se glasi: s povečanjem družbene produktivnosti dela in
-                                        izborom programov, upoštevaje ekonomsko funkcijo osebnih
+                                    <item n="13">Doda naj se nova alinea 3. točke na tretji strani,
+                                        ki naj se glasi: oceniti potek samoupravnega sporazumevanja
+                                        o cenah v smislu odloka Zveznega izvršnega sveta".</item>
+                                    <item n="14">Prvi del tretje alinee 4. točke naj se spremeni
+                                        tako, da se glasi: s povečanjem družbene produktivnosti dela
+                                        in izborom programov, upoštevaje ekonomsko funkcijo osebnih
                                         dohodkov, preprečiti nadaljnje upadanje realnih osebnih
                                         dohodkov."</item>
-                                    <item n="15">V tretji vrstici III. točke naj se zamenja vrstni red
-                                        besed: "proizvodnje in konvertibilnega izvoza", tako da se
-                                        ta del besedila glasi: "nadaljnje povečanje konvertibilnega
-                                        izvoza in proizvodnje".</item>
+                                    <item n="15">V tretji vrstici III. točke naj se zamenja vrstni
+                                        red besed: "proizvodnje in konvertibilnega izvoza", tako da
+                                        se ta del besedila glasi: "nadaljnje povečanje
+                                        konvertibilnega izvoza in proizvodnje".</item>
                                 </list>
                                 <p>S temi pripombami je medzborovska skupina delegatov menila, da so
                                     bile izčrpane vse pripombe, ki so bile dane na vseh treh zborih,
@@ -6224,12 +6255,12 @@
                                 <p>Za rešitve problemov proizvodnje rude in primarne predelave rude
                                     predlagamo:</p>
                                 <list type="ordered">
-                                    <item n="1">Zbor združenega dela Skupščine SR Slovenije naj sprejme
-                                        stališče, da se problem izgub Rudnika Mežica dolgoročno reši
-                                        z zagotavljanjem trajnega vira sredstev za rudarsko geološke
-                                        raziskave v okviru Raziskovalne skupnosti Slovenije<pb
-                                            n="80"/> oziroma z zagotovitvijo trajnih sredstev za te
-                                        namene iz ustreznega vira;</item>
+                                    <item n="1">Zbor združenega dela Skupščine SR Slovenije naj
+                                        sprejme stališče, da se problem izgub Rudnika Mežica
+                                        dolgoročno reši z zagotavljanjem trajnega vira sredstev za
+                                        rudarsko geološke raziskave v okviru Raziskovalne skupnosti
+                                            Slovenije<pb n="80"/> oziroma z zagotovitvijo trajnih
+                                        sredstev za te namene iz ustreznega vira;</item>
                                     <item n="2">da se vključi pridobivanje svinca in cinka ter
                                         rudarsko-geološke raziskave za svinec in cink v Sloveniji v
                                         vse planske dokumente Slovenije in s tem omogoči trajna
@@ -6648,12 +6679,13 @@
                                     sredstev rezerv. Pri analizi poslovanja so bili ugotovljeni
                                     naslednji vzroki slabih rezultatov:</p>
                                 <list type="ordered">
-                                    <item n="1">Nesorazmerje med porastom cen glavnih surovin, energije
-                                        in transporta primerjavi s cenami izdelkov črne
+                                    <item n="1">Nesorazmerje med porastom cen glavnih surovin,
+                                        energije in transporta primerjavi s cenami izdelkov črne
                                         metalurgije.</item>
-                                    <item n="2">Zastarel in zaradi visoke porabe energije ter dragega
-                                        vložka in vzdrževanja dohodkovno močno negativen postopek
-                                        pridobivanja jekla v Siemens-Martinovih pečeh.</item>
+                                    <item n="2">Zastarel in zaradi visoke porabe energije ter
+                                        dragega vložka in vzdrževanja dohodkovno močno negativen
+                                        postopek pridobivanja jekla v Siemens-Martinovih
+                                        pečeh.</item>
                                     <item n="3">Neustrezna oskrba kot rezultat pomanjkanja
                                         deviz.</item>
                                 </list>
@@ -6707,12 +6739,12 @@
                                 <list type="ordered">
                                     <item n="1">Tekoče usklajevati rasti cen jeklarskih proizvodov z
                                         rastjo cen surovin, energije in storitev;</item>
-                                    <item n="2">razreševanje devizne problematike v naslednjih smereh:
-                                        omogočiti pravico nakupa deviz na deviznem trgu, za črno
-                                        metalurgijo v SR Sloveniji socializirati odplačilo deviznih
-                                        anuitet in pokritje tečajnih razlik, razrešiti vprašanja
-                                        tekočega deviznega debalansa, ki ga ima Železarna, ter
-                                        legalizirati združevanje deviznih sredstev tako, da bo
+                                    <item n="2">razreševanje devizne problematike v naslednjih
+                                        smereh: omogočiti pravico nakupa deviz na deviznem trgu, za
+                                        črno metalurgijo v SR Sloveniji socializirati odplačilo
+                                        deviznih anuitet in pokritje tečajnih razlik, razrešiti
+                                        vprašanja tekočega deviznega debalansa, ki ga ima Železarna,
+                                        ter legalizirati združevanje deviznih sredstev tako, da bo
                                         združevanje lahko nemoteno potekalo;</item>
                                     <item n="3">zaradi bistveno slabših pogojev poslovanja, katerega
                                         prvi vzrok je zastarel proizvodni postopek, želimo širšo
@@ -7199,11 +7231,11 @@
                                     3) namesto besedila "se razreši" uporabi besedilo: "se
                                     ugotavlja:</p>
                                 <list type="bulleted">
-                                    <item n="-">da je član Komisije za vprašanja borcev NOV Tomaž Mislej
-                                        umrl in da je bilo zaradi tega izpraznjeno mesto člana v tej
-                                        komisiji;</item>
-                                    <item n="-">da je član Komisije za spremljanje izvajanja zakona o
-                                        združenem delu Boris Pavlin umrl in da je bilo zaradi tega
+                                    <item n="-">da je član Komisije za vprašanja borcev NOV Tomaž
+                                        Mislej umrl in da je bilo zaradi tega izpraznjeno mesto
+                                        člana v tej komisiji;</item>
+                                    <item n="-">da je član Komisije za spremljanje izvajanja zakona
+                                        o združenem delu Boris Pavlin umrl in da je bilo zaradi tega
                                         izpraznjeno mesto člana v tej komisiji.</item>
                                 </list>
                                 <p>Glede na odločitev v Družbenopolitičnem zboru predlagam še tole
@@ -7226,9 +7258,9 @@
                                     razrešeni in izvoljeni vsi, ki so navedeni v predlogu
                                     odloka.</p>
                                 <list type="ordered">
-                                    <item n="3">Predlog sklepa o razrešitvi in imenovanju predsednika
-                                        in članov v nekaterih medzborovskih skupinah delegatov je
-                                        predložila Komisija za volitve, imenovanja in
+                                    <item n="3">Predlog sklepa o razrešitvi in imenovanju
+                                        predsednika in članov v nekaterih medzborovskih skupinah
+                                        delegatov je predložila Komisija za volitve, imenovanja in
                                         administrativne zadeve.</item>
                                 </list>
                                 <p>Predlog sklepa ste prejeli. Želi o predlogu sklepa kdo
@@ -7263,8 +7295,8 @@
                                     za vzgojo in Izobraževanje imenovani kandidati, navedeni v
                                     predloženem odloku.</p>
                                 <list type="ordered">
-                                    <item n="5">Predlog odloka o razrešitvi sodnika Višjega sodišča v
-                                        Celju je prav tako predložila Komisija za volitve,
+                                    <item n="5">Predlog odloka o razrešitvi sodnika Višjega sodišča
+                                        v Celju je prav tako predložila Komisija za volitve,
                                         imenovanja in administrativne zadeve.</item>
                                 </list>
                                 <p>Predlog odloka ste prejeli. Želi o predlogu odloka kdo
@@ -7368,8 +7400,10 @@
                                     in Družbenopolitičnim borom.</p>
                                 <p>Predlagam 10 minut odmora.</p>
                             </sp>
-                            <stage type="time">(Seja zbora je bila prekinjena ob 15.25 uri in se je
-                                nadaljevala ob 15.30 uri)</stage>
+                            <stage type="time">(Seja zbora je bila <time to="15:25:00"
+                                    xml:id="stage.t.12">prekinjena ob 15.25 uri</time> in se je
+                                    <time from="15:30:00" xml:id="stage.t.13">nadaljevala ob 15.30
+                                    uri</time>)</stage>
                             <sp>
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Nadaljujemo sejo zbora.</p>
@@ -7492,7 +7526,8 @@
                                     red današnje seje. Zaključujem sejo ter se vam zahvaljujem za
                                     udeležbo.</p>
                             </sp>
-                            <stage type="time">(Seja zbora je bila končana ob 16.40 uri.)</stage>
+                            <stage type="time">(Seja zbora je bila <time to="16:40:00"
+                                    xml:id="stage.t.14">končana ob 16.40 uri</time>.)</stage>
                         </div>
                     </div>
                 </div>
