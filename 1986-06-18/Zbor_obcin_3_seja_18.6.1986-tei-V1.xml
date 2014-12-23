@@ -131,30 +131,30 @@
             <pb n="I/1" xml:id="pb.I.1"/>
             <div type="contents">
                 <head>VSEBINA</head>
-                <list>
+                <list type="simple">
                     <head>ZBOR OBČIN</head>
                     <head>SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE</head>
                     <head>(3. seja - 18. junij 1986)</head>
-                    <item>PRED DNEVNIM REDOM: <list>
-                            <item>1. Izvolitev komisije za verifikacijo pooblastil in imunitetna
+                    <item>PRED DNEVNIM REDOM: <list type="ordered">
+                            <item n="1">Izvolitev komisije za verifikacijo pooblastil in imunitetna
                                 vprašanja ter poročilo te komisije <ref target="#pb.1">1</ref>
-                                <list>
+                                <list type="simple">
                                     <head>GOVORNIKI:</head>
                                     <item>Feliks Peter <ref target="#pb.2">2</ref></item>
                                     <item>Matija Kavtičnik <ref target="#pb.2">2</ref></item>
                                     <item>Franc Žigman <ref target="#pb.2">2</ref></item>
                                 </list>
                             </item>
-                            <item>2. Določitev dnevnega reda <ref target="#pb.3">3</ref></item>
+                            <item n="2">Določitev dnevnega reda <ref target="#pb.3">3</ref></item>
                         </list>
                     </item>
-                    <item>DNEVNI RED: <list>
-                            <item>1. Odobritev zapisnika 2. seje zbora (1. točka dnevnega reda) <ref
-                                    target="#pb.5">5</ref></item>
-                            <item>2. Poročilo o varnostnih razmerah in drugih notranjih zadevah ter
-                                delu organov za notranje zadeve v letu 1985 (2. točka dnevnega reda)
-                                    <ref target="#pb.6">6</ref>
-                                <list>
+                    <item>DNEVNI RED: <list type="ordered">
+                            <item n="1">Odobritev zapisnika 2. seje zbora (1. točka dnevnega reda)
+                                    <ref target="#pb.5">5</ref></item>
+                            <item n="2">Poročilo o varnostnih razmerah in drugih notranjih zadevah
+                                ter delu organov za notranje zadeve v letu 1985 (2. točka dnevnega
+                                reda) <ref target="#pb.6">6</ref>
+                                <list type="simple">
                                     <head>GOVORNIKI:</head>
                                     <item>Janez Medvešček <ref target="#pb.6">6</ref></item>
                                     <item>Peter Jančan <ref target="#pb.7">7</ref></item>
@@ -166,18 +166,18 @@
                                     <item>Stane Iglič <ref target="#pb.12">12</ref></item>
                                 </list>
                             </item>
-                            <item>3. Predlog zakona o nepravdnem postopku (4. točka dnevnega reda)
-                                    <ref target="#pb.15">15</ref>
-                                <list>
+                            <item n="3">Predlog zakona o nepravdnem postopku (4. točka dnevnega
+                                reda) <ref target="#pb.15">15</ref>
+                                <list type="simple">
                                     <head>GOVORNIK:</head>
                                     <item>Janez Breznik <ref target="#pb.15">15</ref></item>
                                 </list>
                             </item>
-                            <item>4. Predlog za izdajo zakona o ukrepih za pospeševanje proizvodnje
-                                hrane in zagotavljanje osnovne preskrbe ter o samoupravni interesni
-                                organiziranosti na teh področjih (5. točka dnevnega reda) <ref
-                                    target="#pb.17">17</ref>
-                                <list>
+                            <item n="4">Predlog za izdajo zakona o ukrepih za pospeševanje
+                                proizvodnje hrane in zagotavljanje osnovne preskrbe ter o
+                                samoupravni interesni organiziranosti na teh področjih (5. točka
+                                dnevnega reda) <ref target="#pb.17">17</ref>
+                                <list type="simple">
                                     <head>GOVORNIKI:</head>
                                     <item>Milan Kneževič</item>
                                     <pb n="I/2" xml:id="pb.I.2"/>
@@ -196,33 +196,33 @@
                                     <item>Milan Kneževič <ref target="#pb.36">36</ref></item>
                                 </list>
                             </item>
-                            <item>5. Predlog zakona o spremembah in dopolnitvah zakona o osnovni
+                            <item n="5">Predlog zakona o spremembah in dopolnitvah zakona o osnovni
                                 šoli (3. točka dnevnega reda) <ref target="#pb.38">38</ref>
-                                <list>
+                                <list type="simple">
                                     <head>GOVORNIKA:</head>
                                     <item>Boštjan Zgonc <ref target="#pb.38">38</ref></item>
                                     <item>Alojz Husjak <ref target="#pb.39">39</ref></item>
                                 </list>
                             </item>
-                            <item>6. Predlog za izdajo o varstvu prebivalcev pred nalezljivimi
+                            <item n="6">Predlog za izdajo o varstvu prebivalcev pred nalezljivimi
                                 boleznimi (6. točka dnevnega reda) <ref target="#pb.40">40</ref>
-                                <list>
+                                <list type="simple">
                                     <head>GOVORNIKI:</head>
                                     <item>dr. Dinko Leskovšek <ref target="#pb.40">40</ref></item>
                                     <item>Franc Albreht <ref target="#pb.41">41</ref></item>
                                     <item>Ivanka Komprej <ref target="#pb.41">41</ref></item>
                                 </list>
                             </item>
-                            <item>7. Osnutek zakona o zagotovitvi sredstev za prispevek SFR
+                            <item n="7">Osnutek zakona o zagotovitvi sredstev za prispevek SFR
                                 Jugoslavije k svetovnemu programu hrane (WFP) za leto 1985 in 1986
                                 (7. točka dnevnega reda) <ref target="#pb.42">42</ref></item>
-                            <item>8. Osnutek zakona o prenehanju veljavnosti zakona o zagotovitvi
+                            <item n="8">Osnutek zakona o prenehanju veljavnosti zakona o zagotovitvi
                                 sredstev za financiranje graditve "Spomenika zmage" (8. točka
                                 dnevnega reda) <ref target="#pb.43">43</ref></item>
-                            <item>9. Predlog družbenega dogovora o zagotavljanju sredstev za
+                            <item n="9">Predlog družbenega dogovora o zagotavljanju sredstev za
                                 graditev in ureditev spominskega obeležja "Sremska fronta" (9. točka
                                 dnevnega reda) <ref target="#pb.43">43</ref>
-                                <list>
+                                <list type="simple">
                                     <head>GOVORNIKI:</head>
                                     <item>Primož Hainz <ref target="#pb.44">44</ref></item>
                                     <item>Franc Albreht <ref target="#pb.46">46</ref></item>
@@ -234,10 +234,10 @@
                                             xml:id="pb.I.3"/></item>
                                 </list>
                             </item>
-                            <item>10. Predlog zakona o spremembah in dopolnitvah zakona o osnovni
+                            <item n="10">Predlog zakona o spremembah in dopolnitvah zakona o osnovni
                                 šoli (nadaljevanje 3. točke dnevnega reda) <ref target="#pb.48"
                                     >48</ref>
-                                <list>
+                                <list type="simple">
                                     <head>GOVORNIKI:</head>
                                     <item>Boštjan Zgonc <ref target="#pb.48">48</ref></item>
                                     <item>Janez Kocijančič <ref target="#pb.49">49</ref></item>
@@ -245,32 +245,33 @@
                                     <item>Vlado Barabaš <ref target="#pb.49">49</ref></item>
                                 </list>
                             </item>
-                            <item>11. Osnutek odloka o valorizaciji sredstev, ki so jih vplačale
+                            <item n="11">Osnutek odloka o valorizaciji sredstev, ki so jih vplačale
                                 republike in avtonomni pokrajini za leto 1985 za odpravo posledic
                                 katastrofalnega potresa, ki je prizadel območje SR Črne gore v letu
                                 1979 (10. točka dnevnega reda) <ref target="#pb.50">50</ref>
-                                <list>
+                                <list type="simple">
                                     <head>GOVORNIKI:</head>
                                     <item>dr. Jože Kunič <ref target="#pb.50">50</ref></item>
                                     <item>Drago Justin <ref target="#pb.52">52</ref></item>
                                     <item>Branka Jurak <ref target="#pb.52">52</ref></item>
                                 </list>
                             </item>
-                            <item>12. Osnutek odloka o obveznostih republik in avtonomnih pokrajin
-                                za leto 1986, določenih z zakonom o sredstvih za odpravo posledic
-                                katastrofalnega potresa, ki je prizadel območje SR Črne gore v letu
-                                1979 (11. točka dnevnega reda) <ref target="#pb.52">52</ref>
-                                <list>
+                            <item n="12">Osnutek odloka o obveznostih republik in avtonomnih
+                                pokrajin za leto 1986, določenih z zakonom o sredstvih za odpravo
+                                posledic katastrofalnega potresa, ki je prizadel območje SR Črne
+                                gore v letu 1979 (11. točka dnevnega reda) <ref target="#pb.52"
+                                    >52</ref>
+                                <list type="simple">
                                     <head>GOVORNIKI:</head>
                                     <item>Dušanka Kotnik <ref target="#pb.53">53</ref></item>
                                     <item>Pavle Leban <ref target="#pb.53">53</ref></item>
                                     <item>dr. Jože Kunič <ref target="#pb.53">53</ref></item>
                                 </list>
                             </item>
-                            <item>13. Predlog zakona o spremembah in dopolnitvah zakona o osnovni
+                            <item n="13">Predlog zakona o spremembah in dopolnitvah zakona o osnovni
                                 šoli (nadaljevanje 3. točke dnevnega reda) <ref target="#pb.54"
                                     >54</ref>
-                                <list>
+                                <list type="simple">
                                     <head>GOVORNIKI:</head>
                                     <item>Vilijem Veršaj <ref target="#pb.54">54</ref></item>
                                     <item>Boštjan Zgonc <ref target="#pb.55">55</ref></item>
@@ -280,24 +281,24 @@
                                     <item>Borut Plavšak <ref target="#pb.56">56</ref></item>
                                 </list>
                             </item>
-                            <item>14. Osnutek odloka o zmanjševanju obveznosti republik in
+                            <item n="14">Osnutek odloka o zmanjševanju obveznosti republik in
                                 avtonomnih pokrajin za leto 1986, določenih z zakonom o sredstvih za
                                 odpravo posledic katastrofalnega potresa, ki je prizadel območje SR
                                 Črne gore v letu 1979 (12. točka dnevnega reda) <ref target="#pb.57"
                                     >57</ref><pb n="I/4" xml:id="pb.I.4"/>
                             </item>
-                            <item>15. Predlog zakona o ratifikaciji pogodbe med SFR Jugoslavijo in
-                                LR Madžarsko o izogibanju dvojnemu obdavčevanju dohodka in
+                            <item n="15">Predlog zakona o ratifikaciji pogodbe med SFR Jugoslavijo
+                                in LR Madžarsko o izogibanju dvojnemu obdavčevanju dohodka in
                                 premoženja (13. točka dnevnega reda) <ref target="#pb.57"
                                 >57</ref></item>
-                            <item>16. Predlog za soglasje za kandidaturo Judo zveze Jugoslavije za
-                                organizacijo evropskega prvenstva Evrope za člane in članice za leto
-                                1986 v Novem Sadu (14. točka dnevnega reda) <ref target="#pb.57"
-                                    >57</ref>
+                            <item n="16">Predlog za soglasje za kandidaturo Judo zveze Jugoslavije
+                                za organizacijo evropskega prvenstva Evrope za člane in članice za
+                                leto 1986 v Novem Sadu (14. točka dnevnega reda) <ref
+                                    target="#pb.57">57</ref>
                             </item>
-                            <item>17. Pobude, predlogi in vprašanja delegatov (15. točka dnevnega
+                            <item n="17">Pobude, predlogi in vprašanja delegatov (15. točka dnevnega
                                 reda) <ref target="#pb.58">58</ref>
-                                <list>
+                                <list type="simple">
                                     <head>GOVORNIKI:</head>
                                     <item>Milan Kneževič <ref target="#pb.59">59</ref></item>
                                     <item>Pavel Kunc <ref target="#pb.61">61</ref></item>
@@ -309,7 +310,7 @@
                                     <item>Drago Šulek <ref target="#pb.68">68</ref></item>
                                 </list>
                             </item>
-                            <item>18. Seznam govornikov <ref target="#pb.II.1">II/1</ref></item>
+                            <item n="18">Seznam govornikov <ref target="#pb.II.1">II/1</ref></item>
                         </list>
                     </item>
                 </list>
@@ -426,11 +427,14 @@
                     <docDate when="1986-06-18">(18. junij 1986)</docDate>
                     <timeline origin="#TL.1" unit="min">
                         <when synch="#stage.t.1" xml:id="TL.1" absolute="1986-06-18T09:00:00"/>
-                        <when synch="#stage.t.2" since="#TL.1" absolute="1986-06-18T09:25:00" interval="25"/>
+                        <when synch="#stage.t.2" since="#TL.1" absolute="1986-06-18T09:25:00"
+                            interval="25"/>
                         <when synch="#stage.t.3" xml:id="TL.2" absolute="1986-06-18T10:35:00"/>
-                        <when synch="#stage.t.4" since="#TL.2" absolute="1986-06-18T12:30:00" interval="115"/>
+                        <when synch="#stage.t.4" since="#TL.2" absolute="1986-06-18T12:30:00"
+                            interval="115"/>
                         <when synch="#stage.t.5" xml:id="TL.3" absolute="1986-06-18T13:05:00"/>
-                        <when synch="#stage.t.6" since="#TL.3" absolute="1986-06-18T15:55:00" interval="110"/>
+                        <when synch="#stage.t.6" since="#TL.3" absolute="1986-06-18T15:55:00"
+                            interval="110"/>
                     </timeline>
                     <castList>
                         <castItem><roleDesc>Sejo je vodil</roleDesc>
@@ -583,26 +587,26 @@
                                 <p>Prehajamo na določitev dnevnega reda 3. seje zbora. Z dopisom z
                                     dne 2. junija 6.1. ste bili obveščeni, da bo dnevni red seje
                                     zbora razširjen še z naslednjimi točkami, in sicer:</p>
-                                <list type="unordered">
-                                    <item>- z osnutkom zakona o zagotovitvi sredstev za prispevek
-                                        SFR Jugoslavije k svetovnemu programu hrane (WFP) za leti
-                                        1985 in 1986,</item>
-                                    <item>- z osnutkom zakona o prenehanju veljavnosti zakona o
+                                <list type="bulleted">
+                                    <item n="-">z osnutkom zakona o zagotovitvi sredstev za
+                                        prispevek SFR Jugoslavije k svetovnemu programu hrane (WFP)
+                                        za leti 1985 in 1986,</item>
+                                    <item n="-">z osnutkom zakona o prenehanju veljavnosti zakona o
                                         zagotovitvi sredstev za financiranje graditve "Spomenika
                                         zmage",</item>
-                                    <item>- z osnutkom odloka o valorizaciji sredstev, ki so jih
+                                    <item n="-">z osnutkom odloka o valorizaciji sredstev, ki so jih
                                         republike in avtonomni pokrajini vplačale v letu 1985 za
                                         odpravo posledic katastrofalnega potresa, ki je prizadel
                                         območje SR Črne gore v letu 1979,</item>
-                                    <item>- z osnutkom odloka o obveznostih republik in avtonomnih
-                                        pokrajin za leto 1986, določenih z zakonom o sredstvih za
-                                        odpravo posledic katastrofalnega potresa, ki je prizadel
-                                        območje SR Črne gore v letu v letu 1979,</item>
-                                    <item>- z osnutkom odloka o zmanjšanju obveznosti republik in
+                                    <item n="-">z osnutkom odloka o obveznostih republik in
                                         avtonomnih pokrajin za leto 1986, določenih z zakonom o
                                         sredstvih za odpravo posledic katastrofalnega potresa, ki je
+                                        prizadel območje SR Črne gore v letu v letu 1979,</item>
+                                    <item n="-">z osnutkom odloka o zmanjšanju obveznosti republik
+                                        in avtonomnih pokrajin za leto 1986, določenih z zakonom o
+                                        sredstvih za odpravo posledic katastrofalnega potresa, ki je
                                         prizadel območje SR Črne gore v letu 1979 in</item>
-                                    <item>- s predlogom zakona o ratifikaciji pogodbe med SFR
+                                    <item n="-">s predlogom zakona o ratifikaciji pogodbe med SFR
                                         Jugoslavijo in LR Madžarsko o izogibanju dvojnemu
                                         obdavčevanju dohodka in premoženja.</item>
                                 </list>
@@ -630,10 +634,10 @@
                                     klop. Želi o predlogu kdo razpravljati? (Ne želi.) Če ne,
                                     predlagam zboru, da sprejme naslednji sklep:</p>
                                 <list type="ordered">
-                                    <item>1. Obravnava in sklepanje o predlogu zakona o stečaju nad
-                                        obratovalnicami samostojnih obrtnikov se odloži.</item>
-                                    <item>2. Izvršni svet Skupščine SR Slovenije naj čimprej prouči
-                                        vsa odprta vprašanja v zvezi s predlogom zakona in ga
+                                    <item n="1">Obravnava in sklepanje o predlogu zakona o stečaju
+                                        nad obratovalnicami samostojnih obrtnikov se odloži.</item>
+                                    <item n="2">Izvršni svet Skupščine SR Slovenije naj čimprej
+                                        prouči vsa odprta vprašanja v zvezi s predlogom zakona in ga
                                         ponovno predloži v obravnavo zborom Skupščine.</item>
                                 </list>
                                 <p>Kdo je za tak sklep? (Vsi delegati.) Je kdo proti? (Nihče.) Se je
@@ -646,48 +650,48 @@
                                 <p>Tako, tovarišice in tovariši delegati, predlagam za današnjo sejo
                                     zbora naslednji dnevni red:</p>
                                 <list type="ordered">
-                                    <item>1. odobritev zapisnika 2. seje zbora,</item>
-                                    <item>2. poročilo o varnostnih razmerah in drugih notranjih
+                                    <item n="1">odobritev zapisnika 2. seje zbora,</item>
+                                    <item n="2">poročilo o varnostnih razmerah in drugih notranjih
                                         zadevah ter delu organov za notranje zadeve v letu
                                         1985,</item>
-                                    <item>3. predlog zakona o spremembah in dopolnitvah zakona o
+                                    <item n="3">predlog zakona o spremembah in dopolnitvah zakona o
                                         osnovni šoli,</item>
-                                    <item>4. predlog zakona o nepravdnem postopku,</item>
-                                    <item>5. predlog za izdajo zakona o ukrepih za pospeševanje
+                                    <item n="4">predlog zakona o nepravdnem postopku,</item>
+                                    <item n="5">predlog za izdajo zakona o ukrepih za pospeševanje
                                         proizvodnje hrane in zagotavljanju osnovne preskrbe ter o
                                         samoupravni interesni organiziranosti na teh
                                         področjih,</item>
-                                    <item>6. predlog za izdajo zakona o varstvu prebivalstva pred
+                                    <item n="6">predlog za izdajo zakona o varstvu prebivalstva pred
                                         nalezljivimi boleznimi,</item>
-                                    <item>7. osnutek zakona o zagotovitvi sredstev za prispevek SFRJ
-                                        Jugoslavije svetovnemu programu (WFP) za leti 1986 in
+                                    <item n="7">osnutek zakona o zagotovitvi sredstev za prispevek
+                                        SFRJ Jugoslavije svetovnemu programu (WFP) za leti 1986 in
                                         1987,</item>
-                                    <item>8. osnutek zakona o prenehanju veljavnosti zakona o
+                                    <item n="8">osnutek zakona o prenehanju veljavnosti zakona o
                                         zagotovitvi sredstev za financiranje gradite "Spomenika
                                         zmage",</item>
-                                    <item>9. predlog družbenega dogovora o zagotavljanju sredstev za
-                                        graditev in ureditev spominskega obeležja "Sremska
+                                    <item n="9">predlog družbenega dogovora o zagotavljanju sredstev
+                                        za graditev in ureditev spominskega obeležja "Sremska
                                         fronta",</item>
-                                    <item>10. osnutek odloka o valorizaciji sredstev, ki so jih
+                                    <item n="10">osnutek odloka o valorizaciji sredstev, ki so jih
                                         republike in avtonomni pokrajini vplačale v letu 1985 za
                                         odpravo posledic katastrofalnega potresa, ki je prizadel
                                         območje SR Črne gore v letu 1979,</item>
-                                    <item>11. osnutek odloka o obveznostih republik in avtonomnih
+                                    <item n="11">osnutek odloka o obveznostih republik in avtonomnih
                                         pokrajin za leto 1986, določenih z zakonom o sredstvih za
                                             odpravo<pb n="5" xml:id="pb.5"/> posledic
                                         katastrofalnega potresa, ki je prizadel območje SR Črne gore
                                         v letu 1979,</item>
-                                    <item>12. osnutek odloka o zmanjšanju obveznosti republik in
+                                    <item n="12">osnutek odloka o zmanjšanju obveznosti republik in
                                         avtonomnih pokrajin za leto 1986, določenih z zakonom o
                                         sredstvih za odpravo posledic katastrofalnega potresa, ki je
                                         prizadel območje SR Črne gore v letu 1979,</item>
-                                    <item>13. predlog zakona o ratifikaciji pogodbe med SFR
+                                    <item n="13">predlog zakona o ratifikaciji pogodbe med SFR
                                         Jugoslavijo in LR Madžarsko o izogibanju dvojnemu
                                         obdavčevanju dohodka in premoženja,</item>
-                                    <item>14. predlog za soglasje za kandidaturo Judo zveze
+                                    <item n="14">predlog za soglasje za kandidaturo Judo zveze
                                         Jugoslavije za organizacijo ekipnega prvenstva Evrope za
                                         člane in članice za leto 1986 v Novem sadu,</item>
-                                    <item>15. pobude, predlogi in vprašanja delegatov.</item>
+                                    <item n="15">pobude, predlogi in vprašanja delegatov.</item>
                                 </list>
                                 <p>Želi kdo o predlaganem dnevnem redu razpravljati? (Ne želi.) Če
                                     ne, potem prosim, da o njem glasujemo.</p>
@@ -898,41 +902,42 @@
                                     delu organov za notranje zadeve v letu 1985 se strinjamo in ga
                                     sprejemamo. Ob tem pa imamo naslednje pripombe:</p>
                                 <list type="ordered">
-                                    <item>1. Menimo, da omejevanje nekaterih informacij v naših
-                                        sredstvih javnega obveščanja daje možnosti sovražni
-                                        emigraciji, da to izkorišča v svojo korist z objavljanjem
-                                        vseh negativnih pojavov in informacij v tujini. Ker so te
-                                        informacije zelo enostranske, so tudi povod za vrsto
-                                        dezinformacij o stanju v Sloveniji in Jugoslaviji tako v
-                                        tujini kot tudi doma.</item>
-                                </list>
-                                <p>Objektivnemu, predvsem pa pravočasnemu informiranju o vseh
-                                    dogodkih in pojavih moramo dati več poudarka, saj prepogosto
-                                    prihaja tudi do različnih informacij oziroma do selekcij le-teh
-                                    v različnih časopisih; pojavljajo se razlike med informacijami,
-                                    na primer v Mladini in v Delu.</p>
-                                <list type="ordered">
-                                    <item>2. Ocenjujemo, da tudi pripravljenost na ukrepanje ob
+                                    <item n="1">
+                                        <p>Menimo, da omejevanje nekaterih informacij v naših
+                                            sredstvih javnega obveščanja daje možnosti sovražni
+                                            emigraciji, da to izkorišča v svojo korist z
+                                            objavljanjem vseh negativnih pojavov in informacij v
+                                            tujini. Ker so te informacije zelo enostranske, so tudi
+                                            povod za vrsto dezinformacij o stanju v Sloveniji in
+                                            Jugoslaviji tako v tujini kot tudi doma.</p>
+                                        <p>Objektivnemu, predvsem pa pravočasnemu informiranju o
+                                            vseh dogodkih in pojavih moramo dati več poudarka, saj
+                                            prepogosto prihaja tudi do različnih informacij oziroma
+                                            do selekcij le-teh v različnih časopisih; pojavljajo se
+                                            razlike med informacijami, na primer v Mladini in v
+                                            Delu.</p>
+                                    </item>
+                                    <item n="2">Ocenjujemo, da tudi pripravljenost na ukrepanje ob
                                         različnih situacijah, predvsem v primerih zelo pogostih
                                         večjih požarov, daje sliko naših varnostnih razmer.<pb n="9"
                                         />
                                     </item>
-                                    <item>3. Posebej menimo, da bi moralo biti v poročilu bolj
-                                        obdelano varovanje družbenega premoženja. Prav v tem delu
-                                        imamo premalo informacij. Ali samoupravne delavske kontrole
-                                        uveljavljajo svojo vlogo, zaradi katere so bile
-                                        ustanovljene? Kaj je s komisijami za ugotavljanje izvora
-                                        premoženja? Ob tem, ko nekateri delavci s trdim delom v
-                                        organizacijah združenega dela dosegajo tako nizke osebne
-                                        dohodke, da pogosto z njimi ne morejo več slediti ras ti
-                                        življenjskih stroškov, se na drugi strani pojavljajo
-                                        posamezniki, ki so sposobni ponuditi Narodni banki
-                                        Jugoslavije ogromna devizna sredstva.</item>
-                                </list>
-                                <p>Tudi te nesprejemljive razlike bistveno vplivajo na varnostne
-                                    razmere pri nas.</p>
-                                <list type="ordered">
-                                    <item>4. Poudariti želimo še problem alkoholizma, ki mu tudi
+                                    <item n="3">
+                                        <p>Posebej menimo, da bi moralo biti v poročilu bolj
+                                            obdelano varovanje družbenega premoženja. Prav v tem
+                                            delu imamo premalo informacij. Ali samoupravne delavske
+                                            kontrole uveljavljajo svojo vlogo, zaradi katere so bile
+                                            ustanovljene? Kaj je s komisijami za ugotavljanje izvora
+                                            premoženja? Ob tem, ko nekateri delavci s trdim delom v
+                                            organizacijah združenega dela dosegajo tako nizke osebne
+                                            dohodke, da pogosto z njimi ne morejo več slediti ras ti
+                                            življenjskih stroškov, se na drugi strani pojavljajo
+                                            posamezniki, ki so sposobni ponuditi Narodni banki
+                                            Jugoslavije ogromna devizna sredstva.</p>
+                                        <p>Tudi te nesprejemljive razlike bistveno vplivajo na
+                                            varnostne razmere pri nas.</p>
+                                    </item>
+                                    <item n="4">Poudariti želimo še problem alkoholizma, ki mu tudi
                                         poročilo posveča del pozornosti. Na tem področju predvsem
                                         premalo preventivno ukrepamo. Koliko spoštujemo prepoved
                                         točenja alkoholnih pijač mladoletnim osebam? Menim, da
@@ -1067,10 +1072,10 @@
                                     stališče, da bi v tem poročilu morali v poglavju VI - Varnost v
                                     cestnem prometu - opozoriti:</p>
                                 <list type="ordered">
-                                    <item>1. na zaskrbljujoče razmere oziroma dotrajano vozišče na
-                                        magistralni cesti Maribor - Dravograd in</item>
-                                    <item>2. na prometne zastoje, ki jih povzroča 14% klanec na tej
-                                        cesti v Zg. Vižingi.</item>
+                                    <item n="1">na zaskrbljujoče razmere oziroma dotrajano vozišče
+                                        na magistralni cesti Maribor - Dravograd in</item>
+                                    <item n="2">na prometne zastoje, ki jih povzroča 14% klanec na
+                                        tej cesti v Zg. Vižingi.</item>
                                 </list>
                                 <p>Pozimi so daljši zastoji vsakodnevni. Cestišče je namreč docela
                                     neustrezno, tlakovano z granitnimi kockami in izredno spolzko.
@@ -1253,42 +1258,50 @@
                                 <p>Zaključujem razpravo in predlagam zboru, da sprejmemo naslednji
                                     sklep:</p>
                                 <list type="ordered">
-                                    <item>1. Zbor sprejema poročilo o varnostnih razmerah in drugih
-                                        notranjih zadevah ter o delu organov za notranje zadeve v
-                                        letu 1985.</item>
+                                    <item n="1">
+                                        <p>Zbor sprejema poročilo o varnostnih razmerah in drugih
+                                            notranjih zadevah ter o delu organov za notranje zadeve
+                                            v letu 1985.</p>
+                                        <p>Ob tem zbor ugotavlja, da daje poročilo kvaliteten in
+                                            celovit prikaz stanja, dogodkov in pojavov, ki so
+                                            pomembni z vidika varnostnih razmer, hkrati pa opozarja
+                                            na pereča vprašanja oziroma problematiko, ki ji je treba
+                                            tudi vnaprej posvetiti posebno družbeno pozornost.</p>
+                                        <p>Zbor ugotavlja, da so organi za notranje zadeve svojo
+                                            nalogo v letu 1985 uspešno opravili. Delovali so v
+                                            skladu z njihovo ustavno funkcijo, zakonskimi in drugimi
+                                            predpisi ter s splošnimi smernicami Skupščine SR
+                                            Slovenije in drugimi političnimi opredelitvami.</p>
+                                    </item>
                                 </list>
-                                <p>Ob tem zbor ugotavlja, da daje poročilo kvaliteten in celovit
-                                    prikaz stanja, dogodkov in pojavov, ki so pomembni z vidika
-                                    varnostnih razmer, hkrati pa opozarja na pereča vprašanja
-                                    oziroma problematiko, ki ji je treba tudi vnaprej posvetiti
-                                    posebno družbeno pozornost.</p>
-                                <p>Zbor ugotavlja, da so organi za notranje zadeve svojo nalogo v
-                                    letu 1985 uspešno opravili. Delovali so v skladu z njihovo
-                                    ustavno funkcijo, zakonskimi in drugimi predpisi ter s splošnimi
-                                    smernicami Skupščine SR Slovenije in drugimi političnimi
-                                    opredelitvami.</p>
                                 <list type="ordered">
-                                    <item>2. V zvezi z varnostnimi razmerami ugotavljamo, da je v
-                                        preteklem letu sicer poraslo število nekaterih deviantnih
-                                        dejanj in pojavov, vendar pa ni bilo večjih družbenih
-                                        konfliktov, ki bi ogrozili ustavno ureditev in trdnost naše
-                                        družbene in državne varnosti.</item>
+                                    <item n="2">
+                                        <p>V zvezi z varnostnimi razmerami ugotavljamo, da je v
+                                            preteklem letu sicer poraslo število nekaterih
+                                            deviantnih dejanj in pojavov, vendar pa ni bilo večjih
+                                            družbenih konfliktov, ki bi ogrozili ustavno ureditev in
+                                            trdnost naše družbene in državne varnosti.</p>
+                                        <p>Poročilo in razprave o njem, posebej v delovnih telesih
+                                            Skupščine in tudi na seji zbora kažejo, da so v družbi
+                                            nekateri problemi, ki jih bo treba reševati še z večjo
+                                            zavzetostjo vseh družbenih dejavnikov, ugotavljati in
+                                            odpravljati njihove vzroke<pb n="15"/> ter tako
+                                            zagotoviti nemoten demokratičen razvoj samoupravne
+                                            socialistične družbe.</p>
+                                    </item>
                                 </list>
-                                <p>Poročilo in razprave o njem, posebej v delovnih telesih Skupščine
-                                    in tudi na seji zbora kažejo, da so v družbi nekateri problemi,
-                                    ki jih bo treba reševati še z večjo zavzetostjo vseh družbenih
-                                    dejavnikov, ugotavljati in odpravljati njihove vzroke<pb n="15"
-                                    /> ter tako zagotoviti nemoten demokratičen razvoj samoupravne
-                                    socialistične družbe.</p>
                                 <list type="ordered">
-                                    <item>3. Skupščina SR Slovenije bo zato na eni prihodnjih sej
-                                        zborov na podlagi razprav o varnostnih razmerah sprejela
-                                        usmeritve za nadaljnje delo na tem področju.</item>
+                                    <item n="3">
+                                        <p>Skupščina SR Slovenije bo zato na eni prihodnjih sej
+                                            zborov na podlagi razprav o varnostnih razmerah sprejela
+                                            usmeritve za nadaljnje delo na tem področju.</p>
+                                        <p>Zato naj Skupina delegatov vseh zborov za splošno ljudsko
+                                            obrambo in družbeno samozaščito prouči predloge, mnenja
+                                            in pripombe iz razprav ter pripravi predlog zaključnega
+                                            akta usmeritev Skupščine in ga predloži v razpravo in
+                                            sprejem zborom.</p>
+                                    </item>
                                 </list>
-                                <p>Zato naj Skupina delegatov vseh zborov za splošno ljudsko obrambo
-                                    in družbeno samozaščito prouči predloge, mnenja in pripombe iz
-                                    razprav ter pripravi predlog zaključnega akta usmeritev
-                                    Skupščine in ga predloži v razpravo in sprejem zborom.</p>
                                 <p>Želi kdo o predlogu teh sklepov razpravljati? (Ne želi.)</p>
                                 <p>Če ne, potem dajem predlog sklepa na glasovanje.</p>
                                 <p>Kdo je za? (65 delegatov.) Je kdo proti? (Nihče.) Se je kdo
@@ -2228,9 +2241,9 @@
                                     odmor ter bi po njem nadaljevali z razpravo k tej točki dnevnega
                                     reda.</p>
                             </sp>
-                            <stage type="time">(Seja je bila <time to="12:30:00" xml:id="stage.t.4">prekinjena ob 12.30
-                                uri</time> in se je <time from="13:05:00" xml:id="stage.t.5">nadaljevala ob 13.05
-                                    uri</time>.)</stage>
+                            <stage type="time">(Seja je bila <time to="12:30:00" xml:id="stage.t.4"
+                                    >prekinjena ob 12.30 uri</time> in se je <time from="13:05:00"
+                                    xml:id="stage.t.5">nadaljevala ob 13.05 uri</time>.)</stage>
                             <sp who="#sp.BeznikVlado">
                                 <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                                 <p>Nadaljujemo z razpravo k 5. točki dnevnega reda. Besedo ima Zoran
@@ -2871,13 +2884,11 @@
                                 <p>Ker ne želi nihče več razpravljati, zaključujem razpravo in
                                     predlagam zboru, da sprejme naslednji sklep:</p>
                                 <list type="ordered">
-                                    <item>1. Predlog za izdajo zakona o varstvu prebivalstva pred
+                                    <item n="1">Predlog za izdajo zakona o varstvu prebivalstva pred
                                         nalezljivimi boleznimi se sprejme.</item>
-                                    <item>
-                                        <p>2. Osnutek zakona pripravi Izvršni svet Skupščine SR</p>
-                                        <p>Slovenije.</p>
-                                    </item>
-                                    <item>3. Pri pripravi osnutka zakona naj predlagatelj prouči in
+                                    <item n="2">Osnutek zakona pripravi Izvršni svet Skupščine SR
+                                        Slovenije.</item>
+                                    <item n="3">Pri pripravi osnutka zakona naj predlagatelj prouči in
                                         ustrezno upošteva mnenja, predloge in pripombe delovnih
                                         teles, pripombe skupin delegatov in pripombe iz razprave
                                         delegatov na seji zbora.</item>
@@ -2919,10 +2930,10 @@
                                     razpravljati? (Nihče.) Zaključujem razpravo in predlagam zboru,
                                     da sprejme naslednji sklep:</p>
                                 <list type="ordered">
-                                    <item>1. Skupščina SR Slovenije daje soglasje k osnutku zakona o
+                                    <item n="1">Skupščina SR Slovenije daje soglasje k osnutku zakona o
                                         zagotovitvi sredstev za prispevek SFR Jugoslavije k
                                         svetovnemu programu hrane (WFP) za leti 1985 in 1986.</item>
-                                    <item>2. Skupščina SR Slovenije pooblašča svojo delegacijo v
+                                    <item n="2">Skupščina SR Slovenije pooblašča svojo delegacijo v
                                         Zboru republik in pokrajin Skupščine SFR Jugoslavije, da po
                                         končanem usklajevanju da soglasje k predlogu zakona.</item>
                                 </list>
@@ -2951,10 +2962,10 @@
                                     razpravljati, zaključujem razpravo in predlagam zboru, da
                                     sprejme naslednji sklep:</p>
                                 <list type="ordered">
-                                    <item>1. Skupščina SR Slovenije daje soglasje k osnutku zakona o
+                                    <item n="1">Skupščina SR Slovenije daje soglasje k osnutku zakona o
                                         prenehanju veljavnosti zakona o zagotovitvi sredstev za
                                         financiranje graditve "Spomenika zmage."</item>
-                                    <item>2. Skupščina SR Slovenije pooblašča svojo delegacijo v
+                                    <item n="2">Skupščina SR Slovenije pooblašča svojo delegacijo v
                                         Zboru republik in pokrajin Skupščine SFR Jugoslavije, da po
                                         končanem usklajevanju da soglasje k predlogu zakona.</item>
                                 </list>
@@ -3278,9 +3289,9 @@
                                     o tem amandmaju vendar se z njim ni strinjal iz naslednjih
                                     razlogov:</p>
                                 <list type="ordered">
-                                    <item>1. Že iz besedila zakona je razvidno, da gre tako ali tako
+                                    <item n="1">Že iz besedila zakona je razvidno, da gre tako ali tako
                                         za posamezen oddelek.</item>
-                                    <item>2. Če bi se zgodilo, da bi tak oddelek bil 7. razred
+                                    <item n="2">Če bi se zgodilo, da bi tak oddelek bil 7. razred
                                         osnovne šole, ki bi se oblikoval namesto z 32 učenci s 33
                                         učenci, je povsem nesmiselno, da bi se v 8. razredu tak
                                         oddelek razbil, kar ni sprejemljivo tudi iz pedagoškega
@@ -3612,12 +3623,12 @@
                                 <p>Hvala. Želi še kdo razpravljati? (Ne.) Če ne, potem zaključujem
                                     razpravo in predlagam zboru, da sprejme naslednji sklep:</p>
                                 <list type="ordered">
-                                    <item>1. Skupščina SR Slovenije daje soglasje k osnutku odloka o
+                                    <item n="1">Skupščina SR Slovenije daje soglasje k osnutku odloka o
                                         obveznostih republik in avtonomnih pokrajin za leto 1986,
                                         določenih z zakonom o sredstvih za odpravo posledic
                                         katastrofalnega potresa, ki je prizadel območje SR Črne gore
                                         v letu 1979.</item>
-                                    <item>2. Skupščina SR Slovenije pooblašča svojo delegacijo v
+                                    <item n="2">Skupščina SR Slovenije pooblašča svojo delegacijo v
                                         Zboru republik in pokrajin Skupščine SFR Jugoslavije, da po
                                         končanem postopku usklajevanja da soglasje k predlogu
                                         odloka.</item>
@@ -3799,7 +3810,7 @@
                                     reda ni. Želi kdo razpravljati? (Nihče.) Če ne, potem
                                     zaključujem razpravo in predlagam, da sprejmete naslednji
                                     sklep:</p>
-                                <list type="ordered">
+                                <list type="simple">
                                     <item>Skupščina SR Slovenije daje soglasje k osnutku odloka o
                                         zmanjšanju obveznosti republik in avtonomnih pokrajin za
                                         leto 1986, določenih z zakonom o sredstvih za odpravo
@@ -3864,7 +3875,7 @@
                                     razpravljati, zaključujem razpravo in predlagam zboru, da
                                     sprejme naslednji sklep:</p>
                                 <list type="ordered">
-                                    <item>1. Zbor občin ugotavlja, da je elaborat o športni,
+                                    <item n="1">Zbor občin ugotavlja, da je elaborat o športni,
                                         ekonomski in družbenopolitični upravičenosti organiziranja
                                         ekipnega prvenstva Evrope v judu za člane in članice za leto
                                         1986 v Novem sadu, v skladu z družbenim dogovorom o pogojih
@@ -3873,7 +3884,7 @@
                                         soglaša s kandidaturo Novega Sada za organizacijo ekipnega
                                         prvenstva Evrope v judu za člane in članice v letu
                                         1986.</item>
-                                    <item>2. Zbor pooblašča delegacijo Skupščine SR Slovenije v
+                                    <item n="2">Zbor pooblašča delegacijo Skupščine SR Slovenije v
                                         Zboru republik in pokrajin Skupščine SFR Jugoslavije, da v
                                         Zboru republik in pokrajin soglaša s tem, da je Novi Sad
                                         organizator ekipnega prvenstva Evrope v judu za člane in
@@ -3986,10 +3997,10 @@
                                     do 18.40 ure.</p>
                                 <p>Ugotovitve:</p>
                                 <list type="ordered">
-                                    <item> 1. Radarsko-računalniški center Lisca je radarsko
+                                    <item n="1">Radarsko-računalniški center Lisca je radarsko
                                         spremljal nevihtne oblake, vendar zaradi premajhne
                                         odbojnosti niso bili izdani ukazi za streljanje.</item>
-                                    <item>2. Območna kontrola letenja Zagreb je v času razvoja
+                                    <item n="2">Območna kontrola letenja Zagreb je v času razvoja
                                         nevihtnih oblakov držala v zapori območje, na katerem je
                                         tudi padala toča ter tako neposredno preprečila obrambo, pri
                                         čemer postavlja varnost letalskega prometa pred obrambo pred
@@ -4139,13 +4150,13 @@
                                     objavljeni samo sklepi o sprejemu planskega dokumenta. Glede na
                                     navedeno vprašujemo:</p>
                                 <list type="ordered">
-                                    <item>1. Ali je Uradni list SR Slovenije ob splošno znanem
+                                    <item n="1">Ali je Uradni list SR Slovenije ob splošno znanem
                                         pomanjkanju roto papirja sposoben zagotoviti objavo planskih
                                         aktov za vseh 25 občin, ki imajo Uradni list SR Slovenije
                                         opredeljen kot uradno glasilo občine?</item>
-                                    <item>2. Ali je Republiški komite za zakonodajo predvidel
+                                    <item n="2">Ali je Republiški komite za zakonodajo predvidel
                                         finančne posledice svojega opozorila?</item>
-                                    <item>3. Ali se bo za stroške objave planskih aktov povečala
+                                    <item n="3">Ali se bo za stroške objave planskih aktov povečala
                                         dovoljena splošna poraba v občini?<pb n="63" xml:id="pb.63"
                                         />
                                     </item>
@@ -4175,18 +4186,18 @@
                                 <p>Za razrešitev perečih problemov financiranja splošne porabe na
                                     ravni občine Tržič predlagamo naslednje nujne ukrepe:</p>
                                 <list type="ordered">
-                                    <item>1. S prerazporeditvijo obsega splošne porabe v SR
+                                    <item n="1">S prerazporeditvijo obsega splošne porabe v SR
                                         Sloveniji je potrebno zmanjšati strukturni delež
                                         republiškega proračuna in omogočiti proračunom občin večjo
                                         dogovorjeno porabo.</item>
-                                    <item>2. Predlagamo, da Izvršni svet Skupščine SR Slovenije
+                                    <item n="2">Predlagamo, da Izvršni svet Skupščine SR Slovenije
                                         sproži postopek za spremembo planskih dokumentov tako, da se
                                         zaustavi omejevanje splošne porabe v SR Sloveniji zlasti
                                         proračunov občin oziroma je v postopku nameravanih sprememb
                                         ustave ter sistemske zakonodaje opredeliti le tolikšne
                                         pristojnosti in obveznosti občin, ki jih je ob nadaljnjem
                                         omejevanju splošne porabe mogoče prenesti.</item>
-                                    <item>3. V primeru, da začetek postopka za spremembe planskih
+                                    <item n="3">V primeru, da začetek postopka za spremembe planskih
                                         dokumentov ni smotrn, zahtevamo trajno prerazporeditev
                                         obsega splošne porabe v SR Sloveniji v korist proračunov
                                         občin, vključno s prerazporeditvijo virov oziroma izvirnih
@@ -4194,32 +4205,32 @@
                                         prihodke proračunov občin, posebni republiški davek od
                                         prometa proizvodov in storitev, davek iz dohodka temeljnih
                                         organizacij združenega dela.</item>
-                                    <item>4. Medletno usklajevanje dogovorjenega obsega splošne
+                                    <item n="4">Medletno usklajevanje dogovorjenega obsega splošne
                                         porabe na ravni občin v primerjavi z rastjo dohodka mora
                                         potekati tekoče vsake tri mesece tako, da se v strokovni
                                         pripravi usklajevanja dogovorjenega obsega proračunov ter
                                         rasti dohodka upošteva tudi rast cen in se usklajevanje
                                         izvede najkasneje v dveh mesecih po zaključku posameznega
                                         kvartala.</item>
-                                    <item>5. Dogovorjeni obseg splošne porabe na ravni občin se mora
+                                    <item n="5">Dogovorjeni obseg splošne porabe na ravni občin se mora
                                         takoj povečati za znesek odstopljenih lastnih prihodkov
                                         občinskih upravnih organov, ker lastni prihodki niso več
                                         prihodek proračuna in z njimi ni mogoče več kriti
                                         proračunskih izdatkov kot doslej. Z njimi pa smo v občini
                                         Tržič pokrivali manjkajoča sredstva za osebne dohodke, ki
                                         jih proračun ni mogel zagotoviti.</item>
-                                    <item>6. V letu 1986 je v aneks k dogovoru o izvajanju politike
+                                    <item n="6">V letu 1986 je v aneks k dogovoru o izvajanju politike
                                         splošne porabe na ravni občin v SR Sloveniji potrebno vnesti
                                         določilo, da so iz dogovorjenega obsega splošne porabe na
                                         ravni občin izvzeti stroški volitev in stroški prostorskih
                                         planskih aktov.<pb n="64" xml:id="pb.64"/>
                                     </item>
-                                    <item>7. Realizirane presežke izvirnih proračunskih prihodkov v
+                                    <item n="7">Realizirane presežke izvirnih proračunskih prihodkov v
                                         letu 1985: občinski viri plus posebni republiški davek od
                                         prometa proizvodov in storitev, je potrebno takoj nameniti
                                         proračunom občin ter povečati dogovorjen obseg splošne
                                         porabe na ravni občin za leto 1985.</item>
-                                    <item>8. Pristojni organi morajo prenehati s predlaganjem in
+                                    <item n="8">Pristojni organi morajo prenehati s predlaganjem in
                                         sprejemanjem necelovitih ukrepov ter ad akta rešitev, ki
                                         brez upoštevanja kompleksnosti problematike splošne porabe
                                         na ravni občin rešujejo probleme le nekaterim organom in
@@ -4285,7 +4296,7 @@
                                 <p>V proračunu občine Tržič za leto 1986 so se v prvih štirih
                                     mesecih najbolj drastično izpostavili naslednji problemi:</p>
                                 <list type="ordered">
-                                    <item>1. Pokrivanje stroškov volitev ob maksimalnem varčevanju
+                                    <item n="1">Pokrivanje stroškov volitev ob maksimalnem varčevanju
                                         občinske volilne komisije pri pripravi in izvedbi splošnih
                                         volitev v marcu 1986, celotni stroški bodo kljub vsemu
                                         znašali okoli 5 milijonov dinarjev. Izvedba volitev je
@@ -4294,7 +4305,7 @@
                                         posledično pomeni, da ne bodo dosegli resolucijske rasti
                                         osebnih dohodkov, ne bodo zmogli pokriti materialnih in
                                         drugih stroškov in tako dalje.</item>
-                                    <item>2. Izdelava prostorskih planskih dokumentov. Republiški
+                                    <item n="2">Izdelava prostorskih planskih dokumentov. Republiški
                                         resorni organi vsem dopolnjevanim občina priznavajo limit
                                         dogovorjene porabe, tudi sredstva za urbanistično dejavnost,
                                         v katerih je trenutno osrednja naloga izdelava prostorskega
@@ -4304,7 +4315,7 @@
                                         Slovenije stroški izdelave teh dokumentov pokrivajo iz
                                         različnih drugih virov, četudi bi družbenopolitične
                                         skupnosti zanje morale imeti sredstva v proračunu.</item>
-                                    <item>3. Fiksni materialni stroški organov in organizacij
+                                    <item n="3">Fiksni materialni stroški organov in organizacij
                                         proračunskih porabnikov. Porabniki sredstev proračuna občine
                                         Tržič praktično nimajo več vpliva na višino materialnih
                                         stroškov, ker so vsi varčevalni ukrepi dosegli že skrajne
@@ -4315,7 +4326,7 @@
                                         organizacij, rastejo precej hitreje od občinske splošne
                                         porabe, je očitno, da so problemi organiziranja in
                                         zagotavljanja materialne osnove dela vse težji.</item>
-                                    <item>4. Osebni dohodki delavcev zaposlenih v organih in
+                                    <item n="4">Osebni dohodki delavcev zaposlenih v organih in
                                         organizacijah, ki so proračunski porabniki. Sredstva za
                                         osebne dohodke zaposlenih v organih in organizacijah, ki jih
                                         financira proračun, je neizvedljivo usklajevati z rastjo
@@ -4331,7 +4342,7 @@
                                             resolucijske<pb n="66" xml:id="pb.66"/>rasti osebnih
                                         dohodkov, kaj šele da bi ob tem dodatnem programu in ukrepih
                                         zmanjševali zaostajanje.</item>
-                                    <item>4. a) Med porabniki proračunskih sredstev v občini Tržič
+                                    <item n="4.a">Med porabniki proračunskih sredstev v občini Tržič
                                         je najbolj izpostavljen položaj občinskih upravnih organov.
                                         Razkorak med potrebnimi sredstvi po izračunu, da se bodo
                                         letos osebni dohodki povečali za resolucijskih 50% in
@@ -4348,7 +4359,7 @@
                                         prihodke odrejen reguliran način porabe zgolj za
                                         modernizacijo uprav za družbene prihodke po predhodnem
                                         soglasju Republiške uprave za družbene prihodke.</item>
-                                    <item>4. b) Vse bolj se v občinskih proračunih izpostavljajo
+                                    <item n="4.b">Vse bolj se v občinskih proračunih izpostavljajo
                                         negativni učinki prenosa osebnih dohodkov iz sklada skupne
                                         porabe za profesionalno strukturo občinskega štaba za
                                         teritorialno obrambo med sredstva za delo upravnih organov.
@@ -4433,22 +4444,22 @@
                                     Izvršnemu svetu Skupščine SR Slovenije. Pobudo Skupščini
                                     posredujemo z dodatnimi predlogi:</p>
                                 <list type="ordered">
-                                    <item>1. Odpraviti je treba zaostajanje splošne porabe za rastjo
+                                    <item n="1">Odpraviti je treba zaostajanje splošne porabe za rastjo
                                         dohodka.</item>
-                                    <item>2. Oblikovati take kriterije za določitev obsega
+                                    <item n="2">Oblikovati take kriterije za določitev obsega
                                         dogovorjene porabe za posamezno občino, ki bodo zagotovili
                                         izenačitev materialnega položaja delavcev upravnih organov
                                         med občinami in delavci v gospodarstvu.</item>
-                                    <item>3. Iz limitirane splošne porabe v letu 1986 izvzeti
+                                    <item n="3">Iz limitirane splošne porabe v letu 1986 izvzeti
                                         stroške volitev in stroške prostorskih planskih
                                         dokumentov.</item>
-                                    <item>4. Omogočiti porabo presežkov proračunov realiziranih iz
+                                    <item n="4">Omogočiti porabo presežkov proračunov realiziranih iz
                                         lastnih virov, za sanacijo družbenoekonomskega položaja
                                         delavcev državne uprave in za sanacijo osnovnih sredstev<pb
                                             n="68"/>proračunskih porabnikov oziroma za proračunske
                                         potrebe, ki jih kot najnujnejše ugotovijo pristojni občinski
                                         organi.</item>
-                                    <item>5. Glede na obstoječo različno organiziranost uprave
+                                    <item n="5">Glede na obstoječo različno organiziranost uprave
                                         predlagamo, da se izdelajo selektivni kriteriji financiranja
                                         znotraj globala splošne porabe občin v Sloveniji.
                                         Realizacija in očiščevanje proračunov naj se izvaja na vseh
@@ -4489,11 +4500,11 @@
                                     vprašanje v zvezi z lokacijo odlagališča radioaktivnih odpadkov,
                                     in sicer:</p>
                                 <list type="ordered">
-                                    <item>1. Ali je res v proučevanju lokacija odlagališča
+                                    <item n="1">Ali je res v proučevanju lokacija odlagališča
                                         radioaktivnih odpadkov na območju občine Velenje in kakšni
                                         so strokovno utemeljeni razlogi za takšno
                                         proučevanje?</item>
-                                    <item>2. Če je informacija resnična, kako je mogoče, da je
+                                    <item n="2">Če je informacija resnična, kako je mogoče, da je
                                         prišla v javnost, preden so bili o tem obveščeni pristojni
                                         organi v občini?</item>
                                 </list>
@@ -4512,14 +4523,14 @@
                                     degradacije in onesnaževanja pa lahko razdelimo v naslednje tri
                                     skupine:</p>
                                 <list type="ordered">
-                                    <item>1. ugreznine, zaradi katerih bo v 30 letih 8% celotne
+                                    <item n="1">ugreznine, zaradi katerih bo v 30 letih 8% celotne
                                         površine občine pod vodo in to edini ravninski del,<pb
                                             n="69"/>
                                     </item>
-                                    <item>2. odlaganje pepela, ki je že nadpovprečno radioaktiven;
+                                    <item n="2">odlaganje pepela, ki je že nadpovprečno radioaktiven;
                                         zaradi odlaganja pepela je voda, ki zaliva ugreznine
                                         biološko mrtva,</item>
-                                    <item>3. emisija prašnih delcev, zlasti pa žveplovega dioksida v
+                                    <item n="3">emisija prašnih delcev, zlasti pa žveplovega dioksida v
                                         ozračje, ki kot veste ogroža ne samo naše občinske, ampak
                                         vse slovenske gozdove. Gre za ogromne količine žveplovega
                                         dioksida.</item>
@@ -4544,8 +4555,9 @@
                                 <p>Zahvaljujem se vam za udeležbo na seji in za razpravo.
                                     Zaključujem 3. sejo Zbora občin.</p>
                             </sp>
-                            <stage type="time">(Seja je bila <time to="1986-06-18T15:55:00" xml:id="stage.t.6">končana
-                                    18. junija 1986 ob 15.55 uri</time>.)</stage>
+                            <stage type="time">(Seja je bila <time to="1986-06-18T15:55:00"
+                                    xml:id="stage.t.6">končana 18. junija 1986 ob 15.55
+                                uri</time>.)</stage>
                         </div>
                     </div>
                 </div>
