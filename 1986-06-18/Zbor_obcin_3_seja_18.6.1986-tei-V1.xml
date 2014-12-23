@@ -128,6 +128,7 @@
             <p>ZBOR OBČIN SKUPŠČINE REPUBLIKE SLOVENIJE</p>
             <p>Sejni zapiski</p>
             <p>3. seja - 18. junij 1986</p>
+            <pb n="I/1"/>
             <div type="contents">
                 <p>VSEBINA ZBOR OBČIN</p>
                 <p>SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE (3. seja - 18. junij 1986)</p>
@@ -160,6 +161,7 @@
                     teh področjih (5. točka dnevnega reda) 17</p>
                 <p>GOVORNIKI:</p>
                 <p>Milan Kneževič</p>
+                <pb n="I/2"/>
                 <p>Feliks Peter 21</p>
                 <p>Ivanka Komprej 22</p>
                 <p>Emilija Šuman 23</p>
@@ -198,7 +200,7 @@
                 <p>Franjo Marošek 46</p>
                 <p>Ivanka Komprej 47</p>
                 <p>Dušanka Kotnik 47</p>
-                <p>Primož Hainz 48<pb/>
+                <p>Primož Hainz 48<pb n="I/3"/>
                 </p>
                 <p>10. Predlog zakona o spremembah in dopolnitvah zakona o osnovni šoli
                     (nadaljevanje 3. točke dnevnega reda) .... 48</p>
@@ -231,7 +233,7 @@
                 <p>14. Osnutek odloka o zmanjševanju obveznosti republik in avtonomnih pokrajin za
                     leto 1986, določenih z zakonom o sredstvih za odpravo posledic katastrofalnega
                     potresa, ki je prizadel območje SR Črne gore v letu 1979 (12. točka dnevnega
-                    reda) 57<pb/>
+                    reda) 57<pb n="I/4"/>
                 </p>
                 <p>15. Predlog zakona o ratifikaciji pogodbe med SFR Jugoslavijo in LR Madžarsko o
                     izogibanju dvojnemu obdavčevanju dohodka in premoženja (13. točka dnevnega reda)
@@ -240,8 +242,6 @@
                     evropskega prvenstva Evrope za člane in članice za leto 1986 v Novem Sadu (14.
                     točka dnevnega reda) 57 </p>
                 <p>17. Pobude, predlogi in vprašanja delegatov (15. točka dnevnega reda) 58</p>
-            </div>
-            <div>
                 <p>GOVORNIKI:</p>
                 <p>Milan Kneževič 59</p>
                 <p>Pavel Kunc 61</p>
@@ -252,6 +252,9 @@
                 <p>Janja Domitrovič 68</p>
                 <p>Drago Šulek 68</p>
                 <p>18. Seznam govornikov II/l</p>
+            </div>
+            <pb n="II/1"/>
+            <div>
                 <p>SEZNAM GOVORNIKOV ZBOR OBČIN</p>
                 <p>SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE (3. seja - 18. junij 1986)</p>
                 <p>GOVORNIKI: STRAN</p>
@@ -297,7 +300,7 @@
                 <p>Zgonc Boštjan 38, 48, 55</p>
                 <p>Železnikar Danica 35</p>
                 <p>Žigman Franc 2</p>
-                <p>Žmavc Gorazd 25<pb/>
+                <p>Žmavc Gorazd 25<pb n="1"/>
                 </p>
             </div>
         </front>
@@ -329,6 +332,7 @@
                                     predlogu glasujemo.</p>
                                 <p>Kdo je za? (Vsi delegati.) Je kdo proti? (Nihče.) Se je kdo
                                     vzdržal? (Nihče.)</p>
+                                <pb n="2"/>
                                 <p>Ugotavljam, da so bili v Komisijo za verifikacijo pooblastil in
                                     imunitetna vprašanja za 3. sejo našega zbora izvoljeni: Feliks
                                     Petek za predsednika in Miha Pangerc in Janez Medvešček za
@@ -419,7 +423,7 @@
                                     tem verificiral pooblastila delegatov za 3. sejo Zbora
                                     občin.</p>
                                 <p>Hkrati ugotavljam, da je zbor sklepčen in da lahko
-                                    pravno-veljavno razpravlja in sklepa.<pb/>
+                                    pravno-veljavno razpravlja in sklepa.<pb n="3"/>
                                 </p>
                                 <p>Na današnjo sejo zbora so bili poleg predstavnikov Izvršnega
                                     sveta Skupščine SR Slovenije pri posameznih točkah dnevnega reda
@@ -481,7 +485,7 @@
                                 <p>Kdo je za tak predlog? (Vsi delegati.) Je kdo proti? (Nihče.) Se
                                     je kdo vzdržal? (Nihče.)</p>
                                 <p>Ugotavljam, da je zbor soglasno sprejel predlog za razširitev
-                                    dnevnega reda.<pb/>
+                                    dnevnega reda.<pb n="4"/>
                                 </p>
                                 <p>Izvršni svet Skupščine SR Slovenije v zvezi s predlogom delegatov
                                     s področja obrtnih in podobnih dejavnosti Zbora združenega dela
@@ -543,8 +547,8 @@
                                         območje SR Črne gore v letu 1979,</item>
                                     <item>11. osnutek odloka o obveznostih republik in avtonomnih
                                         pokrajin za leto 1986, določenih z zakonom o sredstvih za
-                                        odpravo<pb/>posledic katastrofalnega potresa, ki je prizadel
-                                        območje SR Črne gore v letu 1979,</item>
+                                            odpravo<pb n="5"/> posledic katastrofalnega potresa, ki
+                                        je prizadel območje SR Črne gore v letu 1979,</item>
                                     <item>12. osnutek odloka o zmanjšanju obveznosti republik in
                                         avtonomnih pokrajin za leto 1986, določenih z zakonom o
                                         sredstvih za odpravo posledic katastrofalnega potresa, ki je
@@ -601,7 +605,8 @@
                             </sp>
                             <sp>
                                 <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
-                                <p>Tovarišice in tovariši delegati! Nadaljujemo sejo zbora.<pb/>
+                                <p>Tovarišice in tovariši delegati! Nadaljujemo sejo zbora.<pb n="6"
+                                    />
                                 </p>
                                 <p>Preden bi prišli na 2. točko dnevnega reda, želim, da razčistimo
                                     vprašanje v zvezi s poročilom Komisije za verifikacijo
@@ -659,7 +664,7 @@
                                     solna kislina, žveplena kislina, klor in podobno. Ta cesta je
                                     bila leta 1985 obremenjena z 2.500 vozili povprečnega dnevnega
                                     prometa, od tega približno 23% ali 575 tovornjakov in
-                                    avtobusov.<pb/>
+                                        avtobusov.<pb n="7"/>
                                 </p>
                                 <p>Mnenja smo, da je zgolj slučaj, da na tej cesti glede na
                                     obremenjenost, ozkost in vzpon ne pride do večjih in hujših
@@ -717,7 +722,7 @@
                                     razvijanju vrednot socialistične revolucije. V osnovi podpiramo
                                     dejavnost mladih in tudi gibanja, ki se v zadnjem času
                                     razvijajo, vendar takšno aktivnost, ki bo vpeta v razreševanje
-                                    nakopičenih družbenih problemov, ne pa v delovanju proti našemu
+                                    nakopičenih družbenih problemov, ne pa v delovanju proti našemu<pb n="8"/>
                                     sistemu. Enako mislimo o vsebinah nekaterih revij in drugih
                                     publikacij, ki jih naša skupnost financira oziroma
                                     sofinancira.</p>
@@ -779,7 +784,8 @@
                                 <list type="ordered">
                                     <item>2. Ocenjujemo, da tudi pripravljenost na ukrepanje ob
                                         različnih situacijah, predvsem v primerih zelo pogostih
-                                        večjih požarov, daje sliko naših varnostnih razmer.<pb/>
+                                        večjih požarov, daje sliko naših varnostnih razmer.<pb n="9"
+                                        />
                                     </item>
                                     <item>3. Posebej menimo, da bi moralo biti v poročilu bolj
                                         obdelano varovanje družbenega premoženja. Prav v tem delu
@@ -842,7 +848,7 @@
                                     ki sta ju prevažali. Voznika nista imela pri sebi predpisanega
                                     navodila o posebnih varnostnih ukrepih v primeru nesreče.
                                     Voznika tudi nista imela spremljevalca. Pri enem vozniku je bila
-                                    ugotovljena tudi utrujenost.<pb/>
+                                    ugotovljena tudi utrujenost.<pb n="10"/>
                                 </p>
                                 <p>Glede na veliko število prevozov nevarnih snovi, predvsem po
                                     cesti E-l, predlagamo naslednje. S predpisi zagotoviti čim več
@@ -902,15 +908,13 @@
                                 <p>Kot drugo, opozarjamo na nezavarovane prevoze nevarnih in
                                     strupenih snovi, vključujoč naftne derivate, ki se vsakodnevno
                                     prevažajo po slabih, ozkih cestah brez ustreznega
-                                    zavarovanja.<pb/>
-                                </p>
-                                <p>Predvsem v času turistične sezone, ob intenzivnem turističnem
-                                    prometu na naših cestah, bi morali prevoze nevarnih in
-                                    škodljivih snovi obvezno opravljati v za to določenem času z
-                                    ustreznim spremstvom. Stroški spremstva so malenkostni v
-                                    primerjavi s stroški in posledicami škode, ki nastane ob izlivu
-                                    nevarnih in strupenih snovi. Slednje je bilo že večkrat
-                                    dokazano.</p>
+                                        zavarovanja.<pb n="11"/> Predvsem v času turistične sezone,
+                                    ob intenzivnem turističnem prometu na naših cestah, bi morali
+                                    prevoze nevarnih in škodljivih snovi obvezno opravljati v za to
+                                    določenem času z ustreznim spremstvom. Stroški spremstva so
+                                    malenkostni v primerjavi s stroški in posledicami škode, ki
+                                    nastane ob izlivu nevarnih in strupenih snovi. Slednje je bilo
+                                    že večkrat dokazano.</p>
                                 <p>Opozarjamo tudi na številne intervencijske pritiske in poskuse
                                     oviranja inšpekcijskih organov pri izdaji soglasij za pričetek
                                     delovanja nekaterih proizvodnih procesov, čeprav nimajo
@@ -968,8 +972,8 @@
                                 <p>Dalje, ko smo poročilo obravnavali, smo ocenili varnostne razmere
                                     tudi v občini Kranj in ugotovili, da nimamo posebnih pripomb.
                                     Menimo, da je treba opozoriti predlagatelja na pojav, ki je bil
-                                    danes že omenjen v uvodni besedi, in sicer, kako<pb/>označujemo
-                                    posamezne konfliktne situacije. Menimo, da so pojavi
+                                    danes že omenjen v uvodni besedi, in sicer, kako<pb n="12"/>
+                                    označujemo posamezne konfliktne situacije. Menimo, da so pojavi
                                     razreševanja konfliktnih situacij vse pogostejši in da bi v tem
                                     smislu morali pri našem ocenjevanju in tudi pri predstavitvi teh
                                     problemov vendarle povedati, ali so prekinitve dela in takšno
@@ -1027,10 +1031,10 @@
                                     gospodarjenja, ko delovni ljudje in občani vse težje prenašajo
                                     življenjske pogoje in posamezne ekscese, zlasti ko so v ospredju
                                     izrazitejši napadi na družbeno premoženje, se vseskozi
-                                    pojavlja<pb/>že neka nerazpoloženost, lahko bi rekli, celo
-                                    nestrpnost teh ljudi. Vse pogosteje se zastavlja vprašanje
-                                    ustavnosti in zakonitosti. Dosledno uveljavljanje teh dveh
-                                    nadvse pomembnih izhodišč se često postavlja kot zadostna
+                                        pojavlja<pb n="13"/> že neka nerazpoloženost, lahko bi
+                                    rekli, celo nestrpnost teh ljudi. Vse pogosteje se zastavlja
+                                    vprašanje ustavnosti in zakonitosti. Dosledno uveljavljanje teh
+                                    dveh nadvse pomembnih izhodišč se često postavlja kot zadostna
                                     možnost za izhod iz obstoječe krize. Vendar pa se pri tem
                                     praviloma pozablja na globlje vzroke, ki so sicer neposredno
                                     povezani z uveljavljanjem zakonitosti. In ravno organi
@@ -1081,8 +1085,8 @@
                                     represijo ni mogoče zagotoviti funkcioniranja pravnega
                                     sistema.</p>
                                 <p>Pri tem se nam pojavlja še ena težava. Ob vrtoglavih inflacijskih
-                                    gibanjih se v zvezi z zagroženimi ali pa izrečenimi<pb/> kaznimi
-                                    pojavljajo razne anomalije. To velja tako za gospodarske
+                                    gibanjih se v zvezi z zagroženimi ali pa izrečenimi<pb n="14"/>
+                                    kaznimi pojavljajo razne anomalije. To velja tako za gospodarske
                                     prestopke, prekrške in tudi za kazniva dejanja.</p>
                                 <p>Na eni strani ugotavljamo realno znižanje višine denarne kazni,
                                     recimo od 70 do 80%. Za toliko nam namreč poraste letno
@@ -1142,8 +1146,8 @@
                                 <p>Poročilo in razprave o njem, posebej v delovnih telesih Skupščine
                                     in tudi na seji zbora kažejo, da so v družbi nekateri problemi,
                                     ki jih bo treba reševati še z večjo zavzetostjo vseh družbenih
-                                    dejavnikov, ugotavljati in odpravljati njihove vzroke<pb/>ter
-                                    tako zagotoviti nemoten demokratičen razvoj samoupravne
+                                    dejavnikov, ugotavljati in odpravljati njihove vzroke<pb n="15"
+                                    /> ter tako zagotoviti nemoten demokratičen razvoj samoupravne
                                     socialistične družbe.</p>
                                 <list type="ordered">
                                     <item>3. Skupščina SR Slovenije bo zato na eni prihodnjih sej
@@ -1201,7 +1205,7 @@
                                 <p>Zasnova zakona in vse njegove določbe izhajajo iz zahteve naj bo
                                     postopek sodnega varstva posameznih pravic oziroma urejanja
                                     določenih razmerij čimbolj racionalen in učinkovit ob hkratnem
-                                    varstvu zakonitosti in splošnih družbenih interesov.<pb/>
+                                    varstvu zakonitosti in splošnih družbenih interesov.<pb n="16"/>
                                 </p>
                                 <p>Poseben poudarek pri oblikovanju posameznih rešitev je bil
                                     posvečen področju varstva družbene lastnine.</p>
@@ -1257,7 +1261,7 @@
                                 <p>Razlogi, zaradi katerih predlagatelj v predlogu zakona ni uredil
                                     posebnega postopka ugotavljanja obstoja zunajzakonske skupnosti,
                                     so bili ob obravnavi predloga zakona sprejeti tudi v delovnih
-                                    telesih Skupščine in njenih zborov.<pb/>
+                                    telesih Skupščine in njenih zborov.<pb n="17"/>
                                 </p>
                                 <p>Tovarišice in tovariši delegati! V imenu Izvršnega sveta
                                     Skupščine SR Slovenije predlagam, da predlog zakona o nepravdnem
@@ -1319,14 +1323,14 @@
                                     učinkovitejši sistem.</p>
                                 <p>Izkušnje so v preteklih letih potrdile, da v sedanjih razmerah ni
                                     mogoče zagotoviti nemotene osnovne oskrbe brez ukrepov, ki
-                                    zagotavljajo dodatno spodbujanje proizvodnje in<pb/>omogočajo
-                                    intervencije za preprečevanje in odpravo motenj v preskrbi. Prav
-                                    zaradi tega menimo, da je treba sprejeti novo sistemsko rešitev,
-                                    ki bo omogočala ukrepanje na tistih točkah v reprodukcijski
-                                    verigi, na katerih bo mogoče najučinkovitejše preprečevati in
-                                    odpravljati motnje. Tak način pa zahteva nekatere vsebinske in
-                                    organizacijske spremembe, opredeljene v predlogu za izdajo
-                                    zakona.</p>
+                                    zagotavljajo dodatno spodbujanje proizvodnje in<pb n="18"/>
+                                    omogočajo intervencije za preprečevanje in odpravo motenj v
+                                    preskrbi. Prav zaradi tega menimo, da je treba sprejeti novo
+                                    sistemsko rešitev, ki bo omogočala ukrepanje na tistih točkah v
+                                    reprodukcijski verigi, na katerih bo mogoče najučinkovitejše
+                                    preprečevati in odpravljati motnje. Tak način pa zahteva
+                                    nekatere vsebinske in organizacijske spremembe, opredeljene v
+                                    predlogu za izdajo zakona.</p>
                                 <p>Ugotovitev, da so potrebne na tem področju nove sistemske rešitve
                                     je utemeljena tudi s tem, da kmetijsko-živilska dejavnost ni
                                     sposobna sama zagotoviti zadostnih materialnih sredstev za
@@ -1374,9 +1378,9 @@
                                     predlagamo, je treba poudariti, da so zasnovane z vidika
                                     dolgoročnega zagotavljanja pogojev za večji obseg družbeno
                                     organizirane tržne proizvodnje in nemotene osnovne preskrbe.
-                                    K<pb/>temu naj bodo usmerjeni ukrepi pospeševanja proizvodnje
-                                    hrane, intervencijski ukrepi v porabi hrane in blagovne
-                                    rezerve.</p>
+                                        K<pb n="19"/> temu naj bodo usmerjeni ukrepi pospeševanja
+                                    proizvodnje hrane, intervencijski ukrepi v porabi hrane in
+                                    blagovne rezerve.</p>
                                 <p>Torej, ne gre za usklajevanje odnosov med proizvajalci in
                                     porabniki v samoupravnih interesnih skupnostih, temveč predvsem
                                     za skupni interes vseh delovnih ljudi in občanov, da si z
@@ -1429,8 +1433,8 @@
                                     samoupravnih interesnih skupnosti in načinov financiranja v
                                     občinah in republiki. V razpravi je bila podprta predvidena
                                     ustanovitev samoupravne interesne skupnosti v občini ali za več
-                                    občin skupaj ter samoupravne interesne skupnosti na
-                                    ravni<pb/>republike. Dani pa so bili tudi predlogi, da zaradi
+                                    občin skupaj ter samoupravne interesne skupnosti na ravni<pb
+                                        n="20"/>republike. Dani pa so bili tudi predlogi, da zaradi
                                     omejenosti slovenskega prostora in nujnosti enotne politike pri
                                     izvajanju programa pospeševanja proizvodnje hrane in preskrbe,
                                     zadostuje le republiška samoupravna interesna skupnost.</p>
@@ -1484,7 +1488,7 @@
                                     temeljnih samoupravnih splošnih aktov samoupravnih interesnih
                                     skupnosti, iz katerih bosta jasneje in celoviteje razvidni
                                     podrobna samoupravna organiziranost in vsebina njihovega
-                                    dela.<pb/>
+                                        dela.<pb n="21"/>
                                 </p>
                                 <p>V razpravah na regijskih posvetih in v delovnih telesih Skupščine
                                     je bilo ugotovljeno, da bo s tem dana največja možnost za
@@ -1543,16 +1547,15 @@
                                     pospeševanje proizvodnje hrane. Zaradi tega je možnost vodenja
                                     enotnega osnutka razvoja kmetijstva v SR Sloveniji majhna.
                                     Drugi, večji del sredstev za te namene je v občinskih skladih in
-                                    se s temi sredstvi od občine do občine vodi
-                                    različna<pb/>politika. Enotne politike po občinah kljub
-                                    dogovarjanju ni mogoče voditi, saj so med občinami zelo velike
-                                    razlike v obsegu za te namene zbranih sredstev in na drugi
-                                    strani tudi v potrebah. Praviloma je tako, da gospodarsko močne
-                                    občine zberejo velika sredstva za pospeševanje proizvodnje
-                                    hrane, ob tem pa imajo v občini malo-kmetijske proizvodnje,
-                                    obratno pa imajo pretežno agrarne občine majhna razpoložljiva
-                                    sredstva in velike potrebe oziroma možnosti pri pospeševanju
-                                    proizvodnje hrane.</p>
+                                    se s temi sredstvi od občine do občine vodi različna<pb n="22"
+                                    />politika. Enotne politike po občinah kljub dogovarjanju ni
+                                    mogoče voditi, saj so med občinami zelo velike razlike v obsegu
+                                    za te namene zbranih sredstev in na drugi strani tudi v
+                                    potrebah. Praviloma je tako, da gospodarsko močne občine zberejo
+                                    velika sredstva za pospeševanje proizvodnje hrane, ob tem pa
+                                    imajo v občini malo-kmetijske proizvodnje, obratno pa imajo
+                                    pretežno agrarne občine majhna razpoložljiva sredstva in velike
+                                    potrebe oziroma možnosti pri pospeševanju proizvodnje hrane.</p>
                                 <p>Omenjeno dejstvo ima za posledico, da je za združenega kmeta zelo
                                     pomembno, v kateri občini živi, saj mu industrijsko močno
                                     razvita občina zagotavlja prek Sklada za intervencije v
@@ -1602,10 +1605,10 @@
                                     kratka. Skupina delegatov je ob obravnavi te teme poudarila, da
                                     mora predlagatelj zakona pri nadaljnjih postopkih oblikovanja
                                     zbora upoštevati zahtevo, da bo imela ta samoupravna interesna
-                                    skupnost na ravni občine tudi vso<pb/>materialno in politično
-                                    osnovo za normalno delo. Ne bi smeli dovoliti ustanavljanja
-                                    takšne interesne skupnosti, če ji ne bi bila zagotovljena
-                                    sredstva za osnovno dejavnost v lastni občini.</p>
+                                    skupnost na ravni občine tudi vso<pb n="23"/>materialno in
+                                    politično osnovo za normalno delo. Ne bi smeli dovoliti
+                                    ustanavljanja takšne interesne skupnosti, če ji ne bi bila
+                                    zagotovljena sredstva za osnovno dejavnost v lastni občini.</p>
                                 <p>To misel bi podprla z negativnimi izkušnjami, ki smo jih imeli
                                     pri skupnosti socialnega varstva, kjer smo se kar precej let
                                     ubadali s težavami, ker financiranje ni bilo urejeno in se je to
@@ -1660,7 +1663,7 @@
                                 <p>Glede na predlagano samoupravno organiziranost, v kateri bodo
                                     imele delegate vse občine, bi lahko na ta način dovolj
                                     demokratično in hkrati celovito usklajevali ukrepe s planskimi
-                                    cilji na posameznih področjih in območjih.<pb/>
+                                    cilji na posameznih področjih in območjih.<pb n="24"/>
                                 </p>
                                 <p>Za preostale naloge, ki se ne bi izvajale neposredno iz
                                     republiške skupnosti pa naj bi se po našem mnenju predvidela
@@ -1720,10 +1723,10 @@
                                     tovariš Kneževič je pojasnil, da so regijski posveti, ki jih je
                                     organizirala SZDL, razčistili nekatere pomanjkljivosti
                                     predlaganega zakona. Rad bi naglasil samo to, da je bilo
-                                    rečeno,<pb/>da tudi veterina sodi kot zadruge, kot kmetije, kot
-                                    pospeševalna služba v ta proces, v to celoto proizvodnje hrane.
-                                    Želimo le, da bi to dejstvo vsaj z eno besedo našlo v celotnem
-                                    osnutku svoje mesto in verifikacijo.</p>
+                                        rečeno,<pb n="25"/> da tudi veterina sodi kot zadruge, kot
+                                    kmetije, kot pospeševalna služba v ta proces, v to celoto
+                                    proizvodnje hrane. Želimo le, da bi to dejstvo vsaj z eno besedo
+                                    našlo v celotnem osnutku svoje mesto in verifikacijo.</p>
                                 <p>Ker različne občine, kot smo že slišali predgovornike, različno
                                     tolmačijo zakon in imajo različen pristop do izvajanja in
                                     dajanja določenih bonitet različnim rejcem. Prav to pa bi nekako
@@ -1776,7 +1779,7 @@
                                     predvideno organiziranost občinskih in republiških skupnosti ter
                                     ocenjujemo, da v okviru regij lahko vodimo le usklajevalne
                                     postopke intervencije na posameznih področjih oziroma več
-                                    območjih.<pb/>
+                                        območjih.<pb n="26"/>
                                 </p>
                                 <p>Hkrati predlagamo, da se delo republiške skupnosti učvrsti ter da
                                     se na njenem nivoju zagotavlja predvsem vzajemnost in
@@ -1837,8 +1840,8 @@
                                     občine, iz katerih se pretežni del tržne proizvodnje usmerja v
                                     večja bližnja potrošna središča. To je vsekakor osnovno zaledje
                                     mesta, za katerega se mora zagotoviti popolnoma enaka
-                                    obravnava<pb/>kot za proizvajalce v samem mestu in prevzeti
-                                    skupno skrb za kmetijski razvoj na tem področju.</p>
+                                        obravnava<pb n="27"/> kot za proizvajalce v samem mestu in
+                                    prevzeti skupno skrb za kmetijski razvoj na tem področju.</p>
                                 <p>Odnos do oddaljenejših proizvajalcev, ki planirajo le manjši del
                                     svoje proizvodnje v posamezna potrošna središča, pa je drugačen.
                                     To sodelovanje je potrebno razvijati na osnovi potreb,
@@ -1894,9 +1897,9 @@
                                     prebivalce, pravilno uporabiti načelo, ki je v obrazložitvi
                                     navedeno, to je načelo solidarnosti in vzajemnosti, vendar pa v
                                     taki meri, da bo lahko to načelo potegnilo za seboj tudi
-                                    obveznost oziroma, da vodi tudi k večjemu izkoriščanju
-                                    tistih<pb/>kapacitet, ki na področju poljedelstva, živinoreje in
-                                    podobno omogočajo priti do hrane.</p>
+                                    obveznost oziroma, da vodi tudi k večjemu izkoriščanju tistih<pb
+                                        n="28"/> kapacitet, ki na področju poljedelstva, živinoreje
+                                    in podobno omogočajo priti do hrane.</p>
                                 <p>Rad bi opozoril še na dve stvari, ki jih tu omenjamo. Prvo, da se
                                     pri pripravi porabe sredstev, le-ta temeljito oceni in
                                     predlagamo, da bi bilo prav, da se omogoči iz združenih sredstev
@@ -1951,8 +1954,8 @@
                                     proizvodne probleme potrebno oziroma mogoče reševati le z
                                     družbeno intervencijo. Toda, naj imamo še tako dobro organiziran
                                     trg, opremljen s skladišči, prodajalnami, hladilnicami in
-                                    podobnim, nam, nam vse to brez zadostne ponudbe, to je
-                                    brez<pb/>proizvodnje, čisto nič ne pomaga. Prav tako pa ne
+                                    podobnim, nam, nam vse to brez zadostne ponudbe, to je brez<pb
+                                        n="29"/> proizvodnje, čisto nič ne pomaga. Prav tako pa ne
                                     morejo in ne smejo postati družbena intervencijska sredstva
                                     potuha za slabo delo, neznanje, nerealne programe, za
                                     samozadovoljstvo v proizvodnji. Z drugo besedo, ne smejo biti
@@ -2006,7 +2009,7 @@
                                 <p>Strokovno pospeševanje je potrebno in nenazadnje tudi razen
                                     spodbude za uporabo sodobne tehnologije, predvsem v zasebni
                                     proizvodnji in prav tako tudi za znanstveno delo. Delegacija je
-                                    za to, da se določi posebna oblika kompenzacij za proizvodnjo na
+                                    za to, da se določi posebna oblika kompenzacij za proizvodnjo na<pb n="30"/>
                                     območjih s težjimi proizvodnimi pogoji in tam, kjer je ohranitev
                                     poseljenosti, gledano z nacionalnih interesov, potrebna. V
                                     mislih imam nekatera obmejna območja. Družbena intervencija je
@@ -2062,7 +2065,7 @@
                                     razumljiveje sestavljen. Tu imam v mislih predvsem 12. tezo in
                                     tudi ime zakona bi lahko bilo krajše, da si praksa brez potrebe
                                     ne bi izmišljala nekih lastnih terminov, kar je sploh problem
-                                    naše zakonodaje in naslovov naših zakonov. </p>
+                                    naše zakonodaje in naslovov naših zakonov.</p><pb n="31"/>
                                 <p>Tretji odstavek 16. teze je nekoliko čuden, ker ne pove, kaj je
                                     dolžna potem storiti skupščina družbenopolitične skupnosti, ko
                                     je o tem obvesti izvršni svet.</p>
@@ -2121,9 +2124,9 @@
                                     sicer že odgovor, da je tistih, ki naj bi plačevali zelo majhno
                                     število. Osebno se povsem strinjam z mnenjem, ki s pokojnino
                                     skorajda ne morejo živeti, naj tudi ne bi plačevali, saj
-                                    imamo<pb/>vendarle tako imenovane oprostilne cenzure tudi za
-                                    samoprispevke in ostale stvari. Menim pa, da vsi tisti, ki
-                                    imajo, rekel bom v starih dinarjih, deset, petnajst ali
+                                        imamo<pb n="32"/>vendarle tako imenovane oprostilne cenzure
+                                    tudi za samoprispevke in ostale stvari. Menim pa, da vsi tisti,
+                                    ki imajo, rekel bom v starih dinarjih, deset, petnajst ali
                                     triindvajset milijonov pokojnine, pa verjetno lahko tudi še kaj
                                     prispevajo za to; da bomo pridelali več in da bomo bolje
                                     oskrbljeni s hrano. Pravniki mi bodo oporekali, vendar je iz teh
@@ -2176,9 +2179,9 @@
                                     smo imeli denar, danes ga nimamo, jutri ga bomo mogoče spet
                                     imeli in tako naprej, vendar so to takšne naloge, ki zahtevajo
                                     konstantno reševanje in v tej situaciji, ko želimo, da
-                                    kmetijstvo<pb/>zagotovi določen standard v zagotavljanju hrane
-                                    22 milijonom Jugoslovanov, moramo na žalost to reševati preko
-                                    takšnega zbiranja denarja. Hvala lepa.</p>
+                                        kmetijstvo<pb n="33"/>zagotovi določen standard v
+                                    zagotavljanju hrane 22 milijonom Jugoslovanov, moramo na žalost
+                                    to reševati preko takšnega zbiranja denarja. Hvala lepa.</p>
                             </sp>
                             <sp>
                                 <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
@@ -2236,10 +2239,11 @@
                                     pravzaprav v dvojni vlogi, ker sem hkrati delegat Mesta
                                     Ljubljane in poročevalec Odbora za družbeno-ekonomske odnose in
                                     razvoj našega zbora. Moram reči, da mi to oglašanje ne
-                                    predstavlja posebnih težav, ker so bila stališča, ki<pb/>smo jih
-                                    v razpravi izoblikovali v okviru ljubljanske delegacije zelo
-                                    podobna stališčem, ki jih je sprejel Odbor za družbenoekonomske
-                                    odnose in razvoj in ki ste jih dobili v pismeni obliki.</p>
+                                    predstavlja posebnih težav, ker so bila stališča, ki<pb n="34"/>
+                                    smo jih v razpravi izoblikovali v okviru ljubljanske delegacije
+                                    zelo podobna stališčem, ki jih je sprejel Odbor za
+                                    družbenoekonomske odnose in razvoj in ki ste jih dobili v
+                                    pismeni obliki.</p>
                                 <p>Danes obravnavamo predlog za izdajo zakona in to predstavlja prvo
                                     fazo v zakonodajnem postopku. Gre za pospeševanje proizvodnje,
                                     gre za vprašanje preskrbe in gre za samoupravno organiziranost
@@ -2291,9 +2295,9 @@
                                     v naši družbi posebej prilagojene mehanizme. Nikakor ne
                                     polemiziram z njimi, vendar mislim, da je naša težnja in cilj,
                                     da bi se razlike v razvitosti tako v Jugoslaviji kot v
-                                    Sloveniji<pb/>zmanjševale, prav gotovo pa ne na nekih finalnih
-                                    področjih, pač pa na nivoju določenih pogojev in same družbene
-                                    produktivnosti dela. Hvala.</p>
+                                        Sloveniji<pb n="35"/>zmanjševale, prav gotovo pa ne na nekih
+                                    finalnih področjih, pač pa na nivoju določenih pogojev in same
+                                    družbene produktivnosti dela. Hvala.</p>
                             </sp>
                             <sp>
                                 <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
@@ -2349,10 +2353,10 @@
                                     nazadnje vemo, da se pri Zvezi vodnih skupnosti Slovenije
                                     namensko zbirajo sredstva za urejanje tudi kmetijskega prostora,
                                     se pravi za urejanje osnovne odvodnje in da smo kmetijci dolžni
-                                    prispevati 50%-no udeležbo za<pb/>ta namen. Vemo, da se sredstva
-                                    zbirajo pri Zvezi vodnih skupnosti Slovenije in da pač kmetijci
-                                    teh sredstev ne zagotavljamo v takem obsegu kot bi jih morali.
-                                    Zato je prav, da se ta sredstva resnično namensko
+                                    prispevati 50%-no udeležbo za<pb n="36"/> ta namen. Vemo, da se
+                                    sredstva zbirajo pri Zvezi vodnih skupnosti Slovenije in da pač
+                                    kmetijci teh sredstev ne zagotavljamo v takem obsegu kot bi jih
+                                    morali. Zato je prav, da se ta sredstva resnično namensko
                                     uporabljajo.</p>
                                 <p>Mislimo tudi, da ni umestno širiti namenov, ker imamo prakso iz
                                     dosedanjih skladov za pospeševanje proizvodnje hrane, da smo
@@ -2406,8 +2410,9 @@
                                     programe, ali pa sredstva za pospeševanje proizvodnje, to so
                                     rezerve in podobno, ki zadovoljujejo to oskrbo. Zaradi tega je v
                                     zakonu nemogoče čisto precizno zaobseči to, v kakšne namene
-                                    kaj<pb/>dati; je pa ta zadeva še stvar razprave in mi bomo to
-                                    tudi proučili kako priti do ustreznejše opredelitve.</p>
+                                        kaj<pb n="37"/> dati; je pa ta zadeva še stvar razprave in
+                                    mi bomo to tudi proučili kako priti do ustreznejše
+                                    opredelitve.</p>
                                 <p>Naslednje vprašanje je v zvezi s hribovskim kmetijstvom. Tu moram
                                     reči, da smo morda napačno ali pa zadevo premalo obrazložili -
                                     ne gre namreč za usmerjanje sredstev, ki so namenjena, za
@@ -2459,10 +2464,10 @@
                                     45., 55., 79. in 96. členu predloga zakona.</p>
                                 <p>Sprašujem poročevalce ostalih delovnih teles ali s temi amandmaji
                                     soglašajo? (Da.) Tudi Izvršni svet Skupščine SR Slovenije je
-                                    zbor pisno obvestil, da s temi amandmaji soglaša. Ker
-                                    z<pb/>amandmaji soglaša Izvršni svet Skupščine SR Slovenije in
-                                    delovna telesa predlagam, da o vseh amandmajih glasujemo
-                                    skupaj.</p>
+                                    zbor pisno obvestil, da s temi amandmaji soglaša. Ker z<pb
+                                        n="38"/> amandmaji soglaša Izvršni svet Skupščine SR
+                                    Slovenije in delovna telesa predlagam, da o vseh amandmajih
+                                    glasujemo skupaj.</p>
                                 <p>Kdo je za amandmaje? (65 delegatov.) Je kdo proti? (Nihče.) Se je
                                     kdo vzdržal? (Nihče.)</p>
                                 <p>Ugotavljam, da je zbor amandmaje Zakonodajno-pravne komisije
@@ -2520,15 +2525,15 @@
                                     osnovnih šol je 25, celo nekaj nižje. Predlagamo le, da se
                                     omogoči šoli, da izjemoma v soglasju z zavodom SR Slovenije za
                                     šolstvo iz prostorskih in organizacijskih razlogov odstopi od
-                                    tega načela, če bi šola ocenila, da je to manjše zlo, kot
-                                    na<pb/> primer uvedba tretje izmene, prešolanje učencev v drug
-                                    kraj, zaposlitev učitelja brez ustrezne strokovne izobrazbe,
-                                    razbitje šolskih kolektivov in njihovo ponovno združevanje in
-                                    tako dalje. Menimo, da soglasje Zavoda SR Slovenije za šolstvo
-                                    tem izjemnim odločitvam šol, izključuje možnosti pritiskov
-                                    lokalnih dejavnikov, ki bi radi poskušali zaradi prihrankov
-                                    zmanjševati število oddelkov osnovne šole, z zviševanjem števila
-                                    učencev v teh oddelkih.</p>
+                                    tega načela, če bi šola ocenila, da je to manjše zlo, kot na<pb
+                                        n="39"/> primer uvedba tretje izmene, prešolanje učencev v
+                                    drug kraj, zaposlitev učitelja brez ustrezne strokovne
+                                    izobrazbe, razbitje šolskih kolektivov in njihovo ponovno
+                                    združevanje in tako dalje. Menimo, da soglasje Zavoda SR
+                                    Slovenije za šolstvo tem izjemnim odločitvam šol, izključuje
+                                    možnosti pritiskov lokalnih dejavnikov, ki bi radi poskušali
+                                    zaradi prihrankov zmanjševati število oddelkov osnovne šole, z
+                                    zviševanjem števila učencev v teh oddelkih.</p>
                                 <p>Pač pa so se med obravnavo o predlogu zakona poenotili pogledi na
                                     to za kar gre zasluga zlasti Zvezi delavskih univerz, pedagoškim
                                     delavcem in sindikatom, da je treba razširiti možnosti za osnovo
@@ -2578,7 +2583,7 @@
                             </sp>
                             <sp>
                                 <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
-                                <p>Hvala. Želi še kdo razpravljati? (Nihče.)<pb/>
+                                <p>Hvala. Želi še kdo razpravljati? (Nihče.)<pb n="40"/>
                                 </p>
                                 <p>Če ne želi nihče več razpravljati, zaključujem razpravo in
                                     prehajamo na glasovanje. Najprej bomo glasovali o amandmaju
@@ -2639,7 +2644,7 @@
                                     aktualno bolezen AIDS ali SIDO. Predlagatelj te nalezljive
                                     bolezni ne bo vnesel v republiški zakon, ker bo Zvezni izvršni
                                     svet na svoji prihodnji seji sprejel odlok o ukrepih za zaščito
-                                    prebivalstva pred AIDS-om za vso državo.<pb/>
+                                    prebivalstva pred AIDS-om za vso državo.<pb n="41"/>
                                 </p>
                                 <p>Na razpravi skupine delegatov vseh zborov Skupščine SR Slovenije
                                     za družbene dejavnosti je bilo posebej izpostavljeno vprašanje
@@ -2704,9 +2709,9 @@
                                     pripombo podprla, zato jo bom sedajle tudi posredovala
                                     zboru.</p>
                                 <p>Predlagamo, da bi v 14. tezi, ki se navezuje tudi na 17. tezo,
-                                    dodali besedilo: "dela lahko izvaja tudi
-                                    strokovno<pb/>usposobljena enota osnovne higiensko-epidemiološke
-                                    službe pri zdravstvenemu domu.".</p>
+                                    dodali besedilo: "dela lahko izvaja tudi strokovno<pb n="42"
+                                    />usposobljena enota osnovne higiensko-epidemiološke službe pri
+                                    zdravstvenemu domu.".</p>
                                 <p>Utemeljitev je naslednja: na Koroškem je zdravstveno varstvo v
                                     specifičnem položaju, ker nima organiziranega zavoda za
                                     zdravstveno varstvo, pač pa ima v sklopu zdravstvenega doma
@@ -2767,7 +2772,7 @@
                                     Zakonodajno-pravna komisija, ki k osnutku zakona nista imela
                                     pripomb, zato pisnih poročil niste prejeli in sprašujem
                                     poročevalca odbora in komisije, ali želita besedo? (Ne
-                                    želita.)<pb/>
+                                        želita.)<pb n="43"/>
                                 </p>
                                 <p>Pričenjam razpravo. Prijavljenih za to točko ni. Želi kdo
                                     razpravljati? (Nihče.) Zaključujem razpravo in predlagam zboru,
@@ -2830,9 +2835,8 @@
                                     zaključnim računom republiškega proračuna za leto 1985, ni
                                     sprejel.</p>
                                 <p>Predstavnik RK SZDL Slovenije je Primož Hainz, član Izvršnega
-                                    odbora Predsedstva RK SZDL Slovenije, predstavnik<pb/>
-                                </p>
-                                <p>Izvršnega sveta Skupščine SR Slovenije je dr. Jože Kunič,
+                                    odbora Predsedstva RK SZDL Slovenije, predstavnik<pb n="44"/>
+                                    Izvršnega sveta Skupščine SR Slovenije je dr. Jože Kunič,
                                     namestnik republiškega sekretarja za finance. Sprašujem, ali
                                     želi kdo besedo? (Da.)</p>
                                 <p>Besedo ima Primož Hainz. Prosim.</p>
@@ -2887,7 +2891,7 @@
                                     bila zavrnjena zamisel o postavitvi kipa zmage. Vztrajali so na
                                     zahtevi, da mora biti idejna rešitev spominskega obeležja
                                     racionalna, da torej mora upoštevati program
-                                    gospodarske<pb/>stabilizacije in zato je od prvotnega spomenika
+                                    gospodarske<pb n="45"/> stabilizacije in zato je od prvotnega spomenika
                                     projektiran spominski park, sredstva so zmanjšana na 10% od
                                     prvotnega.</p>
                                 <p>Res je sicer, da smo pred leti sprejeli stališče, da se namesto
@@ -2939,7 +2943,7 @@
                                 <p>Med sejo zbora sem prejel obvestilo, da je predlog stališč in
                                     predlogov sprejel Družbenopolitični zbor v nespremenjenem
                                     besedilu. Tako lahko nadaljujemo in končamo delo v zvezi s to
-                                    točko dnevnega reda.<pb/>
+                                    točko dnevnega reda.<pb n="46"/>
                                 </p>
                                 <p>Pričenjam razpravo. Ugotavljam, da je prijavljenih pet delegatov
                                     oziroma delegatk. Besedo dajem Francu Albrehtu, delegatu iz
@@ -3004,7 +3008,7 @@
                                     občine Slovenske Konjice podprem predlog sklepa o soglasju k
                                     pristopu SR Slovenije k družbenemu dogovoru o zagotovitvi
                                     sredstev za zgraditev in ureditev spominskega obeležja "Sremska
-                                    fronta."<pb/>
+                                    fronta."<pb n="47"/>
                                 </p>
                                 <p>Naša delegacija se zaveda pomembnosti zgodovinskega dogodka, ki
                                     mu je obeležje namenjeno, dogodka oziroma začetka velike bitke
@@ -3067,7 +3071,7 @@
                                     gospodarska gibanja v danem gospodarskem trenutku dovoljujejo to
                                     obeležje v takem obsegu in višini? Posebej je bilo to vprašanje
                                     prisotno ob obravnavi dogovora o Sremski fronti in ob osnutku
-                                    zakona o spomeniku zmage.<pb/>
+                                    zakona o spomeniku zmage.<pb n="48"/>
                                 </p>
                                 <p>V 20. letih je bil ta projekt nekoliko skrčen in tudi dvakrat
                                     prestavljen zaradi neugodnih gospodarskih gibanj. Sprašujemo se,
@@ -3129,7 +3133,7 @@
                             <sp>
                                 <speaker>BOŠTJAN ZGONC:</speaker>
                                 <p>Tovariš predsednik, tovarišice in tovariši delegati! Izvršni svet
-                                    Skupščine SR Slovenije je<pb/> razpravljal o tem amandmaju
+                                    Skupščine SR Slovenije je<pb n="49"/> razpravljal o tem amandmaju
                                     vendar se z njim ni strinjal iz naslednjih razlogov:</p>
                                 <list type="ordered">
                                     <item>1. Že iz besedila zakona je razvidno, da gre tako ali tako
@@ -3196,7 +3200,7 @@
                                     dikcijo, kako je bilo v Zboru združenega dela sprejeto, o
                                     utemeljitvi pa tega ne vemo ničesar. Amandma je bil predložen
                                     Zboru združenega dela in ne Zboru občin. Naš zbor je
-                                    zakon<pb/>sprejel tak kakršen je. Prav je, da se proceduralno
+                                    zakon<pb n="50"/> sprejel tak kakršen je. Prav je, da se proceduralno
                                     razčisti kdo je predlagatelj. Zbora se usklajujeta kadar
                                     enakopravno odločata, vsaj v prejšnjem mandatu je bilo tako. Če
                                     imamo predlagatelja amandmaja bomo tudi vprašali Izvršni svet
@@ -3257,7 +3261,7 @@
                                     uveljavljala v preteklem letu.</p>
                                 <p>Obnova prizadetega območja v katero so vključeni tudi razvojni
                                     elementi poteka na osnovi programa, ki ga
-                                    samostojno<pb/>sprejema SR Črna gora. O izvrševanju programa
+                                    samostojno<pb n="51"/> sprejema SR Črna gora. O izvrševanju programa
                                     obvešča SR Črna gora po veljavni zakonski ureditvi vsako leto
                                     Skupščino SFR Jugoslavije in skupščine socialističnih republik
                                     in avtonomnih pokrajin.</p>
@@ -3310,7 +3314,7 @@
                                     proučevanje aktov iz pristojnosti zborov Skupščine SFR
                                     Jugoslavije. Odbor in skupina delegatov so pisno poročali,
                                     Zakonodajno-pravna komisija pa k predloženemu aktu ni imela
-                                    pripomb. Želijo poročevalci delovnih teles besedo? (Ne.)<pb/>
+                                    pripomb. Želijo poročevalci delovnih teles besedo? (Ne.)<pb n="52"/>
                                 </p>
                                 <p>Pričenjam razpravo. Ugotavljam, da je prijavljen en sam
                                     razpravljavec. Besedo ima tovariš Drago Justin, delegat iz
@@ -3373,7 +3377,7 @@
                                     DOLOČENIH Z ZAKONOM O SREDSTVIH ZA ODPRAVO POSLEDIC
                                     KATASTROFALNEGA POTRESA, KI JE PRIZADEL OBMOČJE SR ČRNE GORE V
                                     LETU 1979. Osnutek odloka je predložil Skupščini v soglasje Zbor
-                                    republik in<pb/>pokrajin Skupščine SFR Jugoslavije. Predstavnik
+                                    republik in<pb n="53"/>pokrajin Skupščine SFR Jugoslavije. Predstavnik
                                     naše delegacije je tovariš Jože Sintič, predstavnik Izvršnega
                                     sveta Skupščine SR Slovenije pa tovariš Jože Kunič. Želi kdo od
                                     njiju besedo? (Ne.)</p>
@@ -3384,7 +3388,7 @@
                                     Zakonodajno-pravna komisija in Skupina delegatov vseh zborov za
                                     proučevanje aktov iz pristojnosti zborov Skupščine SFR
                                     Jugoslavije. Odbor in skupina delegatov so pisno poročali,
-                                    komisija pa k osnutku odloka ni imela pripomb. Zeli poročevalci
+                                    komisija pa k osnutku odloka ni imela pripomb. Želi poročevalci
                                     besedo? (Ne.)</p>
                                 <p>Pričenjam razpravo. Želi kdo razpravljati? (Da.) Besedo ima
                                     Dušanka Kotnik, delegatka občine Slovenj Gradec.</p>
@@ -3438,7 +3442,7 @@
                                     zbirala in trošila sredstva. Skupščina SR Slovenije je to
                                     poročilo prejela, ki ga je SR Črna gora tudi korektno
                                     pripravila.</p>
-                                <p>V tem poročilu je ugotovljeno, da nepravilnosti pri uporabi teh
+                                <p>V tem poročilu je ugotovljeno, da nepravilnosti pri uporabi teh<pb n="54"/>
                                     sredstev, ki jih kontrolira SDK, v tem letu ni bilo. Vse
                                     republike in avtonomni pokrajini so dosledno vplačale svoje
                                     obveznosti z izjemo SR Bosne in Hercegovine, ki dolguje 95 novih
@@ -3499,7 +3503,7 @@
                                     Družbenopolitičnega zbora, zbori nadaljujejo obravnavo
                                     zakonskega predloga in znova glasujejo o spornih vprašanjih
                                     potem, ko so dobili mnenja delovnih teles, v katerih
-                                    pristojnost<pb/>sodi zakon oziroma skupin delegatov, imenovanih
+                                    pristojnost<pb n="55"/>sodi zakon oziroma skupin delegatov, imenovanih
                                     na sejah zborov, Zakonodajno-pravne komisije in predlagatelja
                                     zakona.</p>
                             </sp>
@@ -3564,7 +3568,7 @@
                                     člen lahko ostane tak kot je. Če pa bi se izkazalo, da ta člen
                                     ni dovolj jasen, da o tem odloča svet šole ali pa pedagoška
                                     organizacija, potem tudi menim, da lahko glasujemo o predloženem
-                                    predlogu amandmaja.<pb/>
+                                    predlogu amandmaja.<pb n="56"/>
                                 </p>
                             </sp>
                             <sp>
@@ -3634,7 +3638,7 @@
                                     ZMANJŠANJU OBVEZNOSTI REPUBLIK IN AVTONOMNIH POKRAJIN ZA LETO
                                     1986, DOLOČENIH Z ZAKONOM O SREDSTVIH ZA ODPRAVO POSLEDIC
                                     KATASTROFALNEGA POTRESA, KI JE PRIZADEL OBMOČJE SR ČRNE GORE V
-                                    LETU<pb/>1979. Osnutek odloka je Skupščini predložil v soglasje
+                                    LETU<pb n="57"/> 1979. Osnutek odloka je Skupščini predložil v soglasje
                                     Zbor republik in pokrajin Skupščine SFR Jugoslavije. Predstavnik
                                     naše delegacije je tovariš Jože Sintič, predstavnik Izvršnega
                                     sveta Skupščine SR Slovenije pa tovariš Jože Kunič. Želi kdo od
@@ -3698,7 +3702,7 @@
                         <div ana="#PAR.TDR" n="14">
                             <sp>
                                 <p>Prehajamo na 14. TOČKO DNEVNEGA REDA - PREDLOG ZA SOGLASJE ZA
-                                    KANDIDATURO JUDO ZVEZE JUGOSLAVIJE ZA ORGANIZACIJO<pb/> EKIPNEGA
+                                    KANDIDATURO JUDO ZVEZE JUGOSLAVIJE ZA ORGANIZACIJO<pb n="58"/> EKIPNEGA
                                     PRVENSTVA EVROPE ZA ČLANE IN ČLANICE ZA LETO 1986 V NOVEM SADU.
                                     Predlog je predložila Judo zveza Jugoslavije. Predstavnik
                                     delegacije je tovariš Jože Sintič, predstavnik Izvršnega sveta
@@ -3759,7 +3763,7 @@
                                     občine Radovljica v zvezi z zajezitvijo reke Save pri
                                     Radovljici.</p>
                                 <p>Na delegatski vprašanji skupine delegatov iz občine Lenart in
-                                    delegata iz občine Kranj, bo odgovoril Milan Kneževič,<pb/>član
+                                    delegata iz občine Kranj, bo odgovoril Milan Kneževič,<pb n="59"/>član
                                     Izvršnega sveta in predsednik Republiškega komiteja za
                                     kmetijstvo, gozdarstvo in prehrano.</p>
                             </sp>
@@ -3815,7 +3819,7 @@
                                     obratnih sredstev. Enako, Izvršni svet Skupščine SR Slovenije
                                     predlaga oziroma priporoča skupščinam in izvršnim svetom
                                     skupščin občin, da tudi v okviru svojih pristojnosti v ta namen
-                                    uporabijo<pb/>razpoložljiva začasna prosta sredstva za pomoč
+                                    uporabijo<pb n="60"/>razpoložljiva začasna prosta sredstva za pomoč
                                     kmetijskim organizacijam združenega dela.</p>
                                 <p>Hkrati bom podal tudi odgovor na danes postavljeno vprašanje iz
                                     občine Maribor-Pobrežje v zvezi z obrambno akcijo dne 8.5.1986,
@@ -3872,7 +3876,7 @@
                                     ni bilo odobritve kontrole letenja in da se je nemogoče
                                     uskladiti zlasti v primerih, ko je letalo že v zraku in ima
                                     določen koridor in ga ne moreš v tistem času preusmeriti v drug
-                                    koridor. Hvala.<pb/>
+                                    koridor. Hvala.<pb n="61"/>
                                 </p>
                             </sp>
                             <sp>
@@ -3932,7 +3936,7 @@
                                     poudarjamo le tista vprašanja, ki so dosedaj ostala neobdelana
                                     in so nujno potrebna za kompleksno odločanje optimalne izrabe
                                     naravnih danosti, ki jih omogoča reka Sava na področju
-                                    Radovljice.<pb/>
+                                    Radovljice.<pb n="62"/>
                                 </p>
                             </sp>
                             <sp>
@@ -3996,7 +4000,7 @@
                                     <item>2. Ali je Republiški komite za zakonodajo predvidel
                                         finančne posledice svojega opozorila?</item>
                                     <item>3. Ali se bo za stroške objave planskih aktov povečala
-                                        dovoljena splošna poraba v občini?<pb/>
+                                        dovoljena splošna poraba v občini?<pb n="63"/>
                                     </item>
                                 </list>
                                 <p>Moram povedati, da delegati nismo mogli ugotoviti, čemu bi
@@ -4061,7 +4065,7 @@
                                         splošne porabe na ravni občin v SR Sloveniji potrebno vnesti
                                         določilo, da so iz dogovorjenega obsega splošne porabe na
                                         ravni občin izvzeti stroški volitev in stroški prostorskih
-                                        planskih aktov.<pb/>
+                                        planskih aktov.<pb n="64"/>
                                     </item>
                                     <item>7. Realizirane presežke izvirnih proračunskih prihodkov v
                                         letu 1985: občinski viri plus posebni republiški davek od
@@ -4119,7 +4123,7 @@
                                     porabe.</p>
                                 <p>Ob družbeni usmeritvi, da občinska splošna poraba dosledno
                                     zaostaja za rastjo dohodka, je proračun občine Tržič dodatno
-                                    obremenilo dosledno čiščenje proračuna v obdobju pred<pb/>uvedbo
+                                    obremenilo dosledno čiščenje proračuna v obdobju pred<pb n="65"/> uvedbo
                                     omejevanja splošne porabe, ko je bila občina Tržič med
                                     dopolnjevanimi občinami iz republiškega proračuna in je bila
                                     poraba sredstev pod kontrolo resornega upravnega organa, kar za
@@ -4177,7 +4181,7 @@
                                         odpravili zaostajanje osebnih dohodkov delavcev v upravnih
                                         organih z osebnimi dohodki zaposlenih v gospodarstvu.
                                         Sredstva občinskega proračuna ne zagotavljajo niti obsega
-                                        resolucijske<pb/>rasti osebnih dohodkov, kaj šele da bi ob
+                                        resolucijske<pb n="66"/>rasti osebnih dohodkov, kaj šele da bi ob
                                         tem dodatnem programu in ukrepih zmanjševali
                                         zaostajanje.</item>
                                     <item>4. a) Med porabniki proračunskih sredstev v občini Tržič
@@ -4234,7 +4238,7 @@
                                     sredstev za njihovo rast pa ni na razpolago. Občinski proračuni
                                     z odloki lahko v letu 1986 zagotovijo le 14,5 milijona dinarjev,
                                     za normalno poslovanje pa bi služba potrebovala vsaj 21
-                                    milijonov. Zagotovitev teh sredstev bi lahko predlagali le na
+                                    milijonov. Zagotovitev teh sredstev bi lahko predlagali le na<pb n="67"/>
                                     račun poslabšanja položaja ostalih porabnikov, kar pa ni
                                     izvedljivo.</p>
                                 <p>Gorenjske občine predlagamo povečanje dogovorjenega obsega
@@ -4294,7 +4298,7 @@
                                     <item>4. Omogočiti porabo presežkov proračunov realiziranih iz
                                         lastnih virov, za sanacijo družbenoekonomskega položaja
                                         delavcev državne uprave in za sanacijo osnovnih
-                                        sredstev<pb/>proračunskih porabnikov oziroma za proračunske
+                                        sredstev<pb n="68"/>proračunskih porabnikov oziroma za proračunske
                                         potrebe, ki jih kot najnujnejše ugotovijo pristojni občinski
                                         organi.</item>
                                     <item>5. Glede na obstoječo različno organiziranost uprave
@@ -4362,7 +4366,7 @@
                                     skupine:</p>
                                 <list type="ordered">
                                     <item>1. ugreznine, zaradi katerih bo v 30 letih 8% celotne
-                                        površine občine pod vodo in to edini ravninski del,<pb/>
+                                        površine občine pod vodo in to edini ravninski del,<pb n="69"/>
                                     </item>
                                     <item>2. odlaganje pepela, ki je že nadpovprečno radioaktiven;
                                         zaradi odlaganja pepela je voda, ki zaliva ugreznine
