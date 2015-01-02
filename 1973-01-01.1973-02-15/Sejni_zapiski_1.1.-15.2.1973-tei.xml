@@ -225,14 +225,26 @@
             <head>REPUBLIŠKI ZBOR</head>
             <div ana="#PAR.Seja" n="52">
                <head>52. seja </head>
-               <docDate>(24. januarja 1973)</docDate>
+               <docDate when="1973-01-24">(24. januarja 1973)</docDate>
+               <timeline origin="#TL-RZ.1" unit="min">
+                  <when synch="#stage.t.1" xml:id="TL-RZ.1" absolute="1973-01-24T09:05:00"/>
+                  <when synch="#stage.t.2" since="#TL-RZ.1" absolute="1973-01-24T09:10:00" interval="5"/>
+                  <when synch="#stage.t.3" xml:id="TL-RZ.2" absolute="1973-01-24T09:55:00"/>
+                  <when synch="#stage.t.4" since="#TL-RZ.2" absolute="1973-01-24T11:15:00" interval="80"/>
+                  <when synch="#stage.t.5" xml:id="TL-RZ.3" absolute="1973-01-24T11:30:00"/>
+                  <when synch="#stage.t.6" since="#TL-RZ.3" absolute="1973-01-24T12:45:00" interval="75"/>
+                  <when synch="#stage.t.7" xml:id="TL-RZ.4" absolute="1973-01-24T13:35:00"/>
+                  <when synch="#stage.t.8" since="#TL-RZ.4" absolute="1973-01-24T15:30:00" interval="115"/>
+                  <when synch="#stage.t.9" xml:id="TL-RZ.5" absolute="1973-01-24T15:45:00"/>
+                  <when synch="#stage.t.10" since="#TL-RZ.5" absolute="1973-01-24T16:45:00" interval="60"/>
+               </timeline>
                <castList>
                   <castItem><roleDesc>Predsedovala</roleDesc>: <actor xml:id="sp.GoslarMiran">Miran
                         Goslar</actor>, <role>predsednik republiškega zbora</role></castItem>
                   <castItem> in <actor xml:id="sp.StropnikLojzka">Lojzka Stropnik</actor>,
                         <role>podpredsednica republiškega zbora</role></castItem>
                </castList>
-               <stage>Začetek seje ob 9.05.</stage>
+               <stage type="time"><time from="09:05:00" xml:id="stage.t.1">Začetek seje ob 9.05</time>.</stage>
                <sp who="#sp.GoslarMiran">
                   <speaker>Predsednik Miran Goslar:</speaker>
                   <p>Pričenjam 52. sejo republiškega zbora.</p>
@@ -299,7 +311,8 @@
                         <p>To bi bilo sedaj vse in vas prosim, da odidete v veliko dvorano na skupno
                            sejo z enotnim zborom.</p>
                      </sp>
-                     <stage>(Seja je bila prekinjena ob 9.10 in se je nadaljevala ob 9.55.)</stage>
+                     <stage type="time">(Seja je bila <time to="09:10:00" xml:id="stage.t.2">prekinjena ob 9.10</time> in
+                        se je <time from="09:55:00" xml:id="stage.t.3">nadaljevala ob 9.55</time>.)</stage>
                   </div>
                   <div n="2">
                      <sp who="#sp.GoslarMiran">
@@ -970,8 +983,8 @@
                            republike Slovenije v letih 1971—1975 sprejet.</p>
                         <p>Predlagam deset minut odmora.</p>
                      </sp>
-                     <stage>(Seja je bila prekinjena ob 11.15 in se je nadaljevala ob
-                        11.30.)</stage>
+                     <stage type="time">(Seja je bila <time to="11:15:00" xml:id="stage.t.4">prekinjena ob 11.15</time> in
+                        se je <time from="11:30:00" xml:id="stage.t.5">nadaljevala ob 11.30</time>.)</stage>
                   </div>
                   <div n="4">
                      <sp who="#sp.GoslarMiran">
@@ -1549,8 +1562,8 @@
                            smo praktično dosegli sporazum in bomo zakon lahko sprejeli.</p>
                         <p>Odrejam pol ure odmora!</p>
                      </sp>
-                     <stage>(Seja je bila prekinjena ob 12.45 in se je nadaljevala ob
-                        13.35.)</stage>
+                     <stage type="time">(Seja je bila <time to="12:45:00" xml:id="stage.t.6">prekinjena ob 12.45</time> in
+                        se je <time from="13:35:00" xml:id="stage.t.7">nadaljevala ob 13.35</time>.)</stage>
                   </div>
                   <div n="3">
                      <sp who="#sp.GoslarMiran">
@@ -2738,8 +2751,8 @@
                         <p>Amandma ni sprejet.</p>
                         <p>Predlagam 10 minut odmora.</p>
                      </sp>
-                     <stage>(Seja je bila prekinjena ob 15.30 in se je nadaljevala ob
-                        15.45.)</stage>
+                     <stage type="time">(Seja je bila <time to="15:30:00" xml:id="stage.t.8">prekinjena ob 15.30</time> in
+                        se je <time from="15:45:00" xml:id="stage.t.9">nadaljevala ob 15.45</time>.)</stage>
                   </div>
                   <div n="8">
                      <sp who="#sp.StropnikLojzka">
@@ -3514,21 +3527,25 @@
                         <p>Predsedujoča Lojzka Stropnik: Še kdo prosim! (Ne javi se nihče.) Če
                            nihče, zaključujem sejo. Hvala lepa!</p>
                      </sp>
-                     <stage>(Seja je bila končana ob 16.45.)</stage>
+                     <stage type="time">(Seja je bila <time to="16:45:00" xml:id="stage.t.10">končana ob 16.45</time>.)</stage>
                      <pb n="59" xml:id="pb.59"/>
                   </div>
                </div>
             </div>
             <div ana="#PAR.Seja" n="53">
                <head>53. seja </head>
-               <docDate>(14. februarja 1973)</docDate>
+               <docDate when="1973-02-14">(14. februarja 1973)</docDate>
+               <timeline origin="#TL-RZ.6" unit="min">
+                  <when synch="#stage.t.11" xml:id="TL-RZ.6" absolute="1973-02-14T09:10:00"/>
+                  <when synch="#stage.t.12" since="#TL-RZ.6" absolute="1973-02-14T13:15:00" interval="235"/>
+               </timeline>
                <castList>
                   <castItem><roleDesc>Predsedovala</roleDesc>: <actor sameAs="#sp.GoslarMiran">Miran
                         Goslar</actor>, <role>predsednik republiškega zbora</role></castItem>
                   <castItem> in <actor sameAs="#sp.StropnikLojzka">Lojzka Stropnik</actor>,
                         <role>podpredsednica republiškega zbora</role></castItem>
                </castList>
-               <stage>Začetek seje ob 9.10.</stage>
+               <stage type="time"><time from="09:10:00" xml:id="stage.t.11">Začetek seje ob 9.10</time>.</stage>
                <sp who="#sp.GoslarMiran">
                   <speaker>Predsednik Miran Goslar:</speaker>
                   <p>Pričenjam 53. sejo republiškega zbora.</p>
@@ -6071,7 +6088,7 @@
                            Lev Modic in dr. Joža Vilfan.</p>
                         <p>Hvala lepa. S tem je dnevni red izčrpan in seja končana.</p>
                      </sp>
-                     <stage>(Seja je bila končana ob 13.15.)</stage>
+                     <stage type="time">(Seja je bila <time to="13:15:00" xml:id="stage.t.12">končana ob 13.15</time>.)</stage>
                      <pb n="103" xml:id="pb.103"/>
                   </div>
                </div>
@@ -6081,12 +6098,20 @@
             <head>GOSPODARSKI ZBOR</head>
             <div ana="#PAR.Seja" n="49">
                <head>49. seja </head>
-               <docDate>(23. januarja 1973)</docDate>
+               <docDate when="1973-01-23">(23. januarja 1973)</docDate>
+               <timeline origin="#TL-RZ.7" unit="min">
+                  <when synch="#stage.t.13" xml:id="TL-RZ.7" absolute="1973-01-23T09:10:00"/>
+                  <when synch="#stage.t.14" since="#TL-RZ.7" absolute="1973-01-23T10:15:00" interval="55"/>
+                  <when synch="#stage.t.15" xml:id="TL-RZ.8" absolute="1973-01-23T11:25:00"/>
+                  <when synch="#stage.t.16" since="#TL-RZ.8" absolute="1973-01-23T12:50:00" interval="85"/>
+                  <when synch="#stage.t.17" xml:id="TL-RZ.9" absolute="1973-01-23T13:20:00"/>
+                  <when synch="#stage.t.18" since="#TL-RZ.9" absolute="1973-01-23T14:20:00" interval="60"/>
+               </timeline>
                <castList>
                   <castItem><roleDesc>Predsedoval</roleDesc>: <actor xml:id="sp.BoleTone">Tone
                         Bole</actor>, <role>predsednik gospodarskega zbora</role></castItem>
                </castList>
-               <stage>Začetek seje ob 9.10.</stage>
+               <stage type="time"><time from="09:10:00" xml:id="stage.t.13">Začetek seje ob 9.10</time>.</stage>
                <sp who="#sp.BoleTone">
                   <speaker>Predsednik Tone Bole:</speaker>
                   <p>Tovarišice in tovariši poslanci! Predlagam, da pričnemo z delom, čeprav ima
@@ -6773,8 +6798,8 @@
                         <p>Vidim, da se večina poslancev s tem strinja, zato odrejam enourni
                            odmor.</p>
                      </sp>
-                     <stage>(Seja je bila prekinjena ob 10.15 in se je nadaljevala ob
-                        11.25.)</stage>
+                     <stage type="time">(Seja je bila <time to="10:15:00" xml:id="stage.t.14">prekinjena ob 10.15</time> in
+                        se je <time from="11:25:00" xml:id="stage.t.15">nadaljevala ob 11.25</time>.)</stage>
                      <sp who="#sp.BoleTone">
                         <speaker>Predsednik Tone Bole:</speaker>
                         <p>Tovariši poslanci, predlagam, da najprej zaključimo 3. točko dnevnega
@@ -7784,8 +7809,8 @@
                            orientiramo našo razpravo in zavzamemo končna stališča in mnenja.</p>
                         <p>Odrejam 15 minut odmora.</p>
                      </sp>
-                     <stage>(Seja je bila prekinjena ob 12.50 in se je nadaljevala ob
-                        13.20.)</stage>
+                     <stage type="time">(Seja je bila <time to="12:50:00" xml:id="stage.t.16">prekinjena ob 12.50</time> in
+                        se je <time from="13:20:00" xml:id="stage.t.17">nadaljevala ob 13.20</time>.)</stage>
                      <sp who="#sp.BoleTone">
                         <speaker>Predsednik Tone Bole:</speaker>
                         <p>Tovariši poslanci! Predlagam, da nadaljujemo z delom. Poročevalka odbora
@@ -8363,7 +8388,7 @@
                            nadzorstvo, z večino glasov sprejet.</p>
                         <p>Dnevni red je izčrpan in zaključujem 49. sejo gospodarskega zbora.</p>
                      </sp>
-                     <stage>(Seja je bila končana ob 14.20.)</stage>
+                     <stage type="time">(Seja je bila <time to="14:20:00" xml:id="stage.t.18">končana ob 14.20</time>.)</stage>
                      <pb n="142" xml:id="pb.142"/>
                   </div>
                </div>
@@ -8373,13 +8398,17 @@
             <head>PROSVETNO-KULTURNI ZBOR</head>
             <div ana="#PAR.Seja" n="41">
                <head>41. seja</head>
-               <docDate>(23. januarja 1973)</docDate>
+               <docDate when="1973-01-23">(23. januarja 1973)</docDate>
+               <timeline origin="#TL-RZ.10" unit="min">
+                  <when synch="#stage.t.19" xml:id="TL-RZ.10" absolute="1973-01-23T09:20:00"/>
+                  <when synch="#stage.t.20" since="#TL-RZ.10" absolute="1973-01-23T12:00:00" interval="160"/>
+               </timeline>
                <castList>
                   <castItem><roleDesc>Predsedoval</roleDesc>: <actor xml:id="sp.PoljanšekMiloš"
                         >Miloš Poljanšek</actor>, <role>predsednik prosvetno-kulturnega
                      zbora</role></castItem>
                </castList>
-               <stage>Začetek seje ob 9.20.</stage>
+               <stage type="time"><time from="09:20:00" xml:id="stage.t.19">Začetek seje ob 9.20</time>.</stage>
                <sp who="#sp.PoljanšekMiloš">
                   <speaker>Predsednik Miloš Poljanšek:</speaker>
                   <p>Tovarišice in tovariši poslanci! Pričenjam 41. sejo prosvetno-kulturnega zbora
@@ -10071,7 +10100,7 @@
                         <p>S tem smo izčrpali dnevni red 41. seje prosvetno-kulturnega zbora SR
                            Slovenije.</p>
                      </sp>
-                     <stage>(Seja je bila končana ob 12. uri.)</stage>
+                     <stage type="time">(Seja je bila <time to="12:00:00" xml:id="stage.t.20">končana ob 12. uri</time>.)</stage>
                      <pb n="172" xml:id="pb.172"/>
                   </div>
                </div>
@@ -10081,13 +10110,17 @@
             <head>SOCIALNO - ZDRAVSTVENI ZBOR </head>
             <div ana="#PAR.Seja" n="41">
                <head>41. seja</head>
-               <docDate>(24. januarja 1973)</docDate>
+               <docDate when="1973-01-24">(24. januarja 1973)</docDate>
+               <timeline origin="#TL-RZ.11" unit="min">
+                  <when synch="#stage.t.21" xml:id="TL-RZ.11" absolute="1973-01-24T16:15:00"/>
+                  <when synch="#stage.t.22" since="#TL-RZ.11" absolute="1973-01-24T18:00:00" interval="105"/>
+               </timeline>
                <castList>
                   <castItem><roleDesc>Predsedoval</roleDesc>: <actor xml:id="sp.KorenSrečko">dr.
                         Srečko Koren</actor>, <role>predsednik socialno-zdravstvenega
                      zbora</role></castItem>
                </castList>
-               <stage>Začetek seje ob 16.15.</stage>
+               <stage type="time"><time from="16:15:00" xml:id="stage.t.21">Začetek seje ob 16.15</time>.</stage>
                <sp who="#sp.KorenSrečko">
                   <speaker>Predsednik dr. Srečko Koren:</speaker>
                   <p>Tovarišice in tovariši poslanci! Začenjam 41. sejo socialno-zdravstvenega
@@ -11156,7 +11189,7 @@
                         <p>S tem je dnevni red izčrpan in zaključujem 41. sejo
                            socialno-zdravstvenega zbora.</p>
                      </sp>
-                     <stage>(Seja je bila končana ob 18. uri.)</stage>
+                     <stage type="time">(Seja je bila <time to="18:00:00" xml:id="stage.t.22">končana ob 18. uri</time>.)</stage>
                      <pb n="191" xml:id="pb.191"/>
                   </div>
                </div>
@@ -11166,12 +11199,22 @@
             <head>ENOTNI ZBOR DELOVNIH SKUPNOSTI </head>
             <div ana="#PAR.Seja" n="25">
                <head>25. seja </head>
-               <docDate>(24. januarja 1973)</docDate>
+               <docDate when="1973-01-24">(24. januarja 1973)</docDate>
+               <timeline origin="#TL-RZ.12" unit="min">
+                  <when synch="#stage.t.23" xml:id="TL-RZ.12" absolute="1973-01-24T09:10:00"/>
+                  <when synch="#stage.t.24" since="#TL-RZ.12" absolute="1973-01-24T09:15:00" interval="5"/>
+                  <when synch="#stage.t.25" xml:id="TL-RZ.13" absolute="1973-01-24T09:16:00"/>
+                  <when synch="#stage.t.26" since="#TL-RZ.13" absolute="1973-01-24T09:45:00" interval="29"/>
+                  <when synch="#stage.t.27" xml:id="TL-RZ.14" absolute="1973-01-24T09:47:00"/>
+                  <when synch="#stage.t.28" since="#TL-RZ.14" absolute="1973-01-24T12:10:00" interval="143"/>
+                  <when synch="#stage.t.29" xml:id="TL-RZ.15" absolute="1973-01-24T13:40:00"/>
+                  <when synch="#stage.t.30" since="#TL-RZ.15" absolute="1973-01-24T16:15:00" interval="155"/>
+               </timeline>
                <castList>
                   <castItem><roleDesc>Predsedoval</roleDesc>: <actor sameAs="#sp.BoleTone">Tone
                         Bole</actor>, <role>predsednik gospodarskega zbora</role></castItem>
                </castList>
-               <stage>Začetek seje ob 9.10.</stage>
+               <stage type="time"><time from="09:10:00" xml:id="stage.t.23">Začetek seje ob 9.10</time>.</stage>
                <sp who="#sp.BoleTone">
                   <speaker>Predsedujoči Tone Bole:</speaker>
                   <p>Tovarišice in tovariši poslanci, predlagam, da pričnemo z delom.</p>
@@ -11236,8 +11279,8 @@
                            združenega dela v SR Sloveniji. Prosim poslance, da počakajo v
                            dvorani.</p>
                      </sp>
-                     <stage>(Seja je bila prekinjena ob 9.15 in se je nadaljevala skupno z
-                        republiškim zborom ob 9.16.)</stage>
+                     <stage type="time">(Seja je bila <time to="09:15:00" xml:id="stage.t.24">prekinjena ob 9.15</time> in
+                        se je nadaljevala skupno z republiškim zborom ob <time from="09:16:00" xml:id="stage.t.25">9.16</time>.)</stage>
                      <sp who="#sp.BoleTone">
                         <speaker>Predsedujoči Tone Bole:</speaker>
                         <p>Pričenjam skupno sejo republiškega in enotnega zbora delovnih skupnosti,
@@ -11628,8 +11671,8 @@
                            nadaljeval svoje delo v mali dvorani, enotni zbor pa v tej dvorani.
                            Hvala.</p>
                      </sp>
-                     <stage>(Skupna seja je bila končana ob 9.45, seja enotnega zbora pa se je
-                        nadaljevala ob 9.47.)</stage>
+                     <stage type="time">(Skupna seja je bila <time to="09:45:00" xml:id="stage.t.26">končana ob 9.45</time>, seja
+                        enotnega zbora pa se je <time from="09:47:00" xml:id="stage.t.27">nadaljevala ob 9.47</time>.)</stage>
                   </div>
                   <div n="2">
                      <sp who="#sp.BoleTone">
@@ -12809,8 +12852,8 @@
                         <p>Amandma k tem zakonom bo ponovno obravnavala komisija in nam po odmoru
                            predložila poročilo. Prosim, da se komisija sestane takoj v sobi 84.</p>
                      </sp>
-                     <stage>(Seja je bila prekinjena ob 12.10 in se je nadaljevala ob
-                        13.40.)</stage>
+                     <stage type="time">(Seja je bila <time to="12:10:00" xml:id="stage.t.28">prekinjena ob 12.10</time> in
+                        se je <time from="13:40:00" xml:id="stage.t.29">nadaljevala ob 13.40</time>.)</stage>
                   </div>
                   <div n="3">
                      <sp who="#sp.BoleTone">
@@ -13974,7 +14017,7 @@
                            10 minut v tej dvorani.</p>
                         <p>Zaključujem sejo enotnega zbora in se zahvaljujem za sodelovanje.</p>
                      </sp>
-                     <stage>(Seja je bila končana ob 16.15.)</stage>
+                     <stage type="time">(Seja je bila <time to="16:15:00" xml:id="stage.t.30">končana ob 16.15</time>.)</stage>
                      <pb n="240" xml:id="pb.240"/>
                   </div>
                </div>
@@ -13984,13 +14027,19 @@
             <head>ZASEDANJE DELEGATOV OBČIN</head>
             <div ana="#PAR.Zasedanje" n="30">
                <head>30. zasedanje</head>
-               <docDate>(17. januarja 1973)</docDate>
+               <docDate when="1973-01-17">(17. januarja 1973)</docDate>
+               <timeline origin="#TL-RZ.16" unit="min">
+                  <when synch="#stage.t.31" xml:id="TL-RZ.16" absolute="1973-01-17T09:10:00"/>
+                  <when synch="#stage.t.32" since="#TL-RZ.16" absolute="1973-01-17T12:00:00" interval="170"/>
+                  <when synch="#stage.t.33" xml:id="TL-RZ.17" absolute="1973-01-17T12:35:00"/>
+                  <when synch="#stage.t.34" since="#TL-RZ.17" absolute="1973-01-17T13:05:00" interval="30"/>
+               </timeline>
                <castList>
                   <castItem><roleDesc>Predsedoval</roleDesc>: <actor xml:id="sp.KrvinaZdravko"
                         >Zdravko Krvina</actor>, <role>član predsedstva skupščine SR
                         Slovenije</role></castItem>
                </castList>
-               <stage>Začetek zasedanja ob 9.10.</stage>
+               <stage type="time"><time from="09:10:00" xml:id="stage.t.31">Začetek zasedanja ob 9.10</time>.</stage>
                <div ana="#PAR.PredDnevRed">
                   <div ana="#PAR.DolDnevRed">
                      <sp who="#sp.KrvinaZdravko">
@@ -15893,8 +15942,8 @@
                            reda.</p>
                         <p>Odrejam 20 minut odmora.</p>
                      </sp>
-                     <stage>(Zasedanje je bilo prekinjeno ob 12. uri in se je nadaljevalo ob
-                        12.35.)</stage>
+                     <stage type="time">(Zasedanje je bilo <time to="12:00:00" xml:id="stage.t.32">prekinjeno ob 12. uri</time> in
+                        se je <time from="12:35:00" xml:id="stage.t.33">nadaljevalo ob 12.35</time>.)</stage>
                      <sp who="#sp.KrvinaZdravko">
                         <speaker>Predsedujoči Zdravko Krvina:</speaker>
                         <p>Nadaljujemo zasedanje! Predlagam, da amandmaje sprejemamo po vrstnem redu
@@ -16241,20 +16290,24 @@
                            komisija izvoljena.</p>
                         <p>Hvala lepa za udeležbo in za razpravo na 30. zasedanju.</p>
                      </sp>
-                     <stage>(Zasedanje je bilo končano ob 13.05.)</stage>
+                     <stage type="time">(Zasedanje je bilo <time to="13:05:00" xml:id="stage.t.34">končano ob 13.05</time>.)</stage>
                      <pb n="280" xml:id="pb.280"/>
                   </div>
                </div>
             </div>
             <div ana="#PAR.Zasedanje" n="31">
                <head>31. zasedanje</head>
-               <docDate>(8. februarja 1973)</docDate>
+               <docDate when="1973-02-08">(8. februarja 1973)</docDate>
+               <timeline origin="#TL-RZ.18" unit="min">
+                  <when synch="#stage.t.35" xml:id="TL-RZ.18" absolute="1973-02-08T09:15:00"/>
+                  <when synch="#stage.t.36" since="#TL-RZ.18" absolute="1973-02-08T11:45:00" interval="150"/>
+               </timeline>
                <castList>
                   <castItem><roleDesc>Predsedoval</roleDesc>: <actor sameAs="#sp.KrvinaZdravko"
                         >Zdravko Krvina</actor>, <role>član predsedstva skupščine SR
                         Slovenije</role></castItem>
                </castList>
-               <stage>Začetek zasedanja ob 9.15.</stage>
+               <stage type="time"><time from="09:15:00" xml:id="stage.t.35">Začetek zasedanja ob 9.15</time>.</stage>
                <div ana="#PAR.PredDnevRed">
                   <div ana="#PAR.DolDnevRed">
                      <sp who="#sp.KrvinaZdravko">
@@ -17793,7 +17846,7 @@
                            razpravo. Prosim, da overovitelji zapisnika in komisija, ki je bila
                            izvoljena po prvi točki, še ostanejo.</p>
                      </sp>
-                     <stage>(Zasedanje je bilo končano ob 11.45.)</stage>
+                     <stage type="time">(Zasedanje je bilo <time to="11:45:00" xml:id="stage.t.36">končano ob 11.45</time>.)</stage>
                      <pb n="307" xml:id="pb.307"/>
                   </div>
                </div>
