@@ -97,14 +97,6 @@
                         <category xml:id="PAR.Zasedanje">
                             <catDesc>Zasedanje</catDesc>
                         </category>
-                        <category xml:id="PAR.SkupSeja">
-                            <catDesc xml:lang="sl">Skupna seja</catDesc>
-                            <catDesc xml:lang="en">Joint Session</catDesc>
-                        </category>
-                        <category xml:id="PAR.SkupZased">
-                            <catDesc xml:lang="sl">Skupno zasedanje</catDesc>
-                            <catDesc xml:lang="en">Joint Constitutive Session</catDesc>
-                        </category>
                     </category>
                     <category>
                         <catDesc xml:lang="sl">Parlamentarna razprava</catDesc>
