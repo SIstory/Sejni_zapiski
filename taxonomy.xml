@@ -50,6 +50,9 @@
                         <catDesc xml:lang="sl">Zbor združenega dela</catDesc>
                         <catDesc xml:lang="en">Chamber of Associated Labour</catDesc>
                     </category>
+                    <category xml:id="PAR.VsiZbor">
+                        <catDesc xml:lang="sl">Vsi zbori Skupščine zasedajo skupaj</catDesc>
+                    </category>
                 </category>
                 <category>
                     <catDesc xml:lang="sl">Skupščine Samoupravnih interesnih skupnosti</catDesc>
