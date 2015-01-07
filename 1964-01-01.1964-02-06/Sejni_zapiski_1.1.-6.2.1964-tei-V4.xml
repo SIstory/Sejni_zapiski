@@ -241,14 +241,14 @@
                     </timeline>
                     <castList>
                         <castItem>
-                            <roleDesc>Predsedoval</roleDesc>: <actor xml:id="sp.RZ.RemskarTine">Tine
+                            <roleDesc>Predsedoval</roleDesc>: <actor xml:id="sp.RemškarTine">Tine
                                 Remškar</actor>, <role>predsednik Republiškega zbora</role>
                         </castItem>
                     </castList>
                     <stage type="time"><time from="09:30:00" xml:id="stage.t.1">Začetek seje ob
                             9.30</time>.</stage>
                     <div ana="#PAR.PredDnevRed">
-                        <sp who="#sp.RZ.RemskarTine">
+                        <sp who="#sp.RemškarTine">
                             <speaker>Predsednik Tine Remškar:</speaker>
                             <p>
                                 <s>
@@ -311,7 +311,7 @@
                             </p>
                         </sp>
                         <div ana="#PAR.Odsot">
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <p>
                                     <s>
                                         <w ana="#Zp-zet" lemma="svoj">Svojo</w>
@@ -393,7 +393,7 @@
                             </sp>
                         </div>
                         <div ana="#PAR.DolDnevRed">
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <p>
                                     <s>
                                         <w ana="#Do" lemma="z">S</w>
@@ -848,7 +848,7 @@
                     </div>
                     <div ana="#PAR.DnevRed">
                         <div n="1" ana="#PAR.TDR">
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <p>Če nima, menim, da je zbor predlog dnevnega reda sprejel in
                                     prehajamo na 1. točko dnevnega reda.</p>
                                 <p>Zapisnik 4. in 5. seje Republiškega zbora ste prejeli pismeno.
@@ -858,7 +858,7 @@
                             </sp>
                         </div>
                         <div n="2" ana="#PAR.TDR">
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <p>Prehajamo na 2. točko dnevnega reda, in sicer na vprašanja
                                     poslancev.</p>
                                 <p>Poslanca Davorin Ferligoj in inž. Viktor Klanjšček sta preko
@@ -869,7 +869,7 @@
                                     Klanjščka pa inž. Janez Perovšek.</p>
                                 <p>Prosim, če bi tovariš Perovšek dal odgovor.</p>
                             </sp>
-                            <sp who="#sp.RZ.PerovsekJanez">
+                            <sp who="#sp.PerovšekJanez">
                                 <speaker>Inž. Janez Perovšek:</speaker>
                                 <p>Tovariš inž. Viktor Klanjšček je stavil dvoje vprašanj. Prvo
                                     vprašanje se glasi: »Kakšne ukrepe namerava Izvršni svet
@@ -1037,11 +1037,11 @@
                                     odločili.</p>
                             </sp>
                             <pb n="7" xml:id="pb.7"/>
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Ali se poslanec inž. Viktor Klanjšček zadovolji z odgovorom?</p>
                             </sp>
-                            <sp who="#sp.RZ.KlanjscekViktor">
+                            <sp who="#sp.KlanjščekViktor">
                                 <speaker>Inž. Viktor Klanjšček:</speaker>
                                 <p>Tovariši poslanci! K izvajanjem tovariša sekretarja Janeza
                                     Perovška bi imel še nekaj kratkih pripomb.</p>
@@ -1077,12 +1077,12 @@
                                     takoj, bi bilo dobro, da se najprej reši vprašanje bukovine,
                                     kasneje pa problem iglavcev.</p>
                             </sp>
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Prosim predstavnika Izvršnega sveta tovariša Janka Potočnika, da
                                     odgovori na vprašanje poslanca Davorina Ferligoja.</p>
                             </sp>
-                            <sp who="#sp.RZ.PotocnikJanko">
+                            <sp who="#sp.PotočnikJanko">
                                 <speaker>Janko Potočnik:</speaker>
                                 <p>Tovarišice in tovariši poslanci! Tovariš Ferligoj je predložil
                                     naslednja vprašanja: 1. Kaj meni Izvršni svet v zvezi z opisano
@@ -1230,14 +1230,14 @@
                                     obdelana.</p>
                             </sp>
                             <pb n="10" xml:id="pb.10"/>
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Ali se poslanec Davorin Ferligoj zadovolji z odgovorom?
                                         <stage>(Se zadovolji.)</stage></p>
                             </sp>
                         </div>
                         <div n="3" ana="#PAR.TDR">
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <p>Ker je s tem ta točka dnevnega reda izčrpana, prehajamo na 3.
                                     točko dnevnega reda, in sicer na obravnavo osnovnih problemov
                                     razvoja obrti v Socialistični republiki Sloveniji.</p>
@@ -1250,7 +1250,7 @@
                                     >prekinjena ob 10. uri</time> in <time from="10:15:00"
                                     xml:id="stage.t.3">se je nadaljevala ob 10.15</time> skupno z
                                 Gospodarskim zborom.)</stage>
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Pričenjam skupno sejo Republiškega in Gospodarskega zbora.</p>
                                 <p>Osnovne probleme razvoja obrti v SR Sloveniji bomo obravnavali na
@@ -1271,7 +1271,7 @@
                                 <p>Prosim predsednika odbora za industrijo in promet Republiškega
                                     zbora, da da uvodno obrazložitev h gradivu.</p>
                             </sp>
-                            <sp who="#sp.RZ.DolencStane">
+                            <sp who="#sp.DolencStane">
                                 <speaker>Stane Dolenc:</speaker>
                                 <p>Tovarišice in tovariši poslanci! Ko je naš odbor za industrijo in
                                     promet prevzel nalogo, da obenem z obravnavo predloga zakona o
@@ -1535,7 +1535,7 @@
                                     ukvarjala predvsem z raziskovanjem tehnoloških postopkov in
                                     spremljala razvoj na tržiščih.</p>
                             </sp>
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Preden bi prešli na razpravo, obveščam poslance obeh zborov, da
                                     smo na današnjo sejo povabili tudi predstavnika Gospodarske
@@ -1548,7 +1548,7 @@
                                         xml:id="pb.15"/>točki dnevnega reda, da se prijavijo k
                                     razpravi. Kot prvi se je doslej prijavil inž. Miran Guzelj.</p>
                             </sp>
-                            <sp who="#sp.RZ.GuzeljMiran">
+                            <sp who="#sp.GuzeljMiran">
                                 <speaker>Inž. Miran Guzelj:</speaker>
                                 <p>Tovarišice in tovariši poslanci! V družbenem planu Socialistične
                                     republike Slovenije za leto 1964 smo pred mesecem dni na tem
@@ -1693,11 +1693,11 @@
                                     industrijskih podjetjih, ki bodo v stanju kriti še danes pereče
                                     probleme po obrtnih storitvah.</p>
                             </sp>
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Besedo ima tovariš Edo Komočar.</p>
                             </sp>
-                            <sp who="#sp.RZ.KomocarEdo">
+                            <sp who="#sp.KomočarEdo">
                                 <speaker>Edo Komočar:</speaker>
                                 <p>Tovarišice in tovariši poslanci! Iz samega materiala, ki je bil
                                     predložen v zvezi z osnovnimi problemi razvoja obrti V
@@ -1788,12 +1788,12 @@
                                     tudi skladi za razširitev in izpopolnitev osnovne dejavnosti,
                                     pri čemer moramo posvetiti posebno pozornost vzgoji kadrov.</p>
                             </sp>
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Besedo ima poslanec Bruno Giachin. Prosim prevajalca tovariša
                                     Furlanija, da govor prevaja.</p>
                             </sp>
-                            <sp who="#sp.RZ.GiachinBruno">
+                            <sp who="#sp.GiachinBruno">
                                 <speaker>Bruno Giachin:</speaker>
                                 <p>Compagni deputati, poiche stiamo per approvare il progetto di
                                     legge sull'artigianato nell'ambito della nostra Repubblica,
@@ -1968,19 +1968,19 @@
                                 <p>Končno pripominjam, da se z osnutkom zakona v celoti strinjam in
                                     izjavljam, da bom zanj glasoval.</p>
                             </sp>
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Prekinjam sejo in odrejam 30 minut odmora.</p>
                             </sp>
                             <stage type="time">(Seja je bila <time to="11:00:00" xml:id="stage.t.4"
                                     >prekinjena ob 11. uri</time> in se je <time from="11:30:00"
                                     xml:id="stage.t.5">nadaljevala ob 11.30</time>.)</stage>
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Nadaljujemo skupno sejo. K besedi se je prijavil tovariš Riko
                                     Rižnar.</p>
                             </sp>
-                            <sp who="#sp.RZ.RiznarRiko">
+                            <sp who="#sp.RižnarRiko">
                                 <speaker>Riko Rižnar:</speaker>
                                 <p>Tovarišice in tovariši poslanci! V materialih o problematiki
                                     obrti v naši republiki lahko med drugim ugotovimo, da zavira
@@ -2030,12 +2030,12 @@
                                 <p>Predlagam, da zbor resolucijo o nadaljnjem razvoju obrti v
                                     Socialistični republiki Sloveniji v celoti sprejme.</p>
                             </sp>
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Besedo ima predstavnik Gospodarske zbornice Socialistične
                                     republike Slovenije tovariš Peter Vujec.</p>
                             </sp>
-                            <sp who="#sp.RZ.VujecPeter">
+                            <sp who="#sp.VujecPeter">
                                 <speaker>Peter Vujec:</speaker>
                                 <p>Tovarišice in tovariši poslanci! Kot predstavniku republiške
                                     gospodarske zbornice mi dovolite, da ob tej priložnosti povem
@@ -2132,11 +2132,11 @@
                                     sklepe, ki naj zagotove večji in hitrejši napredek tudi na
                                     področju obrtnega gospodarstva.</p>
                             </sp>
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Hvala. Besedo ima poslanec Franc Virk.</p>
                             </sp>
-                            <sp who="#sp.RZ.VirkFranc">
+                            <sp who="#sp.VirkFranc">
                                 <speaker>Franc Virk:</speaker>
                                 <p>Tovarišice in tovariši poslanci! V razpravi se bom omejil na
                                     uslužnostno obrtno dejavnost avtomobilske stroke ter s tem v
@@ -2265,11 +2265,11 @@
                                     avtomobilske stroke, ki so v okviru sedemletnega plana razvoja
                                     našega gospodarstva tudi potrebne.</p>
                             </sp>
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Tine Remškar:</speaker>
                                 <p>K besedi se je prijavil Drago Dolinšek.</p>
                             </sp>
-                            <sp who="#sp.RZ.DolinsekDrago">
+                            <sp who="#sp.DolinšekDrago">
                                 <speaker>Drago Dolinšek:</speaker>
                                 <p>Tovarišice in tovariši! Naša industrijska proizvodnja je, v
                                     pretekli dobi, zlasti pa v zadnjem letu, dosegla izredne
@@ -2411,11 +2411,11 @@
                                     trdni poslovni morali in pri pravilno odmerjenih vzajemnih
                                     koristih.</p>
                             </sp>
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Besedo ima tovarišica Ivanka Šulgaj.</p>
                             </sp>
-                            <sp who="#sp.RZ.SulgajIvanka">
+                            <sp who="#sp.ŠulgajIvanka">
                                 <speaker>Ivanka Šulgaj:</speaker>
                                 <p>Tovarišice in tovariši poslanci! V »Informaciji o osnovnih
                                     problemih razvoja obrti« so precej obširno nanizani problemi
@@ -2524,11 +2524,11 @@
                                     zagotovili ne samo skladen razvoj obrti, temveč vseh storitvenih
                                     dejavnosti.</p>
                             </sp>
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Besedo ima Ignac Karničnik.</p>
                             </sp>
-                            <sp who="#sp.RZ.KarnicnikIgnac">
+                            <sp who="#sp.KarničnikIgnac">
                                 <speaker>Ignac Karničnik:</speaker>
                                 <p>Tovarišice in tovariši poslanci! V svoji razpravi se želim z
                                     nekaj besedami dotakniti predvsem tistega dela informacije
@@ -2594,11 +2594,11 @@
                                     boljšo tehnologijo dela v obrtništvu, dosegli zaželen smoter po
                                     ceneni, a vendar solidni gradnji stanovanj.</p>
                             </sp>
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Hvala lepa. Besedo ima tovariš Jože Laznik.</p>
                             </sp>
-                            <sp who="#sp.RZ.LaznikJoze">
+                            <sp who="#sp.LaznikJoze">
                                 <speaker>Jože Laznik:</speaker>
                                 <p>Tovarišice in tovariši! V razpravi o obrti ne smemo prezreti
                                     vloge, ki jo ima zlasti storitvena obrt pri razvijanju
@@ -2721,11 +2721,11 @@
                                     vključevanja v industrijski način dela pri zaključnih delih,
                                     zlasti pri deficitarnih storitvah.</p>
                             </sp>
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Besedo ima tovariš Miran Cvenk.</p>
                             </sp>
-                            <sp who="#sp.RZ.CvenkMiran">
+                            <sp who="#sp.CvenkMiran">
                                 <speaker>Miran Cvenk:</speaker>
                                 <p>Tovarišice in tovariši poslanci! Dovolite mi, da se v zvezi s
                                     predloženo informacijo o problemih obrtništva z nekaj besedami
@@ -2809,11 +2809,11 @@
                                     gospodarstva, in da bo taka davčna politika stimulirala tako
                                     obrtnika kakor tudi koristnika njegovih uslug.</p>
                             </sp>
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Besedo ima tovariš Tone Fajfar.</p>
                             </sp>
-                            <sp who="#sp.RZ.FajfarTone">
+                            <sp who="#sp.FajfarTone">
                                 <speaker>Tone Fajfar:</speaker>
                                 <p>Tovariši in tovarišice! Danes pravzaprav prvič naša republiška
                                     skupščina tako celovito razpravlja o, obrti. To priložnost, ko
@@ -3224,11 +3224,11 @@
                                     vodenje neke razumne politike, ne da bi vse breme prevrgli samo
                                     na občine.</p>
                             </sp>
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Besedo ima tovarišica inž. Jelka Kajzersberger.</p>
                             </sp>
-                            <sp who="#sp.RZ.KajzersbergerJelka">
+                            <sp who="#sp.KajzersbergerJelka">
                                 <speaker>Inž. Jelka Kajzersberger:</speaker>
                                 <p>Tovarišice in tovariši poslanci! Spregovorila bi rada nekaj besed
                                     o obrti in njeni povezavi s turizmom. Podobno to navaja
@@ -3322,7 +3322,7 @@
                                     namenom, da se doseže vidnejši napredek v turizmu kot
                                     najinteresantnejši gospodarski panogi.</p>
                             </sp>
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Tovarišice in tovariši! Prijavljenih govornikov nimam več. Ali
                                     želi še kdo razpravljati? (Ne javi se nihče.)</p>
@@ -3543,7 +3543,7 @@
                                     ob 16.30</time>.)</stage>
                         </div>
                         <div n="4" ana="#PAR.TDR">
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Nadaljujemo sejo Republiškega zbora. Prehajamo na 4. točko
                                     dnevnega reda, to je na obravnavo in sklepanje o predlogu zakona
@@ -3555,7 +3555,7 @@
                                     dati še ustno obrazložitev? <stage>(Želi.)</stage> Prosim.</p>
                                 <pb n="46" xml:id="pb.46"/>
                             </sp>
-                            <sp who="#sp.RZ.DolinsekDrago">
+                            <sp who="#sp.DolinšekDrago">
                                 <speaker>Drago Dolinšek:</speaker>
                                 <p>Tovariši in tovarišice! Pri prejšnji točki dnevnega reda je zbor
                                     razpravljal o stanju in problemih obrti, ki v dosedanjem razvoju
@@ -3666,7 +3666,7 @@
                                     pa bili vključeni predlogi, ki so skušali ohraniti
                                     administrativno omejevanje obrti po dosedanjem sistemu.</p>
                             </sp>
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Predlog zakona je v Republiškem zboru obravnaval kot pristojni
                                     odbor za industrijo in promet, ki je dal tudi pismeno poročilo.
@@ -3674,19 +3674,19 @@
                                         <stage>(Ne.)</stage> V vašem poročilu so nekateri amandmaji,
                                     ki so v nasprotju z amandmaji zakonodajno-pravne komisije.</p>
                             </sp>
-                            <sp who="#sp.RZ.DolencStane">
+                            <sp who="#sp.DolencStane">
                                 <speaker>Stane Dolenc:</speaker>
                                 <p>Odbor za industrijo in promet se strinja z amandmaji
                                     zakonodajno-pravne komisije.</p>
                                 <pb n="48" xml:id="pb.48"/>
                             </sp>
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Predlog zakona je obravnavala tudi zakonodajno-pravna komisija.
                                     Ali želi dati predstavnik te komisije še ustno poročilo?
                                         <stage>(Da.)</stage></p>
                             </sp>
-                            <sp who="#sp.RZ.SifrerSavo">
+                            <sp who="#sp.ŠifrerSavo">
                                 <speaker>Savo Šifrer:</speaker>
                                 <p>Sklicujem se v celoti na pismeno poročilo zakonodajno-pravne
                                     komisije. Opozarjam samo, da je nastala pri sestavljanju
@@ -3695,7 +3695,7 @@
                                     kot je pomotoma v poročilu napisano. Prosim, da se na strani 4
                                     pod točko 20 spremeni številka 74 v 73.</p>
                             </sp>
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Začenjamo razpravo o predlogu zakona. Želi kdo razpravljati?
                                         <stage>(Ne javi se nihče.)</stage></p>
@@ -3712,7 +3712,7 @@
                             </sp>
                         </div>
                         <div n="5" ana="#PAR.TDR">
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <p>S tem prehajamo na 5. točko dnevnega reda, in sicer na obravnavo
                                     in sklepanje o predlogu odloka o potrditvi zaključnega računa
                                     republiškega investicijskega sklada za leto 1962.</p>
@@ -3722,7 +3722,7 @@
                                     predstavnik Izvršnega sveta še ustno obrazložitev? (Želi.)
                                     Prosim! Besedo ima tovariš Miran Cvenk.</p>
                             </sp>
-                            <sp who="#sp.RZ.CvenkMiran">
+                            <sp who="#sp.CvenkMiran">
                                 <speaker>Miran Cvenk:</speaker>
                                 <p>Dovolite tovariši in tovarišice, da k predlogu odloka o potrditvi
                                     zaključnega računa republiškega investicijskega sklada za leto
@@ -3911,7 +3911,7 @@
                                     zaključni račun republiškega investicijskega sklada za leto
                                     1962.</p>
                             </sp>
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Tine Remškar:</speaker>
                                 <p>Predlog odloka je kot pristojni odbor obravnaval odbor za
                                     družbeni plan in finance, ki je predložil tudi pismeno poročilo.
@@ -3933,7 +3933,7 @@
                             </sp>
                         </div>
                         <div n="6" ana="#PAR.TDR">
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <p>Prehajamo na 6. točko dnevnega reda, na obravnavo in sklepanje o
                                     predlogu odloka o sprostitvi sredstev posebne obvezne rezerve
                                     skladov iz leta 1962.</p>
@@ -3942,7 +3942,7 @@
                                     Cvenka. Želi predstavnik tovariš Miran Cvenk še ustno
                                     obrazložitev? <stage>(Da.)</stage></p>
                             </sp>
-                            <sp who="#sp.RZ.CvenkMiran">
+                            <sp who="#sp.CvenkMiran">
                                 <speaker>Miran Cvenk:</speaker>
                                 <p>Tovarišice in tovariši poslanci! Uredba o uvedbi 5% obvezne
                                     rezerve skladov je bila pogojena z zveznimi predpisi in datira
@@ -3970,7 +3970,7 @@
                                     navedenih razlogov predlagam, da Skupščina predlog odloka
                                     sprejme.</p>
                             </sp>
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Predlog odloka je kot pristojni odbor obravnaval odbor za
                                     družbeni plan in finance, ki je dal tudi pismeno obrazložitev.
@@ -3991,7 +3991,7 @@
                             </sp>
                         </div>
                         <div n="7" ana="#PAR.TDR">
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <p>Prehajamo na 7. točko dnevnega reda, na obravnavo in sklepanje o
                                     predlogu odloka o oprostitvi invalidskih delavnic za poklicno
                                     rehabilitacijo in zaposlitev invalidov plačevanja dela
@@ -4003,7 +4003,7 @@
                                     predstavnik Izvršnega sveta dati še ustno obrazložitev?
                                         <stage>(Da.)</stage> Besedo ima tovariš Miran Cvenk.</p>
                             </sp>
-                            <sp who="#sp.RZ.CvenkMiran">
+                            <sp who="#sp.CvenkMiran">
                                 <speaker>Miran Cvenk:</speaker>
                                 <p>Tovarišice in tovariši poslanci! Dovolite mi, da spregovorim
                                     nekaj besed o predlogu odloka o oprostitvi invalidskih delavnic
@@ -4046,7 +4046,7 @@
                                     prispevka iz osebnega dohodka sprejmete v obliki in obsegu, kot
                                     je Skupščini predložen.</p>
                             </sp>
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Predlog odloka je kot pristojni odbor obravnaval odbor za
                                     družbeni plan in finance, ki je k predlogu dal več predlogov za
@@ -4072,7 +4072,7 @@
                             </sp>
                         </div>
                         <div n="8" ana="#PAR.TDR">
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <p>Prehajamo na 8. točko dnevnega reda, in sicer na obravnavo in
                                     sklepanje o tezah za zakon o mestih, ki so razdeljena na
                                     občine.</p>
@@ -4088,7 +4088,7 @@
                                     rešitve obravnavanih problemov. Prosim.</p>
                                 <pb n="54" xml:id="pb.54"/>
                             </sp>
-                            <sp who="#sp.RZ.PremrouBranko">
+                            <sp who="#sp.PremrouBranko">
                                 <speaker>Dr. Branko Premrou:</speaker>
                                 <p>Tovarišice poslanke, tovariši poslanci! Mesto nima. v našem
                                     družbeno-političnem in upravnem sistemu nobenega posebnega
@@ -4235,12 +4235,12 @@
                                     pomen posameznih določb sta razvidni iz pismenega poročila, ki
                                     je priloženo tezam.</p>
                             </sp>
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Ali želi poročevalec odbora za organizacijsko-politična vprašanja
                                     dati še ustno obrazložitev? (Da.)</p>
                             </sp>
-                            <sp who="#sp.RZ.BelopavlovicNiko">
+                            <sp who="#sp.RZ.BelopavlovičNiko">
                                 <speaker>Niko Belopavlovič:</speaker>
                                 <p>Tovarišice in tovariši poslanci! Ko obravnavamo vsebino in smisel
                                     tez za zakon o mestih, ki so razdeljena na občine, moramo za
@@ -4448,7 +4448,7 @@
                                     posvečati največjo skrb tudi pri sestavljanju predloga
                                     zakona.</p>
                             </sp>
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Ugotavljam, da vsebuje poročilo odbora za
                                     organizacijsko-politična vprašanja in poročilo
@@ -4458,7 +4458,7 @@
                                     komisije?</p>
                                 <pb n="60" xml:id="pb.60"/>
                             </sp>
-                            <sp who="#sp.RZ.StupanMitja">
+                            <sp who="#sp.StupanMitja">
                                 <speaker>Mitja Stupan:</speaker>
                                 <p>Po proučitvi pripomb zakonodajno-pravne komisije Skupščine
                                     Socialistične republike Slovenije k stališčem našega odbora o
@@ -4468,7 +4468,7 @@
                                     osnovnih zamisli v prej izraženih stališčih odbora, zaradi česar
                                     se odbor s predlaganimi spremembami strinja.</p>
                             </sp>
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Hvala. Ali želi še predstavnik zakonodajno-pravne komisije dati
                                     ustno obrazložitev. <stage>(Ne.)</stage> Če ne želi, začenjam
@@ -4506,7 +4506,7 @@
                                     xml:id="stage.t.9">nadaljevala ob 18. uri</time>.)</stage>
                         </div>
                         <div n="9" ana="#PAR.TDR">
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Nadaljujemo sejo Republiškega zbora.</p>
                                 <p>Prehajamo na 9. točko dnevnega reda, na obravnavo in sklepanje o
@@ -4518,7 +4518,7 @@
                                     Izvršnega sveta dati še ustno obrazložitev? <stage>(Da.</stage>)
                                     Besedo ima France Kutin.</p>
                             </sp>
-                            <sp who="#sp.RZ.KutinFrance">
+                            <sp who="#sp.KutinFrance">
                                 <speaker>France Kutin:</speaker>
                                 <p>Tovariši in tovarišice poslanci! Ko je Izvršni svet SR Slovenije
                                     razpravljal o osnutku zakona o začetku uporabljanja določb
@@ -4735,14 +4735,14 @@
                                     razprave ob priliki sprejemanja predloženega zakonskega
                                     osnutka.</p>
                             </sp>
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Predlog zakona je kot pristojni odbor obravnaval odbor za
                                     organizacijsko-politična vprašanja, ki je dal tudi pismeno
                                     poročilo. Ali želi poročevalec odbora dati še ustno poročilo?
                                         <stage>(Da.)</stage> Prosim!</p>
                             </sp>
-                            <sp who="#sp.RZ.DrakslerMirko">
+                            <sp who="#sp.DrakslerMirko">
                                 <speaker>Mirko Draksler:</speaker>
                                 <p>Tovarišice in tovariši poslanci! Odbor se strinja z amandmajem,
                                     ki ga je k 2. členu predloga zakona sprejela zakonodajno-pravna
@@ -4750,7 +4750,7 @@
                                     zvezi z besedilom 1. člena, še bolj določno precizira začetek
                                     uporabe zakona.</p>
                             </sp>
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Hvala. Ali želi dati ustno obrazložitev tudi predstavnik
                                     zakonodajno-pravne komisije? <stage>(Ne želi.)</stage> Če ne
@@ -4769,7 +4769,7 @@
                             </sp>
                         </div>
                         <div n="10" ana="#PAR.TDR">
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <p>Prehajamo na 10. točko dnevnega reda, na obravnavo in sklepanje o
                                     predlogu zakona o prenehanju veljavnosti zakona o občinskih
                                     ljudskih odborih in zakona o okrajnih ljudskih odborih.</p>
@@ -4800,7 +4800,7 @@
                             </sp>
                         </div>
                         <div n="11" ana="#PAR.TDR">
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <p>Prehajamo na 11. točko dnevnega reda, in sicer na imenovanja in
                                     razrešitve. Ta točka obsega:</p>
                                 <list type="ordered">
@@ -4815,7 +4815,7 @@
                                     odbor sklada Socialistične republike Slovenije za šolstvo.
                                     Besedo ima poslanec Adolf Arigler.</p>
                             </sp>
-                            <sp who="#sp.RZ.AriglerAdolf">
+                            <sp who="#sp.AriglerAdolf">
                                 <speaker>Adolf Arigler:</speaker>
                                 <p>Tovarišice in tovariši poslanci! Na podlagi 57. člena začasnega
                                     poslovnika Skupščine SR Slovenije ter v zvezi s 6. členom zakona
@@ -4835,7 +4835,7 @@
                                     Okrajnega komiteja ZKS Ljubljana, in Zdravka Troho, direktorja
                                     Zavoda za prosvetno pedagoško službo, Koper.</p>
                             </sp>
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Slišali ste predlog komisije za volitve in imenovanja. Želi kdo
                                     razpravljati o tem predlogu? <stage>(Ne javi se nihče.)</stage>
@@ -4859,7 +4859,7 @@
                                     sklada Socialistične republike Slovenije.</p>
                                 <pb n="66" xml:id="pb.66"/>
                             </sp>
-                            <sp who="#sp.RZ.AriglerAdolf">
+                            <sp who="#sp.AriglerAdolf">
                                 <speaker>Adolf Arigler:</speaker>
                                 <p>Na podlagi 57. člena začasnega poslovnika Skupščine Socialistične
                                     republike Slovenije ter v zvezi s 4. členom zakona o vodnem
@@ -4889,7 +4889,7 @@
                                     in inž. Viktorja Hermana, vodjo oddelka za raziskave pri
                                     Kmetijskem posestvu Barje.</p>
                             </sp>
-                            <sp who="#sp.RZ.RemskarTine">
+                            <sp who="#sp.RemškarTine">
                                 <speaker>Predsednik Tine Remškar:</speaker>
                                 <p>Dajem ta predlog v razpravo. Želi kdo besedo? <stage>(Ne javi se
                                         nihče.)</stage> Če nihče, dajem predlog o imenovanju članov
@@ -4920,7 +4920,7 @@
                                     poročilo k predlogu o razrešitvi sodnika okrožnega sodišča v
                                     Kranju.</p>
                             </sp>
-                            <sp who="#sp.RZ.AriglerAdolf">
+                            <sp who="#sp.AriglerAdolf">
                                 <speaker>Adolf Arigler:</speaker>
                                 <p>Na podlagi 140. člena začasnega poslovnika Republiškega zbora
                                     Skupščine Socialistične republike Slovenije je komisija za
@@ -4977,25 +4977,25 @@
                     </timeline>
                     <castList>
                         <castItem><roleDesc>Predsedoval</roleDesc>: <actor
-                                xml:id="sp.GZ.LeopoldKrese">Leopold Krese</actor>, <role>predsednik
+                                xml:id="sp.LeopoldKrese">Leopold Krese</actor>, <role>predsednik
                                 Gospodarskega zbora</role></castItem>
                     </castList>
                     <stage type="time"><time from="09:40:00" xml:id="stage.t.11">Začetek seje ob
                             9.40</time>.</stage>
                     <div ana="#PAR.PredDnevRed">
-                        <sp who="#sp.GZ.LeopoldKrese">
+                        <sp who="#sp.LeopoldKrese">
                             <speaker>Predsednik Leopold Krese:</speaker>
                             <p>Tovariši in tovarišice poslanci! Pričenjamo 5. sejo Gospodarskega
                                 zbora Skupščine SR Slovenije.</p>
                         </sp>
                         <div ana="#PAR.Odsot">
-                            <sp who="#sp.GZ.LeopoldKrese">
+                            <sp who="#sp.LeopoldKrese">
                                 <p>Odsotnost so opravičili poslanci: Ciril Uršič, inž. Danilo Dolgan
                                     in Franc Čop. Predlagam, da jim odsotnost odobrimo.</p>
                             </sp>
                         </div>
                         <div ana="#PAR.DolDnevRed">
-                            <sp who="#sp.GZ.LeopoldKrese">
+                            <sp who="#sp.LeopoldKrese">
                                 <p>Za današnjo sejo predlagam naslednji dnevni red:</p>
                                 <list type="ordered">
                                     <item n="1">odobritev zapisnika 4. seje Gospodarskega
@@ -5020,12 +5020,12 @@
                                         <stage>(K besedi se prijavi poslanec Edo
                                     Komočar.)</stage></p>
                             </sp>
-                            <sp who="#sp.GZ.KomocarEdo">
+                            <sp who="#sp.KomočarEdo">
                                 <speaker>Edo Komočar:</speaker>
                                 <p>Tovariš predsednik, predlagam, da sprejmemo kot dodatno 7. točko
                                     dnevnega reda, to je poslanska vprašanja.</p>
                             </sp>
-                            <sp who="#sp.GZ.LeopoldKrese">
+                            <sp who="#sp.LeopoldKrese">
                                 <speaker>Predsednik Leopold Krese:</speaker>
                                 <p>Je še kak predlog prosim? <stage>(Ne javi se nihče.)</stage>
                                     Menim, da predlog poslanca Komočarja lahko sprejmemo in je 7.
@@ -5036,7 +5036,7 @@
                     </div>
                     <div ana="#PAR.DnevRed">
                         <div n="1" ana="#PAR.TDR">
-                            <sp who="#sp.GZ.LeopoldKrese">
+                            <sp who="#sp.LeopoldKrese">
                                 <p>Prehajamo na 1. točko dnevnega reda, to je na odobritev zapisnika
                                     4. seje Gospodarskega zbora.</p>
                                 <p>Zapisnik 4. seje ste prejeli. Ima kdo kako pripombo k zapisniku?
@@ -5046,7 +5046,7 @@
                             <pb n="69" xml:id="pb.69"/>
                         </div>
                         <div n="2" ana="#PAR.TDR">
-                            <sp who="#sp.GZ.LeopoldKrese">
+                            <sp who="#sp.LeopoldKrese">
                                 <p>Prehajamo na 2. točko dnevnega reda, to je na obravnavo osnovnih
                                     problemov razvoja obrti v SR Sloveniji.</p>
                                 <p>S predsednikom Republiškega zbora sem se dogovoril, da bi o tej
@@ -5062,7 +5062,7 @@
                                     xml:id="stage.t.13">nadaljevala ob 16.35</time>.)</stage>
                         </div>
                         <div n="3" ana="#PAR.TDR">
-                            <sp who="#sp.GZ.LeopoldKrese">
+                            <sp who="#sp.LeopoldKrese">
                                 <speaker>Predsednik Leopold Krese:</speaker>
                                 <p>Nadaljujemo sejo. Na vrsti je 3. točka dnevnega reda, to je
                                     obravnava in sklepanje o predlogu zakona o obrtnih delavnicah
@@ -5072,32 +5072,32 @@
                                 <p>Želi morda predstavnik Izvršnega sveta predlog zakona še ustno
                                     obrazložiti?</p>
                             </sp>
-                            <sp who="#sp.GZ.GaspariMajda">
+                            <sp who="#sp.GaspariMajda">
                                 <speaker>Majda Gaspari:</speaker>
                                 <p>Glede na obširno dopoldansko razpravo menim, da dodatna ustna
                                     obrazložitev ni potrebna.</p>
                             </sp>
-                            <sp who="#sp.GZ.LeopoldKrese">
+                            <sp who="#sp.LeopoldKrese">
                                 <speaker>Predsednik Leopold Krese:</speaker>
                                 <p>Ali se strinjate s tem, da je bilo na obširni dopoldanski
                                     razpravi pravzaprav že vse povedano? Ali kdo smatra, da je treba
                                     še razpravljati? Morda predstavnik odbora za proučevanje
                                     zakonskih in drugih predlogov?</p>
                             </sp>
-                            <sp who="#sp.GZ.FilipcicFranc">
+                            <sp who="#sp.FilipčičFranc">
                                 <speaker>Inž. Franc Filipčič:</speaker>
                                 <p>Tovariši poslanci, pripominjam samo, da je v poročilu
                                     zakonodajno-pravne komisije tiskovna napaka in to pri točki 20,
                                     v drugi in tretji vrsti 73., ne pa 74. člena, kot je navedeno v
                                     poročilu.</p>
                             </sp>
-                            <sp who="#sp.GZ.LeopoldKrese">
+                            <sp who="#sp.LeopoldKrese">
                                 <speaker>Predsednik Leopold Krese:</speaker>
                                 <p>Prosim tovariša Tomažiča, predstavnika odbora Gospodarskega zbora
                                     za proučevanje zakonskih in drugih predlogov, da da
                                     pojasnilo.</p>
                             </sp>
-                            <sp who="#sp.GZ.TomazicTomaz">
+                            <sp who="#sp.TomažičTomaz">
                                 <speaker>Tomaž Tomažič:</speaker>
                                 <p>Odbor za proučevanje zakonskih in drugih predlogov je na seji dne
                                     30. januarja 1964 ponovno obravnaval predlog zakona o obrtnih
@@ -5119,11 +5119,11 @@
                                     dopolnitvami.</p>
                                 <pb n="70" xml:id="pb.70"/>
                             </sp>
-                            <sp who="#sp.GZ.LeopoldKrese">
+                            <sp who="#sp.LeopoldKrese">
                                 <speaker>Predsednik Leopold Krese:</speaker>
                                 <p>Želi kdo besedo? Besedo ima tovariš Riko Rižnar.</p>
                             </sp>
-                            <sp who="#sp.GZ.RiznarRiko">
+                            <sp who="#sp.RižnarRiko">
                                 <speaker>Riko Rižnar:</speaker>
                                 <p>Tovarišice in tovariši poslanci! Predlagam, da zbor sprejme v
                                     zvezi s predlogom zakona o obrtnih delavnicah samostojnih
@@ -5142,27 +5142,27 @@
                                     da namen zakona ne bo dosežen, kolikor ostane v njem zahteva po
                                     potrdilu, pa četudi gre zgolj za informacijo.</p>
                             </sp>
-                            <sp who="#sp.GZ.LeopoldKrese">
+                            <sp who="#sp.LeopoldKrese">
                                 <speaker>Predsednik Leopold Krese:</speaker>
                                 <p>Dajem v razpravo predlagani amandma. Kaj meni o amandmaju
                                     predstavnik Izvršnega sveta?</p>
                             </sp>
-                            <sp who="#sp.GZ.GaspariMajda">
+                            <sp who="#sp.GaspariMajda">
                                 <speaker>Majda Gaspari:</speaker>
                                 <p>Mislim, da tako informiranje delovne organizacije ne more nikomur
                                     škodovati in da je zato popravek v tem smislu nepotreben.</p>
                             </sp>
-                            <sp who="#sp.GZ.LeopoldKrese">
+                            <sp who="#sp.LeopoldKrese">
                                 <speaker>Predsednik Leopold Krese:</speaker>
                                 <p>Prosim poročevalca odbora za proučevanje zakonskih in drugih
                                     predlogov, da se izjavi.</p>
                             </sp>
-                            <sp who="#sp.GZ.TomazicTomaz">
+                            <sp who="#sp.TomažičTomaz">
                                 <speaker>Tomaž Tomažič:</speaker>
                                 <p>Na seji odbora smo bili istega mnenja, ker je to več ali manj
                                     formalna zadeva, zato se odbor z amandmajem ne strinja.</p>
                             </sp>
-                            <sp who="#sp.GZ.LeopoldKrese">
+                            <sp who="#sp.LeopoldKrese">
                                 <speaker>Predsednik Leopold Krese:</speaker>
                                 <p>Slične pripombe so bile obravnavane tudi na skupni seji
                                     zakonodajno-pravne komisije, na seji odbora za industrijo in
@@ -5172,11 +5172,11 @@
                                         nihče.)</stage> Poročevalci so se izjasnili proti amandmaju.
                                     Tovariš Rižnar, ali vztrajaš pri predlogu?</p>
                             </sp>
-                            <sp who="#sp.GZ.RiznarRiko">
+                            <sp who="#sp.RižnarRiko">
                                 <speaker>Riko Rižnar:</speaker>
                                 <p>Vztrajam!</p>
                             </sp>
-                            <sp who="#sp.GZ.LeopoldKrese">
+                            <sp who="#sp.LeopoldKrese">
                                 <speaker>Predsednik Leopold Krese:</speaker>
                                 <p>Zbor moram obvestiti, da so bili v diskusiji predloženi tudi
                                     nasprotni amandmaji v tem smislu, da bi delavec sploh moral
@@ -5204,7 +5204,7 @@
                             </sp>
                         </div>
                         <div n="4" ana="#PAR.TDR">
-                            <sp who="#sp.GZ.LeopoldKrese">
+                            <sp who="#sp.LeopoldKrese">
                                 <p>Prehajamo na 4. točko dnevnega reda, to je na obravnavo in
                                     sklepanje o predlogu odloka o potrditvi zaključnega računa
                                     republiškega investicijskega sklada za leto 1962.</p>
@@ -5212,7 +5212,7 @@
                                     dal Izvršni svet. Ali želi predstavnik Izvršnega sveta dati še
                                     ustno obrazložitev?</p>
                             </sp>
-                            <sp who="#sp.GZ.JermanRiko">
+                            <sp who="#sp.JermanRiko">
                                 <speaker>Riko Jerman:</speaker>
                                 <p>Tovarišice in tovariši poslanci! Predvsem bi želel povedati, da
                                     sorazmerno pozno predlagamo odlok o potrditvi zaključnega računa
@@ -5440,13 +5440,13 @@
                                     zaključnega računa republiškega investicijskega sklada za leto
                                     1962 sprejme.</p>
                             </sp>
-                            <sp who="#sp.GZ.LeopoldKrese">
+                            <sp who="#sp.LeopoldKrese">
                                 <speaker>Predsednik Leopold Krese:</speaker>
                                 <p>Prosim predstavnika odbora za proučevanje zakonskih in drugih
                                     predlogov Gospodarskega zbora, da da poročilo.</p>
                             </sp>
-                            <sp who="#sp.GZ.ZmaharCiril">
-                                <speaker>Inž. Ciril Zmahar:</speaker>
+                            <sp who="#sp.ŽmaharCiril">
+                                <speaker>Inž. Ciril Žmahar:</speaker>
                                 <p>Odbor za proučevanje zakonskih in drugih predlogov Gospodarskega
                                     zbora Skupščine SR Slovenije je na seji dne 21. januarja 1964
                                     obravnaval predlog odloka o potrditvi zaključnega računa
@@ -5456,7 +5456,7 @@
                                 <p>Odbor predlaga Gospodarskemu zboru Skupščine SR Slovenije, da
                                     sprejme predlog odloka.</p>
                             </sp>
-                            <sp who="#sp.GZ.LeopoldKrese">
+                            <sp who="#sp.LeopoldKrese">
                                 <speaker>Predsednik Leopold Krese:</speaker>
                                 <p>Pričenjam razpravo. Kdo želi besedo? <stage>(Ne javi se
                                         nihče.)</stage> Če nihče, potem dajem predlog odloka na
@@ -5472,7 +5472,7 @@
                             </sp>
                         </div>
                         <div n="5" ana="#PAR.TDR">
-                            <sp who="#sp.GZ.LeopoldKrese">
+                            <sp who="#sp.LeopoldKrese">
                                 <p>Prehajamo na 5. točko dnevnega reda, to je na obravnavo in
                                     sklepanje o predlogu odloka o sprostitvi sredstev posebne
                                     obvezne rezerve skladov iz leta 1962.</p>
@@ -5480,7 +5480,7 @@
                                     želi predstavnik Izvršnega sveta dati še ustno obrazložitev?
                                         <stage>(Da.)</stage> Prosim!</p>
                             </sp>
-                            <sp who="#sp.GZ.JermanRiko">
+                            <sp who="#sp.JermanRiko">
                                 <speaker>Riko Jerman:</speaker>
                                 <p>Tovariši! Čeprav je bila pismena obrazložitev podana dovolj
                                     obširno, mislim, da je treba poudariti še okolnost, ki mogoče ni
@@ -5545,7 +5545,7 @@
                                     v sredstva, ki so sposobna za vse vrste investicijskih
                                     naložb.</p>
                             </sp>
-                            <sp who="#sp.GZ.LeopoldKrese">
+                            <sp who="#sp.LeopoldKrese">
                                 <speaker>Predsednik Leopold Krese:</speaker>
                                 <p>Hvala lepa. Želi morda razpravljati tudi predstavnik odbora za
                                     proučevanje zakonskih in drugih predlogov Gospodarskega zbora?
@@ -5564,7 +5564,7 @@
                             </sp>
                         </div>
                         <div n="6" ana="#PAR.TDR">
-                            <sp who="#sp.GZ.LeopoldKrese">
+                            <sp who="#sp.LeopoldKrese">
                                 <p>Prehajamo na 6. točko dnevnega reda, to je na obravnavo in
                                     sklepanje o predlogu odloka o oprostitvi invalidskih delavnic za
                                     poklicno rehabilitacijo in zaposlitev invalidov plačevanja dela
@@ -5572,7 +5572,7 @@
                                     SR Sloveniji za leto 1963.</p>
                                 <p>Prosim predstavnika Izvršnega sveta, da da obrazložitev.</p>
                             </sp>
-                            <sp who="#sp.GZ.JermanRiko">
+                            <sp who="#sp.JermanRiko">
                                 <speaker>Riko Jerman:</speaker>
                                 <p>Osnovni namen te oprostitve je utemeljen že v sami obrazložitvi.
                                     Povedal bi rad le to, da gre približno za okoli 25 milijonov din
@@ -5588,13 +5588,13 @@
                                     upravljanja v teh organizacijah. Zato vam v imenu Izvršnega
                                     sveta priporočam, da ta odlok sprejmete.</p>
                             </sp>
-                            <sp who="#sp.GZ.LeopoldKrese">
+                            <sp who="#sp.LeopoldKrese">
                                 <speaker>Predsednik Leopold Krese:</speaker>
                                 <p>Prosim predstavnika odbora za proučevanje zakonskih in drugih
                                     predlogov Gospodarskega zbora, da da obrazložitev.</p>
                                 <pb n="77" xml:id="pb.77"/>
                             </sp>
-                            <sp who="#sp.GZ.KomocarEdo">
+                            <sp who="#sp.KomočarEdo">
                                 <speaker>Edo Komočar:</speaker>
                                 <p>Odbor za proučevanje zakonskih in drugih predlogov Gospodarskega
                                     zbora Skupščine SR Slovenije je na seji dne 21. januarja 1964
@@ -5612,7 +5612,7 @@
                                 <p>Odbor predlaga Gospodarskemu zboru Skupščine SR Slovenije, da
                                     predlog odloka s predloženimi spremembami sprejme.</p>
                             </sp>
-                            <sp who="#sp.GZ.LeopoldKrese">
+                            <sp who="#sp.LeopoldKrese">
                                 <speaker>Predsednik Leopold Krese:</speaker>
                                 <p>Želi predstavnik zakonodajno-pravne komisije obrazložiti predlog
                                     odloka? <stage>(Ne.)</stage></p>
@@ -5634,11 +5634,11 @@
                             </sp>
                         </div>
                         <div n="7" ana="#PAR.TDR">
-                            <sp who="#sp.GZ.LeopoldKrese">
+                            <sp who="#sp.LeopoldKrese">
                                 <p>Prehajamo na 7. točko dnevnega reda, to je na poslanska
                                     vprašanja. Dajem besedo tovarišu Ediju Komočarju.</p>
                             </sp>
-                            <sp who="#sp.GZ.KomocarEdo">
+                            <sp who="#sp.KomočarEdo">
                                 <speaker>Edo Komočar:</speaker>
                                 <p>Tovariš predsednik, tovarišice in tovariši poslanci! Dovolite mi,
                                     da v svoji razpravi analiziram in podkrepim s konkretnimi
@@ -5845,7 +5845,7 @@
                                 <p>Zaradi ekonomsko-političnega pomena tega problema prosim
                                     odgovorne faktorje za konkreten odgovor na to vprašanje.</p>
                             </sp>
-                            <sp who="#sp.GZ.LeopoldKrese">
+                            <sp who="#sp.LeopoldKrese">
                                 <speaker>Predsednik Leopold Krese:</speaker>
                                 <p>Menim, da bi na ta vprašanja lahko dobil poslanec odgovor na
                                     prihodnjem zasedanju. Ali se strinjaš s tem predlogo?
@@ -5876,27 +5876,27 @@
                             interval="140"/>
                     </timeline>
                     <castList>
-                        <castItem><roleDesc>Predsedoval</roleDesc>: <actor xml:id="sp.PKZ.TavcarIvo"
+                        <castItem><roleDesc>Predsedoval</roleDesc>: <actor xml:id="sp.TavčarIvo"
                                 >Ivo Tavčar</actor>, <role>predsednik Prosvetno-kulturnega
                                 zbora</role></castItem>
                     </castList>
                     <stage type="time"><time from="09:40:00" xml:id="stage.t.15">Začetek seje ob
                             9.40</time>.</stage>
                     <div ana="#PAR.PredDnevRed">
-                        <sp who="#sp.PKZ.TavcarIvo">
+                        <sp who="#sp.TavčarIvo">
                             <speaker>Predsednik Ivo Tavčar:</speaker>
                             <p>Tovarišice in tovariši poslanci! Začenjam 5. sejo
                                 Prosvetno-kulturnega zbora Skupščine SR Slovenije.</p>
                         </sp>
                         <div ana="#PAR.Odsot">
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <p>Svojo odsotnost so opravičili naslednji poslanci: Truda
                                     Žoher-Durjava, Bernarda Perc in Jože Šturm. S tem ugotavljam, da
                                     je zbor sklepčen.</p>
                             </sp>
                         </div>
                         <div ana="#PAR.DolDnevRed">
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <p>Za današnjo sejo je bil predlagan naslednji dnevni red:</p>
                                 <list type="ordered">
                                     <item n="1">odobritev zapisnika 4. seje Prosvetno-kulturnega
@@ -5923,7 +5923,7 @@
                     </div>
                     <div ana="#PAR.DnevRed">
                         <div n="1" ana="#PAR.TDR">
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <p>Zapisnik prejšnje seje ste prejeli skupaj z vabilom. Ima kdo
                                     kakšno pripombo k zapisniku? <stage>(Ne javi se nihče.)</stage>
                                     Če nihče, menim, da je zapisnik 4. seje odobren in ga bom
@@ -5931,7 +5931,7 @@
                             </sp>
                         </div>
                         <div n="2" ana="#PAR.TDR">
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <p>Prehajamo na 2. točko dnevnega reda, na vprašanja poslancev.</p>
                                 <p>Vprašanja poslancev so vam bila pismeno poslana. Poslanec Dušan
                                     Šinigoj je, kakor ste lahko razbrali iz priloženega gradiva,
@@ -5942,7 +5942,7 @@
                                     odgovori na prvo vprašanje.</p>
                                 <pb n="83" xml:id="pb.83"/>
                             </sp>
-                            <sp who="#sp.PKZ.PoljansekMilos">
+                            <sp who="#sp.PoljanšekMiloš">
                                 <speaker>Miloš Poljanšek:</speaker>
                                 <p>Poslanec Dušan Šinigoj je zastavil naslednje vprašanje:</p>
                                 <p>Knjižnica v Novi Gorici je poslala že lansko leto 11. julija
@@ -6040,20 +6040,20 @@
                                     še vedno vztraja na spremembi citiranega odloka v njeno
                                     korist.</p>
                             </sp>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>Hvala. Se poslanec Dušan Šinigoj zadovolji z odgovorom?</p>
                             </sp>
-                            <sp who="#sp.PKZ.SinigojDusan">
+                            <sp who="#sp.ŠinigojDušan">
                                 <speaker>Dušan Šinigoj:</speaker>
                                 <p>Z odgovorom se zadovoljujem.</p>
                             </sp>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>Prosim republiškega sekretarja za šolstvo Borisa Lipužiča, da
                                     odgovori na drugo vprašanje poslanca Dušana Šinigoja.</p>
                             </sp>
-                            <sp who="#sp.PKZ.LipuzicBoris">
+                            <sp who="#sp.LipužičBoris">
                                 <speaker>Boris Lipužič:</speaker>
                                 <p>Poslanec Dušan Šinigoj je zastavil naslednje vprašanje: »Kaj je
                                     republiški sekretariat za šolstvo skupaj z Višjo pedagoško v
@@ -6145,11 +6145,11 @@
                                     na katerem bodo med drugim obravnavane tudi naloge v zvezi z
                                     načrtnim štipendiranjem učnega kadra za vse vrste šol.</p>
                             </sp>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>Se tovariš Dušan Šinigoj zadovolji z odgovorom?</p>
                             </sp>
-                            <sp who="#sp.PKZ.SinigojDusan">
+                            <sp who="#sp.ŠinigojDušan">
                                 <speaker>Dušan Šinigoj:</speaker>
                                 <p>Tovariši, vprašanje sem Sekretariatu za šolstvo postavil predvsem
                                     zato, ker sem uvidel, da je izredni študij učiteljev, ki
@@ -6167,14 +6167,14 @@
                                     izključno samo za šolstvo.</p>
                                 <p>Zato sem to vprašanje stavil, sem pa z odgovorom zadovoljen.</p>
                             </sp>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>Vprašanji sta zastavila še poslanca Rudi Stopar in Bojan
                                     Černjavič. Ker se obe vprašanji nanašata na področje prosvete in
                                     kulture, prosim, da na obe hkrati odgovori republiški sekretar
                                     za kulturo in prosveto tovariš Miloš Poljanšek.</p>
                             </sp>
-                            <sp who="#sp.PKZ.PoljansekMilos">
+                            <sp who="#sp.PoljanšekMiloš">
                                 <speaker>Miloš Poljanšek:</speaker>
                                 <p>Poslanec Rudi Stopar je na 4. seji Prosvetno-kulturnega zbora
                                     ustno zastavil vprašanje o možnosti oprostitve plačevanja
@@ -6320,14 +6320,14 @@
                                     zgodovinske kulturne dediščine in se jima zato njune osnovne
                                     okvire ureja z zveznimi predpisi enotno za vso državo.</p>
                             </sp>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>Ali sta poslanca, ki sta zastavila vprašanje, zadovoljna z
                                     odgovorom? <stage>(Da.)</stage> Hvala lepa. S tem je ta točka
                                     dnevnega reda izčrpana. <stage>(K besedi se prijavi poslanka
                                         Tilka Sašek.)</stage> Prosim.</p>
                             </sp>
-                            <sp who="#sp.PKZ.SasekTilka">
+                            <sp who="#sp.SašekTilka">
                                 <speaker>Tilka Sašek:</speaker>
                                 <p>Vsi kinematografi plačujejo 20 % od bruto dohodka za razvoj
                                     slovenskega filma, prispevek za Rdeči križ, zadnje čase pa
@@ -6337,13 +6337,13 @@
                                     marsikje edina stalna kulturna ustanova, prosim za odgovor, ali
                                     je mogoče oprostiti vaške kinematografe teh prispevkov.</p>
                             </sp>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>Če republiški sekretar za kulturo in prosveto meni, da je mogoče
                                     že sedaj odgovoriti na to vprašanje, bi prosil, da odgovori,
                                     sicer pa prosim, da odgovori na prihodnji seji.</p>
                             </sp>
-                            <sp who="#sp.PKZ.PoljansekMilos">
+                            <sp who="#sp.PoljanšekMiloš">
                                 <speaker>Miloš Poljanšek:</speaker>
                                 <p>Ker pripravlja naš sekretariat obširnejšo analizo položaja naših
                                     kinematografov in vse kinematografske mreže, tako s programskega
@@ -6351,7 +6351,7 @@
                                     seje upoštevali v odgovoru celotni material, ki ga naš
                                     sekretariat pripravlja.</p>
                             </sp>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>Če prav razumem, to pomeni, da bi bilo verjetno smotrno o tem
                                     vprašanju razpravljati v sklopu razprav o položaju
@@ -6363,15 +6363,15 @@
                                     pa bi na prihodnji seji zbora dobila odgovor od republiškega
                                     sekretarja.</p>
                             </sp>
-                            <sp who="#sp.PKZ.SasekTilka">
+                            <sp who="#sp.SašekTilka">
                                 <speaker>Tilka Sašek:</speaker>
                                 <p>Bom počakala.</p>
                             </sp>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>Besedo želi poslanec Gojmir Vidmar.</p>
                             </sp>
-                            <sp who="#sp.PKZ.VidmarGojmir">
+                            <sp who="#sp.VidmarGojmir">
                                 <speaker>Gojmir Vidmar:</speaker>
                                 <p>Rad bi zastavil vprašanje o financiranju šol II. stopnje.</p>
                                 <p>O financiranju šolstva se mnogo govori in piše. Zadevni zakonski
@@ -6455,7 +6455,7 @@
                                     industrijske šole z ostalimi šolami II. stopnje.</p>
                                 <pb n="91" xml:id="pb.91"/>
                             </sp>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>Hvala lepa! Ker predvidevamo, da bo zbor že na prihodnji seji
                                     razpravljal o financiranju in investiranju na področju šolstva,
@@ -6465,7 +6465,7 @@
                                     strinja s tem pojasnilom? <stage>(Da.)</stage></p>
                                 <p>Besedo želi še poslanec Stojan Fakin.</p>
                             </sp>
-                            <sp who="#sp.PKZ.FakinStojan">
+                            <sp who="#sp.FakinStojan">
                                 <speaker>Stojan Fakin:</speaker>
                                 <p>Zanima me drobno vprašanje, ki pa mogoče le ni tako
                                     nepomembno.</p>
@@ -6484,7 +6484,7 @@
                                     tudi na našem zboru, in ugotovili, kaj je pravzaprav pravilno in
                                     kaj ni.</p>
                             </sp>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>Lahko pojasnim, da je tudi razprava o analizi reforme v osnovni
                                     šoli predvidena za eno prihodnjih sej našega zbora. Vendar, ker
@@ -6495,15 +6495,15 @@
                                     pove; morda pa je zadovoljen s tem, da se to posebno vprašanje
                                     obravnava v sklopu celotne analize o reformi osnovne šole.</p>
                             </sp>
-                            <sp who="#sp.PKZ.FakinStojan">
+                            <sp who="#sp.FakinStojan">
                                 <speaker>Stojan Fakin:</speaker>
                                 <p>Bom počakal na širšo obravnavo celotne analize.</p>
                             </sp>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>Besedo ima tovariš Dane Debič.</p>
                             </sp>
-                            <sp who="#sp.PKZ.DebicDane">
+                            <sp who="#sp.DebičDane">
                                 <speaker>Dane Debič:</speaker>
                                 <p>Mene zanima, kako je z domovi za učence poklicnih šol. V Celju se
                                     je na primer šola Borisa Kidriča združila v nekak medobčinski
@@ -6519,7 +6519,7 @@
                                     pogoji, s katerimi se mora ta mladina spoprijeti^ da sploh lahko
                                     konča te šole, težki.</p>
                             </sp>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>Že iz predloga sklepa o ustanovitvi začasnih odborov ste lahko
                                     razbrali, da predvidevamo v kratkem razpravo o življenjskih
@@ -6533,11 +6533,11 @@
                                     konkreten odgovor. Ali je poslanec Dane Debič zadovoljen s
                                     takšno obrazložitvijo?</p>
                             </sp>
-                            <sp who="#sp.PKZ.DebicDane">
+                            <sp who="#sp.DebičDane">
                                 <speaker>Dane Debič:</speaker>
                                 <p>Se strinjam.</p>
                             </sp>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>Mislim, da je s tem ta točka dnevnega reda izčrpana. Dovolite
                                     samo, da izrečem neko splošno pripombo: bilo bi koristno in
@@ -6553,7 +6553,7 @@
                             </sp>
                         </div>
                         <div n="3" ana="#PAR.TDR">
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <p>Prehajamo na 3. točko dnevnega reda, in sicer na razpravo o
                                     problematiki v zvezi z izdelavo statutov delovnih organizacij s
                                     področja prosvete, kulture in znanosti.</p>
@@ -6564,7 +6564,7 @@
                                     Mikoša, da k temu poročilu kot uvod v razpravo da še ustno
                                     obrazložitev.</p>
                             </sp>
-                            <sp who="#sp.PKZ.MikosBoris">
+                            <sp who="#sp.MikošBoris">
                                 <speaker>Boris Mikoš:</speaker>
                                 <p>Tovariši! Prosvetno-kulturni zbor je na eni svojih prejšnjih sej
                                     sprejel sklep, da bo obravnaval probleme v zvezi z izdelavo
@@ -6856,7 +6856,7 @@
                                     lahko služila delovnim organizacijam kot pripomoček za sestavo
                                     statutov.</p>
                             </sp>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>Hvala. Preden bi odredil kratek odmor, vas, obveščam, da sem
                                     povabil na sejo zbora nekatere goste in upam, da se strinjate s
@@ -6868,12 +6868,12 @@
                             <stage type="time">(Seja je bila <time to="10:48:00" xml:id="stage.t.16"
                                     >prekinjena ob 10.48</time> in se je <time from="11:30:00"
                                     xml:id="stage.t.17">nadaljevala ob 11.30</time>.)</stage>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>Nadaljujemo z razpravo. K razpravi se je priglasil poslanec Bojan
                                     Černjavič.</p>
                             </sp>
-                            <sp who="#sp.PKZ.CernjavicBojan">
+                            <sp who="#sp.ČernjavičBojan">
                                 <speaker>Bojan Černjavič:</speaker>
                                 <p>Tovarišice in tovariši poslanci! Govoril bom o raziskovalnih
                                     organizacijah, katerih število in obseg dela se v zadnjem času
@@ -6987,11 +6987,11 @@
                                     zunanjih predstavnikov pri delu raziskovalnih organizacij in
                                     prikazati, da bodo oblike sodelovanja lahko različne.</p>
                             </sp>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>Hvala lepa! Besedo ima poslanec Kajetan Kovič.</p>
                             </sp>
-                            <sp who="#sp.PKZ.KovicKajetan">
+                            <sp who="#sp.KovičKajetan">
                                 <speaker>Kajetan Kovič:</speaker>
                                 <p>Tovarišice in tovariši! Eno temeljnih vprašanj, ki se pojavlja v
                                     zvezi s sprejemanjem statutov delovnih organizacij, še posebno
@@ -7072,11 +7072,11 @@
                                     dosežke. Mislim, da bi tako načelo moralo najti svoje mesto v
                                     šolskih kot v občinskih statutih.</p>
                             </sp>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>Hvala lepa. Besedo ima poslanec Stane Vrhovec.</p>
                             </sp>
-                            <sp who="#sp.PKZ.VrhovecStane">
+                            <sp who="#sp.VrhovecStane">
                                 <speaker>Stane Vrhovec:</speaker>
                                 <p>Rad bi samo nekaj dodal k razpravi o statutih, in sicer, da naj
                                     bi bila to nekaka izmenjava mnenj, ne pa neka podrobna analiza,
@@ -7148,11 +7148,11 @@
                                     predstavnikov družbe. Kolikor vem, pri nas proti temu ni bilo
                                     nobenih posebnih razlogov.</p>
                             </sp>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>Besedo ima poslanec Alojz Smerdel.</p>
                             </sp>
-                            <sp who="#sp.PKZ.SmerdelAlojz">
+                            <sp who="#sp.SmerdelAlojz">
                                 <speaker>Alojz Smerdel:</speaker>
                                 <p>V razpravi o statutih delovnih organizacij s področja šolstva in
                                     prosvetno-kulturne dejavnosti želim razpravljati o problemih
@@ -7223,11 +7223,11 @@
                                     Prosvetno-kulturnega zbora razpravljali o verifikaciji osnovnih
                                     in poklicnih šol.</p>
                             </sp>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>K besedi se je prijavil še poslanec Marjan Debeljak.</p>
                             </sp>
-                            <sp who="#sp.PKZ.DebeljakMarjan">
+                            <sp who="#sp.DebeljakMarjan">
                                 <speaker>Marjan Debeljak:</speaker>
                                 <p>Zelo pomembno vprašanje statutov šol je natančna določitev vloge
                                     in kompetenc šolskega kolektiva kot strokovnega in samoupravnega
@@ -7266,11 +7266,11 @@
                                     del svojega okolja, ki se bo z njim in ob njegovi pomoči hitreje
                                     razvijala kot doslej.</p>
                             </sp>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>Besedo ima poslanec Stojan Požar.</p>
                             </sp>
-                            <sp who="#sp.PKZ.PozarStojan">
+                            <sp who="#sp.PožarStojan">
                                 <speaker>Stojan Požar:</speaker>
                                 <p>Še nekaj besed k načelnemu vprašanju, ki ga je načel tovariš
                                     Kovič. Če bi danes poslušali vse, ki bi razpravljali s področja
@@ -7365,11 +7365,11 @@
                                     strokovno funkcijo, ne samo kot ozek strokovni organ, temveč kot
                                     samoupravni organ.</p>
                             </sp>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>Prosim za nadaljnjo razpravo. Besedo ima poslanec Matej Bor.</p>
                             </sp>
-                            <sp who="#sp.PKZ.BorMatej">
+                            <sp who="#sp.BorMatej">
                                 <speaker>Matej Bor:</speaker>
                                 <p>Rad bi na kratko omenil nekaj misli, ki so že in ki še niso bile
                                     izrečene v današnji debati. Ker je že govornik pred menoj omenil
@@ -7480,12 +7480,12 @@
                                     občine v rokah ljudi, ki so v vsakem pogledu resnično
                                     usposobljeni za izvrševanje svojih nalog.</p>
                             </sp>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>Hvala lepa. Prosim za nadaljnjo razpravo. Besedo ima poslanec
                                     France Štiglic.</p>
                             </sp>
-                            <sp who="#sp.PKZ.StiglicFrance">
+                            <sp who="#sp.ŠtiglicFrance">
                                 <speaker>France Štiglic:</speaker>
                                 <p>Področje kulturne in prosvetne dejavnosti je tako obširno in po
                                     svojem sestavu tako različno, da je najbrž težko postavljati
@@ -7547,11 +7547,11 @@
                                     statuti sami opozorili zakonodajalca na to smer delovanja
                                     kulturno-umetniških delovnih organizacij.</p>
                             </sp>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>Hvala lepa. Besedo ima poslanec Avgust Vižintin.</p>
                             </sp>
-                            <sp who="#sp.PKZ.VizintinAvgust">
+                            <sp who="#sp.VižintinAvgust">
                                 <speaker>Avgust Vižintin:</speaker>
                                 <pb n="108" xml:id="pb.108"/>
                                 <p>Vsem nam je jasno, da bistveni problemi nastajajo prav na že
@@ -7606,11 +7606,11 @@
                                     delitve lahko mnogo prispevala k prikazu realnih potreb in
                                     zahtev na področju prosvete in kulture.</p>
                             </sp>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>Besedo ima tovarišica Jovita Podgornik.</p>
                             </sp>
-                            <sp who="#sp.PKZ.PodgornikJovita">
+                            <sp who="#sp.PodgornikJovita">
                                 <speaker>Jovita Podgornik:</speaker>
                                 <p>Značilnost mladinske samouprave — pomembne šole državljanske
                                     vzgoje je predvsem razvijanje odgovornosti posameznika do
@@ -7654,11 +7654,11 @@
                                 <p>Vsekakor moramo opozoriti vodstva šol druge stopnje, da ne bodo
                                     preskopo obravnavale mladinskega samoupravljanja.</p>
                             </sp>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>Hvala lepa. Besedo ima tovariš Dane Debič.</p>
                             </sp>
-                            <sp who="#sp.PKZ.DebicDane">
+                            <sp who="#sp.DebičDane">
                                 <speaker>Dane Debič:</speaker>
                                 <p>Po mojem mnenju bi morali šolski statuti predvsem prikazovati
                                     smotre in potek vzgojno izobraževalnega dela določenega zavoda.
@@ -7687,11 +7687,11 @@
                                     ustanov.</p>
                                 <pb n="110" xml:id="pb.110"/>
                             </sp>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>Besedo ima tovarišica Darinka Šušteršič.</p>
                             </sp>
-                            <sp who="#sp.PKZ.SustersicDarinka">
+                            <sp who="#sp.ŠušteršičDarinka">
                                 <speaker>Darinka Šušteršič:</speaker>
                                 <p>Želim omeniti nekaj misli v zvezi s pripravami statutov v
                                     vzgojno-varstvenih zavodih oziroma predšolskih ustanovah in v
@@ -7743,11 +7743,11 @@
                                     velikih razdalj med njimi, vsaka ustanova in šola sama ne more
                                     doseči večjega napredka.</p>
                             </sp>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>Kdo želi besedo? Tovariš Geza Čahuk.</p>
                             </sp>
-                            <sp who="#sp.PKZ.CahukGeza">
+                            <sp who="#sp.ČahukGeza">
                                 <speaker>Geza Čahuk:</speaker>
                                 <p>Tovarišice in tovariši poslanci! Danes je potekala skoraj vsa
                                     razprava o samoupravljanju. Mislim, da lahko na podlagi
@@ -7878,12 +7878,12 @@
                                     samoupravnem organu.</p>
                                 <pb n="113" xml:id="pb.113"/>
                             </sp>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>K besedi se je priglasil še republiški sekretar za šolstvo Boris
                                     Lipužič.</p>
                             </sp>
-                            <sp who="#sp.PKZ.LipuzicBoris">
+                            <sp who="#sp.LipužičBoris">
                                 <speaker>Boris Lipužič:</speaker>
                                 <p>Pri izdelavi statutov povzročajo delovnim skupnostim v šolah ter
                                     drugim vzgojnim in izobraževalnim zavodom precej težav organi
@@ -8059,12 +8059,12 @@
                                     oblikovnaju podobe nove ustavne ureditve našega socialističnega
                                     družbenega razvoja.</p>
                             </sp>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>Hvala lepa! Želi še kdo poseči v razpravo? <stage>(K besedi se
                                         prijavi poslanec Anton Grčar.)</stage></p>
                             </sp>
-                            <sp who="#sp.PKZ.GrcarAnton">
+                            <sp who="#sp.GrčarAnton">
                                 <speaker>Anton Grčar:</speaker>
                                 <p>Dotaknil bi se samo nekaterih stvari, pravzaprav ene same, o
                                     kateri smo zelo malo govorili, še manj pa je o tej govora v
@@ -8109,7 +8109,7 @@
                                     bolj postajal nosilec preobrazbe in socialističnih odnosov na
                                     vasi.</p>
                             </sp>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>Če nihče več ne želi razpravljati, predlagam, da bi se naš zbor v
                                     zvezi s to točko dnevnega reda sporazumel o nekaterih osnovnih
@@ -8232,7 +8232,7 @@
                                         poslanec France Štiglic.)</stage> Prosim, tovariš
                                     Štiglic.</p>
                             </sp>
-                            <sp who="#sp.PKZ.StiglicFrance">
+                            <sp who="#sp.ŠtiglicFrance">
                                 <speaker>France Štiglic:</speaker>
                                 <p>Mene ob tej razlagi oziroma pogovoru o teh priporočilih zanimata
                                     še dve stvari. Prva je v zvezi s -tem, kar sem rekel v začetku.
@@ -8265,7 +8265,7 @@
                                     smisla prepuščati v potrjevanje samo občinam.</p>
                                 <pb n="119" xml:id="pb.119"/>
                             </sp>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>K temu bi pripomnil, da je pravilno, da vsaka delovna
                                     organizacija predloži statut občinski skupščini. Bilo pa je
@@ -8280,7 +8280,7 @@
                                     v prihodnje upoštevamo to možnost in da se tudi poslužimo te
                                     pravice. Prosim, tovariš Bor.</p>
                             </sp>
-                            <sp who="#sp.PKZ.BorMatej">
+                            <sp who="#sp.BorMatej">
                                 <speaker>Matej Bor:</speaker>
                                 <p>Govoril bi kar iz klopi. Imam občutek, da sedaj resnično nastaja
                                     vprašanje, kdo naj bi bil Ustanovitelj tistih institucij, ki jih
@@ -8294,7 +8294,7 @@
                                     lahko posebna točka za razpravo. Če pa je potrebno, potem lahko
                                     skupina poslancev da tak predlog tudi pismeno.</p>
                             </sp>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>Dobro, dovoliš kratek dvogovor. To, o čemer si sedaj govoril, ni
                                     zdaj stvar poslovnika, pač pa je to bolj stvar sporazuma. To
@@ -8318,7 +8318,7 @@
                                     sekretarja za kulturo in prosveto, da da ustrezno pojasnilo.</p>
                             </sp>
 
-                            <sp who="#sp.PKZ.PoljansekMilos">
+                            <sp who="#sp.PoljanšekMiloš">
                                 <speaker>Miloš Poljanšek:</speaker>
                                 <p>Na to vprašanje, ki je prav gotovo izredno tehtno, bi rad dal
                                     naslednje pojasnilo:</p>
@@ -8363,7 +8363,7 @@
                                     in o podobnem, da ne omenjam situacije še v drugih kulturnih in
                                     prosvetnih institucijah.</p>
                             </sp>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>V zvezi s tem bi še omenil, da imamo v delovnem načrtu, da bi še
                                     v tem polletju imeli na dnevnem redu financiranje kulturnih
@@ -8415,7 +8415,7 @@
                             </sp>
                         </div>
                         <div n="4" ana="#PAR.TDR">
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <p>Prehajamo na 4. točko dnevnega reda, in sicer na razpravo o delu
                                     Prosvetno-kulturnega zbora in ustanovitvi začasnih odborov.</p>
                                 <p>Na kratko bi vas seznanil s predvidenim okvirnim delovnim
@@ -8473,12 +8473,12 @@
                                     sklepa, ki vam je bil predložen, prevzemajo te dolžnosti in
                                     odgovornosti? Prosim tovariš Bertoncelj.</p>
                             </sp>
-                            <sp who="#sp.PKZ.BertonceljIvan">
+                            <sp who="#sp.BertonceljIvan">
                                 <speaker>Ivan Bertoncelj</speaker>
                                 <p><stage>(govori iz klopi)</stage>: Predviden sem v dveh odborih!
                                     Ali je to mogoče?</p>
                             </sp>
-                            <sp who="#sp.PKZ.TavcarIvo">
+                            <sp who="#sp.TavčarIvo">
                                 <speaker>Predsednik Ivo Tavčar:</speaker>
                                 <p>To je mogoče, razen če ne sprejmeš. Sprejmeš? <stage>(Ivan
                                         Bertoncelj: Da!)</stage> V redu.</p>
@@ -8521,19 +8521,19 @@
                     </timeline>
                     <castList>
                         <castItem><roleDesc>Predsedoval</roleDesc>: <actor
-                                xml:id="sp.OPZ.HocevarJanez">Janez Hočevar</actor>, <role>predsednik
+                                xml:id="sp.HočevarJanez">Janez Hočevar</actor>, <role>predsednik
                                 Organizacijsko-političnega zbora</role></castItem>
                     </castList>
                     <stage type="time"><time from="09:35:00" xml:id="stage.t.19">Začetek seje ob
                             9.35</time>.</stage>
                     <div ana="#PAR.PredDnevRed">
-                        <sp who="#sp.OPZ.HocevarJanez">
+                        <sp who="#sp.HočevarJanez">
                             <speaker>Predsednik Janez Hočevar:</speaker>
                             <p>Tovarišice in tovariši poslanci! Pričenjam 6. sejo
                                 Organizacijsko-političnega zbora Skupščine SR Slovenije.</p>
                         </sp>
                         <div ana="#PAR.Odsot">
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <p>Svojo odsotnost sta opravičili poslanki Mileva Veren in Kristina
                                     Plut. Ugotavljam, da je zbor sklepčen.</p>
                                 <p>Na seji so navzoči: predstavnik Izvršnega sveta Skupščine SR
@@ -8555,7 +8555,7 @@
                             </sp>
                         </div>
                         <div ana="#PAR.DolDnevRed">
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <p>Za današnjo sejo zbora predlagam tale dnevni red:</p>
                                 <list type="ordered">
                                     <item n="1">odobritev zapisnika 4. in 5. seje
@@ -8589,7 +8589,7 @@
                     </div>
                     <div ana="#PAR.DnevRed">
                         <div n="1" ana="#PAR.TDR">
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <p>Prehajamo na 1. točko dnevnega reda. Zapisnika 4. in 5. seje
                                     našega zbora ste prejeli skupaj z vabilom za to sejo. Ima morda
                                     kdo kakšne pripombe k zapisnikoma? <stage>(Ne javi se
@@ -8599,7 +8599,7 @@
                             </sp>
                         </div>
                         <div n="2" ana="#PAR.TDR">
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <p>Ko prehajamo na 2. točko dnevnega reda, to je na razpravo o
                                     nekaterih vprašanjih občinskih statutov, izpolnjujemo obveznost,
                                     ki smo jo sprejeli na 2. seji zbora ob razpravi o statutih
@@ -8625,7 +8625,7 @@
                                     obrazložitev? <stage>(Da.)</stage> Besedo ima dr. Branko
                                     Premrou.</p>
                             </sp>
-                            <sp who="#sp.OPZ.PremrouBranko">
+                            <sp who="#sp.PremrouBranko">
                                 <speaker>Dr. Branko Premrou:</speaker>
                                 <p>Tovarišice poslanke! Tovariši poslanci! Priprave za nove občinske
                                     statute gredo h koncu. Po zakonu za izvedbo ustave Slovenije
@@ -8862,13 +8862,13 @@
                                     neskladnosti v posameznih predpisih, kar bi samo otežkočalo
                                     uveljavljanje manjšinskih pravic.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Odbor za proučevanje zakonskih in drugih predlogov je za svojega
                                     predstavnika določil predsednika komisije za statute inž. Branka
                                     Hočevarja. Prosim, da da še ustno poročilo.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarBranko">
+                            <sp who="#sp.HočevarBranko">
                                 <speaker>Inž. Branko Hočevar:</speaker>
                                 <p>Organizacijsko-politični zbor Skupščine SR Slovenije je
                                     obravnaval vprašanja v zvezi s pripravo statutov že od oktobra
@@ -9033,11 +9033,11 @@
                                     značilnosti posameznih občin, ki smo jih pogrešali v dosedanjih
                                     osnutkih občinskih statutov.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Besedo ima poslanec Jože Dernovšek.</p>
                             </sp>
-                            <sp who="#sp.OPZ.DernovsekJoze">
+                            <sp who="#sp.DernovšekJože">
                                 <speaker>Jože Dernovšek:</speaker>
                                 <p>Tovarišice in tovariši poslanci! V kratkem bi želel opozoriti na
                                     organizacijo dela občinske skupščine z vidika, kako se ta
@@ -9144,12 +9144,12 @@
                                     občinski statut teh problemov dotaknil. Če ne statut, pa vsaj
                                     poslovnik občinske skupščine.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Naslednji govornik je poslanec Milan Žnidaršič.</p>
                             </sp>
                             <pb n="133" xml:id="pb.133"/>
-                            <sp who="#sp.OPZ.ZnidarsicMilan">
+                            <sp who="#sp.ŽnidaršičMilan">
                                 <speaker>Milan Žnidaršič:</speaker>
                                 <p>Tovarišice in tovariši poslanci! Svojo razpravo bi v glavnem
                                     omejil na vprašanje organizacije in dela občinske uprave v
@@ -9292,12 +9292,12 @@
                                     določila, ki vplivajo na izvajanje nalog občinske uprave, pa
                                     sodijo po mojem mnenju v sam osnutek občinskega statuta.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Naslednji govornik je tovariš Vlado Črešnik.</p>
                             </sp>
-                            <sp who="#sp.OPZ.GresnikVlado">
-                                <speaker>Vlado Grešnik:</speaker>
+                            <sp who="#sp.ČrešnikVlado">
+                                <speaker>Vlado Črešnik:</speaker>
                                 <p>Tovarišice in tovariši poslanci! V svoji razpravi se želim
                                     dotakniti vprašanja, kako je v osnutkih občinskih statutov
                                     obdelano usmerjanje gospodarskega razvoja v občini.</p>
@@ -9351,11 +9351,11 @@
                                     prav zaradi tega je verjetno to vprašanje v statutih tudi zelo
                                     pomanjkljivo, površno in deklarativno obdelano.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Naslednji govornik je dr. Josip Globevnik.</p>
                             </sp>
-                            <sp who="#sp.OPZ.GlobevnikJosip">
+                            <sp who="#sp.GlobevnikJosip">
                                 <speaker>Dr. Josip Globevnik:</speaker>
                                 <p>Tovariši, če dovolite, bi dal svoj prispevek k razpravi o dveh
                                     vprašanjih s področja priprav novih statutov občin, ki se mi
@@ -9616,11 +9616,11 @@
                                     kot bi v normativnem delu zavezoval statut za daljšo dobo, in
                                     sicer podrobno za posamezna področja.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Besedo ima tovarišica inž. Marija Zupančič.</p>
                             </sp>
-                            <sp who="#sp.OPZ.ZupancicMarija">
+                            <sp who="#sp.ZupančičMarija">
                                 <speaker>Inž. Marija Zupančič:</speaker>
                                 <p>Tovarišice in tovariši! Želim razpravljati o vprašanjih
                                     stanovanjskih razmerij in o gradnji stanovanj ter o občinskih
@@ -9711,7 +9711,7 @@
                                     organizacij, morajo biti določene v statutih teh organizacij, ne
                                     pa v statutih občine.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Odrejam 20 minut odmora.</p>
                             </sp>
@@ -9719,11 +9719,11 @@
                                     >prekinjena ob 10.50</time> in se je <time from="11:30:00"
                                     xml:id="stage.t.21">nadaljevala ob 11.30</time>.)</stage>
                             <pb n="142" xml:id="pb.142"/>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Naslednji govornik je Anton Žagar.</p>
                             </sp>
-                            <sp who="#sp.OPZ.ZagarAnton">
+                            <sp who="#sp.ŽagarAnton">
                                 <speaker>Anton Žagar:</speaker>
                                 <p>Tovarišice in tovariši poslanci! V svoji razpravi bi želel
                                     povedati nekaj misli o odnosih med občinsko skupščino in delovno
@@ -9829,11 +9829,11 @@
                                     Te morajo imeti ob decentraliziranih sredstvih bistveno drugačno
                                     vlogo, kot so jo imele do včeraj.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Razpravljal bo poslanec Lado Mahnič.</p>
                             </sp>
-                            <sp who="#sp.OPZ.MahnicLado">
+                            <sp who="#sp.MahničLado">
                                 <speaker>Lado Mahnič:</speaker>
                                 <p>Tovarišice in tovariši poslanci! Čeprav je že nekaj tovarišev
                                     obravnavalo tisto poglavje v občinskih statutih, ki govori o
@@ -9882,11 +9882,11 @@
                                     končni fazi izdelave statutov tudi pravo mesto v odnosih delovna
                                     organizacija — občinska skupščina.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <p>Predsednik Janez Hočevar: Naslednji govornik je podpredsednik
                                     okrajne skupščine Ljubljana, dr. Viktor Damjan.</p>
                             </sp>
-                            <sp who="#sp.OPZ.DamjanViktor">
+                            <sp who="#sp.DamjanViktor">
                                 <speaker>Dr. Viktor Damjan:</speaker>
                                 <p>Uvodoma bi želel poudariti, da danes, ko razpravljamo o statutih
                                     občin, o tej temeljni in največji listini, ne more ta listina
@@ -10053,12 +10053,12 @@
                                     osebnih pravic občanov ter usklajevali in usmerjali interese
                                     posameznikov in kolektivov z interesi občine.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Razpravljal bo poslanec Socialno-zdravstvenega zbora, Rajko
                                     Ješovnik.</p>
                             </sp>
-                            <sp who="#sp.OPZ.JesovnikRajko">
+                            <sp who="#sp.JešovnikRajko">
                                 <speaker>Rajko Ješovnik:</speaker>
                                 <p>Tovarišice in tovariši! V svoji razpravi se želim, dotakniti
                                     predvsem nekaterih določb občinskih statutov in osnutkov
@@ -10253,11 +10253,11 @@
                                     delovnih organizacij s tega področja, ki še niso začele s tem
                                     delom.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Besedo ima poslanec Tone Florjančič.</p>
                             </sp>
-                            <sp who="#sp.OPZ.FlorjancicTone">
+                            <sp who="#sp.FlorjančičTone">
                                 <speaker>Tone Florjančič:</speaker>
                                 <p>Tovarišice in tovariši! Osnova za samoupravno aktivnost občanov
                                     in njihovo aktivno udeležbo pri usmerjanju občinske politike je
@@ -10399,11 +10399,11 @@
                                     bolj vplivna in neposrednejša, kot če bi jih dajal organ, ki je
                                     sestavljen iz predstavnikov društev in organizacij.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Besedo ima poslanec Franc Kočevar.</p>
                             </sp>
-                            <sp who="#sp.OPZ.KocevarFranc">
+                            <sp who="#sp.KočevarFranc">
                                 <speaker>Franc Kočevar:</speaker>
                                 <p>Tovarišice in tovariši poslanci! Želim spregovoriti nekaj besed o
                                     vlogi občana pri razvoju komune.</p>
@@ -10511,11 +10511,11 @@
                                     osnutke statutov komun, da tudi to vlogo čim bolj jasno
                                     določimo, da jo bomo lažje uresničevali tudi v praksi.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Besedo ima poslanec Ivan Holc.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HolcIvan">
+                            <sp who="#sp.HolcIvan">
                                 <speaker>Ivan Holc:</speaker>
                                 <p>Tovarišice in tovariši poslanci! Svojo razpravo bi omejil na
                                     vprašanje: mesto občana v občinskih statutih.</p>
@@ -10602,13 +10602,13 @@
                                     in samovoljo, ki zavirajo razvoj socialističnih družbenih
                                     odnosov.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>K besedi se je prijavil dr. Teodor Tominšek, predstavnik Zveze
                                     društev pravnikov SR Slovenije.</p>
                             </sp>
                             <pb n="156" xml:id="pb.156"/>
-                            <sp who="#sp.OPZ.TominsekTeodor">
+                            <sp who="#sp.TominšekTeodor">
                                 <speaker>Dr. Teodor Tominšek:</speaker>
                                 <p>Tovariši poslanci! Dovolite mi, da se na povabilo predsedstva
                                     vašega zbora kot predstavnik Zveze društev pravnikov Slovenije
@@ -10708,11 +10708,11 @@
                                     Naša društva in članstvo so slejkoprej pripravljeni nuditi tako
                                     pomoč.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Najlepša hvala. Razpravljal bo poslanec Maks Klanšek.</p>
                             </sp>
-                            <sp who="#sp.OPZ.KlansekMaks">
+                            <sp who="#sp.KlanšekMaks">
                                 <speaker>Maks Klanšek:</speaker>
                                 <p>Tovariši in tovarišice poslanci! Želim razpravljati o tistih
                                     določilih v osnutkih statutov, ki govore o kadrovski
@@ -10887,11 +10887,11 @@
                                     javne uprave, za kar sta zainteresirana vsak občan in družba v
                                     celoti.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Razpravljal bo poslanec Joško Saksida.</p>
                             </sp>
-                            <sp who="#sp.OPZ.SaksidaJosko">
+                            <sp who="#sp.SaksidaJoško">
                                 <speaker>Joško Saksida:</speaker>
                                 <p>Tovarišice in tovariši poslanci! Rad bi k vsemu temu, kar je bilo
                                     danes rečeno, dodal še eno misel. Menim namreč, da je, kljub
@@ -10981,20 +10981,20 @@
                                     razmišljati o vodenju politike in, da druge zadeve prepuste
                                     svojim politično-izvršilnim organom.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Hvala. Odrejam 10 minut odmora.</p>
                             </sp>
                             <stage type="time">(Seja je bila <time to="13:00:00" xml:id="stage.t.22"
                                     >prekinjena ob 13. uri</time> in se je <time from="13:15:00"
                                     xml:id="stage.t.23">nadaljevala ob 13.15</time>.)</stage>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Besedo ima tovariš Jože Šeme.</p>
                             </sp>
                             <pb n="162" xml:id="pb.162"/>
-                            <sp who="#sp.OPZ.SemeJoze">
-                                <speaker>Jože Seme:</speaker>
+                            <sp who="#sp.ŠemeJože">
+                                <speaker>Jože Šeme:</speaker>
                                 <p>Tovariši in tovarišice! Moti me, da v občinskih statutih ni
                                     nikakršnih določil, nikakršnih obveznosti občinske skupščine,
                                     občinskega aparata, podjetij in prebivalstva do vprašanj narodne
@@ -11093,11 +11093,11 @@
                                     dala naš družbeni red in ustava in da imajo tudi določene
                                     zadevne obveznosti.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Besedo ima poslanec Ivo Majdič.</p>
                             </sp>
-                            <sp who="#sp.OPZ.MajdicIvo">
+                            <sp who="#sp.MajdičIvo">
                                 <speaker>Ivo Majdič:</speaker>
                                 <p>Tovarišice in tovariši poslanci! Govoril bi o vprašanju, o
                                     katerem danes še ni bilo govora. To je medobčinsko sodelovanje
@@ -11256,11 +11256,11 @@
                                     dvoma vplivale tudi na drugačne, boljše in na bolj določeno
                                     izražanje o medobčinskem sodelovanju v občinskih statutih.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Besedo ima poslanka Marjana Javornik.</p>
                             </sp>
-                            <sp who="#sp.OPZ.TovornikMarjana">
+                            <sp who="#sp.TovornikMarjana">
                                 <speaker>Marjana Tovornik:</speaker>
                                 <p>Ker je že tovariš pred menoj govoril o medobčinskih službah, bi
                                     dodala samo še nekatere misli, o katerih so precej razpravljali
@@ -11362,7 +11362,7 @@
                                     medobčinsko sodelovanje postalo tudi bližje občanom in njihovim
                                     potrebam, kot to nakazujejo tudi statuti.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Tovariši poslanci! Na listi so še štirje govorniki: od teh
                                     nameravajo trije razpravljati o problematiki krajevnih
@@ -11374,11 +11374,11 @@
                             <stage type="time">(Seja je bila <time to="13:45:00" xml:id="stage.t.24"
                                     >prekinjena ob 13.45</time> in se je <time from="15:35:00"
                                     xml:id="stage.t.25">nadaljevala ob 15.35</time>.)</stage>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Besedo ima Miran Blaha.</p>
                             </sp>
-                            <sp who="#sp.OPZ.BlahaMiran">
+                            <sp who="#sp.BlahaMiran">
                                 <speaker>Miran Blaha:</speaker>
                                 <p>Tovarišice in tovariši poslanci! V dosedanjih razpravah o
                                     krajevnih skupnostih v občinskih statutih se je največ govorilo
@@ -11556,11 +11556,11 @@
                                     praktično pomoč v svojem delu.</p>
                             </sp>
                             <pb n="171" xml:id="pb.171"/>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Besedo ima Danilo Masten.</p>
                             </sp>
-                            <sp who="#sp.OPZ.MastenDanilo">
+                            <sp who="#sp.MastenDanilo">
                                 <speaker>Danilo Masten:</speaker>
                                 <p>Tovarišice in tovariši poslanci! Jaz bi nadaljeval nekako tam,
                                     kjer je moj predgovornik končal. V svojem kratkem izvajanju bi
@@ -11636,11 +11636,11 @@
                                     skupnosti v statutih občin ni bilo precizirano, oziroma, da ni
                                     določeno z jasnejšimi instrumenti.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Besedo ima poslanec Martin Košir.</p>
                             </sp>
-                            <sp who="#sp.OPZ.KosirMartin">
+                            <sp who="#sp.KoširMartin">
                                 <speaker>Martin Košir:</speaker>
                                 <p>Tovarišice in tovariši poslanci! Dovolite mi, da se tudi jaz
                                     priključim razpravi o statutih krajevnih skupnosti. Mislim, da
@@ -11758,11 +11758,11 @@
                                     njenega statuta.</p>
                                 <p>Toliko sem želel povedati.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Hvala lepa. Naslednji govornik je Branko Vasa.</p>
                             </sp>
-                            <sp who="#sp.OPZ.VasaBranko">
+                            <sp who="#sp.VasaBranko">
                                 <speaker>Branko Vasa:</speaker>
                                 <p>Tovarišice in tovariši poslanci! Rad bi spregovoril nekaj besed o
                                     vsebinskem oblikovanju občinskih statutov.</p>
@@ -11844,7 +11844,7 @@
                                     vsebinskega oblikovanja občinskih statutov morali z njimi
                                     aktivno sodelovati.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Tovariši poslanci! Dovolite, da v nekaj besedah povzamem osnovna
                                     stališča, ki so se izkristalizirala v razpravi.</p>
@@ -12028,7 +12028,7 @@
                             </sp>
                         </div>
                         <div n="3" ana="#PAR.TDR">
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <p>Prehajamo na 3. točko dnevnega reda, to je na obravnavanje in
                                     sklepanje o tezah zakona o mestih, ki so razdeljena na
                                     občine.</p>
@@ -12040,7 +12040,7 @@
                                 <p>Besedo ima dr. Branko Premrou, republiški sekretar za zakonodajo
                                     in organizacijo.</p>
                             </sp>
-                            <sp who="#sp.OPZ.PremrouBranko">
+                            <sp who="#sp.PremrouBranko">
                                 <speaker>Dr. Branko Premrou:</speaker>
                                 <p>Tovarišice poslanke! Tovariši poslanci! Mesto v našem
                                     družbeno-političnem in pravnem sistemu nima nobenega posebnega
@@ -12191,7 +12191,7 @@
                                     pomen posameznih določb pa sta razvidni iz pismenega poročila,
                                     ki je priloženo tezam.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>O tezah za zakon je razpravljal tudi odbor za proučevanje
                                     zakonskih in drugih predlogov našega zbora. Odbor je predložil
@@ -12199,7 +12199,7 @@
                                     poročevalca je odbor določil ing. Vitjo Rodeta. Prosim ga, da da
                                     ustno obrazložitev.</p>
                             </sp>
-                            <sp who="#sp.OPZ.RodeVitja">
+                            <sp who="#sp.RodeVitja">
                                 <speaker>Inž. Vitja Rode:</speaker>
                                 <p>Tovarišice in tovariši! Ob poročilu odbora za proučevanje
                                     zakonskih in drugih predlogov k tezam za zakon o mestih, ki so
@@ -12297,7 +12297,7 @@
                                     omogočila odboru, da je bolje spoznal problematiko in sestavil
                                     izčrpnejše poročilo.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Poročilo zakonodajno-pravne komisije ste že prejeli. Ali želi
                                     besedo predsednik zakonodajno pravne komisije?
@@ -12312,7 +12312,7 @@
                                 <p>Pričenjam razpravo o tezah za zakon in o predlogu sklepa. Besedo
                                     ima poslanec inž. Marjan Tepina.</p>
                             </sp>
-                            <sp who="#sp.OPZ.TepinaMarjan">
+                            <sp who="#sp.TepinaMarjan">
                                 <speaker>Inž. Marjan Tepina:</speaker>
                                 <p>Tovarišice in tovariši poslanci! Vsakdo, ki razpravlja o
                                     predmetu, s katerim se ukvarja v svojem vsakodnevnem delu, je
@@ -12568,13 +12568,13 @@
                                     zadev in medobčinskih nalog, glede določitve mestnih zadev,
                                     glede območja mesta in glede sestave mestnega sveta.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Prosim tovariša Tepino, da formulira svoj predlog.</p>
                                 <p>Naslednja govornica je predsednik mestnega sveta Maribor,
                                     tovarišica Vera Kolarič.</p>
                             </sp>
-                            <sp who="#sp.OPZ.KolaricVera">
+                            <sp who="#sp.KolaričVera">
                                 <speaker>Vera Kolarič:</speaker>
                                 <p>Tovariši in tovarišice poslanci! Pregled občinskih statutov v
                                     našem mestu je pokazal, da so v teh statutih določila, ki
@@ -12657,11 +12657,11 @@
                                     dokončno sklepanje Skupščini Socialistične republike
                                     Slovenije.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Hvala lepa. Kdo še želi besedo? Tovariš Vlado Černe.</p>
                             </sp>
-                            <sp who="#sp.OPZ.CerneVlado">
+                            <sp who="#sp.ČerneVlado">
                                 <speaker>Vlado Černe:</speaker>
                                 <p>Tovarišice in tovariši poslanci! Dotaknil se bom samo dveh
                                     osnovnih vprašanj, glede katerih menim, da v tezah zakona o
@@ -12703,7 +12703,7 @@
                                     morda problemi na mestnem območju te občine dosti večji kot pa v
                                     občini, ki ima celotno območje na mestnem območju.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Hvala lepa. Želi še kdo razpravljati? <stage>(Ne.)</stage></p>
                                 <p>Dovolite, da obvestim zbor, da je predsednik Gospodarskega zbora,
@@ -12759,12 +12759,12 @@
                                     mestnega sveta.</p>
                                 <p>Želi prosim še kdo razpravljati?</p>
                             </sp>
-                            <sp who="#sp.OPZ.RodeVitja">
+                            <sp who="#sp.RodeVitja">
                                 <speaker>Inž. Vitja Rode:</speaker>
                                 <p>Samo vprašanje prosim! Ne razumem, kakšno zvezo ima ta predlog z
                                     našo sejo in predlogom našega sklepa?</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Gre samo za informacijo. Tovariš Tepina predlaga naslednji
                                     dodatek k I. poglavju predloga sklepa: »Vendar menita, da je
@@ -12784,13 +12784,13 @@
                             <stage type="time">(Seja je bila <time to="17:45:00" xml:id="stage.t.26"
                                     >prekinjena ob 17.45</time> in se je <time from="18:15:00"
                                     xml:id="stage.t.27">nadaljevala ob 18.15</time>.)</stage>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Nadaljujemo sejo. Prosim poročevalca Odbora za proučevanje
                                     zakonskih in drugih predlogov, tovariša Vitjo Rodeta, da sporoči
                                     stališče odbora.</p>
                             </sp>
-                            <sp who="#sp.OPZ.RodeVitja">
+                            <sp who="#sp.RodeVitja">
                                 <speaker>Inž. Vitja Rode:</speaker>
                                 <p>Odbor je razpravljal o amandmaju tovariša Tepine, ki je predlagal
                                     dodatek k I. poglavju sklepa v besedilu: »Vendar menita, da je
@@ -12817,26 +12817,26 @@
                                     zavrne, nekatere misli, ki sem jih konkretno že prej navedel, pa
                                     naj se v nadaljnjem obravnavanju tez in zakona upoštevajo.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Tovariš Tepina, ali sprejemaš obrazložitev odbora?</p>
                             </sp>
-                            <sp who="#sp.OPZ.TepinaMarjan">
+                            <sp who="#sp.TepinaMarjan">
                                 <speaker>Inž. Marjan Tepina:</speaker>
                                 <p>Dal sem amandma na vaše vabilo. Tovariši sploh dvomijo, če je za
                                     teze potrebna forma amandmaja. Jaz bi imel samo še pomislek
                                     glede medsebojnega odnosa medobčinskih in mestnih zadev. Menim,
                                     da besedilo 9. teze ne ustreza.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Torej umikaš amandma?</p>
                             </sp>
-                            <sp who="#sp.OPZ.TepinaMarjan">
+                            <sp who="#sp.TepinaMarjan">
                                 <speaker>Inž. Marjan Tepina:</speaker>
                                 <p>Umikam.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Glede na razpravo inž. Marjana Tepine in tovarišice Vere Kolarič,
                                     ki sta si marsikje v diametralnem nasprotju, predlagam zboru, da
@@ -12854,7 +12854,7 @@
                             </sp>
                         </div>
                         <div n="4" ana="#PAR.TDR">
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <p>Prehajamo na 4. točko dnevnega reda, to je na obravnavo in
                                     sklepanje o predlogu zakona o začetku uporabljanja določil
                                     kazenskega zakonika o J oddaji v disciplinski center.</p>
@@ -12863,7 +12863,7 @@
                                     republiškega sekretarja za pravosodno upravo. Prosim ga, da da
                                     ustno obrazložitev k predlogu zakona.</p>
                             </sp>
-                            <sp who="#sp.OPZ.KutinFrance">
+                            <sp who="#sp.KutinFrance">
                                 <speaker>France Kutin:</speaker>
                                 <p>Tovarišice in tovariši poslanci! Ko je Izvršni svet Skupščine
                                     Socialistične republike Slovenije razpravljal o osnutku zakona o
@@ -13079,7 +13079,7 @@
                                     razprave ob priliki sprejemanja predloženega zakonskega
                                     osnutka.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>O predlogu zakona je razpravljal in sklepal tudi odbor za
                                     proučevanje zakonskih in drugih predlogov. Odbor je predložil
@@ -13105,7 +13105,7 @@
                                     ki ga je dal odbor ter o amandmaju zakonodajno-pravne
                                     komisije.</p>
                             </sp>
-                            <sp who="#sp.OPZ.MaseljVera">
+                            <sp who="#sp.MaseljVera">
                                 <speaker>Vera Maselj:</speaker>
                                 <p>Tovarišice in tovariši poslanci! Odbor za proučevanje zakonskih
                                     in drugih predlogov našega zbora je v razpravi in sklepanju o
@@ -13135,7 +13135,7 @@
                                     in 2. členu zakonskega predloga.</p>
                             </sp>
                             <pb n="196" xml:id="pb.196"/>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Poročilo zakonodajno-pravne komisije vam je bilo že poslano. Ali
                                     želi predstavnik komisije dati še ustno izjavo?
@@ -13163,7 +13163,7 @@
                             </sp>
                         </div>
                         <div n="5" ana="#PAR.TDR">
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <p>Prehajamo na 5. točko dnevnega reda, to je na obravnavo in
                                     sklepanje o predlogu zakona o prenehanju veljavnosti zakona o
                                     občinskih ljudskih odborih in zakona o okrajnih ljudskih
@@ -13182,7 +13182,7 @@
                                     že poslano. Prosim poročevalca odbora za proučevanje zakonskih
                                     in drugih predlogov Joška Saksido, da da še ustno poročilo.</p>
                             </sp>
-                            <sp who="#sp.OPZ.SaksidaJosko">
+                            <sp who="#sp.SaksidaJoško">
                                 <speaker>Joško Saksida:</speaker>
                                 <p>Odbor za proučevanje zakonskih in drugih predlogov
                                     Organizacijsko-političnega zbora je razpravljal o predlogu
@@ -13200,7 +13200,7 @@
                                     ustavo, odbor predlaga, da se zakon sprejme tako kot je
                                     predložen.</p>
                             </sp>
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <speaker>Predsednik Janez Hočevar:</speaker>
                                 <p>Začenjam razpravo. Želi kdo razpravljati? <stage>(Nihče.)</stage>
                                     Prehajamo na glasovanje o predlogu zakona o prenehanju
@@ -13218,7 +13218,7 @@
                             </sp>
                         </div>
                         <div n="6" ana="#PAR.TDR">
-                            <sp who="#sp.OPZ.HocevarJanez">
+                            <sp who="#sp.HočevarJanez">
                                 <p>Prehajamo na 6. točko dnevnega reda, to je na obravnavo predloga
                                     orientacijskega programa dela Organizacijsko-političnega zbora
                                     za prvo polletje leta 1964 in sklepanje o ustanovitvi, sestavi
@@ -20525,208 +20525,207 @@
                         <head>SEZNAM GOVORNIKOV</head>
                         <castGroup>
                             <head>Republiški zbor</head>
-                            <castItem><actor xml:id="sp.RZ.AriglerAdolf">Arigler Adolf</actor>: <ref
+                            <castItem><actor xml:id="sp.AriglerAdolf">Arigler Adolf</actor>: <ref
                                     target="#pb.65">65</ref>, <ref target="#pb.66"
                                 >66</ref></castItem>
-                            <castItem><actor xml:id="sp.RZ.BelopavlovicNiko">Belopavlovič
+                            <castItem><actor xml:id="sp.RZ.BelopavlovičNiko">Belopavlovič
                                     Niko</actor>: <ref target="#pb.56">56</ref></castItem>
-                            <castItem><actor xml:id="sp.RZ.CvenkMiran">Cvenk Miran</actor>: <ref
+                            <castItem><actor xml:id="sp.CvenkMiran">Cvenk Miran</actor>: <ref
                                     target="#pb.33">33</ref>, <ref target="#pb.48">48</ref>, <ref
                                     target="#pb.51">51</ref>, <ref target="#pb.52"
                                 >52</ref></castItem>
-                            <castItem><actor xml:id="sp.RZ.DolencStane">Dolenc Stane</actor>: <ref
+                            <castItem><actor xml:id="sp.DolencStane">Dolenc Stane</actor>: <ref
                                     target="#pb.10">10</ref>, <ref target="#pb.47"
                                 >47</ref></castItem>
-                            <castItem><actor xml:id="sp.RZ.DolinsekDrago">Dolinšek Drago</actor>:
+                            <castItem><actor xml:id="sp.DolinšekDrago">Dolinšek Drago</actor>:
                                     <ref target="#pb.26">26</ref>, <ref target="#pb.46"
                                 >46</ref></castItem>
-                            <castItem><actor xml:id="sp.RZ.DrakslerMirko">Draksler Mirko</actor>:
+                            <castItem><actor xml:id="sp.DrakslerMirko">Draksler Mirko</actor>:
                                     <ref target="#pb.64">64</ref></castItem>
-                            <castItem><actor xml:id="sp.RZ.FajfarTone">Fajfar Tone</actor>: <ref
+                            <castItem><actor xml:id="sp.FajfarTone">Fajfar Tone</actor>: <ref
                                     target="#pb.34">34</ref></castItem>
-                            <castItem><actor xml:id="sp.RZ.GiachinBruno">Giachin Bruno</actor>: <ref
+                            <castItem><actor xml:id="sp.GiachinBruno">Giachin Bruno</actor>: <ref
                                     target="#pb.18">18</ref></castItem>
-                            <castItem><actor xml:id="sp.RZ.GuzeljMiran">Guzelj inž. Miran</actor>:
+                            <castItem><actor xml:id="sp.GuzeljMiran">Guzelj inž. Miran</actor>:
                                     <ref target="#pb.15">15</ref></castItem>
-                            <castItem><actor xml:id="sp.RZ.KajzersbergerJelka">Kajzersberger inž.
+                            <castItem><actor xml:id="sp.KajzersbergerJelka">Kajzersberger inž.
                                     Jelka</actor>: <ref target="#pb.41">41</ref></castItem>
-                            <castItem><actor xml:id="sp.RZ.KarnicnikIgnac">Karničnik Ignac</actor>:
+                            <castItem><actor xml:id="sp.KarničnikIgnac">Karničnik Ignac</actor>:
                                     <ref target="#pb.30">30</ref></castItem>
-                            <castItem><actor xml:id="sp.RZ.KlanjscekViktor">Klanjšček inž.
+                            <castItem><actor xml:id="sp.KlanjščekViktor">Klanjšček inž.
                                     Viktor</actor>: <ref target="#pb.7">7</ref></castItem>
-                            <castItem><actor xml:id="sp.RZ.KomocarEdo">Komočar Edo</actor>: <ref
+                            <castItem><actor xml:id="sp.KomočarEdo">Komočar Edo</actor>: <ref
                                     target="#pb.17">17</ref></castItem>
-                            <castItem><actor xml:id="sp.RZ.KutinFrance">Kutin France</actor>: <ref
+                            <castItem><actor xml:id="sp.KutinFrance">Kutin France</actor>: <ref
                                     target="#pb.60">60</ref></castItem>
-                            <castItem><actor xml:id="sp.RZ.LaznikJoze">Laznik Jože</actor>: <ref
+                            <castItem><actor xml:id="sp.LaznikJoze">Laznik Jože</actor>: <ref
                                     target="#pb.31">31</ref></castItem>
-                            <castItem><actor xml:id="sp.RZ.PerovsekJanez">Perovšek inž.
+                            <castItem><actor xml:id="sp.PerovšekJanez">Perovšek inž.
                                     Janez</actor>: <ref target="#pb.4">4</ref></castItem>
-                            <castItem><actor xml:id="sp.RZ.PotocnikJanko">Potočnik Janko</actor>:
+                            <castItem><actor xml:id="sp.PotočnikJanko">Potočnik Janko</actor>:
                                     <ref target="#pb.7">7</ref></castItem>
-                            <castItem><actor xml:id="sp.RZ.PremrouBranko">Premrou dr.
+                            <castItem><actor xml:id="sp.PremrouBranko">Premrou dr.
                                 Branko</actor>: <ref target="#pb.54">54</ref></castItem>
-                            <castItem><actor sameAs="#sp.RZ.RemskarTine">Remškar Tine</actor>: <ref
+                            <castItem><actor sameAs="#sp.RemškarTine">Remškar Tine</actor>: <ref
                                     target="#pb.42">42</ref></castItem>
-                            <castItem><actor xml:id="sp.RZ.RiznarRiko">Rižnar Riko</actor>: <ref
+                            <castItem><actor xml:id="sp.RižnarRiko">Rižnar Riko</actor>: <ref
                                     target="#pb.21">21</ref></castItem>
-                            <castItem><actor xml:id="sp.RZ.StupanMitja">Stupan Mitja</actor>: <ref
+                            <castItem><actor xml:id="sp.StupanMitja">Stupan Mitja</actor>: <ref
                                     target="#pb.60">60</ref></castItem>
-                            <castItem><actor xml:id="sp.RZ.SifrerSavo">Šifrer Savo</actor>: <ref
+                            <castItem><actor xml:id="sp.ŠifrerSavo">Šifrer Savo</actor>: <ref
                                     target="#pb.48">48</ref></castItem>
-                            <castItem><actor xml:id="sp.RZ.SulgajIvanka">Šulgaj Ivanka</actor>: <ref
+                            <castItem><actor xml:id="sp.ŠulgajIvanka">Šulgaj Ivanka</actor>: <ref
                                     target="#pb.28">28</ref></castItem>
-                            <castItem><actor xml:id="sp.RZ.VirkFranc">Virk Franc</actor>: <ref
+                            <castItem><actor xml:id="sp.VirkFranc">Virk Franc</actor>: <ref
                                     target="#pb.24">24</ref></castItem>
-                            <castItem><actor xml:id="sp.RZ.VujecPeter">Vujec Peter</actor>: <ref
+                            <castItem><actor xml:id="sp.VujecPeter">Vujec Peter</actor>: <ref
                                     target="#pb.22">22</ref></castItem>
                         </castGroup>
                         <castGroup>
                             <head>Gospodarski zbor</head>
-                            <castItem><actor xml:id="sp.GZ.FilipcicFranc">Filipčič inž.
+                            <castItem><actor xml:id="sp.FilipčičFranc">Filipčič inž.
                                     Franc</actor>: <ref target="#pb.69">69</ref></castItem>
-                            <castItem><actor xml:id="sp.GZ.GaspariMajda">Gaspari Majda</actor>: <ref
+                            <castItem><actor xml:id="sp.GaspariMajda">Gaspari Majda</actor>: <ref
                                     target="#pb.69">69</ref>, <ref target="#pb.70"
                                 >70</ref></castItem>
-                            <castItem><actor xml:id="sp.GZ.JermanRiko">Jerman Riko</actor>: <ref
+                            <castItem><actor xml:id="sp.JermanRiko">Jerman Riko</actor>: <ref
                                     target="#pb.71">71</ref>, <ref target="#pb.75">75</ref>, <ref
                                     target="#pb.76">76</ref></castItem>
-                            <castItem><actor xml:id="sp.GZ.KomocarEdo">Komočar Edo</actor>: <ref
+                            <castItem><actor sameAs="sp.KomočarEdo">Komočar Edo</actor>: <ref
                                     target="#pb.68">68</ref>, <ref target="#pb.77"
                                 >77</ref></castItem>
-                            <castItem><actor xml:id="sp.GZ.RiznarRiko">Rižnar Riko</actor>: <ref
+                            <castItem><actor sameAs="sp.RižnarRiko">Rižnar Riko</actor>: <ref
                                     target="#pb.70">70</ref></castItem>
-                            <castItem><actor xml:id="sp.GZ.TomazicTomaz">Tomažič Tomaž</actor>: <ref
+                            <castItem><actor xml:id="sp.TomažičTomaz">Tomažič Tomaž</actor>: <ref
                                     target="#pb.69">69</ref>, <ref target="#pb.70"
                                 >70</ref></castItem>
-                            <castItem><actor xml:id="sp.GZ.ZmaharCiril">Žmahar inž. Ciril</actor>:
+                            <castItem><actor xml:id="sp.ŽmaharCiril">Žmahar inž. Ciril</actor>:
                                     <ref target="#pb.74">74</ref></castItem>
                         </castGroup>
                         <castGroup>
                             <head>Prosvetno-kulturni zbor</head>
-                            <castItem><actor xml:id="sp.PKZ.BertonceljIvan">Bertoncelj Ivan</actor>:
+                            <castItem><actor xml:id="sp.BertonceljIvan">Bertoncelj Ivan</actor>:
                                     <ref target="#pb.122">122</ref></castItem>
-                            <castItem><actor xml:id="sp.PKZ.BorMatej">Bor Matej</actor>: <ref
+                            <castItem><actor xml:id="sp.BorMatej">Bor Matej</actor>: <ref
                                     target="#pb.105">105</ref>, <ref target="#pb.119"
                                 >119</ref></castItem>
-                            <castItem><actor xml:id="sp.PKZ.CahukGeza">Čahuk Geza</actor>: <ref
+                            <castItem><actor xml:id="sp.ČahukGeza">Čahuk Geza</actor>: <ref
                                     target="#pb.110">110</ref></castItem>
-                            <castItem><actor xml:id="sp.PKZ.CernjavicBojan">Černjavič Bojan</actor>:
+                            <castItem><actor xml:id="sp.ČernjavičBojan">Černjavič Bojan</actor>:
                                     <ref target="#pb.97">97</ref></castItem>
-                            <castItem><actor xml:id="sp.PKZ.DebeljakMarjan">Debeljak Marjan</actor>:
+                            <castItem><actor xml:id="sp.DebeljakMarjan">Debeljak Marjan</actor>:
                                     <ref target="#pb.102">102</ref></castItem>
-                            <castItem><actor xml:id="sp.PKZ.DebicDane">Debič Dane</actor>: <ref
+                            <castItem><actor xml:id="sp.DebičDane">Debič Dane</actor>: <ref
                                     target="#pb.91">91</ref>, <ref target="#pb.92">92</ref>, <ref
                                     target="#pb.109">109</ref></castItem>
-                            <castItem><actor xml:id="sp.PKZ.FakinStojan">Fakin Stojan</actor>: <ref
+                            <castItem><actor xml:id="sp.FakinStojan">Fakin Stojan</actor>: <ref
                                     target="#pb.91">91</ref></castItem>
-                            <castItem><actor xml:id="sp.PKZ.GrcarAnton">Grčar Anton</actor>: <ref
+                            <castItem><actor xml:id="sp.GrčarAnton">Grčar Anton</actor>: <ref
                                     target="#pb.115">115</ref></castItem>
-                            <castItem><actor xml:id="sp.PKZ.KovicKajetan">Kovič Kajetan</actor>:
+                            <castItem><actor xml:id="sp.KovičKajetan">Kovič Kajetan</actor>:
                                     <ref target="#pb.99">99</ref></castItem>
-                            <castItem><actor xml:id="sp.PKZ.LipuzicBoris">Lipužič Boris</actor>:
+                            <castItem><actor xml:id="sp.LipužičBoris">Lipužič Boris</actor>:
                                     <ref target="#pb.84">84</ref>, <ref target="#pb.113"
                                 >113</ref></castItem>
-                            <castItem><actor xml:id="sp.PKZ.MikosBoris">Mikoš Boris</actor>: <ref
+                            <castItem><actor xml:id="sp.MikošBoris">Mikoš Boris</actor>: <ref
                                     target="#pb.92">92</ref></castItem>
-                            <castItem><actor xml:id="sp.PKZ.PodgornikJovita">Podgornik
+                            <castItem><actor xml:id="sp.PodgornikJovita">Podgornik
                                     Jovita</actor>: <ref target="#pb.108">108</ref></castItem>
-                            <castItem><actor xml:id="sp.PKZ.PoljansekMilos">Poljanšek Miloš</actor>:
+                            <castItem><actor xml:id="sp.PoljanšekMiloš">Poljanšek Miloš</actor>:
                                     <ref target="#pb.83">83</ref>, <ref target="#pb.86">86</ref>,
                                     <ref target="#pb.89">89</ref>, <ref target="#pb.119"
                                 >119</ref></castItem>
-                            <castItem><actor xml:id="sp.PKZ.PozarStojan">Požar Stojan</actor>: <ref
+                            <castItem><actor xml:id="sp.PožarStojan">Požar Stojan</actor>: <ref
                                     target="#pb.103">103</ref></castItem>
-                            <castItem><actor xml:id="sp.PKZ.SasekTilka">Sašek Tilka</actor>: <ref
+                            <castItem><actor xml:id="sp.SašekTilka">Sašek Tilka</actor>: <ref
                                     target="#pb.89">89</ref></castItem>
-                            <castItem><actor xml:id="sp.PKZ.SmerdelAlojz">Smerdel Alojz</actor>:
+                            <castItem><actor xml:id="sp.SmerdelAlojz">Smerdel Alojz</actor>:
                                     <ref target="#pb.101">101</ref></castItem>
-                            <castItem><actor xml:id="sp.PKZ.SinigojDusan">Šinigoj Dušan</actor>:
+                            <castItem><actor xml:id="sp.ŠinigojDušan">Šinigoj Dušan</actor>:
                                     <ref target="#pb.84">84</ref>, <ref target="#pb.86"
                                 >86</ref></castItem>
-                            <castItem><actor xml:id="sp.PKZ.StiglicFrance">Štiglic France</actor>:
+                            <castItem><actor xml:id="sp.ŠtiglicFrance">Štiglic France</actor>:
                                     <ref target="#pb.106">106</ref>, <ref target="#pb.118"
                                 >118</ref></castItem>
-                            <castItem><actor xml:id="sp.PKZ.SustersicDarinka">Šušteršič
+                            <castItem><actor xml:id="sp.ŠušteršičDarinka">Šušteršič
                                     Darinka</actor>: <ref target="#pb.110">110</ref></castItem>
-                            <castItem><actor sameAs="#sp.PKZ.TavcarIvo">Tavčar Ivo</actor>: <ref
+                            <castItem><actor sameAs="#sp.TavčarIvo">Tavčar Ivo</actor>: <ref
                                     target="#pb.116">116</ref></castItem>
-                            <castItem><actor xml:id="sp.PKZ.VidmarGojmir">Vidmar Gojmir</actor>:
+                            <castItem><actor xml:id="sp.VidmarGojmir">Vidmar Gojmir</actor>:
                                     <ref target="#pb.89">89</ref></castItem>
-                            <castItem><actor xml:id="sp.PKZ.VizintinAvgust">Vižintin Avgust</actor>:
+                            <castItem><actor xml:id="sp.VižintinAvgust">Vižintin Avgust</actor>:
                                     <ref target="#pb.108">108</ref></castItem>
-                            <castItem><actor xml:id="sp.PKZ.VrhovecStane">Vrhovec Stane</actor>:
+                            <castItem><actor xml:id="sp.VrhovecStane">Vrhovec Stane</actor>:
                                     <ref target="#pb.100">100</ref></castItem>
                         </castGroup>
                         <castGroup>
                             <head>Organizacijsko-politični zbor</head>
-                            <castItem><actor xml:id="sp.OPZ.BlahaMiran">Blaha Miran</actor>: <ref
+                            <castItem><actor xml:id="sp.BlahaMiran">Blaha Miran</actor>: <ref
                                     target="#pb.168">168</ref></castItem>
-                            <castItem><actor xml:id="sp.OPZ.CerneVlado">Černe Vlado</actor>: <ref
+                            <castItem><actor xml:id="sp.ČerneVlado">Černe Vlado</actor>: <ref
                                     target="#pb.188">188</ref></castItem>
-                            <castItem><actor xml:id="sp.OPZ.CresnikVlado">Črešnik Vlado</actor>:
+                            <castItem><actor xml:id="sp.ČrešnikVlado">Črešnik Vlado</actor>:
                                     <ref target="#pb.135">135</ref></castItem>
-                            <castItem><actor xml:id="sp.OPZ.DamjanViktor">Damjan dr. Viktor</actor>:
+                            <castItem><actor xml:id="sp.DamjanViktor">Damjan dr. Viktor</actor>:
                                     <ref target="#pb.144">144</ref></castItem>
-                            <castItem><actor xml:id="sp.OPZ.DernovsekJoze">Dernovšek Jože</actor>:
+                            <castItem><actor xml:id="sp.DernovšekJože">Dernovšek Jože</actor>:
                                     <ref target="#pb.131">131</ref>
                             </castItem>
-                            <castItem><actor xml:id="sp.OPZ.FlorjancicTone">Florjančič Tone</actor>:
+                            <castItem><actor xml:id="sp.FlorjančičTone">Florjančič Tone</actor>:
                                     <ref target="#pb.150">150</ref></castItem>
-                            <castItem><actor xml:id="sp.OPZ.GlobevnikJosip">Globevnik dr.
+                            <castItem><actor xml:id="sp.GlobevnikJosip">Globevnik dr.
                                     Josip</actor>: <ref target="#pb.136">136</ref></castItem>
-                            <castItem><actor xml:id="sp.OPZ.GresnikVlado"/></castItem>
-                            <castItem><actor xml:id="sp.OPZ.HocevarBranko">Hočevar inž.
+                            <castItem><actor xml:id="sp.HočevarBranko">Hočevar inž.
                                     Branko</actor>: <ref target="#pb.128">128</ref></castItem>
-                            <castItem><actor sameAs="#sp.OPZ.HocevarJanez">Hočevar Janez</actor>:
+                            <castItem><actor sameAs="#sp.HočevarJanez">Hočevar Janez</actor>:
                                     <ref target="#pb.175">175</ref></castItem>
-                            <castItem><actor xml:id="sp.OPZ.HolcIvan">Holc Ivan</actor>: <ref
+                            <castItem><actor xml:id="sp.HolcIvan">Holc Ivan</actor>: <ref
                                     target="#pb.154">154</ref></castItem>
-                            <castItem><actor xml:id="sp.OPZ.JesovnikRajko">Ješovnik Rajko</actor>:
+                            <castItem><actor xml:id="sp.JešovnikRajko">Ješovnik Rajko</actor>:
                                     <ref target="#pb.147">147</ref></castItem>
-                            <castItem><actor xml:id="sp.OPZ.KlansekMaks">Klanšek Maks</actor>: <ref
+                            <castItem><actor xml:id="sp.KlanšekMaks">Klanšek Maks</actor>: <ref
                                     target="#pb.157">157</ref></castItem>
-                            <castItem><actor xml:id="sp.OPZ.KocevarFranc">Kočevar Franc</actor>:
+                            <castItem><actor xml:id="sp.KočevarFranc">Kočevar Franc</actor>:
                                     <ref target="#pb.152">152</ref></castItem>
-                            <castItem><actor xml:id="sp.OPZ.KolaricVera">Kolarič Vera</actor>: <ref
+                            <castItem><actor xml:id="sp.KolaričVera">Kolarič Vera</actor>: <ref
                                     target="#pb.187">187</ref></castItem>
-                            <castItem><actor xml:id="sp.OPZ.KosirMartin">Košir Martin</actor>: <ref
+                            <castItem><actor xml:id="sp.KoširMartin">Košir Martin</actor>: <ref
                                     target="#pb.172">172</ref></castItem>
-                            <castItem><actor xml:id="sp.OPZ.KutinFrance">Kutin France</actor>: <ref
+                            <castItem><actor sameAs="sp.KutinFrance">Kutin France</actor>: <ref
                                     target="#pb.191">191</ref></castItem>
-                            <castItem><actor xml:id="sp.OPZ.MahnicLado">Mahnič Lado</actor>: <ref
+                            <castItem><actor xml:id="sp.MahničLado">Mahnič Lado</actor>: <ref
                                     target="#pb.143">143</ref></castItem>
-                            <castItem><actor xml:id="sp.OPZ.MajdicIvo">Majdič Ivo</actor>: <ref
+                            <castItem><actor xml:id="sp.MajdičIvo">Majdič Ivo</actor>: <ref
                                     target="#pb.163">163</ref></castItem>
-                            <castItem><actor xml:id="sp.OPZ.MaseljVera">Maselj Vera</actor>: <ref
+                            <castItem><actor xml:id="sp.MaseljVera">Maselj Vera</actor>: <ref
                                     target="#pb.195">195</ref></castItem>
-                            <castItem><actor xml:id="sp.OPZ.MastenDanilo">Masten Danilo</actor>:
+                            <castItem><actor xml:id="sp.MastenDanilo">Masten Danilo</actor>:
                                     <ref target="#pb.171">171</ref></castItem>
-                            <castItem><actor xml:id="sp.OPZ.PremrouBranko">Premrou dr.
+                            <castItem><actor sameAs="sp.PremrouBranko">Premrou dr.
                                     Branko</actor>: <ref target="#pb.124">124</ref>, <ref
                                     target="#pb.178">178</ref></castItem>
-                            <castItem><actor xml:id="sp.OPZ.RodeVitja">Rode inž. Vitja</actor>: <ref
+                            <castItem><actor xml:id="sp.RodeVitja">Rode inž. Vitja</actor>: <ref
                                     target="#pb.181">181</ref>, <ref target="#pb.190"
                                 >190</ref></castItem>
-                            <castItem><actor xml:id="sp.OPZ.SaksidaJosko">Saksida Joško</actor>:
+                            <castItem><actor xml:id="sp.SaksidaJoško">Saksida Joško</actor>:
                                     <ref target="#pb.160">160</ref>, <ref target="#pb.196"
                                 >196</ref></castItem>
-                            <castItem><actor xml:id="sp.OPZ.SemeJoze">Šeme Jože</actor>: <ref
+                            <castItem><actor xml:id="sp.ŠemeJože">Šeme Jože</actor>: <ref
                                     target="#pb.162">162</ref></castItem>
-                            <castItem><actor xml:id="sp.OPZ.TepinaMarjan">Tepina inž.
+                            <castItem><actor xml:id="sp.TepinaMarjan">Tepina inž.
                                 Marjan</actor>: <ref target="#pb.183">183</ref>, <ref
                                     target="#pb.191">191</ref></castItem>
-                            <castItem><actor xml:id="sp.OPZ.TominsekTeodor">Tominšek dr.
+                            <castItem><actor xml:id="sp.TominšekTeodor">Tominšek dr.
                                     Teodor</actor>: <ref target="#pb.156">156</ref></castItem>
-                            <castItem><actor xml:id="sp.OPZ.TovornikMarjana">Tovornik
+                            <castItem><actor xml:id="sp.TovornikMarjana">Tovornik
                                     Marjana</actor>: <ref target="#pb.166">166</ref></castItem>
-                            <castItem><actor xml:id="sp.OPZ.VasaBranko">Vasa Branko</actor>: <ref
+                            <castItem><actor xml:id="sp.VasaBranko">Vasa Branko</actor>: <ref
                                     target="#pb.174">174</ref></castItem>
-                            <castItem><actor xml:id="sp.OPZ.ZupancicMarija">Zupančič inž.
+                            <castItem><actor xml:id="sp.ZupančičMarija">Zupančič inž.
                                     Marija</actor>: <ref target="#pb.140">140</ref></castItem>
-                            <castItem><actor xml:id="sp.OPZ.ZagarAnton">Žagar Anton</actor>: <ref
+                            <castItem><actor xml:id="sp.ŽagarAnton">Žagar Anton</actor>: <ref
                                     target="#pb.142">142</ref></castItem>
-                            <castItem><actor xml:id="sp.OPZ.ZnidarsicMilan">Žnidaršič Milan</actor>:
+                            <castItem><actor xml:id="sp.ŽnidaršičMilan">Žnidaršič Milan</actor>:
                                     <ref target="#pb.133">133</ref></castItem>
                         </castGroup>
                     </castList>
