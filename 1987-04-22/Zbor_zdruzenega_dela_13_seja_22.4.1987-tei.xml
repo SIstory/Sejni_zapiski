@@ -130,171 +130,182 @@
          <pb n="I/1" xml:id="pb.I.1"/>
          <div type="contents">
             <head>VSEBINA</head>
-            <p>(13. seja - 22. april 1987)</p>
-            <p>PRED DNEVNIM REDOM: STRAN</p>
-            <list type="ordered">
-               <item>1. Izvolitev Komisije za verifikacijo pooblastil in imunitetna vprašanja</item>
+            <list type="simple">
+               <head>(13. seja - 22. april 1987)</head>
+               <item>
+                  <list type="ordered">
+                     <head>PRED DNEVNIM REDOM:</head>
+                     <item n="1">Izvolitev Komisije za verifikacijo pooblastil in imunitetna
+                        vprašanja ter poročilo te komisije 1<list>
+                           <head>GOVORNIK:</head>
+                           <item>dr. Miklavž Kušej 2</item>
+                        </list>
+                     </item>
+                     <item n="2">Določitev dnevnega reda 3<list>
+                           <head>GOVORNIKI:</head>
+                           <item>Božena Zigmund 4</item>
+                           <item>Franci Pivec 4</item>
+                           <item>Jože Žumer 5</item>
+                           <item>Franci Pivec 5</item>
+                           <item>Jože Žumer 6</item>
+                           <item>Franc Lipoglavšek 6</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list type="ordered">
+                     <head>DNEVNI RED:</head>
+                     <item n="1">Odobritev zapisnika 12. seje (1. točka dnevnega reda) 7</item>
+                     <item n="2">Informacija Izvršnega sveta Skupščine SR Slovenije o tekočih
+                        gospodarskih gibanjih v SR Sloveniji v prvih mesecih leta 1987 (2. točka
+                        dnevnega reda) 7<list>
+                           <head>GOVORNIKI:</head>
+                           <item>Leopold Zupan 8</item>
+                           <item>Stane Konrad 10</item>
+                           <item>Milan Tacinger 12</item>
+                           <item>Franc Kumin 13</item>
+                           <item>Jernej Krajšek 14</item>
+                           <item>Miloš Veršec 15</item>
+                           <item>Leo Frelih 16</item>
+                           <item>Zdenka Plausteiner 18</item>
+                        </list>
+                     </item>
+                     <item n="3">Dodatno poročilo Komisije za verifikacijo pooblastil in imunitetna
+                        vprašanja 20<list>
+                           <head>GOVORNIK:</head>
+                           <item>dr. Miklavž Kušej 21</item>
+                        </list>
+                     </item>
+                     <pb n="I/2" xml:id="pb.I.2"/>
+                     <item n="4">Nadaljevanje razprave k informaciji Izvršnega sveta Skupščine SR
+                        Slovenije o tekočih gospodarskih gibanjih v SR Sloveniji v prvih mesecih
+                        leta 1987 (2. točka dnevnega reda - nadaljevanje) 21<list>
+                           <head>GOVORNIKI:</head>
+                           <item>Bojan Zadnik 21</item>
+                           <item>Boris Požar 22</item>
+                           <item>Viktor Ptičar 23</item>
+                           <item>Lili Kozinc 26</item>
+                           <item>Branko Medik 27</item>
+                           <item>Jurij Pirš 29</item>
+                           <item>Drago Štefe 31</item>
+                           <item>Milan Krajnik 33</item>
+                           <item>dr. Miklavž Kušej 34</item>
+                           <item>Drago Cafnik 35</item>
+                           <item>Milan Ditrih 36</item>
+                           <item>Andreja Črnak-Meglič 37</item>
+                        </list>
+                     </item>
+                     <item n="5">Dodatno poročilo Komisije za verifikacijo pooblastil in imunitetna
+                        vprašanja 39<list>
+                           <head>GOVORNIK:</head>
+                           <item>dr. Miklavž Kušej 39</item>
+                        </list>
+                     </item>
+                     <item n="6">Predlog zakona o pedagoški službi (5. točka dnevnega reda) 39<list>
+                           <head>GOVORNIKI:</head>
+                           <item>Boštjan Zgonc 39</item>
+                           <item>Franc Lipoglavšek 41</item>
+                           <item>Jože Žumer 42</item>
+                        </list>
+                     </item>
+                     <item n="7">Poročilo delegacije Skupščine SR Slovenije v Zboru republik in
+                        pokrajin Skupščine SFR Jugoslavije o poteku usklajevanja nekaterih aktov iz
+                        pristojnosti Zbora republik in pokrajin Skupščine SFR Jugoslavije (3. točka
+                        dnevnega reda) 43<list>
+                           <head>GOVORNIK:</head>
+                           <item>Martin Mlinar 44</item>
+                        </list>
+                     </item>
+                     <item n="8">Predlog družbenega dogovora o spremembah in dopolnitvah družbenega
+                        dogovora o skupnih osnovah in merilih za samoupravno urejanje odnosov pri
+                        pridobivanju in delitvi dohodka v SR Sloveniji (4. točka dnevnega reda) 48<list>
+                           <head>GOVORNIKI:</head>
+                           <item>Božidar Kaloper 49</item>
+                           <item>Majda Hausmeister 49</item>
+                           <pb n="I/3" xml:id="pb.I.3"/>
+                           <item>Franc Ruparšek 51</item>
+                        </list>
+                     </item>
+                     <item n="9">Predlog zakona o Pedagoški akademiji v Ljubljani s predlogom zakona
+                        (6. točka dnevnega reda) 52</item>
+                     <item n="10">Osnutek zakona o zaključnem računu o izvršitvi proračuna SR
+                        Slovenije za leto 1986 (7. točka dnevnega reda) 53</item>
+                     <item n="11">Predlog za izdajo zakona o začasnem financiranju skupnih potreb z
+                        osnutkom zakona (8. točka dnevnega reda) 53<list>
+                           <head>GOVORNIKI:</head>
+                           <item>Danilo Arčan 54</item>
+                           <item>dr. Štefan Kous 55</item>
+                           <item>Vili Novak 56</item>
+                           <item>Zdenka Plausteiner 57</item>
+                           <item>Drago Cafnik 59</item>
+                           <item>Rudi Šepič 59</item>
+                        </list>
+                     </item>
+                     <item n="12">Osnutek zakona o Jugoslovanski banki za mednarodno ekonomsko
+                        sodelovanje(9. točka dnevnega reda) 61</item>
+                     <item n="13">Osnutek zakona (ESA 218 - strogo zaupno) (10. točka dnevnega reda)
+                        61</item>
+                     <item n="14">Osnutek zakona o skupnem znesku sredstev za financiranje programa
+                        priprav za tisk in tiskanje osnovne hidrogeološke karte Jugoslavije in
+                        osnovne inženirsko-geološke karte Jugoslavije za obdobje 1988 – 2009 (11.
+                        točka dnevnega reda) 61</item>
+                     <item n="15">Predlog zakona o ratifikaciji konvencije Mednarodne organizacije
+                        dela št. 155 o varstvu pri delu, zdravstvenem varstvu in delovnem okolju
+                        (12. točka dnevnega reda) 62<list>
+                           <head>GOVORNIK:</head>
+                           <item>Janko Blas 62</item>
+                        </list>
+                     </item>
+                     <item n="16">Poročilo o delu Službe družbenega knjigovodstva v SR Sloveniji za
+                        leto 1986 (13. točka dnevnega reda) 63<list>
+                           <head>GOVORNIKA:</head>
+                           <item>Franc Knafelc 63</item>
+                           <pb n="I/4" xml:id="pb.I.4"/>
+                           <item>Vili Novak 67</item>
+                        </list>
+                     </item>
+                     <item>17. Volitve in imenovanja(14. točka dnevnega reda) 68<list
+                           type="bulleted">
+                           <item n="-">predlog odloka o razrešitvi in izvolitvi člana Izvršnega
+                              sveta Skupščine SR Slovenije ter o razrešitvi in imenovanju
+                              predsednika Republiškega komiteja za energetiko<list>
+                                 <head>GOVORNIKI:</head>
+                                 <item>Janez Bohorič 68</item>
+                                 <item>Branko Medik 70</item>
+                                 <item>Drago Cafnik 71</item>
+                                 <item>Ljubica Frančeškin 71</item>
+                              </list>
+                           </item>
+                           <item n="-">predlog odloka o imenovanju namestnice generalnega direktorja
+                              Službe družbenega knjigovodstva v SR Sloveniji 72</item>
+                           <item n="-">predlog odloka o izvolitvi dveh članov Upravnega odbora
+                              Sklada za pospeševanje upodabljajoče umetnosti Moša Pijade 72</item>
+                        </list>
+                     </item>
+                     <item n="18">Pobude, predlogi in vprašanja delegatov (15. točka dnevnega reda) 73<list>
+                           <head>GOVORNIKI:</head>
+                           <item>Neven Borak 73</item>
+                           <item>Nikolaj Miklič 76</item>
+                           <item>Anton Pengov 76</item>
+                           <item>Lili Kozinc 77</item>
+                           <item>Franc Gogala 78</item>
+                        </list>
+                     </item>
+                     <item n="19">Nadaljevanje razprave k predlogu družbenega dogovora o spremembah
+                        in dopolnitvah družbenega dogovora o skupnih osnovah in merilih za
+                        samoupravno urejanje odnosov pri pridobivanju in delitvi dohodka v SR
+                        Sloveniji (4. točka dnevnega reda) 78<list>
+                           <head>GOVORNIK:</head>
+                           <item>Leopold Zupan 78</item>
+                           <item>Leopold Zupan 79</item>
+                        </list>
+                     </item>
+                     <item n="20">Seznam govornikov II/1</item>
+                     <pb n="II/1" xml:id="pb.II.1"/>
+                  </list>
+               </item>
             </list>
-            <p>ter poročilo te komisije 1</p>
-            <p>GOVORNIK:</p>
-            <p>dr. Miklavž Kušej 2</p>
-            <list type="ordered">
-               <item>2. Določitev dnevnega reda 3</item>
-            </list>
-            <p>GOVORNIKI:</p>
-            <p>Božena Zigmund 4</p>
-            <p>Franci Pivec 4</p>
-            <p>Jože Žumer 5</p>
-            <p>Franci Pivec 5</p>
-            <p>Jože Žumer 6</p>
-            <p>Franc Lipoglavšek 6</p>
-            <p>DNEVNI RED:</p>
-            <list type="ordered">
-               <item>1. Odobritev zapisnika 12. seje (1. točka dnevnega reda) 7</item>
-               <item>2. Informacija Izvršnega sveta Skupščine SR Slovenije o tekočih gospodarskih
-                  gibanjih v SR Sloveniji v prvih mesecih leta 1987 (2. točka dnevnega reda)
-                  7</item>
-            </list>
-            <p>GOVORNIKI:</p>
-            <p>Leopold Zupan 8</p>
-            <p>Stane Konrad 10</p>
-            <p>Milan Tacinger 12</p>
-            <p>Franc Kumin 13</p>
-            <p>Jernej Krajšek 14</p>
-            <p>Miloš Veršec 15</p>
-            <p>Leo Frelih 16</p>
-            <p>Zdenka Plausteiner 18</p>
-            <list type="ordered">
-               <item>3. Dodatno poročilo Komisije za verifikacijo pooblastil in imunitetna vprašanja
-                  20</item>
-            </list>
-            <p>GOVORNIK:</p>
-            <p>dr. Miklavž Kušej 21</p>
-            <pb n="I/2" xml:id="pb.I.2"/>
-            <list type="ordered">
-               <item>4. Nadaljevanje razprave k informaciji Izvršnega sveta Skupščine SR Slovenije o
-                  tekočih gospodarskih gibanjih v SR Sloveniji v prvih mesecih leta 1987 (2. točka
-                  dnevnega reda - nadaljevanje) 21</item>
-            </list>
-            <p>GOVORNIKI:</p>
-            <p>Bojan Zadnik 21</p>
-            <p>Boris Požar 22</p>
-            <p>Viktor Ptičar 23</p>
-            <p>Lili Kozinc 26</p>
-            <p>Branko Medik 27</p>
-            <p>Jurij Pirš 29</p>
-            <p>Drago Štefe 31</p>
-            <p>Milan Krajnik 33</p>
-            <p>dr. Miklavž Kušej 34</p>
-            <p>Drago Cafnik 35</p>
-            <p>Milan Ditrih 36</p>
-            <p>Andreja Črnak-Meglič 37</p>
-            <list type="ordered">
-               <item>5. Dodatno poročilo Komisije za verifikacijo pooblastil in imunitetna vprašanja
-                  39</item>
-            </list>
-            <p>GOVORNIK:</p>
-            <p>dr. Miklavž Kušej 39</p>
-            <list type="ordered">
-               <item>6. Predlog zakona o pedagoški službi (5. točka dnevnega reda) 39</item>
-            </list>
-            <p>GOVORNIKI:</p>
-            <p>Boštjan Zgonc 39</p>
-            <p>Franc Lipoglavšek 41</p>
-            <p>Jože Žumer 42</p>
-            <list type="ordered">
-               <item>7. Poročilo delegacije Skupščine SR Slovenije v Zboru republik in pokrajin
-                  Skupščine SFR Jugoslavije o poteku usklajevanja nekaterih aktov iz pristojnosti
-                  Zbora republik in pokrajin Skupščine SFR Jugoslavije (3. točka dnevnega reda)
-                  43</item>
-            </list>
-            <p>GOVORNIK:</p>
-            <p>Martin Mlinar 44</p>
-            <list type="ordered">
-               <item>8. Predlog družbenega dogovora o spremembah in dopolnitvah družbenega dogovora
-                  o skupnih osnovah in merilih za samoupravno urejanje odnosov pri pridobivanju in
-                  delitvi dohodka v SR Sloveniji (4. točka dnevnega reda) 48</item>
-            </list>
-            <p>GOVORNIKI:</p>
-            <p>Božidar Kaloper 49</p>
-            <p>Majda Hausmeister 49</p>
-            <pb n="I/3" xml:id="pb.I.3"/>
-            <p>Franc Ruparšek 51</p>
-            <list type="ordered">
-               <item>9. Predlog zakona o Pedagoški akademiji v Ljubljani s predlogom zakona (6.
-                  točka dnevnega reda) 52</item>
-               <item>10. Osnutek zakona o zaključnem računu o izvršitvi proračuna SR Slovenije za
-                  leto 1986 (7. točka dnevnega reda) 53</item>
-               <item>11. Predlog za izdajo zakona o začasnem financiranju skupnih potreb z osnutkom
-                  zakona (8. točka dnevnega reda) 53</item>
-            </list>
-            <p>GOVORNIKI:</p>
-            <p>Danilo Arčan 54</p>
-            <p>dr. Štefan Kous 55</p>
-            <p>Vili Novak 56</p>
-            <p>Zdenka Plausteiner 57</p>
-            <p>Drago Cafnik 59</p>
-            <p>Rudi Šepič 59</p>
-            <list type="ordered">
-               <item>12. Osnutek zakona o Jugoslovanski banki za mednarodno ekonomsko sodelovanje(9.
-                  točka dnevnega reda) 61</item>
-               <item>13. Osnutek zakona (ESA 218 - strogo zaupno) (10. točka dnevnega reda)
-                  61</item>
-               <item>14. Osnutek zakona o skupnem znesku sredstev za financiranje programa priprav
-                  za tisk in tiskanje osnovne hidrogeološke karte Jugoslavije in osnovne
-                  inženirsko-geološke karte Jugoslavije za obdobje 1988 – 2009 (11. točka dnevnega
-                  reda) 61</item>
-               <item>15. Predlog zakona o ratifikaciji konvencije Mednarodne organizacije dela št.
-                  155 o varstvu pri delu, zdravstvenem varstvu in delovnem okolju (12. točka
-                  dnevnega reda) 62</item>
-            </list>
-            <p>GOVORNIK:</p>
-            <p>Janko Blas 62</p>
-            <list type="ordered">
-               <item>16. Poročilo o delu Službe družbenega knjigovodstva v SR Sloveniji za leto 1986
-                  (13. točka dnevnega reda) 63</item>
-            </list>
-            <p>GOVORNIKA:</p>
-            <p>Franc Knafelc 63</p>
-            <pb n="I/4" xml:id="pb.I.4"/>
-            <p>Vili Novak 67</p>
-            <list type="ordered">
-               <item>17. Volitve in imenovanja(14. točka dnevnega reda) 68</item>
-               <item>- predlog odloka o razrešitvi in izvolitvi člana Izvršnega sveta Skupščine SR
-                  Slovenije ter o razrešitvi in imenovanju predsednika Republiškega komiteja za
-                  energetiko</item>
-            </list>
-            <p>GOVORNIKI:</p>
-            <p>Janez Bohorič 68</p>
-            <p>Branko Medik 70</p>
-            <p>Drago Cafnik 71</p>
-            <p>Ljubica Frančeškin 71</p>
-            <list type="unordered">
-               <item>- predlog odloka o imenovanju namestnice generalnega direktorja Službe
-                  družbenega knjigovodstva v SR Sloveniji 72</item>
-               <item>- predlog odloka o izvolitvi dveh članov Upravnega odbora Sklada za
-                  pospeševanje upodabljajoče umetnosti Moša Pijade 72</item>
-               <item>18. Pobude, predlogi in vprašanja delegatov (15. točka dnevnega reda) 73</item>
-            </list>
-            <p>GOVORNIKI:</p>
-            <p>Neven Borak 73</p>
-            <p>Nikolaj Miklič 76</p>
-            <p>Anton Pengov 76</p>
-            <p>Lili Kozinc 77</p>
-            <p>Franc Gogala 78</p>
-            <list type="ordered">
-               <item>19. Nadaljevanje razprave k predlogu družbenega dogovora o spremembah in
-                  dopolnitvah družbenega dogovora o skupnih osnovah in merilih za samoupravno
-                  urejanje odnosov pri pridobivanju in delitvi dohodka v SR Sloveniji (4. točka
-                  dnevnega reda) 78</item>
-            </list>
-            <p>GOVORNIK:</p>
-            <p>Leopold Zupan 78</p>
-            <p>Leopold Zupan 79</p>
-            <list type="ordered">
-               <item>20. Seznam govornikov II/1</item>
-            </list>
-            <pb n="II/1" xml:id="pb.II.1"/>
          </div>
          <div>
             <head>SEZNAM GOVORNIKOV</head>
@@ -1039,8 +1050,8 @@
                      </sp>
                      <sp who="#sp.DvojmočValentin">
                         <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
-                        <p>Samo obvestil bi vas, daje problematiko kmetijstva obravnaval včeraj Odbor
-                           za kmetijstvo, poseben poudarek je bil na živinoreji. To gradivo bo
+                        <p>Samo obvestil bi vas, daje problematiko kmetijstva obravnaval včeraj
+                           Odbor za kmetijstvo, poseben poudarek je bil na živinoreji. To gradivo bo
                            objavljeno v Poročevalcu.</p>
                         <p>Besedo ima Franc Kumin, kmetijsko področje, 8. okoliš, Murska Sobota.
                            Pripravi pa naj se Jernej Krajšek.</p>
@@ -1428,7 +1439,7 @@
                      </sp>
                      <stage type="time">(Seja zbora je bila prekinjena ob 11.35 uri in se je
                         nadaljevala ob 12.25 uri.)</stage>
-                     </div>
+                  </div>
                   <div ana="#PAR.IzvKomis">
                      <sp who="#sp.DvojmočValentin">
                         <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
@@ -1454,8 +1465,8 @@
                            (Nihče.)</p>
                         <p>Ugotavljam, da je dodatno poročilo verifikacijske komisije soglasno
                            sprejeto.</p>
-                        </sp>
-                     </div>
+                     </sp>
+                  </div>
                   <div ana="#PAR.TDR" n="2">
                      <sp who="#sp.DvojmočValentin">
                         <p>Nadaljujemo z 2. točko dnevnega reda. K razpravi se je prijavil tovariš
@@ -2345,8 +2356,8 @@
                            se sestanejo v sobi 209 in skupaj z delegati Zbora občin proučijo
                            razpravo ter zboru predlagajo morebitne spremembe, dopolnitve predloženih
                            ugotovitev, stališč in sklepov.</p>
-                        </sp>
-                     </div>
+                     </sp>
+                  </div>
                   <div ana="#PAR.IzvKomis">
                      <sp who="#sp.DvojmočValentin">
                         <p>Ker nas čakajo delegati SIS Izobraževalne skupnosti zaradi usklajevanja,
@@ -2373,8 +2384,8 @@
                            razprave, dam na glasovanje.</p>
                         <p>Kdo je za? (125 delegatov.) Je kdo proti? (Nihče.) Vzdržani? (Nihče.)</p>
                         <p>Ugotavljam, da je tudi to dodatno poročilo soglasno sprejeto.</p>
-                        </sp>
-                     </div>
+                     </sp>
+                  </div>
                   <div ana="#PAR.TDR" n="5">
                      <sp who="#sp.DvojmočValentin">
                         <p>Prehajamo k 5. TOČKI DNEVNEGA REDA - NA PREDLOG ZAKONAO PEDAGOŠKI SLUŽBI.
@@ -2598,8 +2609,8 @@
                            družbenopolitični sistem našega zbora; Boženo Zigmund, prosvetno-kulturno
                            področje, 13. okoliš, Ljubljana Vič-Rudnik in Jožeta Žumra, t. okoliš,
                            Piran.</p>
-                        </sp>
-                     </div>
+                     </sp>
+                  </div>
                   <div ana="#PAR.TDR" n="3">
                      <sp who="#sp.DvojmočValentin">
                         <p>Prehajamo k 3. TOČKI DNEVNEGA REDA - K POROČILU DELEGACIJE SKUPŠČINE SR
@@ -2825,8 +2836,8 @@
                         <p>Kdo je za ta sklep? (118 delegatov.) Je kdo proti? (6 delegatov.)
                            Vzdržani? (3 delegati.)</p>
                         <p>Ugotavljam, da je predlagani sklep sprejet z večino glasov.</p>
-                        </sp>
-                     </div>
+                     </sp>
+                  </div>
                   <div ana="#PAR.TDR" n="4">
                      <sp who="#sp.DvojmočValentin">
                         <p>Prehajamo k 4. TOČKI DNEVNEGA REDA - PREDLOG DRUŽBENEGADOGOVORA O
@@ -3023,8 +3034,8 @@
                            Skupina delegatov naj se takoj sestane v sobi številka 84, prouči naj
                            razpravo in amandmaje ter poroča zboru. V skupini so Leopold Zupan, Vinko
                            Kržan, Marija Japelj in Božidar Kaloper.</p>
-                        </sp>
-                     </div>
+                     </sp>
+                  </div>
                   <div ana="#PAR.TDR" n="6">
                      <sp who="#sp.DvojmočValentin">
                         <p>Prehajamo k 6. TOČKI DNEVNEGA REDA - PREDLOG ZAKONA OPEDAGOŠKI AKADEMIJI
@@ -3069,8 +3080,8 @@
                            delegati.) Vzdržani? (2 delegata.)</p>
                         <p>Ugotavljam, da je predlog za izdajo zakona o Pedagoški akademiji v
                            Ljubljani, s predlogom zakona, sprejet z večino glasov.</p>
-                        </sp>
-                     </div>
+                     </sp>
+                  </div>
                   <div ana="#PAR.TDR" n="7">
                      <sp who="#sp.DvojmočValentin">
                         <p>Prehajamo k 7. TOČKI DNEVNEGA REDA - OSNUTEK ZAKONA OZAKLJUČNEM RAČUNU O
@@ -3094,8 +3105,8 @@
                         <p>Kdo je za? (102 delegata.) Je kdo proti? (4 delegati.) Vzdržani? (2
                            delegata.)</p>
                         <p>Ugotavljam, da je predlog zakona sprejet z večino glasov.</p>
-                        </sp>
-                     </div>
+                     </sp>
+                  </div>
                   <div ana="#PAR.TDR" n="8">
                      <sp who="#sp.DvojmočValentin">
                         <p>Prehajamo k 8. TOČKI DNEVNEGA REDA - PREDLOG ZA IZDAJOZAKONA O ZAČASNEM
@@ -3481,8 +3492,8 @@
                         <p>Kdo je za ta sklep? (100 delegatov.) Je kdo proti? (4 delegati.)
                            Vzdržani? (7 delegatov.)</p>
                         <p>Ugotavljam, da je predlog sklepa sprejet z večino glasov.</p>
-                        </sp>
-                     </div>
+                     </sp>
+                  </div>
                   <div ana="#PAR.TDR" n="9">
                      <sp who="#sp.DvojmočValentin">
                         <p>Prehajamo k 9. TOČKI DNEVNEGA REDA - OSNUTEK ZAKONA O JUGOSLOVANSKI BANKI
@@ -3503,8 +3514,8 @@
                         <p>Kdo je za ta sklep? (101 delegat.) Je kdo proti? (5 delegatov.) Vzdržani?
                            (5 delegatov.)</p>
                         <p>Ugotavljam, da je predlog sklepa sprejet z večino glasov.</p>
-                        </sp>
-                     </div>
+                     </sp>
+                  </div>
                   <div ana="#PAR.TDR" n="10">
                      <sp who="#sp.DvojmočValentin">
                         <p>Prehajamo k 10. TOČKI DNEVNEGA REDA - OSNUTEK ZAKONA ESA 218, STROGO
@@ -3523,8 +3534,8 @@
                         <p>Danes pa ste prejeli vse gradivo: osnutek zakona, mnenje Izvršnega sveta,
                            predlog sklepa, poročilo Odbora za finance in kreditno-monetarno politiko
                            ter poročilo Zakonodajno-pravne komisije.</p>
-                        </sp>
-                     </div>
+                     </sp>
+                  </div>
                   <div ana="#PAR.TDR" n="11">
                      <sp who="#sp.DvojmočValentin">
                         <p>Prehajamo k 11. TOČKI DNEVNEGA REDA - OSNUTEK ZAKONA O SKUPNEM ZNESKU
@@ -3553,8 +3564,8 @@
                         <p>Kdo je za ta sklep? (100 delegatov.) Je kdo proti? (3 delegati.)
                            Vzdržani? (2 delegata.)</p>
                         <p>Ugotavljam, da je sklep sprejet z večino glasov.</p>
-                        </sp>
-                     </div>
+                     </sp>
+                  </div>
                   <div ana="#PAR.TDR" n="12">
                      <sp who="#sp.DvojmočValentin">
                         <p>Prehajamo k 12.TOČKI DNEVNEGA REDA - PREDLOG ZAKONA ORATIFIKACIJI
@@ -3603,8 +3614,8 @@
                         <p>Kdo je za ta sklep? (97 delegatov.) Je kdo proti? (1 delegat.) Vzdržani?
                            (4 delegati.)</p>
                         <p>Ugotavljam, da je predlagani sklep sprejet z večino glasov.</p>
-                        </sp>
-                     </div>
+                     </sp>
+                  </div>
                   <div ana="#PAR.TDR" n="13">
                      <sp who="#sp.DvojmočValentin">
                         <p>Prehajamo na 13. TOČKO DNEVNEGA REDA - POROČILO O DELUSLUŽBE DRUŽBENEGA
@@ -3851,8 +3862,8 @@
                         <p>Kdo je za ta predlog sklepa? (97 delegatov.) Je kdo proti? (Nihče.)
                            Vzdržani? (Nihče.)</p>
                         <p>Ugotavljam, da je predlog sklepa sprejet soglasno.</p>
-                        </sp>
-                     </div>
+                     </sp>
+                  </div>
                   <div ana="#PAR.TDR" n="14">
                      <sp who="#sp.DvojmočValentin">
                         <p>Prehajamo k 14. TOČKI DNEVNEGA REDA - VOLITVE INIMENOVANJA.</p>
@@ -4086,8 +4097,8 @@
                         <p>S tem sta člana Upravnega odbora Sklada za pospeševanje upodabljajoče
                            umetnosti Moše Pijade izvoljena Zvest Apollonio in Jure Mikuž.</p>
                         <pb n="73" xml:id="pb.73"/>
-                        </sp>
-                     </div>
+                     </sp>
+                  </div>
                   <div ana="#PAR.TDR" n="15">
                      <sp who="#sp.DvojmočValentin">
                         <p>Prehajamo na 15. TOČKO DNEVNEGA REDA - POBUDE, PREDLOGIIN VPRAŠANJA
