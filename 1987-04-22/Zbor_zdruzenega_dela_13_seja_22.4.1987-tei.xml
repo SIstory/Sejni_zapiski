@@ -66,7 +66,8 @@
             <list type="ordered">
                <item>1. Odobritev zapisnika 12. seje (1. točka dnevnega reda) 7</item>
                <item>2. Informacija Izvršnega sveta Skupščine SR Slovenije o tekočih gospodarskih
-                  gibanjih v SR Sloveniji v prvih mesecih leta 1987 (2. točka dnevnega reda) 7</item>
+                  gibanjih v SR Sloveniji v prvih mesecih leta 1987 (2. točka dnevnega reda)
+                  7</item>
             </list>
             <p>GOVORNIKI:</p>
             <p>Leopold Zupan 8</p>
@@ -151,7 +152,8 @@
             <list type="ordered">
                <item>12. Osnutek zakona o Jugoslovanski banki za mednarodno ekonomsko sodelovanje(9.
                   točka dnevnega reda) 61</item>
-               <item>13. Osnutek zakona (ESA 218 - strogo zaupno) (10. točka dnevnega reda) 61</item>
+               <item>13. Osnutek zakona (ESA 218 - strogo zaupno) (10. točka dnevnega reda)
+                  61</item>
                <item>14. Osnutek zakona o skupnem znesku sredstev za financiranje programa priprav
                   za tisk in tiskanje osnovne hidrogeološke karte Jugoslavije in osnovne
                   inženirsko-geološke karte Jugoslavije za obdobje 1988 – 2009 (11. točka dnevnega
@@ -213,58 +215,108 @@
             <castList>
                <head>(13. seja - 22. april 1987)</head>
                <head>GOVORNIKI:</head>
-            <castItem>Arčan Danilo <ref target="#pb.54">54</ref></castItem>
-            <castItem>Blas Janko <ref target="#pb.62">62</ref></castItem>
-            <castItem>Bohorič Janez <ref target="#pb.68">68</ref></castItem>
-            <castItem>Borak Neven <ref target="#pb.73">73</ref></castItem>
-            <castItem>Çafnik Drago <ref target="#pb.35">35</ref>, <ref target="#pb.59">59</ref>, <ref target="#pb.71">71</ref></castItem>
-            <castItem>Črnak-Meglič Andreja <ref target="#pb.37">37</ref></castItem>
-            <castItem>Ditrih Milan <ref target="#pb.36">36</ref></castItem>
-            <castItem>Frančiškin Ljubica <ref target="#pb.71">71</ref></castItem>
-            <castItem>Frelih Leo <ref target="#pb.16">16</ref></castItem>
-               <castItem>Gogala Franc <ref target="#pb.7">78</ref></castItem>
-            <castItem>Hausmeister Majda <ref target="#pb.49">49</ref></castItem>
-            <castItem>Kaloper Božidar <ref target="#pb.49">49</ref></castItem>
-            <castItem>Knafelc Franc <ref target="#pb.63">63</ref></castItem>
-            <castItem>Konrad Stane <ref target="#pb.10">10</ref></castItem>
-            <castItem>Kous dr. Štefan <ref target="#pb.55">55</ref></castItem>
-            <castItem>Kozinc Lili <ref target="#pb.26">26</ref>, <ref target="#pb.77">77</ref></castItem>
-            <castItem>Krajnik Milan <ref target="#pb.33">33</ref></castItem>
-            <castItem>Krajšek Jernej <ref target="#pb.14">14</ref></castItem>
-            <castItem>Kumin Franc <ref target="#pb.13">13</ref></castItem>
-            <castItem>Kušej dr. Miklavž <ref target="#pb.2">2</ref>, <ref target="#pb.21">21</ref>, <ref target="#pb.34">34</ref>, <ref target="#pb.39">39</ref></castItem>
-            <castItem>Lipoglavšek Franc <ref target="#pb.6">6</ref>,<ref target="#pb.41">41</ref></castItem>
-            <castItem>Medik Branko <ref target="#pb.27">27</ref>, <ref target="#pb.70">70</ref></castItem>
-            <castItem>Miklič Nikolaj <ref target="#pb.76">76</ref></castItem>
-            <castItem>Mlinar Martin <ref target="#pb.44">44</ref></castItem>
-            <castItem>Novak Vili <ref target="#pb.56">56</ref>, <ref target="#pb.67">67</ref></castItem>
-            <castItem>Pengov Anton <ref target="#pb.76">76</ref></castItem>
-            <castItem>Pirš Jurij <ref target="#pb.29">29</ref></castItem>
-            <castItem>Pivec Franci <ref target="#pb.4">4</ref>, <ref target="#pb.5">5</ref></castItem>
-            <castItem>Plausteiner Zdenka <ref target="#pb.18">18</ref>, <ref target="#pb.57">57</ref></castItem>
-            <castItem>Požar Boris <ref target="#pb.22">22</ref></castItem>
-            <castItem>Ptičar Viktor <ref target="#pb.23">23</ref></castItem>
-            <castItem>Ruparšek Franc <ref target="#pb.51">51</ref></castItem>
-            <castItem>Šepič Rudi <ref target="#pb.59">59</ref></castItem>
-            <castItem>Štefe Drago <ref target="#pb.31">31</ref></castItem>
-            <castItem>Tacinger Milan <ref target="#pb.12">12</ref></castItem>
-            <castItem>Veršec Miloš <ref target="#pb.15">15</ref></castItem>
-            <castItem>Zadnik Bojan <ref target="#pb.21">21</ref></castItem>
-            <castItem>Zgonc Boštjan <ref target="#pb.39">39</ref></castItem>
-            <castItem>Zigmud Božena <ref target="#pb.4">4</ref></castItem>
-            <castItem>Zupan Leopold <ref target="#pb.8">8</ref>, <ref target="#pb.78">78</ref>, <ref target="#pb.79">79</ref></castItem>
-            <castItem>Žumer Jože <ref target="#pb.5">5</ref>, <ref target="#pb.6">6</ref>, <ref target="#pb.42">42</ref></castItem>
-            <pb n="1" xml:id="pb.1"/>
+               <castItem><actor xml:id="sp.ArčanDanilo">Arčan Danilo</actor>
+                  <ref target="#pb.54">54</ref></castItem>
+               <castItem><actor xml:id="sp.BlasJanko">Blas Janko</actor>
+                  <ref target="#pb.62">62</ref></castItem>
+               <castItem><actor xml:id="sp.BohoričJanez">Bohorič Janez</actor>
+                  <ref target="#pb.68">68</ref></castItem>
+               <castItem><actor xml:id="sp.BorakNeven">Borak Neven</actor>
+                  <ref target="#pb.73">73</ref></castItem>
+               <castItem><actor xml:id="sp.CafnikDrago">Cafnik Drago</actor>
+                  <ref target="#pb.35">35</ref>, <ref target="#pb.59">59</ref>, <ref target="#pb.71"
+                     >71</ref></castItem>
+               <castItem><actor xml:id="sp.Črnak-MegličAndreja">Črnak-Meglič Andreja</actor>
+                  <ref target="#pb.37">37</ref></castItem>
+               <castItem><actor xml:id="sp.DitrihMilan">Ditrih Milan</actor>
+                  <ref target="#pb.36">36</ref></castItem>
+               <castItem><actor xml:id="sp.FrančiškinLjubica">Frančiškin Ljubica</actor>
+                  <ref target="#pb.71">71</ref></castItem>
+               <castItem><actor xml:id="sp.FrelihLeo">Frelih Leo</actor>
+                  <ref target="#pb.16">16</ref></castItem>
+               <castItem><actor xml:id="sp.GogalaFranc">Gogala Franc</actor>
+                  <ref target="#pb.7">78</ref></castItem>
+               <castItem><actor xml:id="sp.HausmeisterMajda">Hausmeister Majda</actor>
+                  <ref target="#pb.49">49</ref></castItem>
+               <castItem><actor xml:id="sp.KaloperBožidar">Kaloper Božidar</actor>
+                  <ref target="#pb.49">49</ref></castItem>
+               <castItem><actor xml:id="sp.KnafelcFranc">Knafelc Franc</actor>
+                  <ref target="#pb.63">63</ref></castItem>
+               <castItem><actor xml:id="sp.KonradStane">Konrad Stane</actor>
+                  <ref target="#pb.10">10</ref></castItem>
+               <castItem><actor xml:id="sp.KousŠtefan">Kous dr. Štefan</actor>
+                  <ref target="#pb.55">55</ref></castItem>
+               <castItem><actor xml:id="sp.KozincLili">Kozinc Lili</actor>
+                  <ref target="#pb.26">26</ref>, <ref target="#pb.77">77</ref></castItem>
+               <castItem><actor xml:id="sp.KrajnikMilan">Krajnik Milan</actor>
+                  <ref target="#pb.33">33</ref></castItem>
+               <castItem><actor xml:id="sp.KrajšekJernej">Krajšek Jernej</actor>
+                  <ref target="#pb.14">14</ref></castItem>
+               <castItem><actor xml:id="sp.KuminFranc">Kumin Franc</actor>
+                  <ref target="#pb.13">13</ref></castItem>
+               <castItem><actor xml:id="sp.KušejMiklavž">Kušej dr. Miklavž</actor>
+                  <ref target="#pb.2">2</ref>, <ref target="#pb.21">21</ref>, <ref target="#pb.34"
+                     >34</ref>, <ref target="#pb.39">39</ref></castItem>
+               <castItem><actor xml:id="sp.LipoglavšekFranc">Lipoglavšek Franc</actor>
+                  <ref target="#pb.6">6</ref>,<ref target="#pb.41">41</ref></castItem>
+               <castItem><actor xml:id="sp.MedikBranko">Medik Branko</actor>
+                  <ref target="#pb.27">27</ref>, <ref target="#pb.70">70</ref></castItem>
+               <castItem><actor xml:id="sp.MikličNikolaj">Miklič Nikolaj</actor>
+                  <ref target="#pb.76">76</ref></castItem>
+               <castItem><actor xml:id="sp.MlinarMartin">Mlinar Martin</actor>
+                  <ref target="#pb.44">44</ref></castItem>
+               <castItem><actor xml:id="sp.NovakVili">Novak Vili</actor>
+                  <ref target="#pb.56">56</ref>, <ref target="#pb.67">67</ref></castItem>
+               <castItem><actor xml:id="sp.PengovAnton">Pengov Anton</actor>
+                  <ref target="#pb.76">76</ref></castItem>
+               <castItem><actor xml:id="sp.PiršJurij">Pirš Jurij</actor>
+                  <ref target="#pb.29">29</ref></castItem>
+               <castItem><actor xml:id="sp.PivecFranci">Pivec Franci</actor>
+                  <ref target="#pb.4">4</ref>, <ref target="#pb.5">5</ref></castItem>
+               <castItem><actor xml:id="sp.PlausteinerZdenka">Plausteiner Zdenka</actor>
+                  <ref target="#pb.18">18</ref>, <ref target="#pb.57">57</ref></castItem>
+               <castItem><actor xml:id="sp.PožarBoris">Požar Boris</actor>
+                  <ref target="#pb.22">22</ref></castItem>
+               <castItem><actor xml:id="sp.PtičarViktor">Ptičar Viktor</actor>
+                  <ref target="#pb.23">23</ref></castItem>
+               <castItem><actor xml:id="sp.RuparšekFranc">Ruparšek Franc</actor>
+                  <ref target="#pb.51">51</ref></castItem>
+               <castItem><actor xml:id="sp.ŠepičRudi">Šepič Rudi</actor>
+                  <ref target="#pb.59">59</ref></castItem>
+               <castItem><actor xml:id="sp.ŠtefeDrago">Štefe Drago</actor>
+                  <ref target="#pb.31">31</ref></castItem>
+               <castItem><actor xml:id="sp.TacingerMilan">Tacinger Milan</actor>
+                  <ref target="#pb.12">12</ref></castItem>
+               <castItem><actor xml:id="sp.VeršecMiloš">Veršec Miloš</actor>
+                  <ref target="#pb.15">15</ref></castItem>
+               <castItem><actor xml:id="sp.ZadnikBojan">Zadnik Bojan</actor>
+                  <ref target="#pb.21">21</ref></castItem>
+               <castItem><actor xml:id="sp.ZgoncBoštjan">Zgonc Boštjan</actor>
+                  <ref target="#pb.39">39</ref></castItem>
+               <castItem><actor xml:id="sp.ZigmudBožena">Zigmud Božena</actor>
+                  <ref target="#pb.4">4</ref></castItem>
+               <castItem><actor xml:id="sp.ZupanLeopold">Zupan Leopold</actor>
+                  <ref target="#pb.8">8</ref>, <ref target="#pb.78">78</ref>, <ref target="#pb.79"
+                     >79</ref></castItem>
+               <castItem><actor xml:id="sp.ŽumerJože">Žumer Jože</actor>
+                  <ref target="#pb.5">5</ref>, <ref target="#pb.6">6</ref>, <ref target="#pb.42"
+                     >42</ref></castItem>
+               <pb n="1" xml:id="pb.1"/>
             </castList>
          </div>
       </front>
       <body>
          <div>
             <head>ZBOR ZDRUŽENEGA DELA SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE</head>
-            <p>13. Seja (22. april 1987)</p>
-            <p>Sejo je vodil Valentin Dvojmoč, predsednik Zbora združenega dela.</p>
-            <p>Seja se je začela ob 9.05 uri.</p>
-            <sp>
+            <head>13. Seja</head>
+            <docDate>(22. april 1987)</docDate>
+            <castList>
+               <castItem><roleDesc>Sejo je vodil</roleDesc>
+                  <actor xml:id="sp.DvojmočValentin">Valentin Dvojmoč</actor>, <role>predsednik
+                     Zbora združenega dela</role>.</castItem>
+            </castList>
+            <stage type="time">Seja se je začela ob 9.05 uri.</stage>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                <p>Tovarišice in tovariši delegati! Vsem prav lep pozdrav. Pričenjam 13. sejo Zbora
                   združenega dela Skupščine SR Slovenije, ki sem jo sklical na podlagi 98. člena
@@ -320,7 +372,7 @@
                <p>Komisija je končala s svojim delom. Prosim tovariša Miklavža Kušeja, da poda svoje
                   poročilo.</p>
             </sp>
-            <sp>
+            <sp who="#sp.KušejMiklavž">
                <speaker>DR. MIKLAVŽ KUŠEJ:</speaker>
                <p>Verifikacijska komisija je pregledala vse poverilnice in ugotavlja za današnjo,
                   13. sejo, dne 22.4., naslednje stanje prisotnosti.</p>
@@ -338,7 +390,7 @@
                <p>Glede na prisotnost delegatov komisija ugotavlja, da je Zbor združenega dela
                   sklepčen.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                <p>Hvala lepa. Želi o poročilu komisije kdo razpravljati? (Ne želi.) Če ne želi nihče
                   razpravljati, prehajamo na glasovanje. O poročilu bomo glasovali v celoti, ker ni
@@ -403,7 +455,7 @@
                   kdo razpravljati? (Da.) Besedo ima Božena Zigmund, prosvetno-kulturno področje, 3.
                   okoliš, Ljubljana Vič-Rudnik.</p>
             </sp>
-            <sp>
+            <sp who="#sp.ZigmudBožena">
                <speaker>BOŽENA ZIGMUND:</speaker>
                <p>Skupina delegatov prosvetno-kulturnega področja s 3. okoliša je na seji ob
                   obravnavi predloga zakona o pedagoški službi razpravljala tudi o dilemah, ali je
@@ -417,12 +469,12 @@
                <p>2. Da predlagatelj znova prouči dileme, ki so se</p>
                <p>pojavile.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                <p>Hvala lepa. Besedo ima tovariš Franci Pivec, predsednik Republiškega komiteja za
                   vzgojo in izobraževanje ter telesno kulturo.</p>
             </sp>
-            <sp>
+            <sp who="#sp.PivecFranci">
                <speaker>FRANCI PIVEC:</speaker>
                <p>Tovariš predsednik, tovarišice in tovariši delegati! Amandmaji oziroma pripombe in
                   predlogi Republiške konference Zveze socialistične mladine Slovenije oblikovani na
@@ -441,16 +493,16 @@
                   pedagoške službe, pa predlagatelj ni mogel spreminjati z amandmaji, ker se je o
                   tem vprašanju izrecno dvakrat opredelil Družbeni svet SR Slovenije za vzgojo in
                   izobraževanje in delegati Zbora združenega dela, Zbora občin ter Izobraževalne
-                  skupnosti<pb n="5" xml:id="pb.5"/> Slovenije ob sprejemanju predloga za izdajo zakona s tezami in osnutka zakona. Iz
-                  teh razlogov menim, da umik predloga zakona z dnevnega reda s podano
-                  obrazložitvijo ni utemeljen.</p>
+                     skupnosti<pb n="5" xml:id="pb.5"/> Slovenije ob sprejemanju predloga za izdajo
+                  zakona s tezami in osnutka zakona. Iz teh razlogov menim, da umik predloga zakona
+                  z dnevnega reda s podano obrazložitvijo ni utemeljen.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                <p>Ima še kdo kakšno vprašanje? (Da.) Prosim, besedo ima Jože Žumer,
                   prosvetno-kulturno področje, 6. okoliš, Piran.</p>
             </sp>
-            <sp>
+            <sp who="#sp.ŽumerJože">
                <speaker>JOŽE ŽUMER:</speaker>
                <p>Tovarišice in tovariši delegati! Zastopam stališča pedagoških delavcev z obale, ki
                   menimo, da kljub razlogom, ki jih je tovariš Pivec navedel, čas za spremembo
@@ -463,11 +515,11 @@
                   tega bistveno ne odstopa od obstoječega. Zato podpiramo predlog tovarišice
                   Zigmundove, da se ta točka črta z dnevnega reda.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                <p>Besedo ima ponovno tovariš Franci Pivec.</p>
             </sp>
-            <sp>
+            <sp who="#sp.PivecFranci">
                <speaker>FRANCI PIVEC:</speaker>
                <p>Najprej bi se moral opredeliti o očitku, Po katerem dejstvo, da v točki o
                   združljivosti treh temeljnih funkcij pedagoške službe novi zakon ne odstopa
@@ -489,14 +541,15 @@
                   ničesar novega, izhaja pa iz enega samega elementa zakona, ki ga je predlagatelj
                   oblikoval na čimbolj demokratičen način, prenagljena in napačno naslovljena.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                <p>Hvala lepa. Menim, daPostopno že prehajamo na vsebino razprave 5. točke dnevnega
-                  reda, zato opozarjam, da sprejemamo samo dnevni red in odločitev, ali<pb n="6" xml:id="pb.6"/> to
-                  uvrstiti v dnevni red ali ne. Želi še kdo razpravljati o dnevnem redu. Prosim, ne
-                  vsebinsko. O vsebini se bomo pogovarjali pri 5. točki. Besedo ima Jože Žumer.</p>
+                  reda, zato opozarjam, da sprejemamo samo dnevni red in odločitev, ali<pb n="6"
+                     xml:id="pb.6"/> to uvrstiti v dnevni red ali ne. Želi še kdo razpravljati o
+                  dnevnem redu. Prosim, ne vsebinsko. O vsebini se bomo pogovarjali pri 5. točki.
+                  Besedo ima Jože Žumer.</p>
             </sp>
-            <sp>
+            <sp who="#sp.ŽumerJože">
                <speaker>JOŽE ŽUMER:</speaker>
                <p>S trditvijo predsednika zbora se strinjam. Vendar, namen zakona je izboljšati
                   učno-vzgojni proces in pedagogi obalnega področja menimo, da novi zakon tega ne bo
@@ -508,12 +561,12 @@
                   kar je najbrž glavni namen spremembe zakona. Tako predlagamo, da se sprejem tega
                   zakona odloži in se ta točka črta z dnevnega reda.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                <p>Besedo ima Franc Lipoglavšek, poročevalec skupine delegatov vseh zborov za
                   družbene dejavnosti.</p>
             </sp>
-            <sp>
+            <sp who="#sp.LipoglavšekFranc">
                <speaker>FRANC LIPOGLAVŠEK:</speaker>
                <p>Tovarišice in tovariši delegati! Skupina delegatov za družbene dejavnosti vseh
                   treh zborov je bila tudi pred dilemo, ali razpravljati o tem zakonu glede na to,
@@ -529,9 +582,9 @@
                   področju izobraževanja. Zato Predlagam, da se zakon uvrsti na dnevni red, o njem
                   pa naj delegati povedo svoje mnenje. Hvala.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
-               <p>Hvala lepa. S tem bizaključil razpravo, če se strinjate. Vseeno moramo dati na
+               <p>Hvala lepa. S tem bi zaključil razpravo, če se strinjate. Vseeno moramo dati na
                   glasovanje predlog delegata 3. okoliša, da se predlog zakona o pedagoški službi
                   umakne z dnevnega reda.</p>
                <p>Kdo je za predlog, da zakona ne bi obravnavali? (42 delegatov.) Je kdo proti? (74
@@ -546,9 +599,9 @@
                <pb n="7" xml:id="pb.7"/>
                <p>Sedaj bomo počakali delegate preostalih dveh zborov in nadaljevali delo na skupnem
                   zasedanju. Prosim delegate, da ne zapuščate dvorane.</p>
-               <p>(Seja zbora je bila prekinjena ob 9.35 uri in se je nadaljevala ob 10.40 uri.)</p>
             </sp>
-            <sp>
+            <stage type="time">(Seja zbora je bila prekinjena ob 9.35 uri in se je nadaljevala ob 10.40 uri.)</stage>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                <p>Tovarišice in tovariši delegati! Nadaljujemo sejo Zbora združenega dela.</p>
                <p>Prehajamo na 1. TOČKO DNEVNEGA REDA - ODOBRITEV ZAPISNIKA 12. SEJE ZBORA. Osnutek
@@ -587,7 +640,7 @@
                   12. okoliš, Kranj.</p>
             </sp>
             <pb n="8" xml:id="pb.8"/>
-            <sp>
+            <sp who="#sp.ZupanLeopold">
                <speaker>LEOPOLD ZUPAN:</speaker>
                <p>Tovariš predsednik, tovarišice in tovariši delegati! Delegati iz Kranja smo
                   izoblikovali naslednja stališča k tej točki dnevnega reda z vidika problematike
@@ -677,8 +730,8 @@
                   Zaradi vračila presežkov, ugotovljenih po intervencijskem zakonu, bi se moral
                   dovoljeni obseg sredstev za zadovoljevanje skupnih družbenih potreb na področju
                   samoupravnih interesnih skupnosti družbenih dejavnosti v letu 1987 zmanjšati
-                  realno za 18% v primerjavi z<pb n="10" xml:id="pb.10"/> združenimi sredstvi leta 1986. Kot da ni
-                  inflacije in je vse v najlepšem redu.</p>
+                  realno za 18% v primerjavi z<pb n="10" xml:id="pb.10"/> združenimi sredstvi leta
+                  1986. Kot da ni inflacije in je vse v najlepšem redu.</p>
                <p>V občini Kranj, v izvršnem svetu, v družbenopolitičnih organizacijah in tudi v
                   naši skupini delegatov ocenjujemo, da ni mogoče dosledno izvajati intervencijskega
                   zveznega zakona na področju zadovoljevanja skupnih družbenih potreb, ker bi to
@@ -696,12 +749,12 @@
                   družbenih dejavnosti redno dejavnost v celoti ali pa deloma ukiniti. Hvala
                   lepa.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                <p>Hvala lepa. K razpravi se je prijavil Konrad Stane, gospodarsko področje, 45.
                   okoliš, Gornja Radgona.</p>
             </sp>
-            <sp>
+            <sp who="#sp.KonradStane">
                <speaker>STANE KONRAD:</speaker>
                <p>Tovariš predsednik, tovarišice in tovariši delegati! Pri obravnavi gradiva je bila
                   naša skupina mnenja, da je potrebno postaviti v ospredje nekatere zadeve oziroma
@@ -724,10 +777,10 @@
                   družbene tržne proizvodnje naslednji: pšenica 160,9, sladkorna pesa 117, pitani
                   prašiči 105, pitano govedo 100, mleko 105.</p>
                <p>Primerjava enih in drugih indeksov nedvomno dokazuje rast fizičnega obsega
-                  kmetijske proizvodnje, še posebej je treba<pb n="11" xml:id="pb.11"/> poudariti ohranjanje te rasti v
-                  zadnjih letih, ko so disparitete neusmiljeno oklestile akumulacijo in pripeljale
-                  kmetijske organizacije na rob rentabilnosti. Ta ugotovitev velja tudi za
-                  mesnopredelovalne obrate.</p>
+                  kmetijske proizvodnje, še posebej je treba<pb n="11" xml:id="pb.11"/> poudariti
+                  ohranjanje te rasti v zadnjih letih, ko so disparitete neusmiljeno oklestile
+                  akumulacijo in pripeljale kmetijske organizacije na rob rentabilnosti. Ta
+                  ugotovitev velja tudi za mesnopredelovalne obrate.</p>
                <p>V občini Gornja Radgona je v družbenem sektorju največji kmetijski proizvajalec
                   Kmetijski kombinat. Poljedelstvo in govedoreja sta združeni v eni temeljni
                   organizaciji, prašičereja pa je organizirana v samostojni temeljni organizaciji.
@@ -786,12 +839,12 @@
                   razvitejšem delu sveta, ki nam bi moral biti tehnološki zgled. Menimo, da so
                   takšna stališča tudi vseh treh zborov, zato jih v celoti podpiramo.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                <p>Hvala lepa. Besedo imatovariš Milan Tacinger, kmetijsko področje, 6. okoliš, Ptuj.
                   Pripravi pa naj se Franc Kumin.</p>
             </sp>
-            <sp>
+            <sp who="#sp.TacingerMilan">
                <speaker>MILAN TACINGER:</speaker>
                <p>Tovarišice in tovariši delegati, tovariš predsednik! Skupina delegatov 6. okoliša
                   za področje kmetijstva v občini Ptuj je izoblikovala naslednje stališče in
@@ -817,19 +870,20 @@
                   investitorjev jih je odstopilo 17.</p>
                <p>Podobna nevarnost grozi tudi vlaganju v trajne nasade in v melioracije, zato
                   predlagamo 100% delež nepovratnih sredstev za naložbe v ta namen. Ta vlaganja za
-                  pomembne infrastrukturne<pb n="13" xml:id="pb.13"/> naložbe v zemljo, ki je kot proizvodno sredstvo v času proizvodnje tako
-                  obremenjena z dodatnimi stroški vzdrževanja melioracijskega sistema in z dražjimi
-                  vlaganji v petrifikacijo zemljišča, kot pa je to na ostalih kmetijskih zemljiščih.
-                  Tudi na usmerjenih kmetijah se vedno več mladih prevzemnikov kmetij, ki nimajo
-                  ustrezne kmetijske izobrazbe, odloča za zaposlovanje v združenem delu, ker vidijo
-                  v rednem mesečnem dohodku boljšo perspektivo in zanesljivejšo socialno varnost kot
-                  pa v sedanjih razmerah v kmetijstvu.</p>
+                  pomembne infrastrukturne<pb n="13" xml:id="pb.13"/> naložbe v zemljo, ki je kot
+                  proizvodno sredstvo v času proizvodnje tako obremenjena z dodatnimi stroški
+                  vzdrževanja melioracijskega sistema in z dražjimi vlaganji v petrifikacijo
+                  zemljišča, kot pa je to na ostalih kmetijskih zemljiščih. Tudi na usmerjenih
+                  kmetijah se vedno več mladih prevzemnikov kmetij, ki nimajo ustrezne kmetijske
+                  izobrazbe, odloča za zaposlovanje v združenem delu, ker vidijo v rednem mesečnem
+                  dohodku boljšo perspektivo in zanesljivejšo socialno varnost kot pa v sedanjih
+                  razmerah v kmetijstvu.</p>
                <p>Skupina delegatov zato predlaga zboru, da skupina uvrsti analizo položaja
                   kmetijstva na eno od prihodnjih sej, posebej z vidika posledic dvoletnega
                   ekonomskega položaja na realizacijo srednjeročnega družbenega plana in nadaljnjega
                   razvoja kmetijstva v republiki ob sedanjih pogojih gospodarjenja.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                <p>Samoobvestilbi vas, daje problematiko kmetijstva obravnaval včeraj Odbor za
                   kmetijstvo, poseben poudarek je bil na živinoreji. To gradivo bo objavljeno v
@@ -837,7 +891,7 @@
                <p>Besedo ima Franc Kumin, kmetijsko področje, 8. okoliš, Murska Sobota. Pripravi pa
                   naj se Jernej Krajšek.</p>
             </sp>
-            <sp>
+            <sp who="#sp.KuminFranc">
                <speaker>FRANC KUMIN:</speaker>
                <p>Tovariš predsednik, tovarišice in tovariši delegati! Ob vseh informacijah in
                   razpravah o tekočih gospodarskih gibanjih nas Pomurce najbolj zanimajo cene in
@@ -863,8 +917,8 @@
                   din za živo težo 270,25 dni in pri ceni 765 din za živo težo 330,24 din.</p>
                <p>Ob mesečnem zakolu 2469 glav je to pri mladi pitani govedi 360 milijonov din
                   izgube, pri zakolu 21500 prašičev je to 571 milijonov din izgube in pri
-                  proizvodnji 4 milijone 754.000<pb n="14" xml:id="pb.14"/>litrov mleka 198 milijonov din izgube. Skupaj
-                  zgubimo v enem mesecu 1129 milijonov din.</p>
+                  proizvodnji 4 milijone 754.000<pb n="14" xml:id="pb.14"/>litrov mleka 198
+                  milijonov din izgube. Skupaj zgubimo v enem mesecu 1129 milijonov din.</p>
                <p>Ta znesek se zmanjša za znesek premij, ki so 60 din na kg žive teže pitanega
                   goveda in pet din za liter mleka. Skupaj na zgornjo količino dobimo 90 milijonov
                   din, tako da znaša dejanska dispariteta 1039 milijonov din na mesec.</p>
@@ -889,12 +943,12 @@
                   Jugoslavije, ker bodo vse kasnejše akcije zaman ali pa bodo dražje. Hvala
                   lepa.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
-               <p>Hvala.BesedoimaJernejKrajšek, 10. okoliš kmetijstva, Trebnje. Pripravi naj se
+               <p>Hvala. Besedo ima Jernej Krajšek, 10. okoliš kmetijstva, Trebnje. Pripravi naj se
                   Miloš Veršec.</p>
             </sp>
-            <sp>
+            <sp who="#sp.KrajšekJernej">
                <speaker>JERNEJ KRAJŠEK:</speaker>
                <p>Tovariš predsednik, tovarišice in tovariši delegati! Ne bom razpravljal na dolgo
                   in široko!</p>
@@ -912,11 +966,11 @@
                   proizvodnje, saj le delno pokrivajo cene proizvodov.</p>
                <p>Zmanjšuje se število goveje živine, zaradi različnih cen se močno krhajo odnosi v
                   družbeno-organizirani proizvodnji. Veliko živine se z našega konca prodaja na
-                  Hrvaško, kjer so višje<pb n="15" xml:id="pb.15"/> cene. Ker zdaj vsakdo gleda samo na denar - investicije
-                  so proizvajalci skoraj opustili, bodo negativne posledice v proizvodnji. Zaradi
-                  nizkega dohodka in zelo povečanega prispevka za pokojninsko in invalidsko
-                  zavarovanje - kmetije opuščajo zavarovanje, veča se število mešanih kmetij, na
-                  katerih pa je manjši interes za proizvodnjo.</p>
+                  Hrvaško, kjer so višje<pb n="15" xml:id="pb.15"/> cene. Ker zdaj vsakdo gleda samo
+                  na denar - investicije so proizvajalci skoraj opustili, bodo negativne posledice v
+                  proizvodnji. Zaradi nizkega dohodka in zelo povečanega prispevka za pokojninsko in
+                  invalidsko zavarovanje - kmetije opuščajo zavarovanje, veča se število mešanih
+                  kmetij, na katerih pa je manjši interes za proizvodnjo.</p>
                <p>Prav tako upada poraba mineralnih gnojil, zmanjšuje se intenzivnost
                   proizvodnje.</p>
                <p>Proizvajalci nekaterih območij Dolenjske so bili močno prizadeti tudi zaradi
@@ -929,12 +983,12 @@
                   kmetijstvu, saj so povsod težave. Gora se še trese, kaj pa se bo rodilo, bomo
                   videli na koncu. Hvala.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
-               <p>Hvala lepa. Besedo imaMiloš Veršec, kmetijsko področje, 9. okoliš, Žalec. Pripravi
+               <p>Hvala lepa. Besedo ima Miloš Veršec, kmetijsko področje, 9. okoliš, Žalec. Pripravi
                   naj se Frelih Leo.</p>
             </sp>
-            <sp>
+            <sp who="#sp.VeršecMiloš">
                <speaker>MILOŠ VERŠEC:</speaker>
                <p>Tovariš predsednik, tovarišice in tovariši! Ko je skupina delegatov 9. okoliša za
                   kmetijstvo obravnavala informacijo o tekočih gospodarskih gibanjih v Sloveniji ter
@@ -985,12 +1039,12 @@
                   Torej je danes tako: če imaš kmetijo - kot bi imel garje, ostaneš sam z ostarelimi
                   starši na kmetiji. Kam pa to vodi, pa sami presodite. Hvala lepa.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
-               <p>Hvala lepa. Zaključimorazprave o kmetijstvu z zadnjim razpravljavcem. Besedo ima
+               <p>Hvala lepa. Zaključimo razprave o kmetijstvu z zadnjim razpravljavcem. Besedo ima
                   Frelih Leo, predsednik Zadružne zveze Slovenije.</p>
             </sp>
-            <sp>
+            <sp who="#sp.FrelihLeo">
                <speaker>LEO FRELIH:</speaker>
                <p>Tovarišice in tovariši delegati! Dovolite mi samo nekaj besed v zvezi s pripravo
                   na gradivo, predvsem pa z vsebino našega občnega zbora, ki je temeljito obravnaval
@@ -1008,16 +1062,16 @@
                   Jugoslaviji se je lani pridružila tudi naša republika.</p>
                <p>2. Čeprav so odkupne cene kmetijskih pridelkov v načelu proste, so cene mesa in
                   mleka še vedno pod družbeno kontrolo cen osnovnih živilskih proizvodov. To
-                  administrativno zadrževanje<pb n="17" xml:id="pb.17"/> maloprodajnih cen osnovnim živilom sicer ohranja
-                  socialni mir, pomaga vzdrževati življenjski standard večini prebivalstva, vendar
-                  na račun manjšega dela kmečkega prebivalstva - v Sloveniji je kmetov le še 9,2%.
-                  Takšna ugotovitev izhaja predvsem iz dejstva, da zaradi hitrejšega naraščanja cen
-                  vhodnih reprodukcijskih materialov kmetijskih proizvodov in zaradi počasnejše
-                  rasti cen kmetijskih pridelkov prihaja do velikih disparitet. Tako se v januarju
-                  1987 tehnološko najnaprednejši kmetijski proizvajalci z veljavno odkupno ceno,
-                  povečano za vse oblike stimulacij, ki jih ima Slovenija, krili komaj 77%
-                  proizvodne cene mleka in le 65% proizvodne cene prirastka govejega mesa. V farmski
-                  reji so te razmere še nekoliko slabše.</p>
+                  administrativno zadrževanje<pb n="17" xml:id="pb.17"/> maloprodajnih cen osnovnim
+                  živilom sicer ohranja socialni mir, pomaga vzdrževati življenjski standard večini
+                  prebivalstva, vendar na račun manjšega dela kmečkega prebivalstva - v Sloveniji je
+                  kmetov le še 9,2%. Takšna ugotovitev izhaja predvsem iz dejstva, da zaradi
+                  hitrejšega naraščanja cen vhodnih reprodukcijskih materialov kmetijskih proizvodov
+                  in zaradi počasnejše rasti cen kmetijskih pridelkov prihaja do velikih disparitet.
+                  Tako se v januarju 1987 tehnološko najnaprednejši kmetijski proizvajalci z
+                  veljavno odkupno ceno, povečano za vse oblike stimulacij, ki jih ima Slovenija,
+                  krili komaj 77% proizvodne cene mleka in le 65% proizvodne cene prirastka govejega
+                  mesa. V farmski reji so te razmere še nekoliko slabše.</p>
                <p>To neusklajeno gibanje cen se kaže v zaključnih računih družbenih kmetijskih
                   organizacij oziroma v njihovem ekonomskem položaju. Do leta 1983 se je ekonomski
                   položaj kmetijstva izboljševal, po tem letu pa so se finančni rezultati kmetijskih
@@ -1051,8 +1105,8 @@
                <p>Predlagamo, da se z ukrepi - tako kot je bilo danes že v ekspozeju in zaključkih
                   tudi opredeljeno - zagotovijo rejcem ustrezne cene klavne govedi in mleka, ki bodo
                   omogočale obstoj predvsem povprečno intenzivnim proizvajalcem. V kolikor pa to
-                  ne<pb n="18" xml:id="pb.18"/> bo zagotovljeno s cenami, se je potrebno odločiti za dodatne kompenzacije.
-                  V zvezi s tem tudi predlagam naslednje.</p>
+                     ne<pb n="18" xml:id="pb.18"/> bo zagotovljeno s cenami, se je potrebno odločiti
+                  za dodatne kompenzacije. V zvezi s tem tudi predlagam naslednje.</p>
                <p>1. Predložena stališča naj se dopolnijo v odstavku, ki to izpušča, da se dopolni z
                   naslednjim besedilom: "ob morebitni nerealizaciji skozi cenovno politiko naj se
                   uvede v skladu s 15. točko zvezne resolucije kompenzacija za izpadli dohodek."</p>
@@ -1068,12 +1122,12 @@
                   proizvodnih stroškov, ki jo je predložil kmetijski institut v zvezi z
                   uveljavljanjem ekonomskega položaja rejcev. Hvala lepa.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIKVALENTINDVOJMOČ:</speaker>
-               <p>Hvala lepa. Pred odmorombo imela besedo še tovarišica Zdenka Plausteiner,
+               <p>Hvala lepa. Pred odmorom bo imela besedo še tovarišica Zdenka Plausteiner,
                   gospodarsko področje, 33. okoliš, Šentjur pri Celju. Prosim.</p>
             </sp>
-            <sp>
+            <sp who="#sp.PlausteinerZdenka">
                <speaker>ZDENKA PLAUSTEINER:</speaker>
                <p>Tovariš predsednik, tovarišice in tovariši delegati! Predstavila bom naše stališče
                   o izvozni problematiki in problematiki financiranja družbene dejavnosti, in sicer
@@ -1096,8 +1150,9 @@
                   milijonov dinarjev. Zadnja leta so vseskozi povečevali izvoz, a od tega nimajo
                   danes ničesar. Dohodkovni položaj se še nadalje slabša, kljub skoraj petkratnemu
                   pokrivanju uvoza z izvozom. Plačila za uvoz se ne izvršujejo in so vsak dan pred
-                  dejstvom, da bo potrebno ustaviti proizvodnjo,<pb n="19" xml:id="pb.19"/> saj ne morejo uvoziti
-                  najnujnejših nadomestnih delov in potrebnega reprodukcijskega materiala.</p>
+                  dejstvom, da bo potrebno ustaviti proizvodnjo,<pb n="19" xml:id="pb.19"/> saj ne
+                  morejo uvoziti najnujnejših nadomestnih delov in potrebnega reprodukcijskega
+                  materiala.</p>
                <p>Nova zakonodaja na področju obračunskega sistema, nove, občutne višje obrestne
                   mere za selektivne namene, posojilo za pripravo blaga za izvoz in na osnovi ICD,
                   bodo povzročili, da bodo izvozniki imeli še večje težave, če na področju tečajne
@@ -1137,12 +1192,12 @@
                   racionalizacij v republiški zakonodaji. Če bi jo poenostavili in prenesli
                   pooblastila, bi posredno prispevali k boljšim gospodarskim rezultatom.</p>
                <p>Podobno velja tudi za naše pravosodje, kjer bi tudi po prepričanju samih delavcev
-                  na sodiščih, na primer s spremembo<pb n="20" xml:id="pb.20"/> procesnega prava skrajšali, poenostavili in
-                  predvsem pocenili sodne postopke, saj danes ni več redko, da so stroški postopka,
-                  v katerem sodelujejo razni izvedenci, sodni senat, sodniki - porotniki večje, kot
-                  je vrednost obravnavanega primera. Skratka menimo, da je možno z racionalizacijo
-                  zakonodaje, od zveze, prek republiške in do občine posredno zagotoviti boljše
-                  rezultate našega gospodarstva.</p>
+                  na sodiščih, na primer s spremembo<pb n="20" xml:id="pb.20"/> procesnega prava
+                  skrajšali, poenostavili in predvsem pocenili sodne postopke, saj danes ni več
+                  redko, da so stroški postopka, v katerem sodelujejo razni izvedenci, sodni senat,
+                  sodniki - porotniki večje, kot je vrednost obravnavanega primera. Skratka menimo,
+                  da je možno z racionalizacijo zakonodaje, od zveze, prek republiške in do občine
+                  posredno zagotoviti boljše rezultate našega gospodarstva.</p>
                <p>Zato predlagamo, naj zbor zadolži pristojne organe, da upoštevajoč tudi kritično
                   analizo, takoj izdelajo predlog mogočih racionalizacij naše zakonodaje.</p>
                <p>Kot je že delegat iz Kranja ugotavljal glede problematike financiranja družbenih
@@ -1174,19 +1229,19 @@
                   je v obravnavi za področje socialne Varnosti v določenih interesnih skupnostih.
                   Hvala.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
-               <p>Hvalalepa.Česestrinjate, bi odredil odmor do 12.20.</p>
-               <p>(Seja zbora je bila prekinjena ob 11.35 uri in se je nadaljevala ob 12.25
-                  uri.)</p>
+               <p>Hvala lepa. Če se strinjate, bi odredil odmor do 12.20.</p>
             </sp>
-            <sp>
+            <stage type="time">(Seja zbora je bila prekinjena ob 11.35 uri in se je nadaljevala ob 12.25
+               uri.)</stage>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
-               <p>Tovarišice in tovarišinadaljujemo sejo. Verifikacijska komisija ima dodatno
-                  poročilo,<pb n="21" xml:id="pb.21"/> zato bi prosil predsednika komisije, dr. Miklavža Kušeja, da ga
-                  poda.</p>
+               <p>Tovarišice in tovariši nadaljujemo sejo. Verifikacijska komisija ima dodatno
+                     poročilo,<pb n="21" xml:id="pb.21"/> zato bi prosil predsednika komisije, dr.
+                  Miklavža Kušeja, da ga poda.</p>
             </sp>
-            <sp>
+            <sp who="#sp.KušejMiklavž">
                <speaker>DR. MIKLAVŽ KUŠEJ:</speaker>
                <p>Verifikacijska komisija je dobila v vpogled še naslednja tri pooblastila
                   delegatov, ki so prišli med prvim delom zasedanja, in sicer: en delegat 25.
@@ -1194,9 +1249,9 @@
                   področje; iz državnih organov je prišel še en delegat 4. okoliša - Maribor. Sedaj
                   je prisotnih 147 delegatov. Vsa pooblastila so bila nesporna.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
-               <p>Hvala za dodatno poročilo.V razpravo dajem dodatno poročilo verifikacijske
+               <p>Hvala za dodatno poročilo. V razpravo dajem dodatno poročilo verifikacijske
                   komisije. Želi kdo besedo? (Ne.) Če ni razpravljavcev, dajem poročilo na
                   glasovanje.</p>
                <p>Kdo je za? (122 delegatov.) Je kdo proti? (Nihče.) Se je kdo vzdržal? (Nihče.)</p>
@@ -1205,7 +1260,7 @@
                   Zadnik, gospodarsko področje, 2. okoliš, Ljubljana Center. Pripravi naj se Požar
                   Boris.</p>
             </sp>
-            <sp>
+            <sp who="#sp.ZadnikBojan">
                <speaker>BOJAN ZADNIK:</speaker>
                <p>Tovariš predsednik, tovarišice in tovariši delegati!</p>
                <p>Skupina delegatov za delegiranje delegatov v Zbor združenega dela Skupščine SR
@@ -1267,21 +1322,21 @@
                   Reka in iz drugih bilančnih virov - na primer pri primarnem bencinu - v skladu z
                   energetsko bilanco. Hvala.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
-               <p>Besedo ima Boris Požar,delegat 21. okoliša gospodarskega področja, Koper. Pripravi
+               <p>Besedo ima Boris Požar, delegat 21. okoliša gospodarskega področja, Koper. Pripravi
                   naj se Ptičar Viktor.</p>
             </sp>
-            <sp>
+            <sp who="#sp.PožarBoris">
                <speaker>BORIS POŽAR:</speaker>
                <p>Tovarišice in tovariši delegati! Že lani se je ekonomski položaj močno poslabšal,
                   negativni položaj pa se je nadaljeval tudi v prvih letošnjih mesecih. Tako stanje
                   je predvsem posledica administrativnega zadrževanja cen, nerealnega tečaja in
                   neustreznih izvoznih spodbud za nekatere prometne dejavnosti. Zaradi tega je
-                  precej prihodkov izpadlo. To ogroža<pb n="23" xml:id="pb.23"/> normalno poslovanje, zlasti najnujnejše
-                  vzdrževanje transportnih sredstev in infrastrukture, ogrožena je tudi varnost
-                  prometa, povečali so se stroški poslovanja zaradi najemanja premostitvenih
-                  kreditov.</p>
+                  precej prihodkov izpadlo. To ogroža<pb n="23" xml:id="pb.23"/> normalno
+                  poslovanje, zlasti najnujnejše vzdrževanje transportnih sredstev in
+                  infrastrukture, ogrožena je tudi varnost prometa, povečali so se stroški
+                  poslovanja zaradi najemanja premostitvenih kreditov.</p>
                <p>Predlagamo, da Skupščina SR Slovenije sprejme naslednje sklepe in usmeritve:</p>
                <p>1. Zvezni izvršni svet naj nemudoma da soglasje k skupnim merilom za oblikovanje
                   cen železniških storitev in tako zagotovi ekonomska načela reprodukcije na
@@ -1316,12 +1371,12 @@
                   ukvarjajo s transportnimi storitvami v tranzitu, le-te pa spodbuja enako kot
                   proizvode za visoke stopnje obdelave.</p>
             </sp>
-            <sp>
+            <sp who="#sp.KaloperBožidar">
                <speaker>PODPREDSEDNIK BOŽIDAR KALOPER:</speaker>
                <p>Hvala lepa. Besedo imaViktor Ptičar, področje gospodarstva, 41. okoliš, Maribor
                   Tabor. Pripravi pa naj se tovarišica Lili Kozinc.</p>
             </sp>
-            <sp>
+            <sp who="#sp.PtičarViktor">
                <speaker>VIKTOR PTIČAR:</speaker>
                <p>Tovariš predsedujoči, tovarišice in tovariši delegati! Skupina delegatov iz občine
                   Maribor Tabor ima naslednje pripombe na informacijo Izvršnega sveta.</p>
@@ -1367,9 +1422,9 @@
                   pri rednem vzdrževanju družbene imovine, zgradb, opremljenosti šol, ukinjanjem
                   dogovorjenih programov in drugo.</p>
                <p>Razumljivo je, da z enakimi ali zmanjšanimi prispevnimi stopnjami ni mogoče
-                  gospodarno poslovati. Zato predlagamo, da se<pb n="25" xml:id="pb.25"/> ponovno prouči omenjeno
-                  zakonodajo, ugotovi dejansko stanje in posledice za področje družbenih dejavnosti
-                  ter na podlagi tega prilagodi novo zakonodajo.</p>
+                  gospodarno poslovati. Zato predlagamo, da se<pb n="25" xml:id="pb.25"/> ponovno
+                  prouči omenjeno zakonodajo, ugotovi dejansko stanje in posledice za področje
+                  družbenih dejavnosti ter na podlagi tega prilagodi novo zakonodajo.</p>
                <p>V zvezi s predlaganimi pripombami, stališči in sklepi k tej točki, kar smo dobili
                   poleg gradiva, pa imamo naslednje konkretne pripombe:</p>
                <p>Ne strinjamo se z besedilom tretjega odstavka 9. točke poglavja. V tem odstavku je
@@ -1410,10 +1465,11 @@
                   podobno.</p>
                <p>Rezultati takšne politike niso ustrezni in ne rešujejo problemov, celo povzročajo
                   dodatne probleme. Letošnje intervencijsko omejevanje osebnih dohodkov je izredno
-                  povečalo<pb n="26" xml:id="pb.26"/> nezadovoljstvo delavcev predvsem zaradi tega, ker je veljalo za
-                  nazaj, ker ga vsi ne izvajamo in ker ga spremlja občutno dviganje cen. Izrazito so
-                  se povečale razlike med osebnimi dohodki, ki nimajo nobene zveze z rezultati dela
-                  in gospodarjenja. To vse so omogočili ti neodgovorni ukrepi.</p>
+                     povečalo<pb n="26" xml:id="pb.26"/> nezadovoljstvo delavcev predvsem zaradi
+                  tega, ker je veljalo za nazaj, ker ga vsi ne izvajamo in ker ga spremlja občutno
+                  dviganje cen. Izrazito so se povečale razlike med osebnimi dohodki, ki nimajo
+                  nobene zveze z rezultati dela in gospodarjenja. To vse so omogočili ti neodgovorni
+                  ukrepi.</p>
                <p>Vsi dobro vemo, da predstavlja najkvalitetnejšo in najučinkovitejšo silnico
                   kvalitetnega gospodarjenja in razvoja predvsem zadovoljiva konkurenca. Zakaj se
                   tega temeljnega in ključnega vprašanja ne lotevamo konkretneje in odločneje? Zakaj
@@ -1431,12 +1487,12 @@
                   navedenih smereh, da ne bomo glede tržne zakonitosti ostali le pri besedah. Hvala
                   lepa.</p>
             </sp>
-            <sp>
+            <sp who="#sp.KaloperBožidar">
                <speaker>PODPREDSEDNIK BOŽIDAR KALOPER:</speaker>
                <p>Hvala lepa. Besedo dajem tovarišici Lili Kozinc, gospodarsko področje, 14. okoliš
                   Radovljica.</p>
             </sp>
-            <sp>
+            <sp who="#sp.KozincLili">
                <speaker>LILI KOZINC:</speaker>
                <p>Tovarišice in tovariši! Tudi naša delegacija v celoti podpira stališče in pobude
                   Gospodarske zbornice. Strinjamo se tudi z ugotovitvami današnjih razpravljavcev
@@ -1456,14 +1512,14 @@
                   ekonomska politika temu ne sledi. Želimo opozoriti tudi na to, da obstajajo velika
                   nesorazmerja, neenakosti med turističnim gospodarstvom in drugimi izvozniki in da
                   so ta nesorazmerja rezultat napačne politike Zveznega izvršnega sveta. Konkurenčne
-                  turistične dežele so že davno prišle do<pb n="27" xml:id="pb.27"/> spoznanja, kaj pomeni celotni devizni
-                  priliv za plačilno bilanco sleherne države, medtem ko pri nas očitno tega
-                  spoznanja še ni. Delež turističnega gospodarstva v občini je gotovo pomemben pri
-                  ustvarjanju deviznega priliva; bil bi pa lahko neprimerno višji, če bi se odnos do
-                  turističnega gospodarstva bistveno spremenil. Delavci v turizmu želimo biti enaki
-                  med enakimi in ne kot sedaj, ko so stimulacije za turizem 6%, v nekaterih delih
-                  gospodarstva pa do 32%. Ali še bolje - smo brez stimulacij ob realnem tečaju
-                  dinarja.</p>
+                  turistične dežele so že davno prišle do<pb n="27" xml:id="pb.27"/> spoznanja, kaj
+                  pomeni celotni devizni priliv za plačilno bilanco sleherne države, medtem ko pri
+                  nas očitno tega spoznanja še ni. Delež turističnega gospodarstva v občini je
+                  gotovo pomemben pri ustvarjanju deviznega priliva; bil bi pa lahko neprimerno
+                  višji, če bi se odnos do turističnega gospodarstva bistveno spremenil. Delavci v
+                  turizmu želimo biti enaki med enakimi in ne kot sedaj, ko so stimulacije za
+                  turizem 6%, v nekaterih delih gospodarstva pa do 32%. Ali še bolje - smo brez
+                  stimulacij ob realnem tečaju dinarja.</p>
                <p>Pričakujemo, da bodo odgovorni zvezni in republiški organi prešli od besed k
                   dejanjem in da bodo s konkretnimi ukrepi prispevali k uveljavitvi realnega tečaja
                   dinarja, zagotovitvi ugodnejših pogojev za najemanje investicijskih in bančnih
@@ -1483,12 +1539,12 @@
                   zapisano v številnih dokumentih in kot je zapisano v 17. členu predlogov
                   Gospodarske zbornice Slovenije.</p>
             </sp>
-            <sp>
+            <sp who="#sp.KaloperBožidar">
                <speaker>PODPREDSEDNIK BOŽIDAR KALOPER:</speaker>
                <p>Hvala lepa. Besedo dajem tovarišu Branku Mediku, gospodarsko področje, 38. okoliš,
                   Maribor Pobrežje. Pripravi naj se tovariš Julij Pirš.</p>
             </sp>
-            <sp>
+            <sp who="#sp.MedikBranko">
                <speaker>BRANKO MEDIK:</speaker>
                <p>Tovariš predsedujoči, tovarišice in tovariši delegati! Delavci organizacij
                   združenega dela občine Maribor Pobrežje smo na zborih delovnih ljudi in delavcev
@@ -1504,9 +1560,10 @@
                   proizvodnje usmerjene na to tržišče. S svojim delom dosegajo vrhunsko kakovost,
                   kar potrjuje dejstvo, da že leta delajo za najekskluzivnejše partnerje brez
                   reklamacij. Na tak način dosegajo sicer svetovne cene. Hkrati pa žal ugotavljajo,
-                  da poslovni rezultati kljub temu že od leta 1984 vidno padajo<pb n="28" xml:id="pb.28"/> na račun skrajno
-                  neustreznega deviznega zakona, nerealnega tečaja dinarja in tudi na račun
-                  ukinjanja stimulacije za izvoz - predvsem za predelavo.</p>
+                  da poslovni rezultati kljub temu že od leta 1984 vidno padajo<pb n="28"
+                     xml:id="pb.28"/> na račun skrajno neustreznega deviznega zakona, nerealnega
+                  tečaja dinarja in tudi na račun ukinjanja stimulacije za izvoz - predvsem za
+                  predelavo.</p>
                <p>Vse navedeno je močno vplivalo tudi na rezultate gospodarjenja v letu 1986 in na
                   nizke osebne dohodke tudi v zadnjem četrtletju leta 1986, kar je po
                   intervencijskem zakonu osnova za delitev osebnih dohodkov v prvem četrtletju 1987.
@@ -1548,8 +1605,9 @@
                   izrednega nezadovoljstva. Do izrednega nezadovoljstva zaradi napak, ki se danes
                   pojavljajo in na kar sem že sam in tudi ostali razpravljavci opozarjali. Menim, da
                   bi bilo treba to v kali zatreti in začeti z dejanskimi in resnimi premiki. Če
-                  imamo takšne institucije, s pomočjo katerih bi lahko<pb n="29" xml:id="pb.29"/> določene stvari postavili
-                  na realna tla, potem se moramo vprašati, kdo hoče ta nemir.</p>
+                  imamo takšne institucije, s pomočjo katerih bi lahko<pb n="29" xml:id="pb.29"/>
+                  določene stvari postavili na realna tla, potem se moramo vprašati, kdo hoče ta
+                  nemir.</p>
                <p>Zame in za vse delavce v združenem delu je intervencijski zakon ob sočasni rasti
                   cen nelogičen ukrep in hitro bomo morali nekaj storiti, da se bodo stvari
                   normalizirale.</p>
@@ -1560,12 +1618,12 @@
                   formulira sklepe, ki bodo potem tudi realizirani in preneseni v Skupščino SFRJ.
                   Toliko, hvala lepa.</p>
             </sp>
-            <sp>
+            <sp who="#sp.KaloperBožidar">
                <speaker>PODPREDSEDNIK BOŽIDAR KALOPER:</speaker>
                <p>Hvala lepa. Besedo dajem tovarišu Juriju Piršu, SIS za železniški in luški
                   promet.</p>
             </sp>
-            <sp>
+            <sp who="#sp.PiršJurij">
                <speaker>JURIJ PIRŠ:</speaker>
                <p>Tovariš predsedujoči, tovarišice in tovariši delegati! Informacija govori o
                   izjemno težkem gospodarskem položaju železniškega gospodarstva Ljubljana. O tem je
@@ -1640,16 +1698,16 @@
                   odnosov v železniškem gospodarstvu, kar pa, v skladu z vsemi našimi sprejetimi
                   usmeritvami, ne smemo dovoliti.</p>
                <p>Na koncu bi predlagal, da bi v ugotovitve in sklepe k tej točki dnevnega reda
-                  vključili tudi nujnost rešitev v tem<pb n="31" xml:id="pb.31"/> smislu, kot jo je opredelil Janez Bohorič
-                  v svoji uvodni besedi. Hvala lepa.</p>
+                  vključili tudi nujnost rešitev v tem<pb n="31" xml:id="pb.31"/> smislu, kot jo je
+                  opredelil Janez Bohorič v svoji uvodni besedi. Hvala lepa.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
-               <p>Hvala lepa. Besedo imaDrago Štefe, predsednik Posebne samoupravne interesne
+               <p>Hvala lepa. Besedo ima Drago Štefe, predsednik Posebne samoupravne interesne
                   skupnosti za elektrogospodarstvo in premogovništvo, pripravi pa naj se Milan
                   Krajnik.</p>
             </sp>
-            <sp>
+            <sp who="#sp.ŠtefeDrago">
                <speaker>DRAGO ŠTEFE:</speaker>
                <p>Tovariš predsednik, tovarišice in tovariši delegati! Dovolite, da vas v imenu
                   delegatov uporabnikov in izvajalcev skupščine Posebne interesne skupnosti za
@@ -1687,10 +1745,10 @@
                   omogočilo, da je z ukrepom neposredne kontrole cen električne energije dovolil
                   njihovo zvišanje v vrednosti cen industrijskih proizvodov.</p>
                <p>Zato zahtevamo od delegatov slovenskih izvajalcev JUGEL in Združenja premogovnikov
-                  SFRJ, da v njihove organe prenesejo<pb n="32" xml:id="pb.32"/> zahtevo po takojšnji uskladitvi skupnih
-                  elementov za oblikovanje cen električne energije in premoga, ki jih bo Zvezni
-                  izvršni svet lahko verificiral in se bodo na podlagi teh verificiranih skupnih
-                  elementov usklajevale tudi cene.</p>
+                  SFRJ, da v njihove organe prenesejo<pb n="32" xml:id="pb.32"/> zahtevo po
+                  takojšnji uskladitvi skupnih elementov za oblikovanje cen električne energije in
+                  premoga, ki jih bo Zvezni izvršni svet lahko verificiral in se bodo na podlagi teh
+                  verificiranih skupnih elementov usklajevale tudi cene.</p>
                <p>Sedanje cene, oblikovane na podlagi odloka Zveznega izvršnega sveta, ne
                   zagotavljajo elektrogospodarstvu in premogovništvu Slovenije normalnega
                   poslovanja, saj bodo - tako nizke kot so - povzročile velik izpad skupnega
@@ -1729,9 +1787,9 @@
                   naj se uporabi del sredstev, ki se zbirajo od teh uporabnikov za razširjeno
                   reprodukcijo s tem, da se od 15. maja 1987 spremeni dosedanja višina prispevka
                   1000 din po toni premoga na 20% od fakturiranega zneska za dobavljeni premog
-                  negospodarskim organizacijam združenega dela in široki<pb n="33" xml:id="pb.33"/> porabi. S tem bi se
-                  izenačilo obveznosti teh uporabnikov z obveznostmi organizacij združenega dela
-                  gospodarstva.</p>
+                  negospodarskim organizacijam združenega dela in široki<pb n="33" xml:id="pb.33"/>
+                  porabi. S tem bi se izenačilo obveznosti teh uporabnikov z obveznostmi organizacij
+                  združenega dela gospodarstva.</p>
                <p>Menimo, da sprejeti ukrepi enakomerno obremenjujejo uporabnike glede na porabljeno
                   energijo in tako zagotavljajo enakopraven položaj. Dosežemo pa tudi, da bi bil vir
                   za plačilo pri uporabnikih družbenih sredstev materialni strošek in ne
@@ -1748,12 +1806,12 @@
                   Slovenije o sanaciji izgub organizacij združenega dela elektrogospodarstva in
                   premogovništva. Hvala.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
-               <p>Hvala lepa. Besedo imatovariš Milan Krajnik, predsednik Poslovodnega odbora
+               <p>Hvala lepa. Besedo ima tovariš Milan Krajnik, predsednik Poslovodnega odbora
                   Elektrogospodarske skupnosti, SOZD Maribor. Pripravi naj se dr. Miklavž Kušej.</p>
             </sp>
-            <sp>
+            <sp who="#sp.KrajnikMilan">
                <speaker>MILAN KRAJNIK:</speaker>
                <p>Tovariš predsednik, tovarišice in tovariši delegati! V ekspozeju podpredsednika
                   Izvršnega sveta Skupščine SR Slovenije so bile prikazane posledice razkoraka med
@@ -1793,12 +1851,12 @@
                   Skupščino SFRJ o odloku oziroma morebiti predloži zakon o maksimiranju cen za to
                   področje. Hvala lepa.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                <p>Hvala lepa. Besedo ima tovariš dr. Miklavž Kušej, socialno-zdravstveno področje,
                   3. okoliš, Ljubljana Vič-Rudnik, pripravi naj se Drago Cafnik.</p>
             </sp>
-            <sp>
+            <sp who="#sp.KušejMiklavž">
                <speaker>DR. MIKLAVŽ KUŠEJ:</speaker>
                <p>Spoštovane delegatke in delegati! Ko je skupina obravnavala informacijo o tekočih
                   gospodarskih gibanjih, je podprla vsa tista prizadevanja, ki so jih delegati pred
@@ -1820,9 +1878,10 @@
                   službah, pa nekaj čez 130. To naj bi dokazovalo, kako smo v družbenih dejavnostih
                   hitreje dvigovali osebne dohodke kot drugje, vendar moramo pri tem upoštevati
                   izhodiščni indeks. Če izhajaš iz 08 in se dvigne indeks na 1,3 se je za tistega,
-                  ki je začel z 08, dohodek dvignil na indeks 104, torej le za 4 indeksne<pb n="35" xml:id="pb.35"/> točke,
-                  nasproti onemu, ki je startal z indeksom 1 oziroma 100, so tako družbene
-                  dejavnosti še vedno za približno 15 indeksnih točk za gospodarstvom.</p>
+                  ki je začel z 08, dohodek dvignil na indeks 104, torej le za 4 indeksne<pb n="35"
+                     xml:id="pb.35"/> točke, nasproti onemu, ki je startal z indeksom 1 oziroma 100,
+                  so tako družbene dejavnosti še vedno za približno 15 indeksnih točk za
+                  gospodarstvom.</p>
                <p>Iz analize o gibanju ravni osebnih dohodkov delavcev v družbenih dejavnostih, v
                   primerjavi z ravnijo osebnih dohodkov delavcev v gospodarstvu v letu 1986, ki jo
                   je izdelal Zavod za družbeno planiranje Ljubljana marca letos, je razvidno, da so
@@ -1842,12 +1901,12 @@
                <p>To so nekateri podatki, ki smo jih zbrali. Menimo, da tisto zaostajanje, ki je v
                   indeksu prikazano okoli minus 5, ne boli nikogar od nas. Hvala lepa.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
-               <p>Hvala lepa. Besedo imaDrago Cafnik, s področja državnih organov, 4. okoliš,
+               <p>Hvala lepa. Besedo ima Drago Cafnik, s področja državnih organov, 4. okoliš,
                   Maribor Rotovž. Pripravi naj se Milan Ditrih.</p>
             </sp>
-            <sp>
+            <sp who="#sp.CafnikDrago">
                <speaker>DRAGO CAFNIK:</speaker>
                <p>Tovariš predsednik, tovarišice in tovariši delegati! Delegati podpiramo
                   ugotovitve, stališča in sklepe, posredovane za današnjo sejo k tej točki dnevnega
@@ -1864,13 +1923,13 @@
                   odgovore in odgovornosti za neizvajanje skupne politike in to od OZD do republike
                   in federacije. Hvala.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
-               <p>Hvala. Besedo ima MilanDitrih, gospodarsko področje 42. okoliš Maribor Tezno,
+               <p>Hvala. Besedo ima Milan Ditrih, gospodarsko področje 42. okoliš Maribor Tezno,
                   pripravi naj se Andreja Črnak-Meglič.</p>
             </sp>
             <pb n="36" xml:id="pb.36"/>
-            <sp>
+            <sp who="#sp.DitrihMilan">
                <speaker>MILAN DITRIH:</speaker>
                <p>Tovariš predsednik, tovarišice in tovariši delegati! Ko je skupina delegatov 42.
                   okoliša obravnavala informacijo Izvršnega sveta, se je ustavila pri problematiki
@@ -1939,12 +1998,12 @@
                   bi delovna organizacija še naprej lahko zadržala to proizvodnjo in rentabilno
                   poslovala. Hvala lepa.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
-               <p>Hvala lepa. Zadnjaprijavljena razpravljalka je tovarišica Andreja Črnak-Meglič,
+               <p>Hvala lepa. Zadnja prijavljena razpravljalka je tovarišica Andreja Črnak-Meglič,
                   predsednica skupnosti otroškega varstva Slovenije. Prosim!</p>
             </sp>
-            <sp>
+            <sp who="#sp.Črnak-MegličAndreja">
                <speaker>ANDREJA ČRNAK-MEGLIČ:</speaker>
                <p>Tovariš predsednik, tovarišice in tovariši delegati! Dovolite mi, da se vključim v
                   vašo razpravo z nekaterimi pojasnili glede na stališča, zapisana v informaciji
@@ -1961,8 +2020,8 @@
                   organi sindikata, mladine in Socialistične zveze delovnega ljudstva.</p>
                <p>Zato menim, da bi bilo potrebno to pravico - to ni širitev pravic, ampak popravek
                   krivic - iz tega določila izvzeti in pustiti, da po delegatski poti te stvari
-                  končno rešimo. V<pb n="38" xml:id="pb.38"/> nasprotnem primeru bi to pomenilo samo odlašanje reševanja
-                  nujnega problema.</p>
+                  končno rešimo. V<pb n="38" xml:id="pb.38"/> nasprotnem primeru bi to pomenilo samo
+                  odlašanje reševanja nujnega problema.</p>
                <p>Intervencijski zakon govori o pravicah, ki so bile zakonsko zagotovljene v obsegu
                   leta 1986. Torej je to pravica, ki je bila garantirana že v lanskem letu, pa ni
                   bila realizirana zaradi same tehnike izpeljave.</p>
@@ -1990,9 +2049,9 @@
                   življenjske razmere, temu segmentu pa zadala še toliko večji udarec. Hvala
                   lepa.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
-               <p>Hvala lepa. Pismenihprijav za razpravo ni več. Želi še kdo razpravljati? (Nihče.)
+               <p>Hvala lepa. Pismenih prijav za razpravo ni več. Želi še kdo razpravljati? (Nihče.)
                   Pisne razprave so oddali delegati iz Ajdovščine, Žalca, Lenarta - to je iz
                   kmetijskega področja, z gospodarskega področja pa delegati Ljubljane Šiška, Škofje
                   Loke, Žalca, Idrije, Lendave in Kočevja.</p>
@@ -2008,7 +2067,7 @@
                   bi prosil predsednika Komisije za verifikacijo pooblastil in imunitetna vprašanja,
                   dr. Miklavža Kušeja, da bi dal še eno dodatno poročilo.</p>
             </sp>
-            <sp>
+            <sp who="#sp.KušejMiklavž">
                <speaker>DR. MIKLAVŽ KUŠEJ:</speaker>
                <p>Komisija je med odmorom pregledala pooblastila, o katerih sem že poročal, dobili
                   pa smo še dodatno pooblastilo, in sicer gospodarskega področja, 30. okoliš, Celje,
@@ -2016,7 +2075,7 @@
                <p>Pooblastilo je povsem v skladu z vsemi zahtevami in je zdaj prisotnih delegatov
                   148, se pravi, da dva manjkata.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                <p>Hvala lepa.</p>
                <p>Pričenjam razpravo na drugo dodatno poročilo. (Ni razprave.) Ker ni razprave, dam
@@ -2035,7 +2094,7 @@
                   namestnik predsednika Republiškega komiteja za vzgojo in izobraževanje ter telesno
                   kulturo, ki bo imel uvodno besedo. Prosim.</p>
             </sp>
-            <sp>
+            <sp who="#sp.ZgoncBoštjan">
                <speaker>BOŠTJAN ZGONC:</speaker>
                <p>Tovariš predsednik, tovarišice in tovariši delegati! Zakon o pedagoški službi iz
                   leta 1969, delno popravljen leta 1974, je nujno potreben prenove. Spremenili so se
@@ -2094,9 +2153,9 @@
                   ne. Del predlogov namreč zahteva formalno šolsko inšpekcijo, izločeno iz Zavoda RS
                   Slovenije za šolstvo, ki bi se pretežno zreducirala na nadzor nad uresničevanjem
                   predpisov, drugi del predlogov pa sicer ne zanika potrebe po strokovnosti nadzora,
-                  vendar zahteva obvezno<pb n="41" xml:id="pb.41"/> personalno ločitev. To bi praktično pomenilo podvojitev
-                  obsega dela v zavodu za šolstvo z vsemi kadrovskimi in materialnimi učinki, ki jih
-                  v krajšem času ne bi bilo mogoče obvladati.</p>
+                  vendar zahteva obvezno<pb n="41" xml:id="pb.41"/> personalno ločitev. To bi
+                  praktično pomenilo podvojitev obsega dela v zavodu za šolstvo z vsemi kadrovskimi
+                  in materialnimi učinki, ki jih v krajšem času ne bi bilo mogoče obvladati.</p>
                <p>Pri tem predlagatelj tudi meni, da se zahteve o nezdružljivosti nadzora s
                   svetovalnim delom opirajo predvsem na možne situacije ne pa na stvarne razmere,
                   saj ravno dolgoletna uspešna praksa potrjuje, da skupno opravljanje obeh funkcij
@@ -2120,12 +2179,12 @@
                   skupaj z amandmaji, ki jih je dal predlagatelj, sprejmete, podpiramo pa tudi
                   amandma Zakonodajnopravne komisije.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
-               <p>Hvala lepa. Želi besedopredstavnik skupine delegatov za družbene dejavnosti? (Da.)
+               <p>Hvala lepa. Želi besedo predstavnik skupine delegatov za družbene dejavnosti? (Da.)
                   Prosim, Franc Lipoglavšek.</p>
             </sp>
-            <sp>
+            <sp who="#sp.LipoglavšekFranc">
                <speaker>FRANC LIPOGLAVŠEK:</speaker>
                <p>Tovariš predsednik, tovarišice in tovariši delegati! skupina delegatov vseh zborov
                   Skupščine za družbene dejavnosti je dvakrat obravnavala predlog zakona o pedagoški
@@ -2139,8 +2198,8 @@
                   obrazložitvi pojasnil, katerih in zakaj ni sprejel.</p>
                <p>Delegati so bili tudi seznanjeni s stališči in mnenji, ki jih je oblikoval
                   Republiški družbeni svet za vzgojo in izobraževanje ob obravnavi predloga zakona
-                  ter v tej zvezi tudi<pb n="42" xml:id="pb.42"/> ponovni obravnavi o primernosti združevanja razvojne,
-                  svetovalne in nadzorne funkcije.</p>
+                  ter v tej zvezi tudi<pb n="42" xml:id="pb.42"/> ponovni obravnavi o primernosti
+                  združevanja razvojne, svetovalne in nadzorne funkcije.</p>
                <p>Republiški svet je rešitve v predlogu zakona podprl ob ločenem mnenju delegatov
                   Republiške konference ZSM Slovenije. Predstavnik Republiške konference ZSM
                   Slovenije je tudi na seji skupine delegatov seznanil delegate z njihovimi
@@ -2169,13 +2228,13 @@
                   usklajevanju na današnji skupni seji soglašal s takim načinom in tudi sprejemom
                   zakona s predloženimi amandmaji.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                <p>Hvala lepa. Pisnih prijav ni. Pisno razpravo so pa oddali delegati iz občine
                   Maribor Tabor. Želi kdo besedo? Prosim, tovariš Jože Žumer, prosvetno-kulturno
                   področje, 6 okoliš, Piran.</p>
             </sp>
-            <sp>
+            <sp who="#sp.ŽumerJože">
                <speaker>JOŽE ŽUMER:</speaker>
                <p>Tovariš predsednik, tovarišice in tovariši delegati! Samo na nekaj bi rad
                   opozoril. Menim, da so stvari še vedno nepremišljene in to utemeljujem z
@@ -2186,18 +2245,18 @@
                <p>To je eno in drugo - če pozorno poslušamo utemeljitev za neločevanje teh
                   posameznih funkcij, nam je edina oprijemljiva utemeljitev ta, da bi se s tem
                   povečalo število delavcev. Če pa ostanemo pri enakem številu delavcev - kar najbrž
-                  sedaj ni<pb n="43" xml:id="pb.43"/> vprašanje, ampak gre za matematično operacijo - je vprašanje, kaj
-                  bodo ti delavci delali. Gre za tri funkcije. Število delavcev se bo najbrž delilo
-                  ali pa se bo pomnožilo s številom tri. Torej - to ohranja in ne spreminja dejstva.
-                  Če bodo dosedanji delavci predvsem svetovalci in če bo število le-teh enako, kdo
-                  bo nadzoroval? Ali pa se bo delo, ki bo v to vloženo, količinsko spremeni. Torej
-                  le toliko o tem vprašanju, zaradi tega, ker nadrobnejših informacij o razpravah v
-                  drugih okoljih ne poznam. Zdi se mi, da tu še vedno ni nekaj dokončnega in bi o
-                  tem veljalo premisliti.</p>
+                  sedaj ni<pb n="43" xml:id="pb.43"/> vprašanje, ampak gre za matematično operacijo
+                  - je vprašanje, kaj bodo ti delavci delali. Gre za tri funkcije. Število delavcev
+                  se bo najbrž delilo ali pa se bo pomnožilo s številom tri. Torej - to ohranja in
+                  ne spreminja dejstva. Če bodo dosedanji delavci predvsem svetovalci in če bo
+                  število le-teh enako, kdo bo nadzoroval? Ali pa se bo delo, ki bo v to vloženo,
+                  količinsko spremeni. Torej le toliko o tem vprašanju, zaradi tega, ker
+                  nadrobnejših informacij o razpravah v drugih okoljih ne poznam. Zdi se mi, da tu
+                  še vedno ni nekaj dokončnega in bi o tem veljalo premisliti.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
-               <p>Želi kdo besedo? (Neželi.) Dodatna pojasnila niso potrebna? (Ne.) Ker ne želi
+               <p>Želi kdo besedo? (Ne želi.) Dodatna pojasnila niso potrebna? (Ne.) Ker ne želi
                   nihče več razpravljati, zaključujem razpravo in prehajamo na glasovanje.</p>
                <p>Najprej bomo glasovali o amandmajih Izvršnega sveta. Delegate sprašujem, ali lahko
                   dam na glasovanje ves paket amandmajev Izvršnega sveta ali bomo glasovali o
@@ -2227,8 +2286,9 @@
                   zbora; Boženo Zigmund, prosvetno-kulturno področje, 13. okoliš, Ljubljana
                   Vič-Rudnik in Jožeta Žumra, t. okoliš, Piran.</p>
                <p>Prehajamo k 3.TOČKI DNEVNEGA REDA - K POROČILU DELEGACIJE SKUPŠČINE SR SLOVENIJE V
-                  ZBORU REPUBLIK IN POKRAJIN <pb n="44" xml:id="pb.44"/>SKUPŠČINE SFRJ O POTEKU USKLAJEVANJA NEKATERIH
-                  AKTOV IZPRISTOJNOSTI ZBORA REPUBLIK IN POKRAJIN SKUPŠČINE SFRJ.</p>
+                  ZBORU REPUBLIK IN POKRAJIN <pb n="44" xml:id="pb.44"/>SKUPŠČINE SFRJ O POTEKU
+                  USKLAJEVANJA NEKATERIH AKTOV IZPRISTOJNOSTI ZBORA REPUBLIK IN POKRAJIN SKUPŠČINE
+                  SFRJ.</p>
                <p>K tej točki ste prejeli informacijo delegacije Skupščine SRS v Zboru republik in
                   pokrajin Skupščine SFRJ o 11. seji Zbora republik in pokrajin, ki je bila 26.
                   februarja 1987, ter o delu delegacije med dvema zasedanjima in poročilo delegacije
@@ -2237,7 +2297,7 @@
                <p>Gradivi sta bili objavljeni v Poročevalcu, št. 8. in 9. Ali želi predstavnik
                   delegacije besedo? (Da.) Besedo ima vodja delegacije, tovariš Martin Mlinar.</p>
             </sp>
-            <sp>
+            <sp who="#sp.MlinarMartin">
                <speaker>MARTIN MLINAR:</speaker>
                <p>Tovarišice in tovariši delegati! Delegacija Skupščine SR Slovenije v Zboru
                   republik in pokrajin je o pripravi na sejo Zbora republik in pokrajin 27. marca
@@ -2270,8 +2330,8 @@
                   pripombami dopolnjenega osnutka dokumenta. Z dokazi smo v razpravi prepričali
                   predlagatelja in ostale delegacije, da so bile nekatere naše, najprej zavrnjene
                   pripombe, le vnešene v dokument. Tako smo iz strategije tehnološkega razvoja
-                  uspeli izključiti<pb n="45" xml:id="pb.45"/>termine enotna in skupna strategija in se v dokumentu govori
-                  le o strategiji tehnološkega razvoja SFRJ.</p>
+                  uspeli izključiti<pb n="45" xml:id="pb.45"/>termine enotna in skupna strategija in
+                  se v dokumentu govori le o strategiji tehnološkega razvoja SFRJ.</p>
                <p>Pri vlogi republik in pokrajin smo uveljavili pripombo, da v republikah in
                   pokrajinah ni potrebno sprejemati nobenih posebnih planov strategije tehnološkega
                   razvoja - Zvezni izvršni svet pa je že prej odstopil od prvotnega predloga, da
@@ -2312,8 +2372,8 @@
                   zelo obsežno.</p>
                <p>Delegacija je odlok o strategiji tehnološkega razvoja SFRJ z odborom za družbeni
                   plan in razvojno politiko uskladila in bo na seji Zbora republik in pokrajin
-                  Skupščine SFRJ 29. aprila<pb n="46" xml:id="pb.46"/> 1984 dala soglasje k predlogu odloka o strategiji
-                  tehnološkega razvoja Jugoslavije.</p>
+                  Skupščine SFRJ 29. aprila<pb n="46" xml:id="pb.46"/> 1984 dala soglasje k predlogu
+                  odloka o strategiji tehnološkega razvoja Jugoslavije.</p>
                <p>Tretjič - zakon o odložitvi vračila kreditov in drugih plačil pooblaščenih bank za
                   območje SR Makedonije, SR Črne gore in SAP Kosovo.</p>
                <p>Delegacija je v nadaljevanju usklajevanja uveljavljala pripombo Skupščine SR
@@ -2353,10 +2413,10 @@
                   spremembah in dopolnitvah odloka o predračunu prihodkov in odhodkov tečajnih
                   razlik iz določenih zunanjih kreditov za leto 1987, ki ga je predložil Zvezni
                   izvršni svet Skupščini SFRJ, po katerem se povečajo sredstva v tem odloku z 191
-                  milijard dinarjev na 201,46 milijarde dinarjev, skupaj s<pb n="47" xml:id="pb.47"/> stališčem Zveznega
-                  izvršnega sveta z dne 26. marca 1987, da se to povečanje pokrije tako, da se 5,7
-                  milijarde dinarjev zagotovi iz izvirnih prihodkov federacije in le 4,76 milijarde
-                  dinarjev iz kotizacije republik in pokrajin.</p>
+                  milijard dinarjev na 201,46 milijarde dinarjev, skupaj s<pb n="47" xml:id="pb.47"
+                  /> stališčem Zveznega izvršnega sveta z dne 26. marca 1987, da se to povečanje
+                  pokrije tako, da se 5,7 milijarde dinarjev zagotovi iz izvirnih prihodkov
+                  federacije in le 4,76 milijarde dinarjev iz kotizacije republik in pokrajin.</p>
                <p>Delegacija tudi predlaga, da jo skupščina pooblasti za nadaljevanje usklajevanja
                   zakona o kritju tečajnih razlik iz naslova zunanjih kreditov in prej omenjenega
                   odloka. Pri tem je potrebno poudariti, da Skupščina SR Slovenije podpira osnutek
@@ -2375,9 +2435,9 @@
                   sprejmejo pisno in današnje poročilo o delu delegacije z usmeritvami, ki jih
                   predlaga, in potrdijo njeno delo. Hvala lepa.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
-               <p>Hvala lepa, tovarišMlinar. Pričenjam razpravo. Želi kdo besedo? (Ne želi.) Če ne
+               <p>Hvala lepa, tovariš Mlinar. Pričenjam razpravo. Želi kdo besedo? (Ne želi.) Če ne
                   želi nihče razpravljati, zaključujem razpravo in zboru predlagam, da sprejme
                   naslednji sklep:</p>
                <p>Zbor združenega dela Skupščine SR Slovenije se je seznanil z informacijo in
@@ -2397,8 +2457,8 @@
                   poteku usklajevanja osnutka zakona o skupnih finančnih organizacijah.</p>
                <p>2. Zbor pooblašča svojo delegacijo v Zboru republik in</p>
                <p>Pokrajin Skupščine SFRJ, da da soglasje k predlogu zakona o Skupnih bankah -
-                  prvotni naslov zakona o skupnih finančnih<pb n="48" xml:id="pb.48"/> organizacijah - v skladu z določilom
-                  drugega odstavka 300. člena ustave SFRJ.</p>
+                  prvotni naslov zakona o skupnih finančnih<pb n="48" xml:id="pb.48"/> organizacijah
+                  - v skladu z določilom drugega odstavka 300. člena ustave SFRJ.</p>
                <p>Ali želi kdo o tem razpravljati? (Ne želi. ) Prehajamo na glasovanje.</p>
                <p>Kdo je za ta sklep? (115 delegatov.) Je kdo proti? (3 delegati.) Vzdržani? (6
                   delegatov.)</p>
@@ -2438,8 +2498,9 @@
                   doseženo uspešnost.</p>
                <p>Prejeli ste tudi amandmaje skupine delegatov za gospodarsko področje, 12. okoliš
                   Kranj, skupine delegatov za prosvetno-kulturno področje, 3. okoliš Ljubljana
-                  Vič-Rudnik,<pb n="49" xml:id="pb.49"/> amandmaje odbora udeležencev družbenega dogovora in še naknadno
-                  amandma skupine delegatov gospodarskega področja, 15. okoliš Tržič.</p>
+                     Vič-Rudnik,<pb n="49" xml:id="pb.49"/> amandmaje odbora udeležencev družbenega
+                  dogovora in še naknadno amandma skupine delegatov gospodarskega področja, 15.
+                  okoliš Tržič.</p>
                <p>Predlagam, da imenujemo skupino delegatov, ki bo spremljala razpravo in proučila
                   amandmaje ter na podlagi razprave poročala zboru. V skupino delegatov predlagam:
                   Leopolda Zupana, okoliš, gospodarsko področje Kranj, Vinka Kržana, 8. okoliš,
@@ -2460,7 +2521,7 @@
                <p>Pričenjam razpravo. K razpravi se je prijavil tovariš Božidar Kaloper, 15. okoliš,
                   gospodarsko področje, Tržič.</p>
             </sp>
-            <sp>
+            <sp who="#sp.KaloperBožidar">
                <speaker>BOŽIDAR KALOPER:</speaker>
                <p>Tovariš predsednik, tovarišice in tovariši! Naša skupina delegatov je na svoji
                   seji dne 20. aprila 1987 izoblikovala sklep in predlog, da se izoblikuje amandma,
@@ -2477,17 +2538,17 @@
                   vodilo k temu, da je predlagal spremembo 62. in nov 63.a člen dogovora k predlogu,
                   ko to v fazi osnutka ni bilo predvideno? Hvala lepa.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
-               <p>Hvala. K razpravi se jeprijavila tovarišica Majda Hausmeister, gospodarsko
+               <p>Hvala. K razpravi se je prijavila tovarišica Majda Hausmeister, gospodarsko
                   področje, 41. okoliš, Maribor Tabor.</p>
             </sp>
-            <sp>
+            <sp who="#sp.HausmeisterMajda">
                <speaker>MAJDA HAUSMEISTER:</speaker>
                <p>Tovariš predsednik, tovarišice in tovariši delegati! Naša skupina delegatov v
                   občini Maribor Tabor je obravnavala predlog družbenega dogovora o skupnih osnovah
-                  in<pb n="50" xml:id="pb.50"/> merilih za samoupravno urejanje odnosov pri pridobivanju in delitvi dohodka
-                  v Sloveniji in sprejela naslednje pripombe:</p>
+                     in<pb n="50" xml:id="pb.50"/> merilih za samoupravno urejanje odnosov pri
+                  pridobivanju in delitvi dohodka v Sloveniji in sprejela naslednje pripombe:</p>
                <p>Tako pomemben dokument, kot je navedeni, je delegatom zelo težko obravnavati in
                   spremljati, saj morajo slediti osnovnemu dokumentu in osnutku, če se hočejo
                   seznaniti s pravo vsebino predloga. Zato predlagamo, da se v bodoče najde
@@ -2529,12 +2590,12 @@
                   če bi bil delavec na delu.</p>
             </sp>
             <pb n="51" xml:id="pb.51"/>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                <p>Hvala lepa. Pisnih prijav za razpravo ni več. Želi še kdo razpravljati? Prosim.
                   Besedo ima Franc Ruparšek, gospodarsko področje, 11. okoliš, Logatec.</p>
             </sp>
-            <sp>
+            <sp who="#sp.RuparšekFranc">
                <speaker>FRANC RUPARŠEK:</speaker>
                <p>Tovariš predsednik, tovarišice in tovariši delegati! V imenu skupine delegatov iz
                   11. okoliša, to je Vrhnika in Logatec, bi dal predlog, in sicer:</p>
@@ -2587,9 +2648,9 @@
                   spremenjenem družbenem dogovoru. Prav tako bi morali nadaljevati izdelavo
                   družbenega kataloga del oziroma nalog v SR Sloveniji.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
-               <p>Hvalalepa. Ali želi šekdo razpravljati? (Ne.) Pisne razprave so oddali delegati iz
+               <p>Hvala lepa. Ali želi še kdo razpravljati? (Ne.) Pisne razprave so oddali delegati iz
                   gospodarskega področja Ljubljana Šiška, Škofja Loka, Murska Sobota, Novo mesto,
                   Slovenska Bistrica, Laško, Slovenj Gradec, Maribor Ruše in skupina delegatov za
                   področje državnih organov Ljubljana Center.</p>
@@ -2666,7 +2727,7 @@
                <p>Pričenjam razpravo. K razpravi se je prijavil Danilo Arčan, gospodarsko področje,
                   30. okoliš, Celje. Pripravi naj se Štefan Kous.</p>
             </sp>
-            <sp>
+            <sp who="#sp.ArčanDanilo">
                <speaker>DANILO ARČAN:</speaker>
                <p>Tovarišice in tovariši delegati! Naša komisija je na svoji seji ob pregledu
                   predlogov za izdajo zakona o začasnem financiranju skupnih potreb, z osnutkom
@@ -2706,19 +2767,19 @@
                <p>Glede na to, da obstajajo različni sistemi in neusklajeni sistemi solidarnosti za
                   posamezno samoupravno interesno skupnost na nivoju republike, predlagamo, da se v
                   tem členu opredeli enotna republiška stopnja za vse samoupravne interesne
-                  skupnosti, katerih osnova je bruto osebni dohodek. Ta sredstva<pb n="55" xml:id="pb.55"/>
-                  naj se zbirajo tako, da se po tej posebni enotni republiški stopnji plačuje
-                  prispevek po temeljnih organizacijah združenega dela. Razporeditev za posamezno
-                  republiško samoupravno interesno skupnost naj se izvaja tekoče, mesečno, po skupno
-                  dogovorjenih merilih in kriterijih. Na ta način bi se odpravila neenotnost sistema
-                  solidarnosti in vzajemnosti. Hvala.</p>
+                  skupnosti, katerih osnova je bruto osebni dohodek. Ta sredstva<pb n="55"
+                     xml:id="pb.55"/> naj se zbirajo tako, da se po tej posebni enotni republiški
+                  stopnji plačuje prispevek po temeljnih organizacijah združenega dela. Razporeditev
+                  za posamezno republiško samoupravno interesno skupnost naj se izvaja tekoče,
+                  mesečno, po skupno dogovorjenih merilih in kriterijih. Na ta način bi se odpravila
+                  neenotnost sistema solidarnosti in vzajemnosti. Hvala.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                <p>Hvala lepa. Besedo ima dr. Štefan Kous, področje zdravstva, 8. okoliš, Murska
                   Sobota. Pripravi naj se Vili Novak.</p>
             </sp>
-            <sp>
+            <sp who="#sp.KousŠtefan">
                <speaker>DR. ŠTEFAN KOUS:</speaker>
                <p>Tovariš predsednik, tovarišice in tovariši delegati! Skupina delegatov v zboru
                   Skupščine SR Slovenije je na seji 17. aprila 1987 obravnavala osnutek zakona o
@@ -2753,8 +2814,9 @@
                <p>4. Predlagamo, da se v 14. členu taksativno navedejo občinske samoupravne
                   interesne skupnosti, ki bi solidarnostno združevale sredstva na ravni republike,
                   in da se določi odstotek in obračunska osnova. Predlagamo, da so osnova za izračun
-                  izvirni prihodki občinske samoupravne interesne skupnosti. S tem bi<pb n="56" xml:id="pb.56"/> povečali
-                  enotnost in doslednost funkcioniranja solidarnostnega sistema.</p>
+                  izvirni prihodki občinske samoupravne interesne skupnosti. S tem bi<pb n="56"
+                     xml:id="pb.56"/> povečali enotnost in doslednost funkcioniranja solidarnostnega
+                  sistema.</p>
                <p>5. Pogoj iz prve alinee drugega odstavka 14. člena je vsebinsko nesprejemljiv, saj
                   bi pomenila najmanj povprečna prispevna stopnja republike v posameznih občinskih
                   samoupravnih interesnih skupnostih ali prelivanje sredstev med posameznimi
@@ -2768,12 +2830,12 @@
                   lahko uporabljajo le za izpade virov prihodkov v posameznih občinskih sisih in se
                   za druge namene ne morejo uporabiti. Hvala lepa.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
-               <p>Hvala lepa. Besedo imatovariš Vili Novak, gospodarsko področje, 41. okoliš,
+               <p>Hvala lepa. Besedo ima tovariš Vili Novak, gospodarsko področje, 41. okoliš,
                   Maribor Tabor. Pripravi naj se Zdenka Plausteiner.</p>
             </sp>
-            <sp>
+            <sp who="#sp.NovakVili">
                <speaker>VILI NOVAK:</speaker>
                <p>Tovariš predsednik, tovarišice in tovariši delegati! Skupina delegatov iz 41.
                   okoliša Maribor Tabor me je pooblastila, da bi vas seznanil z nekaterimi
@@ -2800,12 +2862,12 @@
                <p>Predlagamo, da se prenese 5. točka 2. člena tega zakona v 3. člen, iz 3. člena pa
                   naj se prenese 6. točka v 2. člen. Utemeljitev: Bojimo se, da se bo zvečalo
                   število brezposelnih zaradi načina financiranja od 1. julija 1987 dalje, vsem
-                  pa<pb n="57" xml:id="pb.57"/> moramo zagotoviti socialno varnost. Vseeno menimo, da bodo primanjkovala
-                  sredstva za ureditev financiranja in uskladitve z gospodarstvom za družbene
-                  dejavnosti, ki so naštete v točkah od 1 do 4. Kljub težki gospodarski situaciji,
-                  ki jo v osnovnem izobraževanju čutimo vsi, prosvetni delavci in mi iz
-                  gospodarstva, jo z razumevanjem sprejemamo. Vemo, da ne smemo dovoliti stagnacije
-                  in nazadovanja pri učno-vzgojnem procesu.</p>
+                     pa<pb n="57" xml:id="pb.57"/> moramo zagotoviti socialno varnost. Vseeno
+                  menimo, da bodo primanjkovala sredstva za ureditev financiranja in uskladitve z
+                  gospodarstvom za družbene dejavnosti, ki so naštete v točkah od 1 do 4. Kljub
+                  težki gospodarski situaciji, ki jo v osnovnem izobraževanju čutimo vsi, prosvetni
+                  delavci in mi iz gospodarstva, jo z razumevanjem sprejemamo. Vemo, da ne smemo
+                  dovoliti stagnacije in nazadovanja pri učno-vzgojnem procesu.</p>
                <p>Druga pripomba - 9. člen navedenega zakona ne more biti obligatoren, saj v nobenem
                   zakonu nimamo napisano, da samoupravne interesne skupnosti sodelujejo v odpravi
                   vzrokov motenj v poslovanju temeljnih organizacij.</p>
@@ -2824,12 +2886,12 @@
                   obremenitev, dosedanjih in tistih, ki bi jih te spremembe povzročile, in ne samo
                   predlagane stopnje, in to ločeno od dohodka ter osebnih dohodkov. Hvala.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
-               <p>Hvala lepa. Besedo imatovarišica Zdenka Plausteiner, gospodarsko področje, 33.
+               <p>Hvala lepa. Besedo ima tovarišica Zdenka Plausteiner, gospodarsko področje, 33.
                   okoliš, Šentjur pri Celju. Pripravi naj se Drago Cafnik.</p>
             </sp>
-            <sp>
+            <sp who="#sp.PlausteinerZdenka">
                <speaker>ZDENKA PLAUSTEINER:</speaker>
                <p>Tovariš predsednik, tovarišice in tovariši delegati! Osnutek zakona o financiranju
                   skupnih potreb drugače ureja financiranje samoupravnih interesnih skupnosti
@@ -2846,10 +2908,11 @@
                   manj razvita območja v SR Sloveniji, kjer so obremenitve združenega dela za
                   financiranje skupnih potreb že tako med najvišjimi.</p>
                <p>Predlagamo, da se osnutek zakona o financiranju skupnih potreb dopolni, in sicer:
-                  v drugem odstavku 6. člena naj se<pb n="58" xml:id="pb.58"/> dopolni z besedilom "prispevki, obračunani
-                  po prvem in drugem odstavku 6. člena, se plačujejo samoupravnim interesnim
-                  skupnostim na območju tiste družbenopolitične skupnosti, na katerem ima delavec
-                  oziroma delovni človek stalno oziroma začasno prebivališče". </p>
+                  v drugem odstavku 6. člena naj se<pb n="58" xml:id="pb.58"/> dopolni z besedilom
+                  "prispevki, obračunani po prvem in drugem odstavku 6. člena, se plačujejo
+                  samoupravnim interesnim skupnostim na območju tiste družbenopolitične skupnosti,
+                  na katerem ima delavec oziroma delovni človek stalno oziroma začasno
+                  prebivališče". </p>
                <p>Za 14. členom predlagamo nov člen z naslednjo vsebino: "Samoupravne interesne
                   skupnosti družbenih dejavnosti ustvarjajo pogoje za hitrejši gospodarski razvoj,
                   delo in življenje delovnih ljudi na manj razvitih območjih na podlagi načel
@@ -2888,8 +2951,8 @@
                   financiranje občinskih samoupravnih interesnih skupnosti na podlagi nalog iz
                   samoupravnega sporazuma o temeljnih planih občinskih SIS za leto 1986 in
                   samoupravno sprejetih obveznosti glede uresničevanja vzajemnosti in solidarnosti v
-                  republiki v letu 1987. Ta usmeritev ni skladna<pb n="59" xml:id="pb.59"/> s sprejetim zveznim
-                  intervencijskim predpisom in bo to potrebno urediti.</p>
+                  republiki v letu 1987. Ta usmeritev ni skladna<pb n="59" xml:id="pb.59"/> s
+                  sprejetim zveznim intervencijskim predpisom in bo to potrebno urediti.</p>
                <p>Imamo še načelno pripombo k 9. členu osnutka zakona. Določilo tega člena ni
                   smotrno, saj ni verjetno, da bi samoupravna interesna skupnost lahko neposredno
                   preverjala, še manj pa prispevala k temu, da se odpravijo motnje, zaradi katerih
@@ -2900,12 +2963,12 @@
                   skupnost o nastalem dejstvu, program ukrepov pa predloži izvršni vet, ki na
                   podlagi svojih pooblastil lahko in mora ukrepati. Hvala lepa.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
-               <p>Hvala lepa. Besedo imatovariš Drago Cafnik, 4. okoliš, področje državnih organov,
+               <p>Hvala lepa. Besedo ima tovariš Drago Cafnik, 4. okoliš, področje državnih organov,
                   Maribor Rotovž.</p>
             </sp>
-            <sp>
+            <sp who="#sp.CafnikDrago">
                <speaker>DRAGO CAFNIK:</speaker>
                <p>Tovariš predsednik, tovarišice in tovariši delegati! Menimo, da je to eden od
                   nepotrebnih zakonov, ki se kažejo kot posledica nesistemskega in nestrokovnega
@@ -2919,7 +2982,7 @@
                   sprejemati nečesa, kar še ni niti strokovno niti politično dorečeno. Tak primer je
                   14. člen predlaganega zakona. Hvala.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                <p>Hvala lepa. Pisnih prijav za razpravo ni več. Pisne razprave pa so oddale skupine
                   delegatov za gospodarsko področje Škofje Loke, Novega mesta, Cerknice, Velenja,
@@ -2928,7 +2991,7 @@
                <p>Želi še kdo razpravljati? Besedo ima tovariš Rudi Šepič, republiški sekretar za
                   finance in član izvršnega sveta.</p>
             </sp>
-            <sp>
+            <sp who="#sp.ŠepičRudi">
                <speaker>RUDI ŠEPIČ:</speaker>
                <p>Tovariš predsednik, tovarišice in tovariši delegati! Moj namen ni, da bi
                   odgovarjal na vsa vprašanja, ker bi predolgo trajalo. Tudi ni potrebno, saj
@@ -2938,11 +3001,12 @@
                   in dohodku - kot ga poenostavljeno imenujemo delitveni del - uveljavi s 1.
                   januarjem 1988 in ne s 1. julijem 1987. Že takrat smo ocenili, da ne bomo
                   pripravljeni za realizacijo tega dela zakona do julija letos. Če pa bi
-                  predlagatelj vztrajal pri tem in če bi delegati<pb n="60" xml:id="pb.60"/> zakon tudi sprejeli - kar se
-                  je pozneje tudi uresničilo, da zakon velja s 1. januarjem 1987, delitveni del pa
-                  stopi v veljavo s 1. julijem 1987 - smo ocenili, da ne bo dovolj časa, da bi lahko
-                  po samoupravni poti realizirali zadeve, ki jih moramo realizirati na osnovi
-                  zveznega zakona o celotnem prihodku in dohodku. To se je sedaj žal pokazalo.</p>
+                  predlagatelj vztrajal pri tem in če bi delegati<pb n="60" xml:id="pb.60"/> zakon
+                  tudi sprejeli - kar se je pozneje tudi uresničilo, da zakon velja s 1. januarjem
+                  1987, delitveni del pa stopi v veljavo s 1. julijem 1987 - smo ocenili, da ne bo
+                  dovolj časa, da bi lahko po samoupravni poti realizirali zadeve, ki jih moramo
+                  realizirati na osnovi zveznega zakona o celotnem prihodku in dohodku. To se je
+                  sedaj žal pokazalo.</p>
                <p>Prav tako veste, da je bil ob sprejemanju zakona o celotnem prihodku in dohodku v
                   Zveznem zboru skupščine sprejet tudi sklep, ki je zahteval od Zveznega izvršnega
                   sveta, da mora v maju pripraviti podrobno informacijo. Iz te bo razvidno, ali smo
@@ -2979,11 +3043,11 @@
                   pripravi predlog zakona. Pri tem naj upošteva razprave z današnje seje, seveda
                   tiste, ki jih v okviru zveznega zakona lahko upoštevamo. Hvala lepa.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                <p>Hvala. To imamo v pripravljenem sklepu že oblikovano, in tudi to, v kakšnih
-                  pogojih<pb n="61" xml:id="pb.61"/> sprejemamo zakon, in da zadolžujemo izvršni svet, da do naslednje seje
-                  pripravi predlog tega zakona.</p>
+                     pogojih<pb n="61" xml:id="pb.61"/> sprejemamo zakon, in da zadolžujemo izvršni
+                  svet, da do naslednje seje pripravi predlog tega zakona.</p>
                <p>Želi še kdo razpravljati? (Nihče.) Če ne, zaključujem razpravo in prehajamo na
                   glasovanje.</p>
                <p>Glasujemo samo o tem sklepu ESA 221, ki ste ga dobili danes na klop. Predlagatelju
@@ -3022,9 +3086,9 @@
                   sklepa, poročilo Odbora za finance in kreditno-monetarno politiko ter poročilo
                   Zakonodajno-pravne komisije.</p>
                <p>Prehajamo k 11. TOČKI DNEVNEGA REDA - OSNUTEK ZAKONA O SKUPNEM ZNESKU SREDSTEV ZA
-                  FINANCIRANJE PROGRAMA PRIPRAV ZA TISK <pb n="62" xml:id="pb.62"/>IN TISKANJE OSNOVNE HIDROGEOLOŠKE KARTE
-                  JUGOSLAVIJE IN OSNOVNEINŽENIRSKO-GEOLOŠKE KARTE JUGOSLAVIJE ZA OBDOBJE 1988 DO
-                  2009.</p>
+                  FINANCIRANJE PROGRAMA PRIPRAV ZA TISK <pb n="62" xml:id="pb.62"/>IN TISKANJE
+                  OSNOVNE HIDROGEOLOŠKE KARTE JUGOSLAVIJE IN OSNOVNEINŽENIRSKO-GEOLOŠKE KARTE
+                  JUGOSLAVIJE ZA OBDOBJE 1988 DO 2009.</p>
                <p>Osnutek zakona je Skupščini SR Slovenije predložil v obravnavo Zbor republik in
                   pokrajin Skupščine SFRJ. K osnutku ste prejeli tudi mnenje Izvršnega sveta naše
                   Skupščine, obravnavala ga je tudi Zakonodajno-pravna komisija, ki ni imela
@@ -3061,7 +3125,7 @@
                   Slovenske Bistrice z gospodarskega področja.</p>
                <p>Besedo ima tovariš Janko Blas, gospodarsko področje, 27. okoliš, Krško.</p>
             </sp>
-            <sp>
+            <sp who="#sp.BlasJanko">
                <speaker>JANKO BLAS:</speaker>
                <p>Tovariš predsednik, tovarišice in tovariši delegati! Naša delegacija 27. okoliša
                   področja Posavja se strinja s tem predlogom zakona o ratifikaciji konvencije za
@@ -3069,10 +3133,10 @@
                   pozanima o lani sprejetem 45. členu zakona o varstvu pri delu, kako ga združeno
                   delo in skupnosti uveljavljajo. Opažamo, da na tem področju ni večjega uspeha.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
-               <p>Hvala lepa. Ker ne želi nihče več razpravljati, zaključujem razpravo in prehajamo na
-                  glasovanje.</p>
+               <p>Hvala lepa. Ker ne želi nihče več razpravljati, zaključujem razpravo in prehajamo
+                  na glasovanje.</p>
                <pb n="63" xml:id="pb.63"/>
                <p>Na glasovanje dajem predlog odloka o soglasju k predlogu zakona o ratifikaciji
                   konvencije Mednarodne organizacije dela številka 155 o varstvu pri delu,
@@ -3097,7 +3161,7 @@
                <p>Želi besedo predstavnik SDK? (Da.) Besedo ima tovariš Franc Knafelc, generalni
                   direktor Službe družbenega knjigovodstva.</p>
             </sp>
-            <sp>
+            <sp who="#sp.KnafelcFranc">
                <speaker>FRANC KNAFELC:</speaker>
                <p>Tovariš predsednik, tovarišice in tovariši delegati! Danes že četrtič dajem
                   Skupščini SR Slovenije poročilo o opravljenih nalogah Službe družbenega
@@ -3118,8 +3182,8 @@
                   razgrnil pred vami.</p>
                <p>Brez dvoma mora Služba družbenega knjigovodstva skrbeti za dosledno izvajanje
                   zakonov in drugih predpisov iz svoje pristojnosti. Vendar pa se v pravi ofenzivi
-                  normativnega<pb n="64" xml:id="pb.64"/> urejanja, kot smo ga deležni v zadnjem času, često težko znajde
-                  naša služba, kaj šele uporabniki družbenih sredstev.</p>
+                     normativnega<pb n="64" xml:id="pb.64"/> urejanja, kot smo ga deležni v zadnjem
+                  času, često težko znajde naša služba, kaj šele uporabniki družbenih sredstev.</p>
                <p>Naštel bi nekaj takih primerov, ko Služba družbenega knjigovodstva praktično ni
                   mogla ravnati v skladu s sprejetimi zakoni, saj so bili ti nejasni in nedorečeni,
                   včasih celo protislovni, pravočasno nismo dobili niti vseh izvedbenih predpisov,
@@ -3160,9 +3224,9 @@
                   nepopravljive posledice, še posebej zaradi tega, ker zaradi tajnosti in hitrega
                   postopka sprejemanja zakona, delavci v združenem delu niso bili seznanjeni z
                   novimi predpisi. Ko smo v Službi dobili vse izvedbene predpise, smo poslali vsem
-                  uporabnikom družbenih sredstev posebno pismo, v<pb n="65" xml:id="pb.65"/> katerem smo jih opozorili, da
-                  morajo pri izplačilu osebnih dohodkov za mesec marec ravnati v skladu z obema
-                  zakonoma.</p>
+                  uporabnikom družbenih sredstev posebno pismo, v<pb n="65" xml:id="pb.65"/> katerem
+                  smo jih opozorili, da morajo pri izplačilu osebnih dohodkov za mesec marec ravnati
+                  v skladu z obema zakonoma.</p>
                <p>Sodim, da je bilo ravnanje Službe v zvezi z izvajanjem obeh zakonov o omejitvi
                   osebnih dohodkov razumno in odgovorno. Tako ga je ocenil tudi svet Službe
                   družbenega knjigovodstva, hkrati pa je Službo zadolžil, da delegatom Skupščine
@@ -3205,13 +3269,13 @@
                <p>Služba je ugotovila, da večina organizacij združenega dela ne izdeluje kalkulacij
                   lastnih cen izdelkov, ker jih k temu ne zavezuje noben predpis. Organizacije
                   združenega dela tako pravzaprav nimajo osnovne podlage za ocenjevanje
-                  gospodarnosti in<pb n="66" xml:id="pb.66"/> smotrnosti proizvodnje posameznega izdelka. Zakon o
-                  knjigovodstvu sicer določa, da organizacija združenega dela v svojem knjigovodstvu
-                  zagotavlja podatke za izdelavo kalkulacij za oblikovanje cen za izdelke in
-                  storitve, vendar ta določba ni sankcionirana. Take kalkulacije bi lahko služile
-                  tudi kot podlaga za oceno upravičenosti rasti cen izdelkov in storitev. Povem naj
-                  še, da bomo informacijo o rezultatih ocene zaključnih računov vključevali v našo
-                  redno informativno dejavnost.</p>
+                  gospodarnosti in<pb n="66" xml:id="pb.66"/> smotrnosti proizvodnje posameznega
+                  izdelka. Zakon o knjigovodstvu sicer določa, da organizacija združenega dela v
+                  svojem knjigovodstvu zagotavlja podatke za izdelavo kalkulacij za oblikovanje cen
+                  za izdelke in storitve, vendar ta določba ni sankcionirana. Take kalkulacije bi
+                  lahko služile tudi kot podlaga za oceno upravičenosti rasti cen izdelkov in
+                  storitev. Povem naj še, da bomo informacijo o rezultatih ocene zaključnih računov
+                  vključevali v našo redno informativno dejavnost.</p>
                <p>Med problemi informativno-analitične dejavnosti bi omenil samo enega - kar pa ne
                   pomeni, da je edini - a se je v preteklem letu še posebej zaostril. Gre za
                   neizgrajenost enotnih definicij za posamezne ekonomske kategorije. Enotnih
@@ -3247,8 +3311,8 @@
                   skladu z načrti - to velja tako za Službo v republiki kot tudi za celotno Službo v
                   Jugoslaviji. V telekomunikacijski prenos sredstev in podatkov sta v naši republiki
                   za sedaj vključeni le dve podružnici, in sicer v Ljubljani in Mariboru. Druge
-                  enote pa še niso tehnično<pb n="67" xml:id="pb.67"/> usposobljene, ker je njihova računalniška oprema
-                  zastarela ali pa nima dovolj velike zmogljivosti.</p>
+                  enote pa še niso tehnično<pb n="67" xml:id="pb.67"/> usposobljene, ker je njihova
+                  računalniška oprema zastarela ali pa nima dovolj velike zmogljivosti.</p>
                <p>Nova tehnologija dela v plačilnem prometu je povzročila tudi vrsto subjektivnih
                   težav. Uporabniki družbenih sredstev ne spoštujejo predpisanih novih standardov za
                   opravljanje plačilnega prometa, delavci Službe pa še vedno dovoljujejo, da
@@ -3274,14 +3338,14 @@
                   vnaprej pa se zahvaljujem za morebitne napake in pobude za izboljšanje našega
                   dela. Hvala lepa.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                <p>Hvala lepa. K tej točki je predstavnik Izvršnega sveta tovariš Rudi Šepič, član
                   Izvršnega sveta in republiški sekretar za finance. Želi morda besedo? (Ne.) Želijo
                   besedo poročevalci delovnih teles? (Tudi ne.) Pričenjam razpravo. K razpravi se je
                   prijavil Vili Novak, gospodarsko področje 41. okoliš, Maribor Tabor.</p>
             </sp>
-            <sp>
+            <sp who="#sp.NovakVili">
                <speaker>VILI NOVAK:</speaker>
                <p>Tovariši delegati, tovarišice delegatke! To je samo kratka ugotovitev o delu
                   Službe družbenega knjigovodstva. Naša skupina delegatov ocenjuje, da je poročilo o
@@ -3295,8 +3359,8 @@
                   povzročajo ogromno nepotrebnega dela in s tem dodatne materialne stroške.
                   Čestokrat se zbiranje informacij podvaja in s tem se izgublja ena od vlog Službe v
                   smislu preventivnega opozarjanja glede čuvanja in uporabe sredstev. V tej težki
-                  gospodarski<pb n="68" xml:id="pb.68"/> situaciji bi morali tudi na tem področju spoštovati in slediti
-                  načelom koristnosti in racionalnosti.</p>
+                     gospodarski<pb n="68" xml:id="pb.68"/> situaciji bi morali tudi na tem področju
+                  spoštovati in slediti načelom koristnosti in racionalnosti.</p>
                <p>Zato menimo, da bi bilo nujno potrebno določiti, katere podatke potrebujemo in kdo
                   jih bo resnično potreboval in kdo jih zbira, da se ne bi podatki podvajali.
                   Menimo, da bi bilo najlažje in najbolj racionalno zbiranje podatkov v eni sami
@@ -3305,9 +3369,9 @@
                   bi le na ta način lahko zagotovili celoten pretok in prenosa informacijskega
                   sistema. Samo toliko. Hvala.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
-               <p>Hvala lepa. Pismenihprijav ni več. Želi še kdo besedo? (Ne.) Če ne želi,
+               <p>Hvala lepa. Pismenih prijav ni več. Želi še kdo besedo? (Ne.) Če ne želi,
                   zaključujem razpravo in prehajamo na glasovaje o predlogu sklepa pod 211.</p>
                <p>Kdo je za ta predlog sklepa? (97 delegatov.) Je kdo proti? (Nihče.) Vzdržani?
                   (Nihče.)</p>
@@ -3322,7 +3386,7 @@
                <p>Besedo ima Janez Bohorič, pooblaščeni predstavnik mandata in podpredsednik
                   Izvršnega sveta.</p>
             </sp>
-            <sp>
+            <sp who="#sp.BohoričJanez">
                <speaker>JANEZ BOHORIČ:</speaker>
                <p>Tovarišice in tovariši delegati! Dovolite mi, da po pooblastilu predsednika
                   Izvršnega sveta tovariša Dušana Šinigoja razložim to kadrovsko spremembo v
@@ -3343,12 +3407,12 @@
                   vlogo tega komiteja za razrešitev nastalega položaja.</p>
                <p>Magister Pavle Kunc teh nalog žal ni mogel v celoti uresničevati, čeprav
                   energetiko strokovno obvlada. Odgovornosti in naloge predsednika Republiškega
-                  komiteja za energetiko namreč<pb n="69" xml:id="pb.69"/> terjajo poleg strokovnih, še jasno izraženo
-                  organizacijske, koordinativne in vodstvene sposobnosti. Magister Pavle Kunc s
-                  predlogom predsednika Izvršnega sveta za razrešitev soglaša. V teh okoliščinah se
-                  je predsednik Izvršnega sveta odločil, da predlaga za kandidata za člana Izvršnega
-                  sveta in predsednika Republiškega komiteja za energetiko tovariša Natana
-                  Bernota.</p>
+                  komiteja za energetiko namreč<pb n="69" xml:id="pb.69"/> terjajo poleg strokovnih,
+                  še jasno izraženo organizacijske, koordinativne in vodstvene sposobnosti. Magister
+                  Pavle Kunc s predlogom predsednika Izvršnega sveta za razrešitev soglaša. V teh
+                  okoliščinah se je predsednik Izvršnega sveta odločil, da predlaga za kandidata za
+                  člana Izvršnega sveta in predsednika Republiškega komiteja za energetiko tovariša
+                  Natana Bernota.</p>
                <p>Tovariš Natan Bernot, diplomirani inženir strojništva, bo lahko glede na svoja
                   strokovna, delovna in družbenopolitična znanja in izkušnje, ki jih je pridobil z
                   dolgoletnim delom na področju energetike, kot tudi na področju delegatskega
@@ -3384,11 +3448,12 @@
                   republiške Konference Socialistične zveze delovnega ljudstva Slovenije delegata
                   Republiške konference Zveze socialistične mladine Slovenije.</p>
                <p>Prigovorov, ki so jih imeli predstavniki Zveze socialistične mladine Slovenije h
-                  kandidacijskem postopku in na seji<pb n="70" xml:id="pb.70"/> Predsedstva Socialistične zveze delovnih ljudstva Slovenije, da tovariš Natan
-                  Bernot ni primeren za predlagano funkcijo zaradi svojega sedanjega dela, ki ga
-                  opravlja kot vodja projekta za gradnjo jedrske elektrarne v Prevlaki, in da bi
-                  bilo to neodgovorno prejudiciranje pomembnih družbenih odločitev, predsednik
-                  Izvršnega sveta ne more sprejeti.</p>
+                  kandidacijskem postopku in na seji<pb n="70" xml:id="pb.70"/> Predsedstva
+                  Socialistične zveze delovnih ljudstva Slovenije, da tovariš Natan Bernot ni
+                  primeren za predlagano funkcijo zaradi svojega sedanjega dela, ki ga opravlja kot
+                  vodja projekta za gradnjo jedrske elektrarne v Prevlaki, in da bi bilo to
+                  neodgovorno prejudiciranje pomembnih družbenih odločitev, predsednik Izvršnega
+                  sveta ne more sprejeti.</p>
                <p>Sedanjo delovno nalogo je tovariš Natan Bernot sprejel kot družbeno dolžnost, ki
                   jo opravlja z največjo odgovornostjo, strokovnostjo, predvsem pa z izjemnim
                   odnosom do varovanja družbenih sredstev in okolja. SR Slovenija nima niti možnosti
@@ -3406,12 +3471,12 @@
                   sveta Skupščine SR Slovenije in za predsednika Republiškega komiteja za
                   energetiko. Hvala.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                <p>Hvala lepa. K razpravi se je prijavil tovariš Branko Medik, 38. okoliš,
                   gospodarsko področje, Maribor Pobrežje.</p>
             </sp>
-            <sp>
+            <sp who="#sp.MedikBranko">
                <speaker>BRANKO MEDIK:</speaker>
                <p>Tovariš predsednik, tovarišice in tovariši delegati! Glede na sedanjo uvodno
                   obrazložitev tovariša podpredsednika Izvršnega sveta so stvari nekoliko bolj
@@ -3459,29 +3524,29 @@
                <p>Iz vseh navedenih razlogov smo proti imenovanju tovariša Natana Bernota za
                   predsednika Republiškega komiteja za energetiko. Hvala.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
-               <p>Hvala lepa.Besedo imaDrago Cafnik, 4. okoliš področja državnih organov Maribor
+               <p>Hvala lepa. Besedo ima Drago Cafnik, 4. okoliš področja državnih organov Maribor
                   Rotovž.</p>
             </sp>
-            <sp>
+            <sp who="#sp.CafnikDrago">
                <speaker>DRAGO CAFNIK:</speaker>
                <p>Tovariš predsednik, tovarišice in tovariši delegati! Naša delegacija oziroma naša
                   baza je imela povsem enako stališče, kot ga je imel moj predhodni razpravljalec,
                   zato ne bi ponavljal utemeljitev in se pridružujem njegovemu mnenju. Hvala.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
-               <p>Hvala lepa. Želi še kdobesedo? (Da.) Prosim, besedo ima Ljubica Frančeškin,
+               <p>Hvala lepa. Želi še kdo besedo? (Da.) Prosim, besedo ima Ljubica Frančeškin,
                   gospodarsko področje, 30. okoliš, Celje.</p>
             </sp>
-            <sp>
+            <sp who="#sp.FrančiškinLjubica">
                <speaker>LJUBICA FRAČEŠKIN:</speaker>
                <p>Tovariš predsednik, tovarišice in tovariši delegati! O tem imenovanju za člana
                   Izvršnega sveta Skupščine SR Slovenije in za predsednika Republiškega komiteja za
                   energetiko je tudi naša skupina delegatov za gospodarsko področje, 30. okoliš,
-                  Celje, bila seznanjena s sklepom<pb n="72" xml:id="pb.72"/> Koordinacijskega zbora za kadrovska vprašanja pri Občinski konferenci SZDL
-                  Celje.</p>
+                  Celje, bila seznanjena s sklepom<pb n="72" xml:id="pb.72"/> Koordinacijskega zbora
+                  za kadrovska vprašanja pri Občinski konferenci SZDL Celje.</p>
                <p>Delegacija ob imenovanju tovariša Bernota postavlja vprašanje, če so razvojni
                   pogledi imenovanega na energetsko problematiko usklajeni s stališči Republiške
                   konference SZDL. Iz gradiva Koordinacijskega odbora za kadrovska vprašanja pri
@@ -3491,7 +3556,7 @@
                <p>V bistvu se s tem tudi naša delegacija pridružuje mnenju mojih dveh predhodnikov.
                   Hvala.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                <p>Hvala lepa. Želi še kdo razpravljati? (Ne želi.) Želi še kaj povedati predstavnik
                   mandatarja? (Ne želi.) Če ne želi nihče več razpravljati, prehajamo na
@@ -3531,7 +3596,7 @@
                   avtonomnih pokrajin bo dal tovariš Neven Borak, namestnik predsednika Republiškega
                   komiteja za družbeno planiranje. Prosim, tovariš Borak.</p>
             </sp>
-            <sp>
+            <sp who="#sp.BorakNeven">
                <speaker>NEVEN BORAK:</speaker>
                <p>Delegatsko vprašanje skupine delegatov za gospodarsko področje, 15. okoliš, Tržič
                   za Zbor združenega dela Skupščine SR Slovenije se glasi: Sprašujemo, ali je sploh
@@ -3568,9 +3633,9 @@
                   oblikovanja ter učinki dodatnih ukrepov le indirekten vpliv na organizacije
                   združenega dela, kar posredno zmanjšuje obseg sredstev za reprodukcijo in ima svoj
                   vpliv tudi na pogoje poslovanja. Učinki nekaterih dodatnih ukrepov so razvidni iz
-                  obrazložitev posameznih zveznih predpisov, ki so bili<pb n="74" xml:id="pb.74"/> že sprejeti oziroma so
-                  še v fazi usklajevanja, za nekatere pa se lahko v tej fazi, da samo približne
-                  ocene.</p>
+                  obrazložitev posameznih zveznih predpisov, ki so bili<pb n="74" xml:id="pb.74"/>
+                  že sprejeti oziroma so še v fazi usklajevanja, za nekatere pa se lahko v tej fazi,
+                  da samo približne ocene.</p>
                <p>V priloženem pregledu so prikazani finančni učinki posameznih ukrepov za celotno
                   srednjeročno obdobje 1986-1990, učinkov dodatnih ukrepov pa metodološko ni mogoče
                   neposredno primerjati z družbenim proizvodom. Zato v tem odgovoru le informativno
@@ -3610,10 +3675,10 @@
                   ter njihovih učinkov v obdobju 1986-1990, kjer so ti ukrepi razvrščeni in
                   kvanitificirani po naslednjih skupinah: redni sistemski ukrepi, dodatni - že
                   sprejeti ukrepi ter ukrepi v pripravi in postopku. Številk ne bi prebiral, je pa
-                  dodatno tudi metodološko<pb n="75" xml:id="pb.75"/> pojasnilo glede načina določanja podatkov, ki so v
-                  posameznih elementih tabele zapisani.</p>
+                  dodatno tudi metodološko<pb n="75" xml:id="pb.75"/> pojasnilo glede načina
+                  določanja podatkov, ki so v posameznih elementih tabele zapisani.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                <p>Pričenjam razpravo na ta odgovor. Ima kdo kakšno vprašanje ali dopolnitev? (Ne.)
                   Je delegat iz Tržiča zadovoljen z odgovorom? (Da.)</p>
@@ -3654,9 +3719,10 @@
                <p>Delegatska vprašanja skupine delegatov za gospodarsko področje, 9. okoliš,
                   Grosuplje glede novega obračunskega sistema;</p>
                <p>delegatsko vprašanje skupine delegatov za gospodarsko področje 17. okoliš in
-                  prosvetno-kulturno področje, 5. okoliši<pb n="76" xml:id="pb.76"/> Nova Gorica, glede zakona o začasni prepovedi razpolaganja z delom družbenih
-                  sredstev družbenopolitičnih skupnosti in samoupravnih interesnih skupnosti za
-                  porabo v letu 1987;</p>
+                  prosvetno-kulturno področje, 5. okoliši<pb n="76" xml:id="pb.76"/> Nova Gorica,
+                  glede zakona o začasni prepovedi razpolaganja z delom družbenih sredstev
+                  družbenopolitičnih skupnosti in samoupravnih interesnih skupnosti za porabo v letu
+                  1987;</p>
                <p>pobude skupine delegatov za gospodarsko področje, 2. okoliš iz Ljubljane Centra za
                   pripravo analize o izvajanju družbenega dogovora in samoupravnega sporazuma glede
                   izplačil osebnih dohodkov v prejšnjem letu in tudi o izvajanju intervencijskih
@@ -3674,7 +3740,7 @@
                   ima tovariš Nikolaj Miklič, obrtno področje 2. okoliš Ljubljana Center glede
                   prispevka za električno energijo.</p>
             </sp>
-            <sp>
+            <sp who="#sp.MikličNikolaj">
                <speaker>NIKOLAJ MIKLIČ:</speaker>
                <p>V razpravah in kasnejših uskladitvah ob sprejetju intervencijskega zakona za
                   pokritje izgub v elektrogospodarstvu so odgovorni predstavniki zagotavljali, da
@@ -3687,12 +3753,12 @@
                   električno energijo pri drugi akontaciji tako, kot je bilo pojasnjeno oziroma
                   obljubljeno ob sprejemanju intervencijskega zakona.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                <p>Hvala. Na vprašanje bo odgovoril direktor Republiške uprave za družbene prihodke,
                   tovariš Anton Pengov.</p>
             </sp>
-            <sp>
+            <sp who="#sp.PengovAnton">
                <speaker>ANTON PENGOV:</speaker>
                <p>Tovariš predsednik, tovarišice in tovariši delegati!</p>
                <p>Republiška uprava za družbene prihodke je glede plačila prispevka iz dohodka
@@ -3703,10 +3769,11 @@
                <p>Zakon o prispevku dohodka temeljnih organizacij združenega dela za sanacijo izgub
                   organizacij združenega dela v elektrogospodarstvu in premogovništvu, nastalih v
                   letu 1986, ki je bil sprejet 18. februarja 1987, namreč določa, da so zavezanci za
-                  prispevek tudi kmetje in delovni ljudje, ki samostojno<pb n="77" xml:id="pb.77"/>opravljajo dejavnost in
-                  se jim ugotavlja dohodek. Prispevek se obračunava v višini 18,8% na fakturirano
-                  električno energijo v letu 1986. Plača se v štirih enakih obrokih - samo
-                  najpozneje, do marca, 25. marca, 25. aprila in 25. maja 1987.</p>
+                  prispevek tudi kmetje in delovni ljudje, ki samostojno<pb n="77" xml:id="pb.77"
+                  />opravljajo dejavnost in se jim ugotavlja dohodek. Prispevek se obračunava v
+                  višini 18,8% na fakturirano električno energijo v letu 1986. Plača se v štirih
+                  enakih obrokih - samo najpozneje, do marca, 25. marca, 25. aprila in 25. maja
+                  1987.</p>
                <p>Tako obračunani prispevek je lahko pri zavezancih, ki opravljajo dejavnost, pri
                   kateri je poraba električne energije nadpovprečna, izredno visoka. V kolikor se
                   ugotovi, da bi plačilo prispevka pri zavezancu davka iz dejavnosti povzročilo
@@ -3727,7 +3794,7 @@
                   drugega obroka akontacije pri tistih zavezancih, kjer je ta strošek izredno visok.
                   Hvala lepa.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                <p>Predlagam, da pošljete to okrožnico tudi Zvezi obrtnih združenj, da bodo lahko
                   ukrepali, če bi prišlo do specifičnih težav. Tovariš Miklič, ali ste zadovoljni z
@@ -3735,7 +3802,7 @@
                <p>Ima še kdo delegatsko vprašanje? (Da.) Besedo ima Lili Kozinc, delegatka skupine
                   delegatov gospodarskega področja, 14. okoliš, Radovljica.</p>
             </sp>
-            <sp>
+            <sp who="#sp.KozincLili">
                <speaker>LILI KOZINC:</speaker>
                <p>Obe skupini delegatov gospodarskega in kulturno-prosvetnega področja sprašujeta,
                   zakaj so slovenski delegati v Zboru republik in pokrajin glasovali za devizni
@@ -3747,13 +3814,13 @@
                   časa postavljali podobna vprašanja, zakaj smo glasovali za, kot jih sedaj
                   postavljamo za nazaj. Hvala.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
-               <p>K besedi se je prijavil tuditovariš Franc Gogola, delegat gospodarskega področja,
+               <p>K besedi se je prijavil tudi tovariš Franc Gogola, delegat gospodarskega področja,
                   1. okoliša, Ljubljana Bežigrad.</p>
             </sp>
             <pb n="78" xml:id="pb.78"/>
-            <sp>
+            <sp who="#sp.GogalaFranc">
                <speaker>FRANC GOGOLA:</speaker>
                <p>Tovariš predsednik, tovarišice in tovariši delegati! Na kratko bi spregovoril o
                   tem, kaj me moti pri delu Zbora združenega dela. Namreč, na sejah zbora se ponovi
@@ -3763,9 +3830,9 @@
                   bistvo, saj smo sami prebrali poslovna gradiva. Tako bi se izognili ponovnemu
                   poslušanju tistega, o čemer smo se seznanili že sami. Hvala.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
-               <p>Torej, če prav razumem,naj ne bi brali odgovorov na delegatska vprašanja, ker so
+               <p>Torej, če prav razumem, naj ne bi brali odgovorov na delegatska vprašanja, ker so
                   objavljeni v Poročevalcu.</p>
                <p>Pri delu zbora se zelo trudimo, da bi bilo čim manj uvodov. Sami pa vidite, da je
                   bila današnja seja specifična in da so potrebna tudi dodatna pojasnila.</p>
@@ -3773,7 +3840,7 @@
                   delitvi dohodka je končala delo. Poročevalec skupine je Leopold Zupan, gospodarsko
                   področje, 12. okoliš, Kranj.</p>
             </sp>
-            <sp>
+            <sp who="#sp.ZupanLeopold">
                <speaker>LEOPOLD ZUPAN:</speaker>
                <p>Tovariš predsednik, tovarišice in tovariši delegati! Skupina delegatov, imenovana
                   danes na Zboru združenega dela in Zboru občin, je proučila vse pripombe in
@@ -3800,10 +3867,10 @@
                   Sloveniji za leto 1987, ki jih je oblikoval Odbor udeležencev dogovora družbenega
                   dogovora in jih je prav tako posredoval delegatom danes na klop.</p>
                <p>Nekaterih predlogov pa ni bilo mogoče upoštevati, ker so predmet zakonskega
-                  urejanja in vsebine drugih aktov, na primer<pb n="79" xml:id="pb.79"/> nekatere pripombe skupin delegatov
-                  iz občin Maribor Tabor in Vrhnika - Logatec.</p>
+                  urejanja in vsebine drugih aktov, na primer<pb n="79" xml:id="pb.79"/> nekatere
+                  pripombe skupin delegatov iz občin Maribor Tabor in Vrhnika - Logatec.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                <p>Sprašujem delegate občine Ljubljana Vič-Rudnik, če vztrajate pri amandmaju, ki je
                   že smiselno vključen v predhodne določbe, ali ga umikate?</p>
@@ -3824,7 +3891,7 @@
                <p>Zdaj prehajamo k predlogu sklepa. Prosim poročevalca, tovariša Leopolda Zupana, da
                   nam ga predstavi.</p>
             </sp>
-            <sp>
+            <sp who="#sp.ZupanLeopold">
                <speaker>LEOPOLD ZUPAN:</speaker>
                <p>Drugič. K predlogu sklepa.</p>
                <p>V prvi vrsti 3. točke se beseda "poziva" nadomesti z besedo "priporoča
@@ -3839,7 +3906,7 @@
                <p>Predlog sklepa je s tem usklajen z navedenimi spremembami in dopolnitvami
                   družbenega dogovora.</p>
             </sp>
-            <sp>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                <p>Hvala, tovariš Zupan. Ali ima kod kakšno vprašanje ali pripombo k predlogu tega
                   sklepa? (Ne.) Če nimate pripomb, potem bi glasovali o tem sklepu, skupaj z
@@ -3876,9 +3943,10 @@
                <p>Zdaj moramo počakati še na pripravo sprememb in dopolnitev glede informacije
                   Izvršnega sveta, zato odrejam krajši odmor. Prosim vas, da ne odhajate s seje, ker
                   moramo sprejeti še sklep k 2. točki dnevnega reda.</p>
-               <stage type="time">(Seja je bila prekinjena ob 16.30 uri in se je nadaljevala ob 17.40 uri.)</stage>
             </sp>
-            <sp>
+            <stage type="time">(Seja je bila prekinjena ob 16.30 uri in se je nadaljevala ob
+               17.40 uri.)</stage>
+            <sp who="#sp.DvojmočValentin">
                <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                <p>Prehajamo na obravnavo poročila. Najprej bomo ugotovili število prisotnih
                   delegatov. Prosim, da pritisnete glasovalne tipke. (74 prisotnih.)</p>
