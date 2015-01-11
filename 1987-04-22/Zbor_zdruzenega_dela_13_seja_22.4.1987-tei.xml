@@ -1,37 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader xml:lang="slv">
       <fileDesc>
          <titleStmt>
-            <title>Sejni Zapisniki</title>
-            <author>Mikrografija d.o.o.</author>
+            <title xml:lang="slv" type="main" level="m">Sejni zapisi Skupščine Socialistične republike Slovenije za 10. sklic (1986-1990), št. zvezka  12</title>
+            <title xml:lang="slv" type="sub" level="m">Zbor združenega dela,  13. seja (22. april 1987)</title>
+            <title xml:lang="slv" type="desc">Elektronska izdaja</title>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marta Rendla</persName>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <resp>Validacija metapodatkov uvoženih iz SIstory</resp>
+            </respStmt>
          </titleStmt>
-         <editionStmt>
-            <edition>
-               <date>2014-12-23</date>
-            </edition>
-         </editionStmt>
          <publicationStmt>
-            <p>unknown</p>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <distributor>DARIAH-SI</distributor>
+            <idno type="URN">http://www.sistory.si/SISTORY:ID:16050</idno>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:16050</pubPlace>
+            <pubPlace>https://github.com/SIstory/Sejni_zapiski/tree/master/1987-04-22</pubPlace>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref
+                  target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                  Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+            <date when="2015-01-11+01:00">11. 1. 2015</date>
          </publicationStmt>
          <sourceDesc>
-            <p>Converted from a Word document </p>
+            <biblStruct xml:id="sistory.16050">
+               <analytic xml:id="sistory.16051">
+                  <idno>SISTORY:ID:16051#page=3</idno>
+                  <title xml:lang="slv" type="main" level="a">Zbor združenega dela,  13. seja (22. april 1987)</title>
+                  <title xml:lang="slv" type="sub" level="a">Sejni zapisi Skupščine Socialistične republike Slovenije za 10. sklic (1986-1990), št. zvezka  12</title>
+                  <textLang xml:lang="slv" mainLang="slv">slovenski</textLang>
+                  <textLang xml:lang="eng" mainLang="slv">Slovenian</textLang>
+               </analytic>
+               <monogr>
+                  <title xml:lang="slv" type="main" level="m">Sejni zapisi Skupščine Socialistične republike Slovenije za 10. sklic (1986-1990), št. zvezka  12</title>
+                  <title xml:lang="slv" type="sub" level="m">Zbor združenega dela,  13. seja (22. april 1987)</title>
+                  <imprint>
+                     <biblScope type="vol">12</biblScope>
+                     <publisher>Skupščina Socialistične republike Slovenije</publisher>
+                     <date when="1987">1987</date>
+                  </imprint>
+               </monogr>
+               <series>
+                  <title>Sejni zapisi Skupščine Socialistične republike Slovenije</title>
+               </series>
+            </biblStruct>
+            <biblFull corresp="#sistory.16050">
+               <titleStmt>
+                  <title type="main">Sejni zapisi Skupščine Socialistične republike Slovenije za 10. sklic (1986-1990), št. zvezka  12</title>
+                  <title type="sub">Zbor združenega dela,  13. seja (22. april 1987)</title>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher>Skupščina Socialistične republike Slovenije</publisher>
+                  <date when="1987">1987</date>
+                  <availability status="free">
+                     <licence target="http://creativecommons.org/publicdomain/mark/1.0/"
+                        xml:lang="slv">Avtorske pravice so potekle, delo je v javni
+                        domeni.</licence>
+                     <licence target="http://creativecommons.org/publicdomain/mark/1.0/"
+                        xml:lang="eng">Public Domain Mark 1.0</licence>
+                  </availability>
+               </publicationStmt>
+            </biblFull>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <appInfo>
-            <application xml:id="doxtotei" ident="TEI_fromDOCX" version="2.15.0">
-               <label>DOCX to TEI</label>
-            </application>
-         </appInfo>
+         <projectDesc>
+            <p>XML na portalu Zgodovina Slovenije - SIstory narejen v okviru izvajanja
+               infrastrukturnega programa Inštituta za novejšo zgodovino</p>
+         </projectDesc>
+         <!-- Vključena classDecl/taxonomy -->
+         <xi:include href="../taxonomy.xml"/>
       </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="slv" xml:lang="slv">slovenski</language>
+            <language ident="slv" xml:lang="eng">Slovenian</language>
+            <language ident="en" xml:lang="sl">angleški</language>
+            <language ident="en" xml:lang="en">English</language>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <list>
+                  <item xml:lang="slv">predstavniška telesa</item>
+                  <item xml:lang="eng">representative bodies</item>
+                  <item xml:lang="slv">stenografski zapisniki</item>
+                  <item xml:lang="eng">stenographical minutes</item>
+                  <item xml:lang="slv">Socialistična republika Slovenija</item>
+                  <item xml:lang="eng">Socialist Republic of Slovenia</item>
+                  <item xml:lang="slv">družbeno samoupravljanje</item>
+                  <item xml:lang="eng">social self-management</item>
+                  <item xml:lang="slv">10. sklic (1986-1990)</item>
+                  <item xml:lang="eng">10th term (1986-1990)</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
       <revisionDesc>
-         <listChange>
-            <change>
-               <date>2015-01-08T22:40:24Z</date>
-               <name>Mikrografija d.o.o.</name>
-            </change>
-         </listChange>
+         <change when="2015-01-11">
+            <name>Andrej Pančur</name>: izvoz in preverjanje metapodatkov iz SIstory, izdelava
+            teiHeader</change>
+         <change when="2015-01-08">
+            <name>Marta Rendla</name>: pregled in poprava OCR</change>
       </revisionDesc>
    </teiHeader>
    <text>
