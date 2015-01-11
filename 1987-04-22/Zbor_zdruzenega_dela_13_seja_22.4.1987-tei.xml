@@ -136,19 +136,21 @@
                   <list type="ordered">
                      <head>PRED DNEVNIM REDOM:</head>
                      <item n="1">Izvolitev Komisije za verifikacijo pooblastil in imunitetna
-                        vprašanja ter poročilo te komisije 1<list>
+                        vprašanja ter poročilo te komisije <ref target="#pb.1">1</ref><list
+                           type="simple">
                            <head>GOVORNIK:</head>
-                           <item>dr. Miklavž Kušej 2</item>
+                           <item>dr. Miklavž Kušej <ref target="#pb.2">2</ref></item>
                         </list>
                      </item>
-                     <item n="2">Določitev dnevnega reda 3<list>
+                     <item n="2">Določitev dnevnega reda <ref target="#pb.3">3</ref><list
+                           type="simple">
                            <head>GOVORNIKI:</head>
-                           <item>Božena Zigmund 4</item>
-                           <item>Franci Pivec 4</item>
-                           <item>Jože Žumer 5</item>
-                           <item>Franci Pivec 5</item>
-                           <item>Jože Žumer 6</item>
-                           <item>Franc Lipoglavšek 6</item>
+                           <item>Božena Zigmund <ref target="#pb.4">4</ref></item>
+                           <item>Franci Pivec <ref target="#pb.4">4</ref></item>
+                           <item>Jože Žumer <ref target="#pb.5">5</ref></item>
+                           <item>Franci Pivec <ref target="#pb.5">5</ref></item>
+                           <item>Jože Žumer <ref target="#pb.6">6</ref></item>
+                           <item>Franc Lipoglavšek <ref target="#pb.6">6</ref></item>
                         </list>
                      </item>
                   </list>
@@ -156,149 +158,160 @@
                <item>
                   <list type="ordered">
                      <head>DNEVNI RED:</head>
-                     <item n="1">Odobritev zapisnika 12. seje (1. točka dnevnega reda) 7</item>
+                     <item n="1">Odobritev zapisnika 12. seje (1. točka dnevnega reda) <ref
+                           target="#pb.7">7</ref></item>
                      <item n="2">Informacija Izvršnega sveta Skupščine SR Slovenije o tekočih
                         gospodarskih gibanjih v SR Sloveniji v prvih mesecih leta 1987 (2. točka
-                        dnevnega reda) 7<list>
+                        dnevnega reda) <ref target="#pb.7">7</ref><list type="simple">
                            <head>GOVORNIKI:</head>
-                           <item>Leopold Zupan 8</item>
-                           <item>Stane Konrad 10</item>
-                           <item>Milan Tacinger 12</item>
-                           <item>Franc Kumin 13</item>
-                           <item>Jernej Krajšek 14</item>
-                           <item>Miloš Veršec 15</item>
-                           <item>Leo Frelih 16</item>
-                           <item>Zdenka Plausteiner 18</item>
+                           <item>Leopold Zupan <ref target="#pb.8">8</ref></item>
+                           <item>Stane Konrad <ref target="#pb.10">10</ref></item>
+                           <item>Milan Tacinger <ref target="#pb.12">12</ref></item>
+                           <item>Franc Kumin <ref target="#pb.13">13</ref></item>
+                           <item>Jernej Krajšek <ref target="#pb.14">14</ref></item>
+                           <item>Miloš Veršec <ref target="#pb.15">15</ref></item>
+                           <item>Leo Frelih <ref target="#pb.16">16</ref></item>
+                           <item>Zdenka Plausteiner <ref target="#pb.18">18</ref></item>
                         </list>
                      </item>
                      <item n="3">Dodatno poročilo Komisije za verifikacijo pooblastil in imunitetna
-                        vprašanja 20<list>
+                        vprašanja <ref target="#pb.20">20</ref><list type="simple">
                            <head>GOVORNIK:</head>
-                           <item>dr. Miklavž Kušej 21</item>
+                           <item>dr. Miklavž Kušej <ref target="#pb.21">21</ref></item>
                         </list>
                      </item>
                      <pb n="I/2" xml:id="pb.I.2"/>
                      <item n="4">Nadaljevanje razprave k informaciji Izvršnega sveta Skupščine SR
                         Slovenije o tekočih gospodarskih gibanjih v SR Sloveniji v prvih mesecih
-                        leta 1987 (2. točka dnevnega reda - nadaljevanje) 21<list>
+                        leta 1987 (2. točka dnevnega reda - nadaljevanje) <ref target="#pb.21"
+                           >21</ref><list type="simple">
                            <head>GOVORNIKI:</head>
-                           <item>Bojan Zadnik 21</item>
-                           <item>Boris Požar 22</item>
-                           <item>Viktor Ptičar 23</item>
-                           <item>Lili Kozinc 26</item>
-                           <item>Branko Medik 27</item>
-                           <item>Jurij Pirš 29</item>
-                           <item>Drago Štefe 31</item>
-                           <item>Milan Krajnik 33</item>
-                           <item>dr. Miklavž Kušej 34</item>
-                           <item>Drago Cafnik 35</item>
-                           <item>Milan Ditrih 36</item>
-                           <item>Andreja Črnak-Meglič 37</item>
+                           <item>Bojan Zadnik <ref target="#pb.21">21</ref></item>
+                           <item>Boris Požar <ref target="#pb.22">22</ref></item>
+                           <item>Viktor Ptičar <ref target="#pb.23">23</ref></item>
+                           <item>Lili Kozinc <ref target="#pb.26">26</ref></item>
+                           <item>Branko Medik <ref target="#pb.27">27</ref></item>
+                           <item>Jurij Pirš <ref target="#pb.29">29</ref></item>
+                           <item>Drago Štefe <ref target="#pb.31">31</ref></item>
+                           <item>Milan Krajnik <ref target="#pb.33">33</ref></item>
+                           <item>dr. Miklavž Kušej <ref target="#pb.34">34</ref></item>
+                           <item>Drago Cafnik <ref target="#pb.35">35</ref></item>
+                           <item>Milan Ditrih <ref target="#pb.36">36</ref></item>
+                           <item>Andreja Črnak-Meglič <ref target="#pb.37">37</ref></item>
                         </list>
                      </item>
                      <item n="5">Dodatno poročilo Komisije za verifikacijo pooblastil in imunitetna
-                        vprašanja 39<list>
+                        vprašanja <ref target="#pb.39">39</ref><list type="simple">
                            <head>GOVORNIK:</head>
-                           <item>dr. Miklavž Kušej 39</item>
+                           <item>dr. Miklavž Kušej <ref target="#pb.39">39</ref></item>
                         </list>
                      </item>
-                     <item n="6">Predlog zakona o pedagoški službi (5. točka dnevnega reda) 39<list>
+                     <item n="6">Predlog zakona o pedagoški službi (5. točka dnevnega reda) <ref
+                           target="#pb.39">39</ref><list type="simple">
                            <head>GOVORNIKI:</head>
-                           <item>Boštjan Zgonc 39</item>
-                           <item>Franc Lipoglavšek 41</item>
-                           <item>Jože Žumer 42</item>
+                           <item>Boštjan Zgonc <ref target="#pb.39">39</ref></item>
+                           <item>Franc Lipoglavšek <ref target="#pb.41">41</ref></item>
+                           <item>Jože Žumer <ref target="#pb.42">42</ref></item>
                         </list>
                      </item>
                      <item n="7">Poročilo delegacije Skupščine SR Slovenije v Zboru republik in
                         pokrajin Skupščine SFR Jugoslavije o poteku usklajevanja nekaterih aktov iz
                         pristojnosti Zbora republik in pokrajin Skupščine SFR Jugoslavije (3. točka
-                        dnevnega reda) 43<list>
+                        dnevnega reda) <ref target="#pb.43">43</ref><list type="simple">
                            <head>GOVORNIK:</head>
-                           <item>Martin Mlinar 44</item>
+                           <item>Martin Mlinar <ref target="#pb.44">44</ref></item>
                         </list>
                      </item>
                      <item n="8">Predlog družbenega dogovora o spremembah in dopolnitvah družbenega
                         dogovora o skupnih osnovah in merilih za samoupravno urejanje odnosov pri
-                        pridobivanju in delitvi dohodka v SR Sloveniji (4. točka dnevnega reda) 48<list>
+                        pridobivanju in delitvi dohodka v SR Sloveniji (4. točka dnevnega reda) <ref
+                           target="#pb.48">48</ref><list type="simple">
                            <head>GOVORNIKI:</head>
-                           <item>Božidar Kaloper 49</item>
-                           <item>Majda Hausmeister 49</item>
+                           <item>Božidar Kaloper <ref target="#pb.49">49</ref></item>
+                           <item>Majda Hausmeister <ref target="#pb.49">49</ref></item>
                            <pb n="I/3" xml:id="pb.I.3"/>
-                           <item>Franc Ruparšek 51</item>
+                           <item>Franc Ruparšek <ref target="#pb.51">51</ref></item>
                         </list>
                      </item>
                      <item n="9">Predlog zakona o Pedagoški akademiji v Ljubljani s predlogom zakona
-                        (6. točka dnevnega reda) 52</item>
+                        (6. točka dnevnega reda) <ref target="#pb.52">52</ref></item>
                      <item n="10">Osnutek zakona o zaključnem računu o izvršitvi proračuna SR
-                        Slovenije za leto 1986 (7. točka dnevnega reda) 53</item>
+                        Slovenije za leto 1986 (7. točka dnevnega reda) <ref target="#pb.53"
+                           >53</ref></item>
                      <item n="11">Predlog za izdajo zakona o začasnem financiranju skupnih potreb z
-                        osnutkom zakona (8. točka dnevnega reda) 53<list>
+                        osnutkom zakona (8. točka dnevnega reda) <ref target="#pb.53">53</ref><list
+                           type="simple">
                            <head>GOVORNIKI:</head>
-                           <item>Danilo Arčan 54</item>
-                           <item>dr. Štefan Kous 55</item>
-                           <item>Vili Novak 56</item>
-                           <item>Zdenka Plausteiner 57</item>
-                           <item>Drago Cafnik 59</item>
-                           <item>Rudi Šepič 59</item>
+                           <item>Danilo Arčan <ref target="#pb.54">54</ref></item>
+                           <item>dr. Štefan Kous <ref target="#pb.55">55</ref></item>
+                           <item>Vili Novak <ref target="#pb.56">56</ref></item>
+                           <item>Zdenka Plausteiner <ref target="#pb.57">57</ref></item>
+                           <item>Drago Cafnik <ref target="#pb.59">59</ref></item>
+                           <item>Rudi Šepič <ref target="#pb.59">59</ref></item>
                         </list>
                      </item>
                      <item n="12">Osnutek zakona o Jugoslovanski banki za mednarodno ekonomsko
-                        sodelovanje(9. točka dnevnega reda) 61</item>
+                        sodelovanje(9. točka dnevnega reda) <ref target="#pb.61">61</ref></item>
                      <item n="13">Osnutek zakona (ESA 218 - strogo zaupno) (10. točka dnevnega reda)
-                        61</item>
+                           <ref target="#pb.61">61</ref></item>
                      <item n="14">Osnutek zakona o skupnem znesku sredstev za financiranje programa
                         priprav za tisk in tiskanje osnovne hidrogeološke karte Jugoslavije in
                         osnovne inženirsko-geološke karte Jugoslavije za obdobje 1988 – 2009 (11.
-                        točka dnevnega reda) 61</item>
+                        točka dnevnega reda) <ref target="#pb.61">61</ref></item>
                      <item n="15">Predlog zakona o ratifikaciji konvencije Mednarodne organizacije
                         dela št. 155 o varstvu pri delu, zdravstvenem varstvu in delovnem okolju
-                        (12. točka dnevnega reda) 62<list>
+                        (12. točka dnevnega reda) <ref target="#pb.62">62</ref><list type="simple">
                            <head>GOVORNIK:</head>
-                           <item>Janko Blas 62</item>
+                           <item>Janko Blas <ref target="#pb.62">62</ref></item>
                         </list>
                      </item>
                      <item n="16">Poročilo o delu Službe družbenega knjigovodstva v SR Sloveniji za
-                        leto 1986 (13. točka dnevnega reda) 63<list>
+                        leto 1986 (13. točka dnevnega reda) <ref target="#pb.63">63</ref><list
+                           type="simple">
                            <head>GOVORNIKA:</head>
-                           <item>Franc Knafelc 63</item>
+                           <item>Franc Knafelc <ref target="#pb.63">63</ref></item>
                            <pb n="I/4" xml:id="pb.I.4"/>
-                           <item>Vili Novak 67</item>
+                           <item>Vili Novak <ref target="#pb.67">67</ref></item>
                         </list>
                      </item>
-                     <item>17. Volitve in imenovanja(14. točka dnevnega reda) 68<list
-                           type="bulleted">
+                     <item>17. Volitve in imenovanja(14. točka dnevnega reda) <ref target="#pb.68"
+                           >68</ref><list type="bulleted">
                            <item n="-">predlog odloka o razrešitvi in izvolitvi člana Izvršnega
                               sveta Skupščine SR Slovenije ter o razrešitvi in imenovanju
-                              predsednika Republiškega komiteja za energetiko<list>
+                              predsednika Republiškega komiteja za energetiko<list type="simple">
                                  <head>GOVORNIKI:</head>
-                                 <item>Janez Bohorič 68</item>
-                                 <item>Branko Medik 70</item>
-                                 <item>Drago Cafnik 71</item>
-                                 <item>Ljubica Frančeškin 71</item>
+                                 <item>Janez Bohorič <ref target="#pb.68">68</ref></item>
+                                 <item>Branko Medik <ref target="#pb.70">70</ref></item>
+                                 <item>Drago Cafnik <ref target="#pb.71">71</ref></item>
+                                 <item>Ljubica Frančeškin <ref target="#pb.71">71</ref></item>
                               </list>
                            </item>
                            <item n="-">predlog odloka o imenovanju namestnice generalnega direktorja
-                              Službe družbenega knjigovodstva v SR Sloveniji 72</item>
+                              Službe družbenega knjigovodstva v SR Sloveniji <ref target="#pb.72"
+                                 >72</ref></item>
                            <item n="-">predlog odloka o izvolitvi dveh članov Upravnega odbora
-                              Sklada za pospeševanje upodabljajoče umetnosti Moša Pijade 72</item>
+                              Sklada za pospeševanje upodabljajoče umetnosti Moša Pijade <ref
+                                 target="#pb.72">72</ref></item>
                         </list>
                      </item>
-                     <item n="18">Pobude, predlogi in vprašanja delegatov (15. točka dnevnega reda) 73<list>
+                     <item n="18">Pobude, predlogi in vprašanja delegatov (15. točka dnevnega reda)
+                           <ref target="#pb.73">73</ref><list type="simple">
                            <head>GOVORNIKI:</head>
-                           <item>Neven Borak 73</item>
-                           <item>Nikolaj Miklič 76</item>
-                           <item>Anton Pengov 76</item>
-                           <item>Lili Kozinc 77</item>
-                           <item>Franc Gogala 78</item>
+                           <item>Neven Borak <ref target="#pb.73">73</ref></item>
+                           <item>Nikolaj Miklič <ref target="#pb.76">76</ref></item>
+                           <item>Anton Pengov <ref target="#pb.76">76</ref></item>
+                           <item>Lili Kozinc <ref target="#pb.77">77</ref></item>
+                           <item>Franc Gogala <ref target="#pb.78">78</ref></item>
                         </list>
                      </item>
                      <item n="19">Nadaljevanje razprave k predlogu družbenega dogovora o spremembah
                         in dopolnitvah družbenega dogovora o skupnih osnovah in merilih za
                         samoupravno urejanje odnosov pri pridobivanju in delitvi dohodka v SR
-                        Sloveniji (4. točka dnevnega reda) 78<list>
+                        Sloveniji (4. točka dnevnega reda) <ref target="#pb.78">78</ref><list
+                           type="simple">
                            <head>GOVORNIK:</head>
-                           <item>Leopold Zupan 78</item>
-                           <item>Leopold Zupan 79</item>
+                           <item>Leopold Zupan <ref target="#pb.78">78</ref></item>
+                           <item>Leopold Zupan <ref target="#pb.79">79</ref></item>
                         </list>
                      </item>
                      <item n="20">Seznam govornikov II/1</item>
@@ -528,13 +541,16 @@
                            glasov.</p>
                         <p>Iz pristojnosti Zbora republik in pokrajin Skupščine SFR Jugoslavije sem
                            predlagal naslednje razširitve predloga dnevnega reda:</p>
-                        <p>- z osnutkom zakona ESA 218 - strogo zaupno gradivo;</p>
-                        <p>- z osnutkom zakona o skupnem znesku sredstev za financiranje priprav za
-                           tisk in tiskanje osnovne hidrogeološke karte Jugoslavije in osnovne
-                           inženirsko-geološke karte Jugoslavije za obdobje 1988-2009 in</p>
-                        <p>- s predlogom zakona o ratifikaciji konvencije mednarodne organizacije
-                           dela številka 155 o varstvu pri delu, zdravstvenem varstvu in delovnem
-                           okolju.</p>
+                        <list type="bulleted">
+                           <item n="-">z osnutkom zakona ESA 218 - strogo zaupno gradivo;</item>
+                           <item n="-">z osnutkom zakona o skupnem znesku sredstev za financiranje
+                              priprav za tisk in tiskanje osnovne hidrogeološke karte Jugoslavije in
+                              osnovne inženirsko-geološke karte Jugoslavije za obdobje 1988-2009
+                              in</item>
+                           <item n="-">s predlogom zakona o ratifikaciji konvencije mednarodne
+                              organizacije dela številka 155 o varstvu pri delu, zdravstvenem
+                              varstvu in delovnem okolju.</item>
+                        </list>
                         <p>Razlogi za predlagano razširitev so bili navedeni v spremnih pismih in
                            obrazložitvah k zakonom.</p>
                         <p>Pričenjam razpravo. Želi o teh zveznih razširitvah kdo razpravljati?
@@ -583,8 +599,12 @@
                            socialistične mladine Slovenije in amandmaji Pedagoškega instituta.</p>
                         <p>Ocenili smo, da s sprejemom zakona ni potrebno pohiteti, zato
                            predlagamo:</p>
-                        <p>1. Da se predlog zakona umakne z dnevnega reda današnje seje.</p>
-                        <p>2. Da predlagatelj znova prouči dileme, ki so se pojavile.</p>
+                        <list type="ordered">
+                           <item n="1">Da se predlog zakona umakne z dnevnega reda današnje
+                              seje.</item>
+                           <item n="2">Da predlagatelj znova prouči dileme, ki so se
+                              pojavile.</item>
+                        </list>
                      </sp>
                      <sp who="#sp.DvojmočValentin">
                         <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
@@ -1235,25 +1255,28 @@
                            nastaja nevarnost za normalno oskrbo prebivalstva, še posebej glede na
                            bližajočo turistično sezono.</p>
                         <p>Naša ocena temelji predvsem na naslednjih dejstvih:</p>
-                        <p>1. Tržna prireja govejega in svinjskega mesa ter mleka se je v
-                           Jugoslaviji v zadnjih treh letih močno zmanjšala. V Sloveniji se sicer
-                           ohranja na isti ravni, močno pa zaostaja za sprejetim planom. Stalnemu
-                           upadanju števila goveje živine v Jugoslaviji se je lani pridružila tudi
-                           naša republika.</p>
-                        <p>2. Čeprav so odkupne cene kmetijskih pridelkov v načelu proste, so cene
-                           mesa in mleka še vedno pod družbeno kontrolo cen osnovnih živilskih
-                           proizvodov. To administrativno zadrževanje<pb n="17" xml:id="pb.17"/>
-                           maloprodajnih cen osnovnim živilom sicer ohranja socialni mir, pomaga
-                           vzdrževati življenjski standard večini prebivalstva, vendar na račun
-                           manjšega dela kmečkega prebivalstva - v Sloveniji je kmetov le še 9,2%.
-                           Takšna ugotovitev izhaja predvsem iz dejstva, da zaradi hitrejšega
-                           naraščanja cen vhodnih reprodukcijskih materialov kmetijskih proizvodov
-                           in zaradi počasnejše rasti cen kmetijskih pridelkov prihaja do velikih
-                           disparitet. Tako se v januarju 1987 tehnološko najnaprednejši kmetijski
-                           proizvajalci z veljavno odkupno ceno, povečano za vse oblike stimulacij,
-                           ki jih ima Slovenija, krili komaj 77% proizvodne cene mleka in le 65%
-                           proizvodne cene prirastka govejega mesa. V farmski reji so te razmere še
-                           nekoliko slabše.</p>
+                        <list type="ordered">
+                           <item n="1">Tržna prireja govejega in svinjskega mesa ter mleka se je v
+                              Jugoslaviji v zadnjih treh letih močno zmanjšala. V Sloveniji se sicer
+                              ohranja na isti ravni, močno pa zaostaja za sprejetim planom. Stalnemu
+                              upadanju števila goveje živine v Jugoslaviji se je lani pridružila
+                              tudi naša republika.</item>
+                           <item n="2">Čeprav so odkupne cene kmetijskih pridelkov v načelu proste,
+                              so cene mesa in mleka še vedno pod družbeno kontrolo cen osnovnih
+                              živilskih proizvodov. To administrativno zadrževanje<pb n="17"
+                                 xml:id="pb.17"/> maloprodajnih cen osnovnim živilom sicer ohranja
+                              socialni mir, pomaga vzdrževati življenjski standard večini
+                              prebivalstva, vendar na račun manjšega dela kmečkega prebivalstva - v
+                              Sloveniji je kmetov le še 9,2%. Takšna ugotovitev izhaja predvsem iz
+                              dejstva, da zaradi hitrejšega naraščanja cen vhodnih reprodukcijskih
+                              materialov kmetijskih proizvodov in zaradi počasnejše rasti cen
+                              kmetijskih pridelkov prihaja do velikih disparitet. Tako se v januarju
+                              1987 tehnološko najnaprednejši kmetijski proizvajalci z veljavno
+                              odkupno ceno, povečano za vse oblike stimulacij, ki jih ima Slovenija,
+                              krili komaj 77% proizvodne cene mleka in le 65% proizvodne cene
+                              prirastka govejega mesa. V farmski reji so te razmere še nekoliko
+                              slabše.</item>
+                        </list>
                         <p>To neusklajeno gibanje cen se kaže v zaključnih računih družbenih
                            kmetijskih organizacij oziroma v njihovem ekonomskem položaju. Do leta
                            1983 se je ekonomski položaj kmetijstva izboljševal, po tem letu pa so se
@@ -1296,21 +1319,25 @@
                            proizvajalcem. V kolikor pa to ne<pb n="18" xml:id="pb.18"/> bo
                            zagotovljeno s cenami, se je potrebno odločiti za dodatne kompenzacije. V
                            zvezi s tem tudi predlagam naslednje.</p>
-                        <p>1. Predložena stališča naj se dopolnijo v odstavku, ki to izpušča, da se
-                           dopolni z naslednjim besedilom: "ob morebitni nerealizaciji skozi cenovno
-                           politiko naj se uvede v skladu s 15. točko zvezne resolucije kompenzacija
-                           za izpadli dohodek."</p>
-                        <p>2. V obdobju visoke inflacije naj se sprotno spremlja in se tekoče
-                           najmanj na dva meseca usklajuje cene kmetijskih pridelkov.</p>
-                        <p>3. Zagotovijo naj se za primerna investicijska sredstva za nadaljnji
-                           razvoj kmetijstva.</p>
-                        <p>4. Zveznemu izvršnemu svetu predlagamo, da zmanjša oziroma preneha s
-                           politiko uvoza tiste hrane, ki jo lahko pridelamo v Jugoslaviji, predvsem
-                           zaradi tega, ker z nepremišljenim uvozom mesa in mleka onemogočamo
-                           nadaljnji razvoj živinoreje v Sloveniji.</p>
-                        <p>5. Izvršni svet Skupščine SR Slovenije naj verificira metodologijo
-                           izračunavanja proizvodnih stroškov, ki jo je predložil kmetijski institut
-                           v zvezi z uveljavljanjem ekonomskega položaja rejcev. Hvala lepa.</p>
+                        <list type="ordered">
+                           <item n="1">Predložena stališča naj se dopolnijo v odstavku, ki to
+                              izpušča, da se dopolni z naslednjim besedilom: "ob morebitni
+                              nerealizaciji skozi cenovno politiko naj se uvede v skladu s 15. točko
+                              zvezne resolucije kompenzacija za izpadli dohodek."</item>
+                           <item n="2">V obdobju visoke inflacije naj se sprotno spremlja in se
+                              tekoče najmanj na dva meseca usklajuje cene kmetijskih
+                              pridelkov.</item>
+                           <item n="3">Zagotovijo naj se za primerna investicijska sredstva za
+                              nadaljnji razvoj kmetijstva.</item>
+                           <item n="4">Zveznemu izvršnemu svetu predlagamo, da zmanjša oziroma
+                              preneha s politiko uvoza tiste hrane, ki jo lahko pridelamo v
+                              Jugoslaviji, predvsem zaradi tega, ker z nepremišljenim uvozom mesa in
+                              mleka onemogočamo nadaljnji razvoj živinoreje v Sloveniji.</item>
+                           <item n="5">Izvršni svet Skupščine SR Slovenije naj verificira
+                              metodologijo izračunavanja proizvodnih stroškov, ki jo je predložil
+                              kmetijski institut v zvezi z uveljavljanjem ekonomskega položaja
+                              rejcev. Hvala lepa.</item>
+                        </list>
                      </sp>
                      <sp who="#sp.DvojmočValentin">
                         <speaker>PREDSEDNIKVALENTINDVOJMOČ:</speaker>
@@ -1480,23 +1507,26 @@
                            Skupščine SR Slovenije je podrobno obravnavala informacijo o tekočih
                            gospodarskih gibanjih in želi prenesti skupščini zahteve, ki jih
                            poudarjeno izraža združeno delo na njenem območju.</p>
-                        <p>1. Zahtevamo stabilnejše pogoje gospodarjenja, ki nas bodo v praksi
-                           spodbujali k učinkovitejšemu gospodarjenju ob postopnem izvajanju
-                           stabilizacijskega programa. Ne sprejemajmo na hitro sprejetih,
-                           pomanjkljivih, v praksi nepreverjenih ukrepov!</p>
-                        <p>2. Zahtevamo, da se dosledno upoštevajo družbene usmeritve in
-                           resolucijski cilji glede izvoza in dohodkovne motiviranosti izvoznikov na
-                           konvertibilna tržišča. V nasprotnem primeru doleti kaznovanje z vsemi
-                           posledicami, izraženimi v dohodku.</p>
-                        <p>3. Omenjamo še oceno, da so posledice intervencijskega zakona o osebnih
-                           dohodkih in nerešeni položaj izvoznikov pripeljali do tega, da se
-                           začrtanih izvoznih ciljev, ki so opredeljeni v letošnjih planih, ne bo
-                           uresničevalo.</p>
-                        <p>4. Posebej je kritična situacija pri oskrbi z neenergetskimi naftnimi
-                           derivati - to je z aromatskimi topili, ki jih potrebujejo kot nujni
-                           reprodukcijski material pri proizvodnji članice SOZD-a Kemije, in sicer:
-                           Helios, Kolor, Donit in Melamin ter druge organizacije združenega dela,
-                           kot so na primer: Aero, Cinkarna, Pinus in Sava.</p>
+                        <list type="ordered">
+                           <item n="1">Zahtevamo stabilnejše pogoje gospodarjenja, ki nas bodo v
+                              praksi spodbujali k učinkovitejšemu gospodarjenju ob postopnem
+                              izvajanju stabilizacijskega programa. Ne sprejemajmo na hitro
+                              sprejetih, pomanjkljivih, v praksi nepreverjenih ukrepov!</item>
+                           <item n="2">Zahtevamo, da se dosledno upoštevajo družbene usmeritve in
+                              resolucijski cilji glede izvoza in dohodkovne motiviranosti izvoznikov
+                              na konvertibilna tržišča. V nasprotnem primeru doleti kaznovanje z
+                              vsemi posledicami, izraženimi v dohodku.</item>
+                           <item n="3">Omenjamo še oceno, da so posledice intervencijskega zakona o
+                              osebnih dohodkih in nerešeni položaj izvoznikov pripeljali do tega, da
+                              se začrtanih izvoznih ciljev, ki so opredeljeni v letošnjih planih, ne
+                              bo uresničevalo.</item>
+                           <item n="4">Posebej je kritična situacija pri oskrbi z neenergetskimi
+                              naftnimi derivati - to je z aromatskimi topili, ki jih potrebujejo kot
+                              nujni reprodukcijski material pri proizvodnji članice SOZD-a Kemije,
+                              in sicer: Helios, Kolor, Donit in Melamin ter druge organizacije
+                              združenega dela, kot so na primer: Aero, Cinkarna, Pinus in
+                              Sava.</item>
+                        </list>
                         <p>Tovarne slovenske kemijske industrije oskrbujejo s svojimi izdelki kot
                            nujno potrebnimi reprodukcijskimi materiali številne izvozno usmerjene
                            organizacije združenega dela lesne, kovinske in elektro panoge.</p>
@@ -1557,16 +1587,18 @@
                            najemanja premostitvenih kreditov.</p>
                         <p>Predlagamo, da Skupščina SR Slovenije sprejme naslednje sklepe in
                            usmeritve:</p>
-                        <p>1. Zvezni izvršni svet naj nemudoma da soglasje k skupnim merilom za
-                           oblikovanje cen železniških storitev in tako zagotovi ekonomska načela
-                           reprodukcije na železnici.</p>
-                        <p>2. Slovenske prometne organizacije velik del prihodka ustvarjajo z
-                           izvozom storitev, ta pa ni izenačen z izvozom blaga najvišje stopnje
-                           predelave, zato večina prometnih organizacij ne prejema stimulacij za
-                           izvoz, kar je mednarodni promet dohodkovno močno destimuliralo, same
-                           organizacije pa materialno osiromašilo. Ob tem se pojavljajo mnoge
-                           administrativne omejitve, ki zavirajo razvoj mednarodnega prometa. Naj to
-                           ponazorim z naslednjim nesmislom.</p>
+                        <list type="ordered">
+                           <item n="1">Zvezni izvršni svet naj nemudoma da soglasje k skupnim
+                              merilom za oblikovanje cen železniških storitev in tako zagotovi
+                              ekonomska načela reprodukcije na železnici.</item>
+                           <item n="2">Slovenske prometne organizacije velik del prihodka ustvarjajo
+                              z izvozom storitev, ta pa ni izenačen z izvozom blaga najvišje stopnje
+                              predelave, zato večina prometnih organizacij ne prejema stimulacij za
+                              izvoz, kar je mednarodni promet dohodkovno močno destimuliralo, same
+                              organizacije pa materialno osiromašilo. Ob tem se pojavljajo mnoge
+                              administrativne omejitve, ki zavirajo razvoj mednarodnega prometa. Naj
+                              to ponazorim z naslednjim nesmislom.</item>
+                        </list>
                         <p>V spisku uslug visoke stopnje obdelave je zakonodajalec določil, da se po
                            osnovni stopnji - 6% - spodbuja storitev v železniškem, pomorskem,
                            zračnem, rečnem in cestnem prometu.</p>
@@ -2041,22 +2073,25 @@
                            sprejela z namenom, da se zagotovi del stroškov za pokrivanje enostavne
                            reprodukcije elektrogospodarstva in premogovništva, naslednje izredne
                            ukrepe:</p>
-                        <p>1. Da se predčasno - to je s 15. majem 1987 - uvedejo višje sezonske
-                           tarifne postavke, veljavne na dan 31. marca 1987, ki se uporabljajo do
-                           30. septembra 1987, če v tem času cene električne energije po odlokih
-                           Zveznega izvršnega sveta ali po skupnih elementih ne bodo dosegle te
-                           ravni. Pri tem podražitev električne energije, ki jo je sprejel Zvezni
-                           izvršni svet 8. aprila 1987, ostane v veljavi, vendar se med izvajanjem
-                           tega ukrepa ne uporablja, razen za združevanje sredstev za razvoj
-                           elektrogospodarstva in premogovništva.</p>
-                        <p>2. Za delno pokritje stroškov pridobivanja premoga za industrijo in
-                           široko porabo naj se uporabi del sredstev, ki se zbirajo od teh
-                           uporabnikov za razširjeno reprodukcijo s tem, da se od 15. maja 1987
-                           spremeni dosedanja višina prispevka 1000 din po toni premoga na 20% od
-                           fakturiranega zneska za dobavljeni premog negospodarskim organizacijam
-                           združenega dela in široki<pb n="33" xml:id="pb.33"/> porabi. S tem bi se
-                           izenačilo obveznosti teh uporabnikov z obveznostmi organizacij združenega
-                           dela gospodarstva.</p>
+                        <list type="ordered">
+                           <item n="1">Da se predčasno - to je s 15. majem 1987 - uvedejo višje
+                              sezonske tarifne postavke, veljavne na dan 31. marca 1987, ki se
+                              uporabljajo do 30. septembra 1987, če v tem času cene električne
+                              energije po odlokih Zveznega izvršnega sveta ali po skupnih elementih
+                              ne bodo dosegle te ravni. Pri tem podražitev električne energije, ki
+                              jo je sprejel Zvezni izvršni svet 8. aprila 1987, ostane v veljavi,
+                              vendar se med izvajanjem tega ukrepa ne uporablja, razen za
+                              združevanje sredstev za razvoj elektrogospodarstva in
+                              premogovništva.</item>
+                           <item n="2">Za delno pokritje stroškov pridobivanja premoga za industrijo
+                              in široko porabo naj se uporabi del sredstev, ki se zbirajo od teh
+                              uporabnikov za razširjeno reprodukcijo s tem, da se od 15. maja 1987
+                              spremeni dosedanja višina prispevka 1000 din po toni premoga na 20% od
+                              fakturiranega zneska za dobavljeni premog negospodarskim organizacijam
+                              združenega dela in široki<pb n="33" xml:id="pb.33"/> porabi. S tem bi
+                              se izenačilo obveznosti teh uporabnikov z obveznostmi organizacij
+                              združenega dela gospodarstva.</item>
+                        </list>
                         <p>Menimo, da sprejeti ukrepi enakomerno obremenjujejo uporabnike glede na
                            porabljeno energijo in tako zagotavljajo enakopraven položaj. Dosežemo pa
                            tudi, da bi bil vir za plačilo pri uporabnikih družbenih sredstev
@@ -2536,13 +2571,13 @@
                            upoštevajo tiste pripombe ZSM Slovenije, ki ne pomenijo odstopanja od
                            koncepta zakona, vsebinsko pa povzemajo tudi amandmaje Izobraževalne
                            skupnosti Slovenije k 19. členu.</p>
-                        <p>Delegati so bili seznanjeni tudi z amandmajem Zakonodajno</p>
-                        <p>-pravne komisije k 25. členu. Skupina delegatov je podprla vse amandmaje
-                           in predlaga delegatom zborov in skupščini Izobraževalne skupnosti
-                           Slovenije, da predlog zakona s predloženimi amandmaji sprejmejo. Seveda
-                           pa se o nekaterih, še vedno odprtih vprašanjih, razpravlja tudi ob
-                           spremembah zakona o usmerjenem izobraževanju. To pa pomeni, da bodo te
-                           rešitve lahko - v kolikor bodo podprte - sprejete tudi v tem zakonu.</p>
+                        <p>Delegati so bili seznanjeni tudi z amandmajem Zakonodajno-pravne komisije
+                           k 25. členu. Skupina delegatov je podprla vse amandmaje in predlaga
+                           delegatom zborov in skupščini Izobraževalne skupnosti Slovenije, da
+                           predlog zakona s predloženimi amandmaji sprejmejo. Seveda pa se o
+                           nekaterih, še vedno odprtih vprašanjih, razpravlja tudi ob spremembah
+                           zakona o usmerjenem izobraževanju. To pa pomeni, da bodo te rešitve lahko
+                           - v kolikor bodo podprte - sprejete tudi v tem zakonu.</p>
                         <p>Prav tako bi želel delegate seznaniti, da je predstavnik ZSM Slovenije po
                            usklajevanju na današnji skupni seji soglašal s takim načinom in tudi
                            sprejemom zakona s predloženimi amandmaji.</p>
@@ -2800,15 +2835,17 @@
                         <p>Ugotavljam, da je predlagani sklep sprejet z večino glasov.</p>
                         <p>Glede osnutka zakona o skupnih finančnih organizacijah predlagam zboru,
                            da sprejme naslednji sklep:</p>
-                        <p>1. Zbor združenega dela Skupščine SR Slovenije se je seznanil s poročilom
-                           delegacije Skupščine SR Slovenije v Zboru republik in pokrajin Skupščine
-                           SFRJ o poteku usklajevanja osnutka zakona o skupnih finančnih
-                           organizacijah.</p>
-                        <p>2. Zbor pooblašča svojo delegacijo v Zboru republik in</p>
-                        <p>Pokrajin Skupščine SFRJ, da da soglasje k predlogu zakona o Skupnih
-                           bankah - prvotni naslov zakona o skupnih finančnih<pb n="48"
-                              xml:id="pb.48"/> organizacijah - v skladu z določilom drugega odstavka
-                           300. člena ustave SFRJ.</p>
+                        <list type="ordered">
+                           <item n="1">Zbor združenega dela Skupščine SR Slovenije se je seznanil s
+                              poročilom delegacije Skupščine SR Slovenije v Zboru republik in
+                              pokrajin Skupščine SFRJ o poteku usklajevanja osnutka zakona o skupnih
+                              finančnih organizacijah.</item>
+                           <item n="2">Zbor pooblašča svojo delegacijo v Zboru republik in Pokrajin
+                              Skupščine SFRJ, da da soglasje k predlogu zakona o Skupnih bankah -
+                              prvotni naslov zakona o skupnih finančnih<pb n="48" xml:id="pb.48"/>
+                              organizacijah - v skladu z določilom drugega odstavka 300. člena
+                              ustave SFRJ.</item>
+                        </list>
                         <p>Ali želi kdo o tem razpravljati? (Ne želi. ) Prehajamo na glasovanje.</p>
                         <p>Kdo je za ta sklep? (115 delegatov.) Je kdo proti? (3 delegati.)
                            Vzdržani? (6 delegatov.)</p>
@@ -2816,22 +2853,26 @@
                         <p>Glede osnutka odloka o spremembah in dopolnitvah odloka o predračunu
                            prihodkov in odhodkov tečajnih razlik iz določenih zunanjih kreditov za
                            leto 1987 pa zboru predlagam, da sprejme naslednji sklep:</p>
-                        <p>1. Skupščina SR Slovenije daje soglasje k osnutku odloka o spremembah in
-                           dopolnitvah odloka o predračunu prihodkov in odhodkov tečajnih razlik iz
-                           določenih zunanjih kreditov za leto 1987, ki ga je Skupščini SR Slovenije
-                           predložila Skupščina SFRJ dne 4. februarja 1987.</p>
-                        <p>2. Skupščina SR Slovenije podpira stališče Zveznega</p>
-                        <p>izvršnega sveta z dne 26. marca, s katerim se od povečanega obsega
-                           sredstev za 10,46 milijarde dinarjev ta sredstva ne zagotavljajo
-                           izključno s kotizacijo socialističnih republik in avtonomnih pokrajin,
-                           zagotavlja le 4,76 milijarde dinarjev, ostala sredstva povečanega obsega
-                           sredstev pa se zagotavljajo iz izvirnih prihodkov federacije.</p>
-                        <p>3. Skupščina SR Slovenije pooblašča svojo delegacijo v Zboru republik in
-                           pokrajin Skupščine SFRJ, da v postopku usklajevanja uveljavlja navedeno
-                           stališče in da po končanem usklajevalnem postopku da soglasje k predlogu
-                           odloka o spremembah in dopolnitvah odloka o predračunu prihodkov in
-                           odhodkov tečajnih razlik iz določenih zunanjih kreditov za leto 1987 v
-                           skladu z drugim odstavkom 300. člena ustave SFRJ.</p>
+                        <list type="ordered">
+                           <item n="1">Skupščina SR Slovenije daje soglasje k osnutku odloka o
+                              spremembah in dopolnitvah odloka o predračunu prihodkov in odhodkov
+                              tečajnih razlik iz določenih zunanjih kreditov za leto 1987, ki ga je
+                              Skupščini SR Slovenije predložila Skupščina SFRJ dne 4. februarja
+                              1987.</item>
+                           <item n="2">Skupščina SR Slovenije podpira stališče Zveznega izvršnega
+                              sveta z dne 26. marca, s katerim se od povečanega obsega sredstev za
+                              10,46 milijarde dinarjev ta sredstva ne zagotavljajo izključno s
+                              kotizacijo socialističnih republik in avtonomnih pokrajin, zagotavlja
+                              le 4,76 milijarde dinarjev, ostala sredstva povečanega obsega sredstev
+                              pa se zagotavljajo iz izvirnih prihodkov federacije.</item>
+                           <item n="3">Skupščina SR Slovenije pooblašča svojo delegacijo v Zboru
+                              republik in pokrajin Skupščine SFRJ, da v postopku usklajevanja
+                              uveljavlja navedeno stališče in da po končanem usklajevalnem postopku
+                              da soglasje k predlogu odloka o spremembah in dopolnitvah odloka o
+                              predračunu prihodkov in odhodkov tečajnih razlik iz določenih zunanjih
+                              kreditov za leto 1987 v skladu z drugim odstavkom 300. člena ustave
+                              SFRJ.</item>
+                        </list>
                         <p>Ali želi kdo o tem razpravljati? (Ne želi. ) Prehajamo na glasovanje.</p>
                         <p>Kdo je za ta sklep? (118 delegatov.) Je kdo proti? (6 delegatov.)
                            Vzdržani? (3 delegati.)</p>
@@ -2966,62 +3007,67 @@
                         <p>Tovariš predsednik, tovarišice in tovariši delegati! V imenu skupine
                            delegatov iz 11. okoliša, to je Vrhnika in Logatec, bi dal predlog, in
                            sicer:</p>
-                        <p>1. Delitev osebnih dohodkov na dva dela - bruto osebni dohodek na podlagi
-                           živega dela in bruto osebni dohodek na podlagi rezultatov opravljanja in
-                           gospodarjenja z družbenimi sredstvi - vsebinsko ni utemeljena. Razlika je
-                           v tem, da organizacije združenega dela delijo osebne dohodke v mesecih
-                           med dvema obračunoma poslovanja, ko praviloma nimajo vseh podatkov o
-                           rezultatih poslovanja: dohodek, akumulacija, primerjalni podatki za
-                           podskupine dejavnosti in tako dalje. Po periodičnem obračunu in na
-                           podlagi doseženih rezultatov pa ugotovijo dovoljeno višino sredstev za
-                           bruto osebne dohodke za obravnavano obdobje in temu ustrezno naredijo
-                           proračun, kar je do zaključnega računa še akontacija. Ne glede na
-                           sprejeto formulacijo o dvojnosti osebnih dohodkov bi bilo potrebno, da se
-                           v družbenem dogovoru opredeli, da organizacije združenega dela v svojih
-                           aktih določijo merila za delitev osebnih dohodkov v mesecih med obračuni
-                           poslovanja.</p>
-                        <p>2. Uporabo kriterija delovne dobe, ki je omenjena v 21. členu predloga
-                           sprememb in dopolnitev družbenega dogovora, bi moral družbeni dogovor
-                           natančneje določiti. Oblikovati bi morali tudi jasno stališče glede
-                           kriterija stalnosti, ki se uporabljajo v številnih organizacijah
-                           združenega dela. Ocenjujemo, da so se razlike pri uporabi teh dveh
-                           kriterijev, ko so se spremenili akti s področja delitve za osebne dohodke
-                           na podlagi sporazumov o dejavnosti, še povečale ter so neupravičene. Zato
-                           menimo, da bi moral družbeni dogovor natančno določiti uporabo obeh
-                           kriterijev.</p>
-                        <p>3. V 29. členu bi morali določiti, da se rast osebnega dohodka delavcev v
-                           negospodarstvu mesečno usklajuje z rastjo osebnega dohodka v
-                           gospodarstvu. S sprotnim usklajevanjem rasti osebnega dohodka
-                           gospodarstva in negospodarstva bi dosegli, da bi se sredstva za osebne
-                           dohodke na podlagi rezultatov opravljenega dela in gospodarjenja v
-                           negospodarstvu oblikovala po povprečju gospodarstva, ne da bi to
-                           povprečje posebej ugotavljali.</p>
-                        <p>4. Predlagamo, da se prva alinéa prvega odstavka in drugi odstavek 30.
-                           člena črtata. Menimo, da kot osnova za zagotavljanje prispevka delavca k
-                           skupnim rezultatom upravljanja in gospodarjenja zadošča osebni dohodek,
-                           ki ga je delavec prejel za tekoče delo v določenem obračunskem obdobju.
-                           Osebni dohodek delavcev v preteklih letih je sicer smiselno osnova,
-                           vendar je v praksi težko izvedljiva tudi zaradi prehoda delavcev v druge
-                           organizacije združenega dela.</p>
-                        <p>Nadomestilo osebnega dohodka delavcem, ki jim je opešala zmožnost za
-                           delo, bi morale zagotoviti organizacije tudi za tekoče delo. Če so osebni
-                           dohodki za tekoča dela osnova za delitev osebnega dohodka na podlagi
-                           rezultatov upravljanja in gospodarjenja, in če bi pri tej osnovi
-                           upoštevali tudi navedeno nadomestilo, bi dosegli, da bi delavci, ki jim
-                           je delovna zmožnost upešala, prejeli ustrezni znesek osebnega dohodka na
-                           podlagi rezultatov upravljanja.</p>
-                        <pb n="52" xml:id="pb.52"/>
-                        <p>5. Predlagamo, da se v 36. in 38. členu vloga in naloga občinskih odborov
-                           natančneje opredeli, prav tako naj se določi, kdo odbor imenuje. V
-                           primeru ugotovljenih neskladij pri planiranju in razporejanju dohodka ter
-                           čistega dohodka odbor obvesti organizacijo združenega dela, izvršni svet,
-                           družbenega pravobranilca samoupravljanja in družbenopolitične
-                           organizacije v občini.</p>
-                        <p>6. Predlagamo, da ostaneta 27. člen in dogovorjeni razpon osebnega
-                           dohodka v SR Sloveniji 1 proti 6 veljavnega dogovora o skupnih osnovah in
-                           merilih tudi v spremenjenem družbenem dogovoru. Prav tako bi morali
-                           nadaljevati izdelavo družbenega kataloga del oziroma nalog v SR
-                           Sloveniji.</p>
+                        <list type="ordered">
+                           <item n="1">Delitev osebnih dohodkov na dva dela - bruto osebni dohodek
+                              na podlagi živega dela in bruto osebni dohodek na podlagi rezultatov
+                              opravljanja in gospodarjenja z družbenimi sredstvi - vsebinsko ni
+                              utemeljena. Razlika je v tem, da organizacije združenega dela delijo
+                              osebne dohodke v mesecih med dvema obračunoma poslovanja, ko praviloma
+                              nimajo vseh podatkov o rezultatih poslovanja: dohodek, akumulacija,
+                              primerjalni podatki za podskupine dejavnosti in tako dalje. Po
+                              periodičnem obračunu in na podlagi doseženih rezultatov pa ugotovijo
+                              dovoljeno višino sredstev za bruto osebne dohodke za obravnavano
+                              obdobje in temu ustrezno naredijo proračun, kar je do zaključnega
+                              računa še akontacija. Ne glede na sprejeto formulacijo o dvojnosti
+                              osebnih dohodkov bi bilo potrebno, da se v družbenem dogovoru
+                              opredeli, da organizacije združenega dela v svojih aktih določijo
+                              merila za delitev osebnih dohodkov v mesecih med obračuni
+                              poslovanja.</item>
+                           <item n="2">Uporabo kriterija delovne dobe, ki je omenjena v 21. členu
+                              predloga sprememb in dopolnitev družbenega dogovora, bi moral družbeni
+                              dogovor natančneje določiti. Oblikovati bi morali tudi jasno stališče
+                              glede kriterija stalnosti, ki se uporabljajo v številnih organizacijah
+                              združenega dela. Ocenjujemo, da so se razlike pri uporabi teh dveh
+                              kriterijev, ko so se spremenili akti s področja delitve za osebne
+                              dohodke na podlagi sporazumov o dejavnosti, še povečale ter so
+                              neupravičene. Zato menimo, da bi moral družbeni dogovor natančno
+                              določiti uporabo obeh kriterijev.</item>
+                           <item n="3">V 29. členu bi morali določiti, da se rast osebnega dohodka
+                              delavcev v negospodarstvu mesečno usklajuje z rastjo osebnega dohodka
+                              v gospodarstvu. S sprotnim usklajevanjem rasti osebnega dohodka
+                              gospodarstva in negospodarstva bi dosegli, da bi se sredstva za osebne
+                              dohodke na podlagi rezultatov opravljenega dela in gospodarjenja v
+                              negospodarstvu oblikovala po povprečju gospodarstva, ne da bi to
+                              povprečje posebej ugotavljali.</item>
+                           <item n="4">
+                              <p>Predlagamo, da se prva alinéa prvega odstavka in drugi odstavek 30.
+                                 člena črtata. Menimo, da kot osnova za zagotavljanje prispevka
+                                 delavca k skupnim rezultatom upravljanja in gospodarjenja zadošča
+                                 osebni dohodek, ki ga je delavec prejel za tekoče delo v določenem
+                                 obračunskem obdobju. Osebni dohodek delavcev v preteklih letih je
+                                 sicer smiselno osnova, vendar je v praksi težko izvedljiva tudi
+                                 zaradi prehoda delavcev v druge organizacije združenega dela.</p>
+                              <p>Nadomestilo osebnega dohodka delavcem, ki jim je opešala zmožnost
+                                 za delo, bi morale zagotoviti organizacije tudi za tekoče delo. Če
+                                 so osebni dohodki za tekoča dela osnova za delitev osebnega dohodka
+                                 na podlagi rezultatov upravljanja in gospodarjenja, in če bi pri
+                                 tej osnovi upoštevali tudi navedeno nadomestilo, bi dosegli, da bi
+                                 delavci, ki jim je delovna zmožnost upešala, prejeli ustrezni
+                                 znesek osebnega dohodka na podlagi rezultatov upravljanja.</p>
+                           </item>
+                           <pb n="52" xml:id="pb.52"/>
+                           <item n="5">Predlagamo, da se v 36. in 38. členu vloga in naloga
+                              občinskih odborov natančneje opredeli, prav tako naj se določi, kdo
+                              odbor imenuje. V primeru ugotovljenih neskladij pri planiranju in
+                              razporejanju dohodka ter čistega dohodka odbor obvesti organizacijo
+                              združenega dela, izvršni svet, družbenega pravobranilca
+                              samoupravljanja in družbenopolitične organizacije v občini.</item>
+                           <item n="6">Predlagamo, da ostaneta 27. člen in dogovorjeni razpon
+                              osebnega dohodka v SR Sloveniji 1 proti 6 veljavnega dogovora o
+                              skupnih osnovah in merilih tudi v spremenjenem družbenem dogovoru.
+                              Prav tako bi morali nadaljevati izdelavo družbenega kataloga del
+                              oziroma nalog v SR Sloveniji.</item>
+                        </list>
                      </sp>
                      <sp who="#sp.DvojmočValentin">
                         <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
@@ -3185,54 +3231,62 @@
                            zboru Skupščine SR Slovenije je na seji 17. aprila 1987 obravnavala
                            osnutek zakona o začasnem financiranju skupnih potreb v SR Sloveniji in
                            sprejela naslednje pripombe in predloge:</p>
-                        <p>1. Predlagamo, da se za občinsko skupnost za zaposlovanje določi kot vir
-                           financiranja bruto osebni dohodek tako za pravice in zavarovanje za
-                           primer brezposelnosti kot tudi za izvajanje programov skupnosti za
-                           zaposlovanje, torej v celoti v 2. členu zakona. Delitev virov prihodkov
-                           skupnosti na dva dela bi povzročila mnogo praktičnih problemov pri
-                           izračunavanju obeh deležev in tudi neenotna tolmačenja. To je povezano z
-                           morebitnim solidarnostnim združevanjem na ravni republike, če bi izpadli
-                           viri prihodkov, pri tem pa verjetno ne bo enotnosti in doslednosti.
-                           Prišlo bi tudi do prelivanja sredstev.</p>
-                        <p>2. V zvezi s še nerešenim pojmovnim vprašanjem zdravstvenega varstva –
-                           osnovne zagotovljene pravice - predlagamo, da se sprejme enotni pojem
-                           zdravstvo. Zdravstvena dejavnost je kompleksna, med seboj močno povezana
-                           dejavnost posebnega družbenega pomena, pa naj gre za nudenje prve,
-                           osnovne zdravstvene pomoči ali nadaljnje faze zdravljenja, vključno s
-                           preskrbo zdravil. Zagotovljene pravice do zdravstvenega varstva se prav
-                           tako uveljavljajo v zdravstvenih domovih, v bolnišnicah in v drugih
-                           enotah zdravstvene dejavnosti. Zato bi pomenila delitev financiranja na
-                           zagotovljene in dopolnilne pravice v praksi nerešljive probleme.</p>
-                        <p>3. V zvezi s financiranjem zdravstva tudi predlagamo, da se odgovorno
-                           prouči možnost enotnega financiranja na ravni SR Slovenije kot enotne
-                           rizične skupnosti. Pravica do ustreznega zdravstvenega varstva mora biti
-                           enako uresničljiva na vsem območju Slovenije, ne pa, da je odvisna od
-                           trenutne družbene ekonomske moči občine, ki jo lahko bistveno spremenijo
-                           že slučajni vplivi, na primer izguba v največji delovni organizaciji
-                           občine. Tako se dogaja, da normativno sicer izenačene pravice ostajajo le
-                           v mejah deklarativnosti.</p>
-                        <p>Sedanji in tudi bodoči solidarnostni sistem bi se po vsej verjetnosti
-                           tudi ne mogel uresničiti.</p>
-                        <p>4. Predlagamo, da se v 14. členu taksativno navedejo občinske samoupravne
-                           interesne skupnosti, ki bi solidarnostno združevale sredstva na ravni
-                           republike, in da se določi odstotek in obračunska osnova. Predlagamo, da
-                           so osnova za izračun izvirni prihodki občinske samoupravne interesne
-                           skupnosti. S tem bi<pb n="56" xml:id="pb.56"/> povečali enotnost in
-                           doslednost funkcioniranja solidarnostnega sistema.</p>
-                        <p>5. Pogoj iz prve alinee drugega odstavka 14. člena je vsebinsko
-                           nesprejemljiv, saj bi pomenila najmanj povprečna prispevna stopnja
-                           republike v posameznih občinskih samoupravnih interesnih skupnostih ali
-                           prelivanje sredstev med posameznimi občinskimi sisi mimo programov ali pa
-                           povečano obremenitev gospodarstva v nekaterih, praviloma manj razvitih
-                           občinah. Razvitost sedanje kulture in telesne kulture je v občinah
-                           bistveno različna, zato zahteva po najmanj povprečni prispevni stopnji v
-                           posameznih sisih ni upravičena. Pogoj za sprejem teh sredstev bi lahko
-                           bila skupna prispevna stopnja vseh sisov ali družbeno verificiran
-                           dejanski izpad sredstev ali pa naj se ta pogoj črta.</p>
-                        <p>6. V 14. členu bi morali bolj določeno zapisati, da se tako združena
-                           sredstva lahko uporabljajo le za izpade virov prihodkov v posameznih
-                           občinskih sisih in se za druge namene ne morejo uporabiti. Hvala
-                           lepa.</p>
+                        <list type="ordered">
+                           <item n="1">Predlagamo, da se za občinsko skupnost za zaposlovanje določi
+                              kot vir financiranja bruto osebni dohodek tako za pravice in
+                              zavarovanje za primer brezposelnosti kot tudi za izvajanje programov
+                              skupnosti za zaposlovanje, torej v celoti v 2. členu zakona. Delitev
+                              virov prihodkov skupnosti na dva dela bi povzročila mnogo praktičnih
+                              problemov pri izračunavanju obeh deležev in tudi neenotna tolmačenja.
+                              To je povezano z morebitnim solidarnostnim združevanjem na ravni
+                              republike, če bi izpadli viri prihodkov, pri tem pa verjetno ne bo
+                              enotnosti in doslednosti. Prišlo bi tudi do prelivanja
+                              sredstev.</item>
+                           <item n="2">V zvezi s še nerešenim pojmovnim vprašanjem zdravstvenega
+                              varstva – osnovne zagotovljene pravice - predlagamo, da se sprejme
+                              enotni pojem zdravstvo. Zdravstvena dejavnost je kompleksna, med seboj
+                              močno povezana dejavnost posebnega družbenega pomena, pa naj gre za
+                              nudenje prve, osnovne zdravstvene pomoči ali nadaljnje faze
+                              zdravljenja, vključno s preskrbo zdravil. Zagotovljene pravice do
+                              zdravstvenega varstva se prav tako uveljavljajo v zdravstvenih
+                              domovih, v bolnišnicah in v drugih enotah zdravstvene dejavnosti. Zato
+                              bi pomenila delitev financiranja na zagotovljene in dopolnilne pravice
+                              v praksi nerešljive probleme.</item>
+                           <item n="3">
+                              <p>V zvezi s financiranjem zdravstva tudi predlagamo, da se odgovorno
+                                 prouči možnost enotnega financiranja na ravni SR Slovenije kot
+                                 enotne rizične skupnosti. Pravica do ustreznega zdravstvenega
+                                 varstva mora biti enako uresničljiva na vsem območju Slovenije, ne
+                                 pa, da je odvisna od trenutne družbene ekonomske moči občine, ki jo
+                                 lahko bistveno spremenijo že slučajni vplivi, na primer izguba v
+                                 največji delovni organizaciji občine. Tako se dogaja, da normativno
+                                 sicer izenačene pravice ostajajo le v mejah deklarativnosti.</p>
+                              <p>Sedanji in tudi bodoči solidarnostni sistem bi se po vsej
+                                 verjetnosti tudi ne mogel uresničiti.</p>
+                           </item>
+                           <item n="4">Predlagamo, da se v 14. členu taksativno navedejo občinske
+                              samoupravne interesne skupnosti, ki bi solidarnostno združevale
+                              sredstva na ravni republike, in da se določi odstotek in obračunska
+                              osnova. Predlagamo, da so osnova za izračun izvirni prihodki občinske
+                              samoupravne interesne skupnosti. S tem bi<pb n="56" xml:id="pb.56"/>
+                              povečali enotnost in doslednost funkcioniranja solidarnostnega
+                              sistema.</item>
+                           <item n="5">Pogoj iz prve alinee drugega odstavka 14. člena je vsebinsko
+                              nesprejemljiv, saj bi pomenila najmanj povprečna prispevna stopnja
+                              republike v posameznih občinskih samoupravnih interesnih skupnostih
+                              ali prelivanje sredstev med posameznimi občinskimi sisi mimo programov
+                              ali pa povečano obremenitev gospodarstva v nekaterih, praviloma manj
+                              razvitih občinah. Razvitost sedanje kulture in telesne kulture je v
+                              občinah bistveno različna, zato zahteva po najmanj povprečni prispevni
+                              stopnji v posameznih sisih ni upravičena. Pogoj za sprejem teh
+                              sredstev bi lahko bila skupna prispevna stopnja vseh sisov ali
+                              družbeno verificiran dejanski izpad sredstev ali pa naj se ta pogoj
+                              črta.</item>
+                           <item n="6">V 14. členu bi morali bolj določeno zapisati, da se tako
+                              združena sredstva lahko uporabljajo le za izpade virov prihodkov v
+                              posameznih občinskih sisih in se za druge namene ne morejo uporabiti.
+                              Hvala lepa.</item>
+                        </list>
                      </sp>
                      <sp who="#sp.DvojmočValentin">
                         <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
@@ -3245,27 +3299,30 @@
                            41. okoliša Maribor Tabor me je pooblastila, da bi vas seznanil z
                            nekaterimi ugotovitvami in pripombami k zakonu o začasnem financiranju
                            skupnih potreb.</p>
-                        <p>1. Ta zakon pomeni prilagajanje obračunskega sistema novemu zakonu o
-                           celotnem prihodku. Izračun novih prispevnih stopenj na republiški in s
-                           tem na občinski ravni je rezultat in posledica zveznega intervencijskega
-                           zakona za leto 1987. Ta zakon s svojo metodologijo izračunavanja
-                           dovoljene skupne porabe še za leto 1986 izniči rezultate, ki smo jih
-                           dosegli z občinskimi resolucijami in republiško resolucijo. Pri tem
-                           mislimo na cilje izboljševanja družbenoekonomskega položaja družbenih
-                           dejavnosti, da bi bili osebni dohodki le-teh usklajeni z gospodarstvom. V
-                           Mariboru je po zveznem zakonu dovoljena poraba že zdaj 3%nižja od
-                           realizirane. Ker pa je uskladitev osebnih dohodkov izvajana v zadnjih
-                           treh mesecih, pomeni preračun osnove za 1987. leto, da ciljev te
-                           uskladitve ne bomo mogli izvesti. Manjka nam 8% sredstev. Čimprej je
-                           treba stvari doreči ali pa priznati, da obljub o uskladitvi ne bo mogoče
-                           izvajati, ali pa se moramo v Sloveniji dogovoriti za enotno krčenje
-                           programov in zmanjšanje pravic.</p>
-                        <p>2. Izdaja omenjenega zakona je vsekakor preuranjena. Počakati bi bilo
-                           potrebno vsaj na rezultate periodičnega obračuna za prvo trimesečje, ko
-                           bomo ugotavljali in razporejali dohodke v temeljnih organizacijah
-                           združenega dela v skladu z novim zakonom. Šele tako bomo lahko
-                           ugotavljali, ali so predložene obremenitve v skladu z resolucijo za leto
-                           1987 glede na novo višino dohodka.</p>
+                        <list type="ordered">
+                           <item n="1">Ta zakon pomeni prilagajanje obračunskega sistema novemu
+                              zakonu o celotnem prihodku. Izračun novih prispevnih stopenj na
+                              republiški in s tem na občinski ravni je rezultat in posledica
+                              zveznega intervencijskega zakona za leto 1987. Ta zakon s svojo
+                              metodologijo izračunavanja dovoljene skupne porabe še za leto 1986
+                              izniči rezultate, ki smo jih dosegli z občinskimi resolucijami in
+                              republiško resolucijo. Pri tem mislimo na cilje izboljševanja
+                              družbenoekonomskega položaja družbenih dejavnosti, da bi bili osebni
+                              dohodki le-teh usklajeni z gospodarstvom. V Mariboru je po zveznem
+                              zakonu dovoljena poraba že zdaj 3%nižja od realizirane. Ker pa je
+                              uskladitev osebnih dohodkov izvajana v zadnjih treh mesecih, pomeni
+                              preračun osnove za 1987. leto, da ciljev te uskladitve ne bomo mogli
+                              izvesti. Manjka nam 8% sredstev. Čimprej je treba stvari doreči ali pa
+                              priznati, da obljub o uskladitvi ne bo mogoče izvajati, ali pa se
+                              moramo v Sloveniji dogovoriti za enotno krčenje programov in
+                              zmanjšanje pravic.</item>
+                           <item n="2">Izdaja omenjenega zakona je vsekakor preuranjena. Počakati bi
+                              bilo potrebno vsaj na rezultate periodičnega obračuna za prvo
+                              trimesečje, ko bomo ugotavljali in razporejali dohodke v temeljnih
+                              organizacijah združenega dela v skladu z novim zakonom. Šele tako bomo
+                              lahko ugotavljali, ali so predložene obremenitve v skladu z resolucijo
+                              za leto 1987 glede na novo višino dohodka.</item>
+                        </list>
                         <p>Od konkretnih pripomb bi spregovoril o naslednjih:</p>
                         <p>Predlagamo, da se prenese 5. točka 2. člena tega zakona v 3. člen, iz 3.
                            člena pa naj se prenese 6. točka v 2. člen. Utemeljitev: Bojimo se, da se
@@ -3552,13 +3609,15 @@
                         <p>Pričenjam razpravo. Pisnih prijav ni. Želi kdo razpravljati? (Ne.) Ker ne
                            želi nihče razpravljati, zaključujem razpravo in zboru predlagam, da
                            sprejme naslednji sklep:</p>
-                        <p>1. Skupščina SR Slovenije daje soglasje k osnutku zakona o skupnem znesku
-                           sredstev za financiranje programa priprav za tisk in tiskanje osnovne
-                           hidrogeološke karte Jugoslavije in osnovne inženirsko-geološke karte
-                           Jugoslavije za obdobje 1988 do 2009.</p>
-                        <p>2. Skupščina SR Slovenije pooblašča svojo delegacijo v Zboru republik in
-                           pokrajin Skupščine SFRJ, da po končanem usklajevanju da soglasje k
-                           predlogu zakona.</p>
+                        <list type="ordered">
+                           <item n="1">Skupščina SR Slovenije daje soglasje k osnutku zakona o
+                              skupnem znesku sredstev za financiranje programa priprav za tisk in
+                              tiskanje osnovne hidrogeološke karte Jugoslavije in osnovne
+                              inženirsko-geološke karte Jugoslavije za obdobje 1988 do 2009.</item>
+                           <item n="2">Skupščina SR Slovenije pooblašča svojo delegacijo v Zboru
+                              republik in pokrajin Skupščine SFRJ, da po končanem usklajevanju da
+                              soglasje k predlogu zakona.</item>
+                        </list>
                         <p>Želi o tem kdo razpravljati? (Ne želi.) Zaključujem razpravo in prehajamo
                            na glasovanje.</p>
                         <p>Kdo je za ta sklep? (100 delegatov.) Je kdo proti? (3 delegati.)
@@ -4457,20 +4516,23 @@
                            proti? (Nihče.) Vzdržani? (2 delegata.)</p>
                         <p>Ugotavljam, da je sklep sprejet z večino glasov.</p>
                         <p>Zdaj pa predlagam zboru, da sprejmemo še naslednji sklep:</p>
-                        <p>1. Zbor združenega dela Skupščine SR Slovenije sprejema predlog
-                           družbenega dogovora o spremembah in dopolnitvah družbenega dogovora o
-                           skupnih osnovah in merilih za samoupravno urejanje odnosov pri
-                           razporejanju in delitvi dohodka v SR Sloveniji skupaj s spremembami in
-                           dopolnitvami odbora in dopolnitvami skupine.</p>
-                        <pb n="80" xml:id="pb.80"/>
-                        <p>2. Zbor pooblašča tovariša Jožeta Kneza, podpredsednika Skupščine SR
-                           Slovenije, da na podlagi 346. člena poslovnika Skupščine SR Slovenije v
-                           imenu Skupščine SR Slovenije podpiše ta družbeni dogovor. Zbor pooblašča
-                           tovariša Jožeta Kneza, da v sodelovanju z drugimi udeleženci dogovora
-                           uskladi končno besedilo dogovora na podlagi predlogov in pripomb drugih
-                           udeležencev dogovora v okviru osnovne vsebine sprememb in dopolnitev
-                           dogovora ter na podlagi 346. člena poslovnika Skupščine v imenu Skupščine
-                           SR Slovenije podpiše tako usklajeno besedilo dogovora.</p>
+                        <list type="ordered">
+                           <item n="1">Zbor združenega dela Skupščine SR Slovenije sprejema predlog
+                              družbenega dogovora o spremembah in dopolnitvah družbenega dogovora o
+                              skupnih osnovah in merilih za samoupravno urejanje odnosov pri
+                              razporejanju in delitvi dohodka v SR Sloveniji skupaj s spremembami in
+                              dopolnitvami odbora in dopolnitvami skupine.</item>
+                           <pb n="80" xml:id="pb.80"/>
+                           <item n="2">Zbor pooblašča tovariša Jožeta Kneza, podpredsednika
+                              Skupščine SR Slovenije, da na podlagi 346. člena poslovnika Skupščine
+                              SR Slovenije v imenu Skupščine SR Slovenije podpiše ta družbeni
+                              dogovor. Zbor pooblašča tovariša Jožeta Kneza, da v sodelovanju z
+                              drugimi udeleženci dogovora uskladi končno besedilo dogovora na
+                              podlagi predlogov in pripomb drugih udeležencev dogovora v okviru
+                              osnovne vsebine sprememb in dopolnitev dogovora ter na podlagi 346.
+                              člena poslovnika Skupščine v imenu Skupščine SR Slovenije podpiše tako
+                              usklajeno besedilo dogovora.</item>
+                        </list>
                         <p>Ali je besedilo sklepa razumljivo? (Da.) Torej dogovor sprejemamo in
                            pooblaščamo tovariša Kneza za podpis in za redakcijske popravke in
                            uskladitve.</p>
