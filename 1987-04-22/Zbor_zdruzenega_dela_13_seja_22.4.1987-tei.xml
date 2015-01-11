@@ -209,51 +209,53 @@
             <pb n="II/1" xml:id="pb.II.1"/>
          </div>
          <div>
-            <p>SEZNAM GOVORNIKOV</p>
-            <p>(13. seja - 22. april 1987)</p>
-            <p>GOVORNIKI: STRAN</p>
-            <p>Arčan Danilo 54</p>
-            <p>Blas Janko 62</p>
-            <p>Bohorič Janez 68</p>
-            <p>Borak Neven 73</p>
-            <p>Çafnik Drago 35, 59, 71</p>
-            <p>Črnak-Meglič Andreja 37</p>
-            <p>Ditrih Milan 36</p>
-            <p>Frančiškin Ljubica 71</p>
-            <p>Frelih Leo 16</p>
-            <p>Gogala Franc 7 8</p>
-            <p>Hausmeister Majda 49</p>
-            <p>Kaloper Božidar 4 9</p>
-            <p>Knafelc Franc 63</p>
-            <p>Konrad Stane 10</p>
-            <p>Kous dr. Štefan 55</p>
-            <p>Kozinc Lili 26,77</p>
-            <p>Krajnik Milan 33</p>
-            <p>Krajšek Jernej 14</p>
-            <p>Kumin Franc 13</p>
-            <p>Kušej dr. Miklavž 2, 21, 34, 39</p>
-            <p>Lipoglavšek Franc 6,41</p>
-            <p>Medik Branko 27,70</p>
-            <p>Miklič Nikolaj 76</p>
-            <p>Mlinar Martin 44</p>
-            <p>Novak Vili 56,67</p>
-            <p>Pengov Anton 76</p>
-            <p>Pirš Jurij 29</p>
-            <p>Pivec Franci 4, 5</p>
-            <p>Plausteiner Zdenka 18,57</p>
-            <p>Požar Boris 22</p>
-            <p>Ptičar Viktor 23</p>
-            <p>Ruparšek Franc 51</p>
-            <p>Šepič Rudi 59</p>
-            <p>Štefe Drago 31</p>
-            <p>Tacinger Milan 12</p>
-            <p>Veršec Miloš 15</p>
-            <p>Zadnik Bojan 21</p>
-            <p>Zgonc Boštjan 39</p>
-            <p>Zigmud Božena 4</p>
-            <p>Zupan Leopold 8, 78, 79</p>
-            <p>Žumer Jože 5, 6, 42</p>
+            <head>SEZNAM GOVORNIKOV</head>
+            <castList>
+               <head>(13. seja - 22. april 1987)</head>
+               <head>GOVORNIKI:</head>
+            <castItem>Arčan Danilo <ref target="#pb.54">54</ref></castItem>
+            <castItem>Blas Janko <ref target="#pb.62">62</ref></castItem>
+            <castItem>Bohorič Janez <ref target="#pb.68">68</ref></castItem>
+            <castItem>Borak Neven <ref target="#pb.73">73</ref></castItem>
+            <castItem>Çafnik Drago <ref target="#pb.35">35</ref>, <ref target="#pb.59">59</ref>, <ref target="#pb.71">71</ref></castItem>
+            <castItem>Črnak-Meglič Andreja <ref target="#pb.37">37</ref></castItem>
+            <castItem>Ditrih Milan <ref target="#pb.36">36</ref></castItem>
+            <castItem>Frančiškin Ljubica <ref target="#pb.71">71</ref></castItem>
+            <castItem>Frelih Leo <ref target="#pb.16">16</ref></castItem>
+               <castItem>Gogala Franc <ref target="#pb.7">78</ref></castItem>
+            <castItem>Hausmeister Majda <ref target="#pb.49">49</ref></castItem>
+            <castItem>Kaloper Božidar <ref target="#pb.49">49</ref></castItem>
+            <castItem>Knafelc Franc <ref target="#pb.63">63</ref></castItem>
+            <castItem>Konrad Stane <ref target="#pb.10">10</ref></castItem>
+            <castItem>Kous dr. Štefan <ref target="#pb.55">55</ref></castItem>
+            <castItem>Kozinc Lili <ref target="#pb.26">26</ref>, <ref target="#pb.77">77</ref></castItem>
+            <castItem>Krajnik Milan <ref target="#pb.33">33</ref></castItem>
+            <castItem>Krajšek Jernej <ref target="#pb.14">14</ref></castItem>
+            <castItem>Kumin Franc <ref target="#pb.13">13</ref></castItem>
+            <castItem>Kušej dr. Miklavž <ref target="#pb.2">2</ref>, <ref target="#pb.21">21</ref>, <ref target="#pb.34">34</ref>, <ref target="#pb.39">39</ref></castItem>
+            <castItem>Lipoglavšek Franc <ref target="#pb.6">6</ref>,<ref target="#pb.41">41</ref></castItem>
+            <castItem>Medik Branko <ref target="#pb.27">27</ref>, <ref target="#pb.70">70</ref></castItem>
+            <castItem>Miklič Nikolaj <ref target="#pb.76">76</ref></castItem>
+            <castItem>Mlinar Martin <ref target="#pb.44">44</ref></castItem>
+            <castItem>Novak Vili <ref target="#pb.56">56</ref>, <ref target="#pb.67">67</ref></castItem>
+            <castItem>Pengov Anton <ref target="#pb.76">76</ref></castItem>
+            <castItem>Pirš Jurij <ref target="#pb.29">29</ref></castItem>
+            <castItem>Pivec Franci <ref target="#pb.4">4</ref>, <ref target="#pb.5">5</ref></castItem>
+            <castItem>Plausteiner Zdenka <ref target="#pb.18">18</ref>, <ref target="#pb.57">57</ref></castItem>
+            <castItem>Požar Boris <ref target="#pb.22">22</ref></castItem>
+            <castItem>Ptičar Viktor <ref target="#pb.23">23</ref></castItem>
+            <castItem>Ruparšek Franc <ref target="#pb.51">51</ref></castItem>
+            <castItem>Šepič Rudi <ref target="#pb.59">59</ref></castItem>
+            <castItem>Štefe Drago <ref target="#pb.31">31</ref></castItem>
+            <castItem>Tacinger Milan <ref target="#pb.12">12</ref></castItem>
+            <castItem>Veršec Miloš <ref target="#pb.15">15</ref></castItem>
+            <castItem>Zadnik Bojan <ref target="#pb.21">21</ref></castItem>
+            <castItem>Zgonc Boštjan <ref target="#pb.39">39</ref></castItem>
+            <castItem>Zigmud Božena <ref target="#pb.4">4</ref></castItem>
+            <castItem>Zupan Leopold <ref target="#pb.8">8</ref>, <ref target="#pb.78">78</ref>, <ref target="#pb.79">79</ref></castItem>
+            <castItem>Žumer Jože <ref target="#pb.5">5</ref>, <ref target="#pb.6">6</ref>, <ref target="#pb.42">42</ref></castItem>
             <pb n="1" xml:id="pb.1"/>
+            </castList>
          </div>
       </front>
       <body>
