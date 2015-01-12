@@ -113,11 +113,25 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
+         <change when="2015-01-12">
+            <name>Andrej Pančur</name>: kodiranje<list>
+               <item>//front//*</item>
+               <item>//div/@ana</item>
+               <item>//stage</item>
+               <item>//head</item>
+               <item>//list</item>
+               <item>//castList</item>
+               <item>//pb/@n</item>
+               <item>//docDate</item>
+            </list>
+         </change>
          <change when="2015-01-11">
             <name>Andrej Pančur</name>: izvoz in preverjanje metapodatkov iz SIstory, izdelava
             teiHeader</change>
+         <change when="2015-01-11">
+            <name>Andrej Pančur</name>: označil TEI stil (tei:sp) za docx2tei konverzijo</change>
          <change when="2015-01-08">
-            <name>Marta Rendla</name>: pregled in poprava OCR</change>
+            <name>Marta Rendla</name>: pregled in poprava OCR v DOCX</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -1105,7 +1119,7 @@
                            765 din za živo težo 330,24 din.</p>
                         <p>Ob mesečnem zakolu 2469 glav je to pri mladi pitani govedi 360 milijonov
                            din izgube, pri zakolu 21500 prašičev je to 571 milijonov din izgube in
-                           pri proizvodnji 4 milijone 754.000<pb n="14" xml:id="pb.14"/>litrov mleka
+                           pri proizvodnji 4 milijone 754.000<pb n="14" xml:id="pb.14"/> litrov mleka
                            198 milijonov din izgube. Skupaj zgubimo v enem mesecu 1129 milijonov
                            din.</p>
                         <p>Ta znesek se zmanjša za znesek premij, ki so 60 din na kg žive teže
