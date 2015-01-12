@@ -203,18 +203,25 @@
                 <div ana="#PAR.Seja" n="35">
                     <head>35. SEJA</head>
                     <docDate when="1984-06-20">(20. junija 1984)</docDate>
-                    <p>Predsedoval: Martin Mlinar, predsednik Zbora združenega dela</p>
+                    <castList>
+                        <castItem><roleDesc>Predsedoval</roleDesc>: <actor xml:id="sp.MlinarMartin"
+                                >Martin Mlinar</actor>, <role>predsednik Zbora združenega
+                                dela</role></castItem>
+                    </castList>
                     <timeline origin="#TL.1" unit="min">
                         <when synch="#stage.t.1" xml:id="TL.1" absolute="1984-06-20T09:00:00"/>
-                        <when synch="#stage.t.2" since="#TL.1" absolute="1984-06-20T09:30:00" interval="30"/>
+                        <when synch="#stage.t.2" since="#TL.1" absolute="1984-06-20T09:30:00"
+                            interval="30"/>
                         <when synch="#stage.t.3" xml:id="TL.2" absolute="1984-06-20T10:15:00"/>
-                        <when synch="#stage.t.4" since="#TL.2" absolute="1984-06-20T11:25:00" interval="70"/>
+                        <when synch="#stage.t.4" since="#TL.2" absolute="1984-06-20T11:25:00"
+                            interval="70"/>
                         <when synch="#stage.t.5" xml:id="TL.3" absolute="1984-06-20T12:15:00"/>
-                        <when synch="#stage.t.6" since="#TL.3" absolute="1984-06-20T15:00:00" interval="165"/>
+                        <when synch="#stage.t.6" since="#TL.3" absolute="1984-06-20T15:00:00"
+                            interval="165"/>
                     </timeline>
                     <stage type="time"><time from="09:00:00" xml:id="stage.t.1">Začetek seje ob 9.
                             uri</time>.</stage>
-                    <sp>
+                    <sp who="#sp.MlinarMartin">
                         <speaker>Predsednik Martin Mlinar;</speaker>
                         <p>Tovarišice in tovariši delegati! Pričenjam 35. sejo Zbora združenega dela
                             Skupščine SR Slovenije, ki sem jo sklical na podlagi 93. člena
@@ -222,7 +229,7 @@
                     </sp>
                     <div ana="#PAR.PredDnevRed">
                         <div ana="#PAR.IzvKomis">
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <p>Na podlagi 12. člena poslovnika Zbora združenega dela bomo
                                     najprej izvolili Komisijo za verifikacijo pooblastil in
                                     imunitetna vprašanja za današnjo sejo zbora in verificirali
@@ -291,7 +298,7 @@
                                     zato predlaga, da Zbor združenega dela vsa predložena
                                     pooblastila verificira.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala lepa. Želi kdo o poročilu komisije razpravljati? (Nihče.)
                                     Če ne želi nihče, potem zaključujem razpravo in dajem poročilo
@@ -413,7 +420,7 @@
                             </sp>
                         </div>
                         <div ana="#PAR.DolDnevRed">
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <p>Glede na navedeno predlagam, da zbor za današnjo sejo sprejme
                                     naslednji dnevni red:</p>
                                 <list type="ordered">
@@ -483,7 +490,7 @@
                     </div>
                     <div ana="#PAR.DnevRed">
                         <div ana="#PAR.TDR" n="1">
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <p>Prehajamo na 1. točko dnevnega reda, to je na odobritev zapisnika
                                     34. seje zbora.</p>
                                 <p>Osnutek zapisnika ste prejeli. Predlaga kdo kakšne spremembe ali
@@ -497,7 +504,7 @@
                                     xml:id="stage.t.2">prekinjena ob 9.30 uri</time> in se je <time
                                     from="10:15:00" xml:id="stage.t.3">nadaljevala ob 10.15
                                     uri</time>.)</stage>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Tovarišice in tovariši delegati!</p>
                                 <p>Nadaljujemo sejo zbora.</p>
@@ -515,7 +522,7 @@
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="2">
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <p>Prehajamo na 2. točko dnevnega reda, to je na izvolitev
                                     podpredsednika in dveh članov Izvršnega sveta Skupščine SR
                                     Slovenije in imenovanje dveh predsednikov republiških
@@ -596,7 +603,7 @@
                                     sveta Skupščine SR Slovenije za razrešitev in imenovanje
                                     namestnikov prav tako sprejmete.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala, želi kdo o predlogu predsednika Izvršnega sveta Skupščine
                                     SR Slovenije in predstavnika Komisije za volitve, imenovanja in
@@ -624,7 +631,7 @@
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="3">
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <p>Prehajamo na 3. točko dnevnega reda, to je na izvolitev članov
                                     Sveta republike. </p>
                                 <p>Predsedstvo SR Slovenije je predložilo predlog za ponovno
@@ -654,7 +661,7 @@
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="4">
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <p>Prehajamo na 4. točko dnevnega reda, to je na volitve in
                                     imenovanja.</p>
                                 <p>Predsednik Izvršnega sveta Skupščine SR Slovenije je predložil
@@ -854,7 +861,7 @@
                                     nerazvitim je treba prilagoditi možnostim gospodarstva oziroma
                                     celotne družbe.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Besedo ima tovariš Jože Vukelj, gospodarsko področje, 14. okoliš,
                                     Radovljica.</p>
@@ -886,7 +893,7 @@
                                     proizvodnji.</p>
                                 <p>Brez tega bodo naši napori vedno manj uspešni.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala lepa. Besedo ima tovariš Peter Simonišek, področje
                                     gospodarstva, 4. okoliš, Ljubljana Šiška.</p>
@@ -1056,7 +1063,7 @@
                                     začneta akcije na vseh nivojih, saj lahko zgolj sočasno
                                     sistemsko reševanje problemov prinese pričakovane rezultate.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala. Besedo ima tovarišica Ivanka Cetina, področje
                                     gospodarstva, 23. okoliš, Postojna.</p>
@@ -1104,7 +1111,7 @@
                                     poleg visokih obresti in tečajnih razlik tudi visok porast cen
                                     repromaterialov, surovin in rezervnih delov.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala. Besedo ima tovarišica Dragica Jankovič, področje
                                     gospodarstva, 27. okoliš, Krško.</p>
@@ -1149,7 +1156,7 @@
                                     saj bodo izvajalci na področju zdravstva v občini zanesljivo
                                     zaključili poslovanje brez skladov oziroma z izgubo.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala. Besedo ima tovariš Miro Jelenkovič, področje gospodarstva,
                                     42, okoliš, Maribor Tezno.</p>
@@ -1286,7 +1293,7 @@
                                     v zelo kratkem času same uresničiti zahteve Zveznega izvršnega
                                     sveta ter hitro povečati izvoz.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala! Besedo ima tovariš Stanko Kaube, področje gospodarstva,
                                     39. okoliš, Maribor Rotovž.</p>
@@ -1354,7 +1361,7 @@
                                     tam, kjer predstavljajo večino sredstev osebni dohodki
                                     zaposlenih?</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala! Najprej moram ugotoviti,</p>
                                 <p>Kdo še želi razpravljati, ker se moramo držati približnega časa
@@ -1407,7 +1414,7 @@
                                     Včasih so nam na terenu pomagale delovne skupine na primer
                                     Centralnega komiteja ZKS, sedaj pa ni nikogar.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala! Če ne želi nihče več razpravljati, predlagam, da se poleg
                                     predloženega sklepa dogovorimo še naslednje, današnja razprava
@@ -1503,7 +1510,7 @@
                                     oziroma dopolnili program izvršnega sveta in o tem seveda
                                     Skupščino obveščali.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Ali se, tovariš Kunič, tudi s tistim strinjaš, ko si rekel, da
                                     boste vso razpravo proučili že v aktivnostih, ki jih imamo ob
@@ -1516,7 +1523,7 @@
                                 <p>Ob razpravah o obeh majskih analizah, republiški in zvezni, bomo
                                     to seveda vključili v razpravo in zaključke.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Besedo ima tovariš Peter Simonišek, področje gospodarstva, 4.
                                     okoliš, Ljubljana šiška.</p>
@@ -1552,7 +1559,7 @@
                                     uri</time>.)</stage>
                         </div>
                         <div ana="#PAR.TDR" n="5">
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Tovarišice in tovariši delegati!</p>
                                 <p>Nadaljujemo razpravo k 5. točki dnevnega reda. Besedo ima tovariš
@@ -1682,7 +1689,7 @@
                                             sporazumov in dogovorov.</p></item>
                                 </list>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala lepa! želi še kdo razpravljati? (Ne.) Slišali smo nekaj
                                     pojasnil, seveda pa je nekaj vprašanj ostalo odprtih,ki pa jih
@@ -1723,7 +1730,7 @@
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="6">
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <p>Prehajamo na 6. točko dnevnega reda, to je na predlog zakona o
                                     spremembah in dopolnitvah kazenskega zakona SR Slovenije.</p>
                                 <p>Predlog zakona je Skupščini SR Slovenije predložil v obravnavo
@@ -1781,7 +1788,7 @@
                                     in sprejmete v besedilu, v kakršnem je predložen. Hvala
                                     lepa!</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala lepa! Pismenih prijav za razpravo k tej točki dnevnega reda
                                     nimam. Želi kdo razpravljati? (Ne.) Če ne želi nihče
@@ -1798,7 +1805,7 @@
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="7">
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <p>Prehajamo na 7. točko dnevnega reda, to je na poročilo o delu
                                     Službe družbenega knjigovodstva v SR Sloveniji v letu 1983.</p>
                                 <p>Poročilo je Skupščini SR Slovenije predložila v obravnavo Služba
@@ -2206,7 +2213,7 @@
                                     poročilo sprejmete, že naprej pa se zahvaljujem za morebitne
                                     napotke in pobude za izboljšanje našega dela. Hvala lepa.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Pričenjam razpravo. Besedo ima Neda De Lorenzi, področje
                                     gospodarstva, 17. okoliš, Nova Gorica.</p>
@@ -2245,7 +2252,7 @@
                                     knjigovodstva za podjetje v tujini prilagoditi predpisom
                                     domicilne države. Hvala lepa.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar</speaker>
                                 <p> Hvala lepa! Besedo ima tovariš Edvin Kosič, področje
                                     gospodarstva, 23. okoliš, Postojna.</p>
@@ -2276,7 +2283,7 @@
                                         omogočili take rešitve. Hvala!</item>
                                 </list>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala! Pismenih prijav za razpravo k tej točki nimam več. želi še
                                     kdo razpravljati? (Nihče.)</p>
@@ -2299,7 +2306,7 @@
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="8">
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <p>Prehajamo na 8. točko dnevnega reda, to je na predlog za izdajo
                                     zakona o Službi družbenega knjigovodstva v SR Sloveniji.</p>
                                 <p>Predlog za izdajo zakona je Skupščini SR Slovenije predložil v
@@ -2339,7 +2346,7 @@
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="9">
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <p>Prehajamo na 9. točko dnevnega reda, to je na osnutek zakona o
                                     spremembah in dopolnitvah zakona o vojaških invalidih.</p>
                                 <p>Osnutek zakona je Skupščini SR Slovenije predložil v obravnavo
@@ -2628,7 +2635,7 @@
                                     razprave in v zvezi s tem ponovno preveril vse predlagane
                                     rešitve. Hvala lepa!</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala lepa! Želijo morda poročevalci delovnih teles besedo? (Ne
                                     želijo.)</p>
@@ -2744,7 +2751,7 @@
                                 <p>Skupina ima tudi pripombe k posameznim členom osnutka, ki pa jih
                                     bomo oddali pismeno.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala. Besedo ima tovariš Boris Macarol, področje gospodarstva,
                                     38. okoliš, Maribor Pobrežje.</p>
@@ -2790,7 +2797,7 @@
                                         upravičence, ki jim je tudi namenjen.</item>
                                 </list>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala lepa. Besedo ima tovarišica Marija Varga, področje
                                     gospodarstva, 47. okoliš, Lendava.</p>
@@ -2846,7 +2853,7 @@
                                     inflacija že tako slabša njihov gmotni položaj.<pb n="35"/>
                                 </p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala lepa. Pismenih prijav za razpravo k tej točki nimam več.
                                     Želi še kdo od delegatov razpravljati? (Ne.)</p>
@@ -2873,7 +2880,7 @@
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="10">
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <p>Prehajamo na 10. točko dnevnega reda, to je na osnutek zakona o
                                     spremembah in-dopolnitvah zakona o civilnih invalidih vojne.</p>
                                 <p>Osnutek zakona je Skupščini SR Slovenije predložil v obravnavo
@@ -2891,7 +2898,7 @@
                                     da je stališče naše skupine delegatov že zajeto v predlogu
                                     sklepa, ga posredujem v pismeni obliki.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Besedo ima tovariš Ernest Noč, področje gospodarstva, 14. okoliš,
                                     Radovljica.</p>
@@ -2916,10 +2923,10 @@
                                         invalidov.</item>
                                 </list>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala lepa! Pismenih prijav za razpravo k tej točki nimam več.
-                                    Želi še kdo razprayljati? (Nihče.) </p>
+                                    Želi še kdo razpravljati? (Nihče.) </p>
                                 <p>Ker ne želi nihče razpravljati, potem zaključujem razpravo in
                                     obveščam zbor, da so pismene pripombe k tej točki dali delegati
                                     iz občin Laško, Ljubljana Vič-Rudnik, Radlje ob Dravi, Ljubljana
@@ -2938,7 +2945,7 @@
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="17">
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <p>Prehajamo na 17. točko dnevnega reda, to je na predlog zakona o
                                     ratifikaciji usklajenega zapisnika o konsolidaciji dolga
                                     Socialistične federativne republike Jugoslavije.</p>
@@ -2959,7 +2966,7 @@
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="11">
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <p>Prehajamo na 11. točko dnevnega reda, to je na predlog za izdajo
                                     zakona o spremembah in dopolnitvah zakona o varnosti cestnega
                                     prometa.</p>
@@ -3019,7 +3026,7 @@
                                     predvidenih kazni, predvsem zapornih ne kaže zmanjševati, glede
                                     na to, da se prometna varnost slabša.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Želi še kdo razpravljati? (Ne.)</p>
                                 <p>Ker ne želi nihče, zaključujem razpravo. Zbor obveščam, da so
@@ -3046,7 +3053,7 @@
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="12">
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <p>Prehajamo na 12. točko dnevnega reda,to je na predlog za izdajo
                                     zakona o spremembah in dopolnitvah zakona o sanitarni inšpekciji
                                     z osnutkom zakona.</p>
@@ -3123,7 +3130,7 @@
                                     sprejme predlog za izdajo zakona z osnutkom zakona ter potrdi
                                     združitev prve in druge faze. Hvala lepa.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Pričenjam razpravo. Besedo ima tovariš Vili Žunkovič, področje
                                     gospodarstva, 45. okoliš, Gornja Radgona.</p>
@@ -3172,7 +3179,7 @@
                                         vključi še besedilo "nad higienskimi razmerami".</item>
                                 </list>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Pismenih prijav za razpravo k tej točki nimam več. Želi še kdo
                                     razpravljati? (Ne.) Ker ne želi nihče razpravljati, zaključujem
@@ -3219,7 +3226,7 @@
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="13">
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <p>Prehajamo na 13. točko dnevnega reda, to je na predlog za izdajo
                                     zakona o sofinanciranju programa obnove in modernizacije
                                     oddajniškega in prenosnega sistema Radio-televizije Ljubljana v
@@ -3297,7 +3304,7 @@
                                     modernizacija oddajniškega in prenosnega sistema RTV Ljubljana.
                                     Hvala.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Pričenjam razpravo. Besedo ima tovarišica Tanja Žugelj, področje
                                     gospodarstva, 12. okoliš, Kranj.</p>
@@ -3321,7 +3328,7 @@
                                     sredstva, ki jih ima na razpolago proračun SR Slovenije za leto
                                     1984, ostalo pa naj bi za določen čas odložilo. Hvala.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Besedo ima tovariš Boris Macarol, področje gospodarstva, 38.
                                     okoliš, Maribor Pobrežje.</p>
@@ -3347,7 +3354,7 @@
                                     za to obliko združevanja, predvsem višji obseg proračunskih
                                     sredstev. Hvala!</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Besedo ima tovariš Peter Simonišek, področje gospodarstva,
                                     Ljubljana-Šiška.</p>
@@ -3379,7 +3386,7 @@
                                 <p>Ob tem naj poudarim, da k vsebini programov oziroma k predlogu za
                                     izdajo zakona nimamo pripomb. Hvala lepa!</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Želi še kdo razpravljati? (Da.) Besedo ima tovariš Marjan
                                     Šiftar.</p>
@@ -3445,7 +3452,7 @@
                                     način zagotoviti, da bi se izognili še večjim težavam na tem,
                                     vsekakor zelo pomembnem področju.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Želi še kdo razpravljati? (Nihče.)</p>
                                 <p>Če ne želi nihče več razpravljati, zaključujem razpravo. Mislim,
@@ -3478,7 +3485,7 @@
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="14">
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <p>Prehajamo na 14. točko dnevnega reda, to je na osnutek družbenega
                                     dogovora o temeljih skupne zemljiške politike.</p>
                                 <p>Osnutek družbenega dogovora je Skupščini SR Slovenije predložil
@@ -3500,7 +3507,7 @@
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="15">
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <p>Prehajamo na 15. točko dnevnega reda, to je na zaključni račun
                                     Narodne banke Jugoslavije za leto 1983 in finančni načrt Narodne
                                     banke Jugoslavije za leto 1984. </p>
@@ -3583,7 +3590,7 @@
                                         Hvala. </item>
                                 </list>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala lepa. Pismenih prijav za razpravo k tej točki nimam več.
                                     Želi še kdo razpravljati? (Nihče.) Ker ne želi nihče
@@ -3600,7 +3607,7 @@
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="16">
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <p>Prehajamo na 16. točko dnevnega reda, to je na poročilo
                                     delegacije Skupščine SR Slovenije v Zboru republik in pokrajin
                                     Skupščine SFR Jugoslavije o poteku preteklih sej Zbora republik
@@ -3631,7 +3638,7 @@
                                     Skupščini SFRJ s preglasovanjem, temveč morajo biti odločitve
                                     oprte na ekonomski logiki. Hvala lepa.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala. Želi še kdo razpravljati? (Nihče.) Če ne želi nihče
                                     razpravljati, potem zaključujem razpravo in zboru predlagam, da
@@ -3652,7 +3659,7 @@
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="18">
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <p>Prehajamo na 18. točko dnevnega reda, to je na predloge, pobude
                                     in vprašanja delegatov.</p>
                                 <p>Za današnjo sejo ste prejeli delegatsko vprašanje skupine
@@ -3706,7 +3713,7 @@
                                     Službe družbenega knjigovodstva, ki razpolagajo s podatki o
                                     poteku teh investicij. Hvala.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Želi o tem odgovoru kdo razpravljati? (Ne želi nihče.)</p>
                                 <p>Na delegatsko vprašanje skupine delegatov za gospodarsko
@@ -3765,7 +3772,7 @@
                                     prometa, ki določa, da organizacija združenega dela ni dolžna
                                     posameznim kupcem prodati blago v količini, ki jo zahteva .</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Želi o tem odgovoru kdo razpravljati? (Ne.)</p>
                                 <p>Na delegatsko vprašanje skupine delegatov za gospodarsko
@@ -3863,7 +3870,7 @@
                                     sanacijo nastale škode v Novi Gorici v višini 30 mio
                                     dinarjev.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Želi o tem odgovoru kdo razpravljati? (Ne želi.)</p>
                                 <p>Danes je predložila delegatsko vprašanje skupina delegatov za
@@ -3923,7 +3930,7 @@
                                     s sprejetim zakonom o Rudniku živega srebra Idrija in stališči
                                     Skupščine iz leta 1982.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>S pobudo bomo seznanili pristojne organe.</p>
                                 <p>Želi še kdo postaviti delegatsko vprašanje? (Ne.) Če ne želi
@@ -3947,20 +3954,28 @@
                 <div ana="#PAR.Seja" n="36">
                     <head>36. SEJA</head>
                     <docDate when="1984-07-11">(11. JULIJA 1984)</docDate>
-                    <p>Predsedoval: Martin Mlinar , predsednik Zbora združenega dela</p>
+                    <castList>
+                        <castItem><roleDesc>Predsedoval</roleDesc>: <actor sameAs="#sp.MlinarMartin"
+                                >Martin Mlinar</actor>, <role>predsednik Zbora združenega
+                                dela</role></castItem>
+                    </castList>
                     <timeline origin="#TL.4" unit="min">
                         <when synch="#stage.t.7" xml:id="TL.4" absolute="1984-07-11T09:00:00"/>
-                        <when synch="#stage.t.8" since="#TL.4" absolute="1984-07-11T09:20:00" interval="20"/>
+                        <when synch="#stage.t.8" since="#TL.4" absolute="1984-07-11T09:20:00"
+                            interval="20"/>
                         <when synch="#stage.t.9" xml:id="TL.5" absolute="1984-07-11T10:40:00"/>
-                        <when synch="#stage.t.10" since="#TL.5" absolute="1984-07-11T11:40:00" interval="60"/>
+                        <when synch="#stage.t.10" since="#TL.5" absolute="1984-07-11T11:40:00"
+                            interval="60"/>
                         <when synch="#stage.t.11" xml:id="TL.6" absolute="1984-07-11T12:30:00"/>
-                        <when synch="#stage.t.12" since="#TL.6" absolute="1984-07-11T15:25:00" interval="175"/>
+                        <when synch="#stage.t.12" since="#TL.6" absolute="1984-07-11T15:25:00"
+                            interval="175"/>
                         <when synch="#stage.t.13" xml:id="TL.7" absolute="1984-07-11T15:30:00"/>
-                        <when synch="#stage.t.14" since="#TL.7" absolute="1984-07-11T16:40:00" interval="70"/>
+                        <when synch="#stage.t.14" since="#TL.7" absolute="1984-07-11T16:40:00"
+                            interval="70"/>
                     </timeline>
                     <stage type="time"><time from="09:00:00" xml:id="stage.t.7">Začetek seje ob 9.
                             uri</time>.</stage>
-                    <sp>
+                    <sp who="#sp.MlinarMartin">
                         <speaker>Predsednik Martin Mlinar:</speaker>
                         <p>Tovarišice in tovariši delegati!</p>
                         <p>Pričenjam 36. sejo Zbora združenega dela Skupščine SR Slovenije, ki sem
@@ -3968,7 +3983,7 @@
                     </sp>
                     <div ana="#PAR.PredDnevRed">
                         <div ana="#PAR.IzvKomis">
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <p>Na podlagi 12. člena poslovnika Zbora združenega dela bomo
                                     najprej izvolili Komisijo za verifikacijo pooblastil in
                                     imunitetna vprašanja za današnjo sejo in verificirali
@@ -4036,10 +4051,10 @@
                                     predlaga, da Zbor združenega dela vsa predložena pooblastila
                                     verificira.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Želi kdo o poročilu razpravljati? (Nihče.) Zaključujem razpravo.
-                                    0 poročilu bomo glasovali v celoti, ker ni sporno nobeno
+                                    O poročilu bomo glasovali v celoti, ker ni sporno nobeno
                                     pooblastilo.</p>
                                 <p>Kdor je za poročilo, naj prosim glasuje! (126 delegatov glasuje
                                     za.) Je kdo proti? (Nihče.) Se je kdo vzdržal? (Nihče.)</p>
@@ -4110,7 +4125,7 @@
                             </sp>
                         </div>
                         <div ana="#PAR.DolDnevRed">
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <p>Glede na navedeno predlagam, da zbor za današnjo sejo sprejme
                                     naslednji dnevni red: </p>
                                 <list type="ordered">
@@ -4163,7 +4178,7 @@
                     </div>
                     <div ana="#PAR.DnevRed">
                         <div ana="#PAR.TDR" n="1">
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <p>Prehajamo na 1. točko dnevnega reda, to je na odobritev zapisnika
                                     35. seje zbora.</p>
                                 <p>Osnutek zapisnika ste prejeli. Ima kdo predlog za kakšne
@@ -4177,7 +4192,7 @@
                                     xml:id="stage.t.8">prekinjena ob 9.20</time> uri in se je <time
                                     from="10:40:00" xml:id="stage.t.9">nadaljevala ob 10.40
                                     uri</time>.)</stage>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Tovarišice in tovariši delegati! Nadaljujemo sejo zbora.</p>
                                 <p>Preden preidemo na 2. točko, bi zbor obvestil, da sta pooblastili
@@ -4188,7 +4203,7 @@
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="2">
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <p>Prehajamo na 2. točko dnevnega reda, to je na poročilo Zveznega
                                     izvršnega sveta o uresničevanju družbenega plana Jugoslavije za
                                     obdobje 1981-1985 v letih 1983 in 1984 z oceno možnosti razvoja
@@ -4255,7 +4270,7 @@
                                     reševali v okviru države, če bi prišlo do združevanja dela in
                                     sredstev na ekonomski in ne administrativni podlagi. Hvala.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Besedo ima Tone Krašovec, predstavnik Ljubljanske banke -
                                     Združene banke.</p>
@@ -4391,7 +4406,7 @@
                                     združenega dela, bodo predstavniki banke takrat več spregovorili
                                     o tej pereči problematiki. Hvala lepa!</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Besedo ima tovariš Samo Vidmar, področje gospodarstva, 17.
                                     okoliš, Nova Gorica.</p>
@@ -4468,7 +4483,7 @@
                                     gospodarskega sodelovanja ter tako tudi formalno zadostiti
                                     jasnim določbam sporazumov. Hvala lepa!</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Besedo ima tovariš Marko Bulc, predsednik Gospodarske zbornice
                                     Slovenije.</p>
@@ -4785,7 +4800,7 @@
                                 <p>Predlagam, tovarišice in tovariši delegati, da s temi stališči
                                     dopolnite vaše sklepe. Hvala lepa.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Besedo ima tovariš Jože Matjašec, področje gospodarstva, 46.
                                     okoliš, Murska Sobota.</p>
@@ -4906,7 +4921,7 @@
                                     konkretne rešitve, sicer se nam lahko zgodi, da bomo kljub
                                     manjši porabi mesa morali meso zopet uvažati. Hvala!</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Besedo ima Boris Lieber, področje obrti, 1. okoliš, Domžale.</p>
                             </sp>
@@ -5043,7 +5058,7 @@
                                     podrobno razreševali tudi v republikah' in pokrajinah. Hvala
                                     lepa!</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala lepa! Lista prijavljenih govornikov je s tem izčrpana.
                                     Sprašujem, ali želi še kdo razpravljati? (Ne.) Ker ne želi nihče
@@ -5062,7 +5077,7 @@
                                     xml:id="stage.t.11">nadaljevala ob 12.30 uri</time>.)</stage>
                         </div>
                         <div ana="#PAR.TDR" n="4">
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Nadaljujemo sejo zbora.</p>
                                 <p>Prehajamo na 4. točko dnevnega reda, to je na predlog za izdajo
@@ -5096,7 +5111,7 @@
                                     to pomeni, da bodo kriteriji za osebne dohodke enaki, kot so v
                                     gospodarstvu.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala. Pismenih prijav za razpravo k tej točki dnevnega reda
                                     nimam. Želi še kdo razpravljati? (Ne.) Če ne želi nihče
@@ -5127,7 +5142,7 @@
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="5">
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <p>Prehajamo na 5. točko dnevnega reda, to je na predlog zakona o
                                     obveznem posojilu SR Sloveniji v letu 1984.</p>
                                 <p>Predlog zakona je Skupščini SR Slovenije predložil v obravnavo
@@ -5152,7 +5167,7 @@
                                     se vrtimo v začaranem krogu. Te ugotovitve ponavljamo iz leta v
                                     leto brez posebnega uspeha.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala. Besedo ima tovariš Štefan Slaviček, področje gospodarstva,
                                     3. okoliš, Ljubljana Moste-Polje.<pb n="66"/>
@@ -5227,7 +5242,7 @@
                                         pokrajin.</item>
                                 </list>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala! Besedo ima tovariš Marjan Kobav, področje gospodarstva, 4.
                                     okoliš, Ljubljana Šiška.</p>
@@ -5255,7 +5270,7 @@
                                     obveznega posojila zavezancem ne povečuje akumulativnosti, pa
                                     tudi gospodarstva ne razbremenjuje.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala. Pismenih prijav za razpravo k tej točki nimam več. Želi še
                                     kdo od delegatov razpravljati? (Nihče.)</p>
@@ -5356,14 +5371,13 @@
                                     združevati. Mislimo, da bi bilo to mogoče, sočasno sprejemanje
                                     pa zaradi proceduralnih zadržkov ni mogoče .</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Mislim, da je delegat občine Ljubljana Šiška hotel povedati, da
                                     je treba take zvezne zakone, kadar gre recimo za odlaganje
                                     anuitet, sprejemati preden se lahko začnejo vnovčevati kuponi,
                                     ki iz tega naslova nastajajo. Zaradi tega smo pravzaprav prišli
-                                    tudi</p>
-                                <p>v Sloveniji v situacijo, da je moral Izvršni svet predlagati
+                                    tudi v Sloveniji v situacijo, da je moral Izvršni svet predlagati
                                     republiški zakon.</p>
                                 <p>Del organizacij združenega dela je že v obdobju januar-februar
                                     vnovčil kupone, februarja pa smo v Zboru republik in pokrajin
@@ -5392,7 +5406,7 @@
                                     način izpolnili obveznost. Zato moramo pač s posebnim zakonom
                                     zagotavljati ta sredstva.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Želi še kdo razpravljati? (Ne.)</p>
                                 <p>Če ne želi nihče več, potem zaključujem razpravo in dajem na
@@ -5406,7 +5420,7 @@
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="6">
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <p>Prehajamo na 6. točko dnevnega reda, to je na predlog za izdajo
                                     zakona o Višji upravni šoli s predlogom zakona.<pb n="69"/>
                                 </p>
@@ -5428,7 +5442,7 @@
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="7">
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <p>Prehajamo na 7. točko dnevnega reda, to je na osnutek zakona o
                                     spremembah zakona o skupnem znesku sredstev za financiranje
                                     programa graditve in modernizacije tehnične baze Radia
@@ -5488,7 +5502,7 @@
                                     gospodarske stabilizacije pred dobrim mesecem dni?</p>
                                 <pb n="70"/>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala lepa! Pismenih prijav za razpravo k tej točki nimam. Želi
                                     morda še kdo razpravljati? (Ne.) Želi morda predstavnik
@@ -5576,7 +5590,7 @@
                                     iz političnih razlogov in iz dogovorjene zakonske obveznosti
                                     podprete sprejem takega zakona.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala. Rad bi rekel, da naš sklep vsebuje dosti pripomb in
                                     delegaciji nalagamo, da se ta zakon obravnava v dvofaznem
@@ -5595,7 +5609,7 @@
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="8">
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <p>Prehajamo na 8. točko dnevnega reda, to je na osnutek zakona o
                                     dopolnitvah zakona o menjalniških poslih in prometu efektivnega
                                     tujega denarja v Jugoslaviji.</p>
@@ -5618,7 +5632,7 @@
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="3">
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <p>Prehajamo na 3. točko dnevnega reda, to je na poročilo o obsegu,
                                     vzrokih in načinu pokrivanja izgub, izkazanih v zaključnih
                                     računih za leto 1983.</p>
@@ -5924,7 +5938,7 @@
                                     da tega nismo uspešno rešili. To pomeni, da moramo k temu
                                     problemu pristopiti bistveno drugače.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala! Ker sem obveščen, da je medzborovska skupina delegatov k
                                     2. točki dnevnega reda končala svoje delo, predlagam, da
@@ -6017,7 +6031,7 @@
                                     bile izčrpane vse pripombe, ki so bile dane na vseh treh zborih,
                                     torej tudi na Zboru združenega dela.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala lepa! Želi o poročilu tovariša Bernota kdo razpravljati?
                                     (Da.) Besedo ima tovariš Jože Turnšek, področje gospodarstva,
@@ -6090,7 +6104,7 @@
                                     industrije.</p>
                                 <p>Samo toliko kot opozorilo.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Tovariš Turnšek, vašo razpravo sem razumel tako, da ne gre za
                                     neko konkretno dopolnitev teh stališč, ampak da bi ob obravnavi
@@ -6128,7 +6142,7 @@
                                 <p>Tovariš predsednik! Ne bom razpravljal, ker ste pravkar dali
                                     ustrezno napotilo.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>S tem sem mislil reči, da tisto, kar še ni precizno pripravljeno
                                     v sedanjih gradivih, lahko Izvršni svet ali banke pripravijo do
@@ -6163,7 +6177,7 @@
                                     pogovarjali o tej majski analizi 25. julija, dati resne
                                     smernice, kako bomo reševali inflacijo.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala lepa. Želi še kdo razpravljati? (Ne.) Če ne želi nihče,
                                     potem bi zaključil razpravo. Dajem predlog ugotovitev, stališč
@@ -6277,7 +6291,7 @@
                                     pokojninsko osnovo rudarjev in da se uredijo ostale pravice kot
                                     na primer benificirana doba in ostalo.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala. Besedo ima tovariš Jordan Blaževič, področje gospodarstva,
                                     14. okoliš, Radovljica.</p>
@@ -6344,7 +6358,7 @@
                                     odgovornost pri investicijah. Koliko časa bomo še plačevali
                                     zgrešene investicije in slabo delo? Hvala!</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala! Besedo ima Jože Skornšek, področje gospodarstva, 32.
                                     okoliš, Titovo Velenje.</p>
@@ -6468,7 +6482,7 @@
                                     Gorenja tako omogočijo uspešno nadaljevanje sanacije. Hvala
                                     lepa!</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala lepa! Besedo ima tovariš Štefan Slaviček, področje
                                     gospodarstva, 3. okoliš, Ljubljana Moste-Polje.</p>
@@ -6487,7 +6501,7 @@
                                     potrebno zagotoviti sistemski način pokrivanja izgub večjih
                                     izgubašev, in to na nivoju republike. Hvala.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala lepa! Besedo ima tovariš Vlado Bahč, področje gospodarstva,
                                     25. okoliš, Novo mesto.</p>
@@ -6640,7 +6654,7 @@
                                     prizadevanjem IMV-ja, zato predlagam, da jih podpre tudi
                                     Skupščina SR Slovenije.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala. Besedo ima tovariš Zdenko Cund, področje gospodarstva, 16.
                                     okoliš, Jesenice.</p>
@@ -6752,7 +6766,7 @@
                                         tudi sanacijo tekoče reprodukcije. Hvala lepa.</item>
                                 </list>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Besedo ima tovariš Stanko Ornik, področje gospodarstva, 41.
                                     okoliš, Maribor-Tabor.</p>
@@ -6802,7 +6816,7 @@
                                     oziroma kakšen cilj ima obravnava navedenega poročila, ki se iz
                                     leta v leto ponavlja.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala! S tem je lista prijavljenih razpravljalcev izčrpana. Želi
                                     še kdo razpravljati? (Da.) Besedo ima tovariš Brane Mišič,
@@ -6930,7 +6944,7 @@
                                     ki smo jih sprejeli danes, solidna osnova za nadaljnje
                                     aktivnosti in jih kaže v celoti podpreti. Hvala lepa!</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala! Besedo ima tovariš Franci Polak, namestnik družbenega
                                     pravobranilca samoupravljanja SR Slovenije.</p>
@@ -7004,7 +7018,7 @@
                                     Gospodarska zbornica aktivneje vključi v razreševanje vprašanj,
                                     o katerih sem govoril. Hvala lepa!</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala! Želi še kdo razpravljati? (Da.) Prosim, besedo ima tovariš
                                     Ivan Gorenc, predstavnik Gospodarske zbornice Slovenije.</p>
@@ -7038,7 +7052,7 @@
                                     nepravilna, ker je narejena s pomočjo računalnika, vendar pa v
                                     večjem delu upamo trditi, da to drži. Hvala lepa!</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Hvala! Želi še kdo razpravljati? (Nihče.) Če ne, potem bi k tej
                                     razpravi rekel tole.</p>
@@ -7165,7 +7179,7 @@
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="9">
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <p>Prehajamo na 9. točko dnevnega reda, to so volitve in
                                     imenovanja.</p>
                                 <list type="ordered">
@@ -7311,7 +7325,7 @@
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="10">
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <p>Prehajamo na 10. točko dnevnega reda, to so pobude, predlogi in
                                     vprašanja delegatov.</p>
                                 <p>Pri tej točki dnevnega reda obravnavamo tudi analizo o delovanju
@@ -7404,7 +7418,7 @@
                                     xml:id="stage.t.12">prekinjena ob 15.25 uri</time> in se je
                                     <time from="15:30:00" xml:id="stage.t.13">nadaljevala ob 15.30
                                     uri</time>)</stage>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Nadaljujemo sejo zbora.</p>
                                 <p>Vračamo se na 3. točko dnevnega reda, to je na' poročilo o
@@ -7498,7 +7512,7 @@
                                 <p>To so pripombe, za katere je skupina menila, da jih je potrebno
                                     upoštevati.</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Tovariš Krivec! Ali nisi k 6. točki zadnji stavek drugega
                                     odstavka pozabil povedati, da predlagate, da se le-ta črta?
@@ -7509,7 +7523,7 @@
                                 <speaker>Bernard Krivec:</speaker>
                                 <p>To se črta!</p>
                             </sp>
-                            <sp>
+                            <sp who="#sp.MlinarMartin">
                                 <speaker>Predsednik Martin Mlinar:</speaker>
                                 <p>Naj še enkrat ponovim, črta se zadnji stavek drugega odstavka 6.
                                     točke, ki se glasi: "Proučiti je treba možnosti združevanja
