@@ -39,7 +39,7 @@
                 <date when="2014-12-21+01:00">21. 12. 2014</date>
             </publicationStmt>
             <sourceDesc>
-                <biblStruct xml:id="sistory.15841">
+                <biblStruct>
                     <analytic xml:id="sistory.15842">
                         <idno>SISTORY:ID:15842#page=4</idno>
                         <title xml:lang="slv" type="main" level="a">Zbor združenega dela, 35. seja
@@ -64,7 +64,7 @@
                         <textLang xml:lang="slv" mainLang="slv">slovenski</textLang>
                         <textLang xml:lang="eng" mainLang="slv">Slovenian</textLang>
                     </analytic>
-                    <monogr>
+                    <monogr xml:id="sistory.15841">
                         <title xml:lang="slv" type="main" level="m">Sejni zapisi Skupščine
                             Socialistične republike Slovenije za 9. sklic (1982-1986), št. zvezka
                             18</title>
@@ -146,7 +146,7 @@
                 <name>Marta Rendla</name>: pregled in poprava OCR </change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text corresp="#sistory.15841">
         <front>
             <docTitle>
                 <titlePart>SKUPŠČINA SOCIALISTIČNE REPUBLIKE SLOVENIJE</titlePart>
@@ -200,7 +200,7 @@
             <pb n="1"/>
             <div ana="#PAR.ZbZdruDel">
                 <p>ZBOR ZDRUŽENEGA DELA</p>
-                <div ana="#PAR.Seja" n="35">
+                <div ana="#PAR.Seja" n="35" corresp="#sistory.15842">
                     <head>35. SEJA</head>
                     <docDate when="1984-06-20">(20. junija 1984)</docDate>
                     <castList>
@@ -3951,7 +3951,7 @@
             <pb n="50"/>
             <div ana="#PAR.ZbZdruDel">
                 <head>ZBOR ZDRUŽENEGA DELA</head>
-                <div ana="#PAR.Seja" n="36">
+                <div ana="#PAR.Seja" n="36" corresp="#sistory.15843">
                     <head>36. SEJA</head>
                     <docDate when="1984-07-11">(11. JULIJA 1984)</docDate>
                     <castList>

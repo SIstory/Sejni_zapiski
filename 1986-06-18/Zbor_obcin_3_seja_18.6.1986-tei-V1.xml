@@ -36,7 +36,7 @@
                 <date when="2014-12-22+01:00">22. 12. 2014</date>
             </publicationStmt>
             <sourceDesc>
-                <biblStruct xml:id="sistory.16143">
+                <biblStruct>
                     <analytic xml:id="sistory.16144">
                         <idno>SISTORY:ID:16144#page=3</idno>
                         <title xml:lang="slv" type="main" level="a">Zbor občin, 3. seja (18. junij
@@ -47,7 +47,7 @@
                         <textLang xml:lang="slv" mainLang="slv">slovenski</textLang>
                         <textLang xml:lang="eng" mainLang="slv">Slovenian</textLang>
                     </analytic>
-                    <monogr>
+                    <monogr xml:id="sistory.16143">
                         <title xml:lang="slv" type="main" level="m">Sejni zapisi Skupščine
                             Socialistične republike Slovenije za 10. sklic (1986-1990), št. zvezka
                             52</title>
@@ -139,7 +139,7 @@
                 <name>Marta Rendla</name>: pregled in poprava OCR</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text corresp="#sistory.16143">
         <front>
             <docTitle>
                 <titlePart>ZBOR OBČIN<lb/> SKUPŠČINE REPUBLIKE SLOVENIJE</titlePart>
@@ -444,7 +444,7 @@
         <body>
             <div ana="#PAR.ZbObc">
                 <head>ZBOR OBČIN <lb/>SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE</head>
-                <div ana="#PAR.Seja" n="3">
+                <div ana="#PAR.Seja" n="3" corresp="#sistory.16144">
                     <head>3. seja</head>
                     <docDate when="1986-06-18">(18. junij 1986)</docDate>
                     <timeline origin="#TL.1" unit="min">

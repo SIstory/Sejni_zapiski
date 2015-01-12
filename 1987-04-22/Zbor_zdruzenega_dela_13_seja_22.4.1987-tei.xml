@@ -35,7 +35,7 @@
             <date when="2015-01-11+01:00">11. 1. 2015</date>
          </publicationStmt>
          <sourceDesc>
-            <biblStruct xml:id="sistory.16050">
+            <biblStruct>
                <analytic xml:id="sistory.16051">
                   <idno>SISTORY:ID:16051#page=3</idno>
                   <title xml:lang="slv" type="main" level="a">Zbor združenega dela, 13. seja (22.
@@ -45,7 +45,7 @@
                   <textLang xml:lang="slv" mainLang="slv">slovenski</textLang>
                   <textLang xml:lang="eng" mainLang="slv">Slovenian</textLang>
                </analytic>
-               <monogr>
+               <monogr xml:id="sistory.16050">
                   <title xml:lang="slv" type="main" level="m">Sejni zapisi Skupščine Socialistične
                      republike Slovenije za 10. sklic (1986-1990), št. zvezka 12</title>
                   <title xml:lang="slv" type="sub" level="m">Zbor združenega dela, 13. seja (22.
@@ -134,7 +134,7 @@
             <name>Marta Rendla</name>: pregled in poprava OCR v DOCX</change>
       </revisionDesc>
    </teiHeader>
-   <text>
+   <text corresp="#sistory.16050">
       <front>
          <docTitle>
             <titlePart>ZBOR ZDRUŽENEGA DELA SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE</titlePart>
@@ -432,7 +432,7 @@
       <body>
          <div ana="#PAR.ZbZdruDel">
             <head>ZBOR ZDRUŽENEGA DELA SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE</head>
-            <div ana="#PAR.Seja">
+            <div ana="#PAR.Seja" n="13" corresp="#sistory.16051">
                <head>13. Seja</head>
                <docDate>(22. april 1987)</docDate>
                <castList>

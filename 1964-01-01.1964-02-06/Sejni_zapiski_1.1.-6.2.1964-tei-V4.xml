@@ -37,7 +37,7 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <biblStruct xml:id="sistory.27356">
+                <biblStruct>
                     <analytic xml:id="sistory.27357">
                         <idno type="URN">SISTORY:ID:27357#page=5</idno>
                         <title xml:lang="sl" type="main" level="a">Republiški zbor</title>
@@ -87,7 +87,7 @@
                         <textLang xml:lang="sl" mainLang="slv">slovenski</textLang>
                         <textLang xml:lang="en" mainLang="slv">Slovenian</textLang>
                     </analytic>
-                    <monogr>
+                    <monogr xml:id="sistory.27356">
                         <idno type="URN">SISTORY:ID:27356</idno>
                         <title xml:lang="sl" type="main" level="m">Sejni zapiski Skupščine
                             Socialistične republike Slovenije</title>
@@ -203,7 +203,7 @@
                 Sejni_zapiski_1.1.-6.2.1964-tei.xml (verzija 1: V1)</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text corresp="#sistory.27356">
         <front>
             <titlePage>
                 <titlePart type="main">SEJNI ZAPISKI <lb/>SKUPŠČINE SOCIALISTIČNE REPUBLIKE
@@ -219,7 +219,7 @@
             <div ana="#PAR.RepZb">
                 <pb n="3" xml:id="pb.3"/>
                 <head>REPUBLIŠKI ZBOR</head>
-                <div ana="#PAR.Seja" n="6">
+                <div ana="#PAR.Seja" n="6" corresp="#sistory.27357">
                     <head>6. seja</head>
                     <docDate when="1964-01-31">(31. januarja 1964)</docDate>
                     <timeline origin="#TL-RZ.1" unit="min">
@@ -4964,7 +4964,7 @@
             <div ana="#PAR.GospZb">
                 <pb n="68" xml:id="pb.68"/>
                 <head>GOSPODARSKI ZBOR</head>
-                <div ana="#PAR.Seja" n="5">
+                <div ana="#PAR.Seja" n="5" corresp="#sistory.27358">
                     <head>5. seja</head>
                     <docDate when="1964-01-31">(31. januarja 1964)</docDate>
                     <timeline origin="#TL-GZ.1" unit="min">
@@ -5864,7 +5864,7 @@
             <div ana="#PAR.ProsKulZb">
                 <pb n="82" xml:id="pb.82"/>
                 <head>PROSVETNO-KULTURNI ZBOR</head>
-                <div ana="#PAR.Seja" n="5">
+                <div ana="#PAR.Seja" n="5" corresp="#sistory.27359">
                     <head>5. seja</head>
                     <docDate when="1964-01-29">(29. januarja 1964)</docDate>
                     <timeline origin="#TL-PKZ.1" unit="min">
@@ -8499,7 +8499,7 @@
             <div ana="#PAR.OrgPolZb">
                 <pb n="123" xml:id="pb.123"/>
                 <head>ORGANIZACIJSKO - POLITIČNI ZBOR</head>
-                <div ana="#PAR.Seja" n="6">
+                <div ana="#PAR.Seja" n="6" corresp="#sistory.27360">
                     <head>6. seja</head>
                     <docDate when="1964-02-06">(6. februarja 1964)</docDate>
                     <timeline origin="#TL-OPZ.1" unit="min">
@@ -13266,7 +13266,7 @@
                 </div>
             </div>
         </body>
-        <back>
+        <back corresp="#sistory.27361">
             <div type="appendix">
                 <pb n="198" xml:id="pb.198"/>
                 <head>PRILOGE</head>

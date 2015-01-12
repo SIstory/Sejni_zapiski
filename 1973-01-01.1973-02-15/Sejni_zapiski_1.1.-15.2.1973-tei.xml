@@ -35,7 +35,7 @@
             <date when="2014-12-18+01:00">18. 12. 2014</date>
          </publicationStmt>
          <sourceDesc>
-            <biblStruct xml:id="sistory.27204">
+            <biblStruct>
                <analytic xml:id="sistory.27205">
                   <idno>SISTORY:ID:27205#page=5</idno>
                   <title xml:lang="slv" type="main" level="a">Republiški zbor</title>
@@ -118,7 +118,7 @@
                   <textLang xml:lang="slv" mainLang="slv">slovenski</textLang>
                   <textLang xml:lang="eng" mainLang="slv">Slovenian</textLang>
                </analytic>
-               <monogr>
+               <monogr xml:id="sistory.27204">
                   <title xml:lang="slv" type="main" level="m">Sejni zapiski Skupščine Socialistične
                      republike Slovenije, št. 25</title>
                   <title xml:lang="slv" type="sub" level="m">Seje od 1. I. 1973 do 15. II.
@@ -226,7 +226,7 @@
             <name>Marta Rendla</name>: pregled in poprava OCR </change>
       </revisionDesc>
    </teiHeader>
-   <text>
+   <text corresp="#sistory.27204">
       <front>
          <titlePage>
             <titlePart type="main">SEJNI ZAPISKI SKUPŠČINE SOCIALISTIČNE REPUBLIKE
@@ -242,7 +242,7 @@
          <pb n="3" xml:id="pb.3"/>
          <div ana="#PAR.RepZb">
             <head>REPUBLIŠKI ZBOR</head>
-            <div ana="#PAR.Seja" n="52">
+            <div ana="#PAR.Seja" n="52" corresp="#sistory.27205">
                <head>52. seja </head>
                <docDate when="1973-01-24">(24. januarja 1973)</docDate>
                <timeline origin="#TL-RZ.1" unit="min">
@@ -3589,7 +3589,7 @@
                   </div>
                </div>
             </div>
-            <div ana="#PAR.Seja" n="53">
+            <div ana="#PAR.Seja" n="53" corresp="#sistory.27206">
                <head>53. seja </head>
                <docDate when="1973-02-14">(14. februarja 1973)</docDate>
                <timeline origin="#TL-RZ.6" unit="min">
@@ -6172,7 +6172,7 @@
          </div>
          <div ana="#PAR.GospZb">
             <head>GOSPODARSKI ZBOR</head>
-            <div ana="#PAR.Seja" n="49">
+            <div ana="#PAR.Seja" n="49" corresp="#sistory.27207">
                <head>49. seja </head>
                <docDate when="1973-01-23">(23. januarja 1973)</docDate>
                <timeline origin="#TL-RZ.7" unit="min">
@@ -8505,7 +8505,7 @@
          </div>
          <div ana="#PAR.ProsKulZb">
             <head>PROSVETNO-KULTURNI ZBOR</head>
-            <div ana="#PAR.Seja" n="41">
+            <div ana="#PAR.Seja" n="41" corresp="#sistory.27208">
                <head>41. seja</head>
                <docDate when="1973-01-23">(23. januarja 1973)</docDate>
                <timeline origin="#TL-RZ.10" unit="min">
@@ -10250,7 +10250,7 @@
          </div>
          <div ana="#PAR.SocZdrZb">
             <head>SOCIALNO - ZDRAVSTVENI ZBOR </head>
-            <div ana="#PAR.Seja" n="41">
+            <div ana="#PAR.Seja" n="41" corresp="#sistory.27209">
                <head>41. seja</head>
                <docDate when="1973-01-24">(24. januarja 1973)</docDate>
                <timeline origin="#TL-RZ.11" unit="min">
@@ -11348,7 +11348,7 @@
          </div>
          <div ana="#PAR.EnotZbDelSkup">
             <head>ENOTNI ZBOR DELOVNIH SKUPNOSTI </head>
-            <div ana="#PAR.Seja" n="25">
+            <div ana="#PAR.Seja" n="25" corresp="#sistory.27210">
                <head>25. seja </head>
                <docDate when="1973-01-24">(24. januarja 1973)</docDate>
                <timeline origin="#TL-RZ.12" unit="min">
@@ -14237,7 +14237,7 @@
          </div>
          <div ana="#PAR.ZasDelObc">
             <head>ZASEDANJE DELEGATOV OBČIN</head>
-            <div ana="#PAR.Zasedanje" n="30">
+            <div ana="#PAR.Zasedanje" n="30" corresp="#sistory.27212">
                <head>30. zasedanje</head>
                <docDate when="1973-01-17">(17. januarja 1973)</docDate>
                <timeline origin="#TL-RZ.16" unit="min">
@@ -16580,7 +16580,7 @@
                   </div>
                </div>
             </div>
-            <div ana="#PAR.Zasedanje" n="31">
+            <div ana="#PAR.Zasedanje" n="31" corresp="#sistory.27211">
                <head>31. zasedanje</head>
                <docDate when="1973-02-08">(8. februarja 1973)</docDate>
                <timeline origin="#TL-RZ.18" unit="min">
@@ -18149,7 +18149,7 @@
             </div>
          </div>
       </body>
-      <back>
+      <back corresp="#sistory.27213">
          <div type="appendix">
             <head>PRILOGE</head>
             <p>Poročila odborov in komisij, ki k temeljnemu aktu ne predlagajo sprememb ali
