@@ -35,15 +35,16 @@
       </revisionDesc>
    </teiHeader>
    <text>
-      <body>
-         <p>ZBOR OBČIN SKUPŠČINESOCIALISTIČNE REPUBLIKE SLOVENIJE</p>
-         <p>
-            <anchor xml:id="bookmark1"/>Sejni zapiski</p>
-         <p>43. seja - 26. julij 1989</p>
-         <div>
-            <head>VSEBINA ZBOR OBČIN</head>
-            <p>SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE (43. seja - 26. julij 1989)</p>
-            <p>PRED DNEVNIM REDOM:	STRAN:</p>
+      <front>
+         <docTitle>
+            <titlePart>ZBOR OBČIN SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE</titlePart>
+            <titlePart>Sejni zapiski</titlePart>
+            <titlePart>43. seja - 26. julij 1989</titlePart>
+         </docTitle>
+         <div type="contents">
+            <head>VSEBINA</head>
+            <p>ZBOR OBČIN SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE (43. seja - 26. julij 1989)</p>
+            <p>PRED DNEVNIM REDOM:</p>
             <list type="ordered">
                <item>1.Izvolitev verifikacije komisije in poročilo 	 1</item>
             </list>
@@ -197,6 +198,8 @@
             <p>Vračič Matija 	 26</p>
             <p>Žmavc Gorazd 	 16, 70</p>
          </div>
+      </front>
+      <body>
          <pb/>
          <div>
             <head>ZBOR OBČIN SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE</head>
@@ -232,8 +235,8 @@
                   <p>Ugotavljam, da je zbor soglasno potrdil poročilo Komisije za verifikacijo pooblastil in imunitetna vprašanja ter s tem verificiral pooblastila delegatov za 43. sejo Zbora občin. Hkrati ugotavljam, da je zbor sklepčen in da lahko pravno veljavno razpravlja in sklepa.</p>
                   <p>Na sejo zbora so bili poleg predstavnikov Izvršnega sveta Skupščine SR Slovenije povabljeni še: Republiška konferenca SZDL Slovenije, Republiški svet Zveze sindikatov Slovenije in Skupnost slovenskih občin k vsem točkam dnevnega reda. Seji zbora prisostvujejo tudi poročevalci delovnih teles zbora in skupščine ni naše delegacije v Zboru republik in pokrajin Skupščine SFRJ.</p>
                   <p>Prehajamo na določitev dnevnega reda 43. seje zbora.</p>
-                  <p>Z dopisom 11. in	 17. 	julija 	1989 ste bili 	obveščeni, da bo predlog dnevnega reda seje razširjen še z naslednjima točkama, in sicer:</p>
-                  <p>1. Predlog za izdajo 	zakona o	 spremembi 	zakona o pokojninskem in invalidskem zavarovanju, s predlogom zakona in 2. Predlog zakona o spremembah zakona o določitvi obveznosti plačevanja prispevka za pospeševanje družbeno organizirane tržne proizvodnje hrane, zagotavljanje nemotene osnovne oskrbe in za blagovne rezerve.</p>
+                  <p>Z dopisom 11. in 17. julija 1989 ste bili	obveščeni, da bo predlog dnevnega reda seje razširjen še z naslednjima točkama, in sicer:</p>
+                  <p>1. Predlog za izdajo zakona o spremembi zakona o pokojninskem in invalidskem zavarovanju, s predlogom zakona in 2. Predlog zakona o spremembah zakona o določitvi obveznosti plačevanja prispevka za pospeševanje družbeno organizirane tržne proizvodnje hrane, zagotavljanje nemotene osnovne oskrbe in za blagovne rezerve.</p>
                </sp>
                <pb/>
                <sp>
