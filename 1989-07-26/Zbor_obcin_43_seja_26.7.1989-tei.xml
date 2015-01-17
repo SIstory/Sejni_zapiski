@@ -123,7 +123,7 @@
             <name>Marta Rendla</name>: pregled in poprava OCR v DOCX</change>
       </revisionDesc>
    </teiHeader>
-   <text>
+   <text corresp="#sistory.16217">
       <front>
          <docTitle>
             <titlePart>ZBOR OBČIN SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE</titlePart>
@@ -389,7 +389,7 @@
       <body>
          <div ana="#PAR.ZbObc">
             <head>ZBOR OBČIN SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE</head>
-            <div ana="#PAR.Seja">
+            <div ana="#PAR.Seja" corresp="#sistory.16218">
                <head>43. Seja</head>
                <docDate>(26. junij 1989)</docDate>
                <castList>
