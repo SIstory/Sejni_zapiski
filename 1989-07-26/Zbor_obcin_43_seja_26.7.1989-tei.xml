@@ -365,7 +365,7 @@
                         občin</role>.</castItem>
                </castList>
                <p>Seja se je začela ob 9.00 uri.</p>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Tovarišice in tovariši delegati! Vsem skupaj lep pozdrav. Pričenjam 43. sejo
                      Zbora občin Skupščine Socialistične republike Slovenije.</p>
@@ -408,7 +408,7 @@
                   <p>Komisija je končala z delom. Tovariš predsednik, prosim, da podate poročilo.
                      Tovariš Grom iz Skupščine občine Vrhnika.</p>
                </sp>
-               <sp>
+               <sp who="#sp.GromTomaž">
                   <speaker>TOMAŽ GROM:</speaker>
                   <p>Poročilo komisije za 43. sejo Zbora občin, sklicana za 26. julija 1989 v mali
                      dvorani v poslopju Skupščine SR Slovenije, Ljubljana, Šubičeva 4.</p>
@@ -423,7 +423,7 @@
                      jih delegati predložili, neoporečna. Zato predlaga, da zbor poročilo sprejme in
                      s tem verificira pooblastila delegatov za današnjo 43. sejo Zbora občin.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala lepa, tovariš predsednik! Odpiram razpravo o poročilu. Želi kdo besedo?
                      Upam, da se nam bodo manjkajoči delegati priključili med sejo.</p>
@@ -452,7 +452,7 @@
                   <p>Ta predlog dajem v razpravo. Želi kdo besedo? Prosim, besedo ima Lado Škrjanec,
                      Skupščina občine Domžale.</p>
                </sp>
-               <sp>
+               <sp who="#sp.ŠkrjanecLado">
                   <speaker>LADO ŠKRJANEC:</speaker>
                   <p>Delegacija iz Domžal ima pripombo na predlog zakona o spremembah zakona o
                      določitvi obveznosti plačevanja prispevka za pospeševanje družbeno organizirane
@@ -463,7 +463,7 @@
                      preložilo odločanje in v kolikor ta zakon mora biti sprejet ali bo prišel na
                      dnevni red, nimam pooblastila za glasovanje.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala lepa, tovariš delegat. Moram vam reči, da o teh razširitvah odločamo na
                      dva načina, prvič glede razširitve in drugič glede postopka. Sedaj pa govorimo
@@ -525,7 +525,7 @@
                      stališče delegata iz občine Domžale. Želi še kdo razpravljati? Prosim, besedo
                      ima tovariš Kučan, Skupščina občine Murska Sobota.</p>
                </sp>
-               <sp>
+               <sp who="#sp.KučanJanez">
                   <speaker>JANEZ KUČAN:</speaker>
                   <p>Tovariš predsednik, tovariši delegati!</p>
                   <p>Mislim, da je po dolgem času Izvršni svet Skupščine SR Slovenije hitro ukrepal
@@ -533,12 +533,12 @@
                      intervencije. Kot predstavnik občine, ki čuti te probleme, bi predlagal, da to
                      točko damo na dnevni red, in to po hitrem postopku.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala lepa. Besedo ima Lojze Klemenčič, predsednik Republiškega komiteja za
                      tržišče in splošne gospodarske zadeve.</p>
                </sp>
-               <sp>
+               <sp who="#sp.KlemenčičLojze">
                   <speaker>LOJZE KLEMENČIČ:</speaker>
                   <p>Kljub temu, da je predsednik že ugotovil, da se čuti podpora temu predlogu, je
                      prav, da spregovorim nekaj besed, da je ta pobuda prisotna že dalj časa.
@@ -550,7 +550,7 @@
                      izplačala razlike pri ceni mleka. Zato predlagamo, da se ta zakon obravnava po
                      hitrem postopku. Hvala.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Stvari so jasne. Po 314. členu poslovnika sem predlagal obravnavo 2 aktov,
                      vendar zaradi pripomb, ki so bile, predlagam, da glasujemo o vsakem
@@ -615,9 +615,10 @@
                      dvorano, v I. nadstropje, kjer bomo opravili skupno zasedanje. Prosim vas, da
                      ste pozorni na to, če Zbor združenega dela še zaseda, ne hodite prej v dvorano.
                      S tem prekinjam sejo Zbora občin. Hvala.</p>
-                  <p>(Seja je bila prekinjena ob 9.25 uri in se je nadaljevala ob 10.30 uri.)</p>
                </sp>
-               <sp>
+               <stage type="time">(Seja je bila prekinjena ob 9.25 uri in se je nadaljevala ob 10.30
+                  uri.)</stage>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Nadaljujemo sejo zbora. Izkoristil bom vaše pooblastilo, ki ste mi ga dali in
                      predlagam, da preskočimo 2., 3. in 4. točko in najprej obravnavamo 5. oziroma
@@ -634,7 +635,7 @@
                      besedo? Prosim. Besedo ima tovariš Kalčič, namestnik predsednika Republiškega
                      komiteja za delo.</p>
                </sp>
-               <sp>
+               <sp who="#sp.KalčičMiran">
                   <speaker>MIRAN KALČIČ:</speaker>
                   <p>Tovarišice in tovariši delegati, tovariš predsednik! Čeprav mislim, da je
                      problem, ki ga rešujemo z začasno rešitvijo v okviru dopolnitve zakona o
@@ -695,7 +696,7 @@
                      skrajšanem postopku.</p>
                   <p>Sem pa pripravljen dati še vse ostale potrebne informacije. Hvala lepa.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p> Glede postopka smo se dogovorili. Mislim, da glede tega med nami ni nobenega
                      spornega vprašanja.</p>
@@ -751,7 +752,7 @@
                      besedo? (Ne.) Pričenjam razpravo in dajem besedo tovarišu Vukašinu Lutovcu,
                      delegatu občine Ljubljana-Šiška.</p>
                </sp>
-               <sp>
+               <sp who="#sp.LutovacVukašin">
                   <speaker>VUKAŠIN LUTOVAC:</speaker>
                   <p>Spoštovani tovarišice in tovariši delegati! Po uvodni besedi predsednika
                      skupščine bi na kratko lahko rekel sam zase, da bi zaslužila ustavna komisija
@@ -811,11 +812,11 @@
                      se mi ne zdi v redu in lahko bi bilo tudi to vprašanje odprto, saj imamo še en
                      mesec časa. Hvala.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala lepa. Besedo ima Franc Perko, Skupščina občine Cerknica.</p>
                </sp>
-               <sp>
+               <sp who="#sp.PerkoFranc">
                   <speaker>FRANC PERKO:</speaker>
                   <p>Tovariš predsednik, tovarišice in tovariši delegati! V naši delegaciji smo
                      obravnavali ustavne amandmaje in ugotovili tudi, da je predlaganih vrsta dobrih
@@ -865,11 +866,11 @@
                      bodo lahko opravljali splošno koristne vloge gozda. Predlagamo tudi, da se
                      obrazložitev pri 17. amandmaju spremeni.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala lepa. Besedo ima Pavla Križman, Skupščina občine Koper.</p>
                </sp>
-               <sp>
+               <sp who="#sp.KrižmanPavla">
                   <speaker>PAVLA KRIŽMAN:</speaker>
                   <p>Skupina delegatov je na svoji redni seji obravnavala tudi predlog
                      Veterinarskega zavoda Primorske, Sežana za dopolnitev delovnega besedila
@@ -889,12 +890,12 @@
                      delegatov, vendar danes ni pooblaščen oziroma ni prisoten, zato bi lahko sam
                      podal obrazložitev.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Ne, lahko oddate pisno in to velja enako, kot če obrazložite ustno.</p>
                   <p>Besedo ima tovariš Jože Kerekeš, delegat Skupščine mesta Ljubljane.</p>
                </sp>
-               <sp>
+               <sp who="#sp.KerekešJože">
                   <speaker>JOŽE KEREKEŠ:</speaker>
                   <p>Skupina delegatov je na svoji seji obravnavala delovni predlog amandmajev k
                      ustavi SR Slovenije in sprejela naslednje predloge:</p>
@@ -928,12 +929,12 @@
                      dopustov nekoliko prekratek, ne vem pa, kaj bodo o tem menili ostali.</p>
                </sp>
                <pb n="13" xml:id="pb.13"/>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p> Prijavljenih razpravljavcev ni več. Sprašujem, kdo še želi besedo? Besedo ima
                      tovariš Borut Plavšak, Skupščina občine Ljubljana-Center.</p>
                </sp>
-               <sp>
+               <sp who="#sp.PlavšakBorut">
                   <speaker>BORUT PLAVŠAK:</speaker>
                   <p> Spoštovani tovariš predsednik, spoštovane tovarišice in tovariši delegati!
                      Danes delegati v slovenski skupščini zaključujemo neko daljše obdobje ustavnih
@@ -1031,12 +1032,12 @@
                      počitnic, ampak bo treba tudi na podlagi naših razprav na današnjih zborih
                      verjetno morebitno spremeniti besedilo predloga amandmajev. Hvala lepa.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala lepa. Besedo ima tovariš Jože Damiš, delegat Skupščine občine
                      Maribor-Pobrežje.</p>
                </sp>
-               <sp>
+               <sp who="#sp.DamišJože">
                   <speaker>JOŽE DAMIŠ:</speaker>
                   <p>Tovarišice in tovariši delegati, tovariš predsedniki Skupina delegatov je
                      obravnavala delovno gradivo predloga amandmajev k Ustavi SR Slovenije in ob
@@ -1072,11 +1073,11 @@
                      področje, da je logično, da je v Ustavnem zakonu naveden.</p>
                </sp>
                <pb n="16" xml:id="pb.16"/>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>To je lapsus. Hvala lepa. Besedo ima Gorazd Žmavc, Skupščina občine Ptuj.</p>
                </sp>
-               <sp>
+               <sp who="#sp.ŽmavcGorazd">
                   <speaker>GORAZD ŽMAVC:</speaker>
                   <p>Tovarišice in tovariši delegati! V celoti podpiramo predlog amandmajev. Hkrati
                      bi pa ob tem rad poudaril, da morda to gradivo lahko pomeni novo kvaliteto
@@ -1108,11 +1109,11 @@
                      spremembo v tej varianti 2, da Zbor občin in Družbenopolitični zbor postaneta
                      Splošno politični zbor.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala lepa. Besedo ima Ivica Kavčič, Skupščina občine Idrija.</p>
                </sp>
-               <sp>
+               <sp who="#sp.KavčičIvica">
                   <speaker>IVICA KAVČIČ:</speaker>
                   <p>Tovariš predsednik, tovarišice in tovariši delegati! Tudi v naši občini
                      mislimo, da je predlog amandmajev dobro dopolnjen in da ga je prav gotovo možno
@@ -1136,14 +1137,14 @@
                      prebivalstvo. Ta zbor naj bi imel vse pristojnosti.</p>
                   <p>Glede Predsedstva SR Slovenije pa podpiram predlog Ljubljana-Center.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala lepa. Želi še kdo besedo? Pisne razprave na to temo smo dobili iz občin
                      Ljubljana Vič-Rudnik, Mozirje, Postojna, Koper, Ljutomer. To gradivo bo
                      sestavni del razprave. Besedo ima tovariš Janko Česnik predstavnik Komisije
                      Skupščine SR Slovenije za ustavna vprašanja.</p>
                </sp>
-               <sp>
+               <sp who="#sp.ČesnikJanko">
                   <speaker>JANKO ČESNIK:</speaker>
                   <p>Spoštovani predsednik, spoštovani delegati in delegatke! Ni odveč poudariti, da
                      bo ustavna komisija podrobno proučila vse predloge, ki so bili danes dani na to
@@ -1185,12 +1186,12 @@
                      dopolnite s svojimi predlogi, tako da bo ustavna komisija lahko zaključila
                      svoje delo. Hvala.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala lepa. Želi še kdo besedo? Besedo ima tovarišica Ivica Kavčič, Skupščina
                      občine Idrija.</p>
                </sp>
-               <sp>
+               <sp who="#sp.KavčičIvica">
                   <speaker>IVICA KAVČIČ:</speaker>
                   <p>Glede tega, da bi se občinske skupščine izjasnjevale o pristojnosti zborov,
                      predlagam večjo aktivnost s strani republiške skupščine ali ustavne komisije. V
@@ -1204,7 +1205,7 @@
                      za tako ali drugačno pristojnost in tudi številčnost posameznih zborov.
                      Hvala.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Razpravo bi zaključil. Vzemite v roke predlog sklepa. Najprej bi predlagal, da
                      popravimo napako, ki je nastala pri pisanju tega sklepa v 4. točki. Predlagam
@@ -1243,7 +1244,7 @@
                      prihajalo do nesporazumov.</p>
                   <p>Besedo ima Vukašin Lutovac, Skupščina občine Ljubljana-Šiška.</p>
                </sp>
-               <sp>
+               <sp who="#sp.LutovacVukašin">
                   <speaker>VUKAŠIN LUTOVAC:</speaker>
                   <p>Pripombo imam k 5. točki sklepov. V razpravi nisem vztrajal na odložitvi
                      občinskih volitev, ampak na tem, da se ločijo lokalne volitve od državnih.
@@ -1257,7 +1258,7 @@
                      Vztrajam na tem predlogu, ker smo toliko razpravljali. To je potrebno, če
                      hočemo ljudje res voliti, sicer ustvarjamo ali nadaljujemo farso.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Tovariš Lutovac, to si povedal v razpravi, sedaj si predlog ponovil. Če
                      vztrajaš, sem za to, da mi o tem razpravljamo.</p>
@@ -1271,7 +1272,7 @@
                   <p>Besedo ima tovariš Tone Jerovšek, član Komisije Skupščine SR Slovenije za
                      ustavna vprašanja.</p>
                </sp>
-               <sp>
+               <sp who="#sp.JerovšekTone">
                   <speaker>TONE JEROVŠEK:</speaker>
                   <p>Tovarišice in tovariši delegati! Na ustavni komisiji je bila opravljena obsežna
                      in zelo hrupna razprava o predlogu, ki ga je danes dal tovariš Lutovac, da bi
@@ -1302,12 +1303,12 @@
                      opredeli. Mislim, da pa lahko sklep ostane nespremenjen. Verjetno o tem ni
                      potrebno dolgo razpravljati. Hvala lepa.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala lepa. Besedo ima tovariš Grozdan Šinigoj, Skupščina občine
                      Ajdovščina.</p>
                </sp>
-               <sp>
+               <sp who="#sp.ŠinigojGrozdan">
                   <speaker>GROZDAN ŠINIGOJ:</speaker>
                   <p>Tovariš predsednik, mojo skrb, da se taka sprememba o pristojnostih zborov
                      razširi tudi drugod, je že povedal tovariš Jerovšek in je ne bi ponavljal.</p>
@@ -1337,7 +1338,7 @@
                      razpravo tudi drugačna mnenja, vendar pa ne v obliki amandmajev, ampak v
                      dodatni obrazložitvi. Hvala lepa.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Glede sklepa, o katerem sedaj razpravljamo, predlagam, da ostane, glede na to,
                      da se vsi trije zbori o njem izrekajo, nespremenjen. Posebej bi poudaril to,
@@ -1393,7 +1394,7 @@
                   <p>S tem bi pričeli razpravo. Prijavljenih je 6 razpravljavcev.</p>
                   <p>Besedo ima Vili Treven, Skupščina občine Trbovlje.</p>
                </sp>
-               <sp>
+               <sp who="#sp.TrenvenVili">
                   <speaker>VILI TREVEN:</speaker>
                   <p>Tovarišice in tovariši delegati, tovariš predsednik! Na seji delegacije naše
                      občine smo pri obravnavi gradiva k tej točki dnevnega reda pripravili naslednjo
@@ -1452,11 +1453,11 @@
                      ustvarjalen način, ne pa z nervozo, izsiljevanjem ali celo z grožnjami s
                      stavkami. Hvala.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala lepa. Besedo ima Todor Dmitrovič, Skupščina občine Titovo Velenje.</p>
                </sp>
-               <sp>
+               <sp who="#sp.DmitrovičTodor">
                   <speaker>TODOR DMITROVIČ:</speaker>
                   <p>Tovariš predsednik, tovarišice in tovariši delegati! Delegati občine Velenje za
                      Zbor združenega dela in Zbor občin smo pri obravnavi tega poročila menili, da
@@ -1561,11 +1562,11 @@
                      za izhod in nezadovoljivega položaja. V podjetjih bomo naredili vse, kar je v
                      naši moči, vendar bo potrebno tudi razumevanje z druge strani. Hvala lepa.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala lepa. Besedo ima Matija Vračič, delegat Skupščine občine Lenart.</p>
                </sp>
-               <sp>
+               <sp who="#sp.VračičMatija">
                   <speaker>MATIJA VRAČIČ:</speaker>
                   <p>Tovariš predsednik, tovarišice in tovariši delegati! Naša skupina delegatov se
                      je sestala in obravnavala poročilo Izvršnega sveta Skupščine SR Slovenije glede
@@ -1605,11 +1606,11 @@
                      ki so v splošnem družbenem interesu, drugače bo razlika med posameznimi območji
                      lahko še večja kot doslej. Hvala lepa.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala lepa. Besedo ima Marjan Ašič, delegat Skupščine občine Celje.</p>
                </sp>
-               <sp>
+               <sp who="#sp.AšičMarjan">
                   <speaker>MARJAN AŠIČ:</speaker>
                   <p>Tovariš predsednik, tovarišice in tovariši delegati! Tudi naša skupina za Zbor
                      občin je vzela današnjo skupščino kot resno zadevo in se precej ukvarjala s
@@ -1704,11 +1705,11 @@
                      Slovenije o tej prioriteti izjasni in nam na način, kot je v skupščini običaj,
                      da pismeni odgovor kot na pobudo delegatov. Hvala lepa.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala lepa. Besedo ima Janez Kučan, Skupščina občine Murska Sobota.</p>
                </sp>
-               <sp>
+               <sp who="#sp.KučanJanez">
                   <speaker>JANEZ KUČAN:</speaker>
                   <p>Tovariš predsednik, tovarišice in tovariši delegati! Govoril bom o
                      kmetijstvu.</p>
@@ -1810,11 +1811,11 @@
                      mojem vse slovensko kmetijstvo ne začenja in ne konča z mlekom, živino in
                      mesom. Hvala.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Besedo ima Jože Kerekeš, delegat Skupščine Mesta Ljubljane.</p>
                </sp>
-               <sp>
+               <sp who="#sp.KerekešJože">
                   <speaker>JOŽE KEREKEŠ:</speaker>
                   <p>Ob obravnavi poročila Izvršnega sveta Skupščine SR Slovenije o izvajanju
                      družbenega plana smo v skupini delegatov Mesta Ljubljane imeli naslednje
@@ -1870,11 +1871,11 @@
                   <p>Ker imam še pripombe k majski analizi na področju zdravstva, bom le-te, da ne
                      bom predlog, oddal pisno. Hvala lepa.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala lepa. Besedo ima Boris Gabrič, Izobraževalna skupnost Slovenije.</p>
                </sp>
-               <sp>
+               <sp who="#sp.GabričBoris">
                   <speaker>BORIS GABRIČ:</speaker>
                   <p>Tovariš predsednik, tovariši delegati!</p>
                   <p>Rad bi bil zelo kratek, nekatere stvari pa je treba podčrtati glede na to, da
@@ -1894,11 +1895,11 @@
                      Slovenije, da te in tudi kopico drugih sklepov, ki jih je ta skupščina sprejela
                      ob razpravah o položaju v družbenih dejavnostih, v celoti uresniči.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala lepa. Besedo ima Ivica Kavčič, Skupščina občine Idrija.</p>
                </sp>
-               <sp>
+               <sp who="#sp.KavčičIvica">
                   <speaker>IVICA KAVČIČ:</speaker>
                   <p>Tovariš predsednik, tovariši delegati in tovarišice delegatke! Menim, da je
                      analiza zelo obsežna, morda celo preobsežna , da bi se lahko najvažnejše
@@ -1951,7 +1952,7 @@
                      dodamo tudi "v sodelovanju z izvršnimi sveti občin", kajti v celoten proces
                      morajo biti vključene tudi občine, če hočemo, da se stvari realizirajo.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Povedal bi, da imamo pisne prispevke na temo majska analiza iz Lendave, Šmarja
                      pri Jelšah, Ljubljane-Bežigrad in Ljutomera.</p>
@@ -1962,7 +1963,7 @@
                   <p>Kdo želi razpravljati? Prosim, besedo ima tovariš Borut Plavšak, Skupščina
                      občine Ljubljana-Center.</p>
                </sp>
-               <sp>
+               <sp who="#sp.PlavšakBorut">
                   <speaker>BORUT PLAVŠAK:</speaker>
                   <p>Tovariš predsednik, tovarišice in tovariši delegati! S seboj sem prinesel kar
                      zajetno dokumentacijo, ki nam je bila bodisi poslana bodisi danes dana na klop.
@@ -2085,7 +2086,7 @@
                      vsebinska razprava opravljena, ko vlada predloži osnutek proračuna. Hvala
                      lepa.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala lepa. Sedaj moramo ugotoviti, koliko vas misli še razpravljati. Rad bi,
                      da mi razpravo zaključimo pred odmorom in s tem omogočimo, da bi skupina začela
@@ -2094,7 +2095,7 @@
                   <p>Prosil bi, da ne ponavljate razprav.</p>
                   <p>Besedo ima Ivanka Komprej, Skupščina občine Ravne na Koroškem.</p>
                </sp>
-               <sp>
+               <sp who="#sp.KomprejIvanka">
                   <speaker>IVANKA KOMPREJ:</speaker>
                   <p>Pridružujem se tistim delegatom, ki ugotavljajo, da so nekatera stališča in
                      tudi sklepi presplošni. Zaradi tega ugotavljamo, da so potem obširne razprave
@@ -2117,7 +2118,7 @@
                      morejo roditi in ne bodo mogli skrbeti za razvoj naše družbe in za naš
                      nadaljnji obstoj. Hvala.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala lepa. Besedo ima tovariš Aleksander Ravnikar, predsednik skupine
                      delegatov vseh zborov za družbene dejavnosti.</p>
@@ -2154,7 +2155,7 @@
                      bi jih sprejeli zbori danes k poročilu Izvršnega sveta Skupščine SR Slovenije.
                      Hvala lepa.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala, tovariš Ravnikar. Mislim, da je koristno, da smo dobili ta stališča, ki
                      so bila danes oblikovana na skupini.</p>
@@ -2192,10 +2193,10 @@
                      pri nas.</p>
                   <p>S tem predlagam, da tudi sejo prekinemo za opoldanski odmor. Predlagam, da
                      imamo odmor eno uro.</p>
-                  <p>(Seja zbora je bila prekinjena ob 13.10 uri in se je nadaljevala ob 14.15
-                     uri.)</p>
                </sp>
-               <sp>
+               <stage type="time">(Seja zbora je bila prekinjena ob 13.10 uri in se je nadaljevala
+                  ob 14.15 uri.)</stage>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Tovarišice in tovariši delegati! Predlagam, da nadaljujemo sejo zbora. Obveščam
                      vas, da je Zbor združenega dela pravkar končal razpravo v zvezi z poročilom
@@ -2356,7 +2357,7 @@
                      ta način lahko v tem trenutku in v teh razmerah pomagamo razreševati nastalo
                      problematiko. Hvala lepa.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala. Predloga zakona ste prejeli. Predloženega akta niso obravnavala
                      pristojna delovna telesa, zaradi kasne pridobitve obeh teh aktov (govorim tudi
@@ -2489,7 +2490,7 @@
                      reševanja navedene problematike sadno predelovalne industrije in jo s tem
                      postavi v enakovreden položaj z drugimi panogami v okviru agroživilstva.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>To je bil edini prijavljeni razpravljavec. Imamo še pripombe iz občine Izola.
                      Njihova pripomba gre v smeri zapostavljenih programov ribištva in zahteve, da
@@ -2511,15 +2512,18 @@
                      iz drugih možnih virov, kot je to že nakazano v zadnjem odstavku obrazložitve
                      zakona. Hvala.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Naprej, prosim. Besedo ima Edo Bohinc, Skupščina občine Kamnik.</p>
-                  <p>EDO BOHINC: Naša pripomba je ta, da se z zakonom načelno strinjamo, samo želimo
+               </sp>
+               <sp>
+                  <speaker>EDO BOHINC:</speaker>
+                  <p>Naša pripomba je ta, da se z zakonom načelno strinjamo, samo želimo
                      vedeti kako je to urejeno v drugih deželah. Koliko dobi od države neposredni
                      proizvajalec, koliko pa predelovalna industrija? V našem primeru nas pa zanima,
                      koliko bo dobil neposredni proizvajalec.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Prosim. Besedo ima tovariš Janez Kučan, Skupščina občine Murska Sobota.</p>
                </sp>
@@ -2549,7 +2553,7 @@
                      potem zagotovili iz tega ali iz drugega vira ustrezen obris sredstev in bomo mi
                      delegati imeli tudi zmeraj možnost videti, kako se to uresničuje.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala, tovariš Kučan. Slišali ste predlog.</p>
                   <p>Predsednik te skupine, ki smo jo sicer imenovali, misli, da glede na razpravo
@@ -2648,7 +2652,7 @@
                      je že sprejet v okviru samoupravne interesne skupnosti. Hvala lepa.</p>
                </sp>
                <pb n="49" xml:id="pb.49"/>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK: Hvala lepa. Mislim, da je pojasnilo ustrezno. Se
                      strinjate? (Da.) Predlagam, da gremo na glasovanje. Dogovorili smo se, da
                      skupine ne rabimo.</speaker>
@@ -2731,7 +2735,7 @@
                      Dravskem polju in se posebej navedejo med ostalimi predlaganimi ukrepi.
                      Hvala.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala lepa. Želi še kdo besedo? Prosim. Besedo ima tovariš Marjan Ašič,
                      Skupščina občine Celje.</p>
@@ -2773,7 +2777,7 @@
                      z manjšimi, pa ne prehudimi ekološkimi posegi v Sloveniji dovolj. Hvala
                      lepa.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala lepa. Besedo ima Gorazd Mazej, Skupščina občine Maribor-mesto.</p>
                </sp>
@@ -2836,7 +2840,7 @@
                      čimbolje razrešil, omilil in da bi ljudem bila ta voda vsakodnevno dostopna.
                      Hvala lepa.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala lepa. Predlagam tako: Ker se razprave vežejo na probleme, ki nas v
                      zadnjih dneh, ene neposredno, druge posredno, pestijo in je najbrž temu, kar
@@ -2921,7 +2925,7 @@
                      zanima samo, kaj so iztržili Črnogorci, Makedonci, Kosovo, Vojvodina in Srbija,
                      ki so že ta dogovor sprejeli.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala lepa. Besedo ima Edo Bohinc, Skupščina občine Kamnik.</p>
                </sp>
@@ -2931,7 +2935,7 @@
                      telesom skupščine in vsem nam, da smo načelni v reševanju problemov, pa tudi če
                      gre včasih v škodo našega žepa.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala lepa. Besedo ima tovariš Vukašin Lutovac, Skupščina občine
                      Ljubljana-Šiška.</p>
@@ -2945,7 +2949,7 @@
                      pa se gremo trgovino, kot je rekel moj predgovornik, smo v Šiški tudi rekli, da
                      pogojujemo to z izdajo znamke za svetovno prvenstvo v kajaku v Tacnu.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Moram reči, da izgleda, da je ta naša principielnost na trhlih nogah. (Smeh.)
                      Dobro, želi še kdo razpravljati? Če ne, predlagam, da glasujemo o sklepu, ki
@@ -3071,7 +3075,7 @@
                      Janeza Krnca dolžnosti namestnika Družbenega pravobranilca samoupravljanja in
                      to s 26.7.1989.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala lepa. Želi predstavnik Zakonodajno-pravne komisije besedo? (Ne želi.)</p>
                   <p>Predlagam, da gremo po vrstnem redu. Najprej bi pričeli z razpravo k predlogu
@@ -3211,7 +3215,7 @@
                      občin iz Maribora obravnava omenjena zakona v septembru tega leta, kot ste
                      slišali po skrajšanem postopku. Hvala lepa.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala, tovariš predsednik! Mislim, da ste uspeli prebrati poročilo odbora in da
                      je uvodna beseda predsednika odbora dala celovitejšo podobo poteka akcije. To
@@ -3440,7 +3444,7 @@
                      nemogoče dopustiti. Mislim, da imamo ministra za informiranje, naj gredo te
                      informacije iz enega centra, in naj se te stvari uredijo.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala lepa. Besedo ima tovarišica Tatjana Štubljar, delegatka Skupščine občine
                      Črnomelj.</p>
@@ -3476,7 +3480,7 @@
                      odpravljanje posledic naravnih nesreč v SR Sloveniji in Republiškemu komiteju
                      za kmetijstvo, gozdarstvo in prehrano. Hvala.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala lepa. Besedo ima tovarišica Darinka Šuc-Lah, delegatka Skupščine občine
                      Šmarje pri Jelšah.</p>
@@ -3511,7 +3515,7 @@
                      Sloveniji. Ta pobuda oziroma že prej navedena stališča skupine delegatov iz
                      naše občine pa so usklajena tudi v vseh ostalih občinah celjske regije.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala lepa. Povedal bi vam, da smo prejeli pisne pripombe, ki jih je potrebno
                      tudi šteti kot sestavni del razprave. S tem ne zaključujem razprave. Od
@@ -3559,7 +3563,7 @@
                      usklajevanja informiranja. Pri tem pa tudi vsak nosilec tega informiranja nosi
                      odgovornost, da je njegovo delovanje v tej funkciji. Hvala lepa.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala lepa. Besedo ima Milivoj Samar, predsednik Republiškega komiteja za
                      družbeno planiranje.</p>
@@ -3620,7 +3624,7 @@
                      deležne sredstev olajšav, tako da za leto 1989 ne vidim materialne osnove za
                      realizacijo takšne pobude, kot je bila dana. Hvala.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala. Mislim, da je prav, da smo ta pojasnila dobili. Želi še kdo
                      razpravljati?</p>
@@ -3633,7 +3637,7 @@
                      razloga, zakaj Slovenija enkrat ne bi začela teh postopkov pred zveznimi
                      organi. Hvala.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Če ni več razprave, bi predlagal, da se dogovorimo. Mislim, da je dobro, da smo
                      dali to problematiko na dnevni red. Opravičujemo se, ker ni bilo mogoče zaradi
@@ -3686,7 +3690,7 @@
                      pa od danes in morda tudi za bodoče le postaja duhovno bolj bogat in varen, ker
                      ni sam. Hvala lepa.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Slišali ste predlog zaključka, ki sem ga predlagal. Ali mu kdo nasprotuje?
                      (Ne.) Mislim, da ni potrebno, da formalno z dvigom rok potrjujemo tak sklep,
@@ -3770,7 +3774,7 @@
                   <p>Gre pa za pobudo, da bi se lahko zaposlovali tudi preko študentskega
                      servisa.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>To je star problem, ki ga že poznamo. Mislim, da je stvar jasna.</p>
                   <p>Pobuda tovariša Šinigoja iz Ajdovščine - žal njega ni tu, on se je opravičil,
@@ -3858,7 +3862,7 @@
                   <p>Zato bo v bodoče združena akcija vseh delegatov raznih občin iz tega področja
                      še sledila. Hvala lepa.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Povedal bi vam rad, da imamo še pisno pobudo iz Gornje Radgone v zvezi s PTT
                      sistemom iz Novega mesta, ki od Skupnosti za ceste zahteva odgovor na vprašanje
@@ -3909,7 +3913,7 @@
                      mestu), če je izdal kakšno upravno odločbo, je stvari prejudiciral. V izogib
                      takšnim situacijam v prihodnje, sem dal to pobudo. Hvala lepa.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala lepa. Želi še kdo postaviti vprašanje, pobudo? Prosim, besedo ima tovariš
                      Ašič, Skupščina občine Celje.</p>
@@ -3922,7 +3926,7 @@
                      redu - predlagam, da v kolikor to ne bo vključeno v sklepe, pride to med točko
                      pobude.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>To je tudi malo trgovine. Dobro, sem za to, da napišete to, kar je tovariš Ašič
                      pripravil. Recite, da ste v okviru točke dali pobudo in da prosite, da se kot
@@ -4066,7 +4070,7 @@
                      naslednje besedilo: "ter o tem v septembru Skupščini SR Slovenije poroča."</p>
                   <p>To je bilo vse.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala lepa. Tovariši delegati! Slišali smo poročilo in konkretne pripombe. Ne
                      smem vas vprašati, če vse veste, ker ne vem, koliko ste uspeli slediti. Moram
