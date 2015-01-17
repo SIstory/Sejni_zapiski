@@ -131,136 +131,167 @@
          <div type="contents">
             <pb n="I/1" xml:id="pb.I.1"/>
             <head>VSEBINA</head>
-            <p>ZBOR OBČIN SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE (43. seja - 26. julij
-               1989)</p>
-            <p>PRED DNEVNIM REDOM:</p>
-            <list type="ordered">
-               <item>1.Izvolitev verifikacije komisije in poročilo 1</item>
+            <list type="simple">
+               <head>ZBOR OBČIN SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE (43. seja - 26. julij
+                  1989)</head>
+               <item>
+                  <list type="ordered">
+                     <head>PRED DNEVNIM REDOM:</head>
+                     <item n="1">Izvolitev verifikacije komisije in poročilo <ref target="#pb.1"
+                           >1</ref><list type="simple">
+                           <head>GOVORNIK:</head>
+                           <item>Tomaž Grom <ref target="#pb.2">2</ref></item>
+                        </list>
+                     </item>
+                     <item n="2">Določitev dnevnega reda <ref target="#pb.2">2</ref><list
+                           type="simple">
+                           <head>GOVORNIKI:</head>
+                           <item>Lado Škrjanec <ref target="#pb.3">3</ref></item>
+                           <item>Janez Kučan <ref target="#pb.4">4</ref></item>
+                           <item>Lojze Klemenčič <ref target="#pb.4">4</ref></item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list type="ordered">
+                     <head>DNEVNI RED:</head>
+                     <item n="1">Odobritev zapisnika 42. seje zbora <ref target="#pb.5"
+                        >5</ref></item>
+                     <item>(Seja je bila prekinjena zaradi skupnega zasedanja)</item>
+                     <item n="2">Predlog za izdajo zakona o spremembi zakona o pokojninskem in
+                        invalidskem zavarovanju s predlogom zakona (5. točka dnevnega reda) <ref
+                           target="#pb.6">6</ref><list type="simple">
+                           <head>GOVORNIK:</head>
+                           <item>Miran Kalčič <ref target="#pb.6">6</ref></item>
+                        </list>
+                     </item>
+                     <item n="3">Ustavni zakon o spremembah ustavnega zakona za izvedbo amandmajev k
+                        Ustavi SFRJ (8. točka dnevnega reda) <ref target="#pb.8">8</ref><list
+                           type="simple">
+                           <head>GOVORNIKI:</head>
+                           <item>Vukašin Lutovac <ref target="#pb.9">9</ref></item>
+                           <item>Franc Perko <ref target="#pb.10">10</ref></item>
+                           <item>Pavla Križman <ref target="#pb.11">11</ref></item>
+                           <item>Jože Kerekeš <ref target="#pb.12">12</ref></item>
+                           <item>Borut Plavšak <ref target="#pb.13">13</ref></item>
+                           <item>Jože Damiš <ref target="#pb.15">15</ref></item>
+                           <item>Gorazd Žmavc <ref target="#pb.16">16</ref></item>
+                           <item>Ivica Kavčič <ref target="#pb.16">16</ref></item>
+                           <item>Janko Česnik <ref target="#pb.17">17</ref></item>
+                           <pb n="I/2" xml:id="pb.I.2"/>
+                           <item>Ivica Kavčič <ref target="#pb.18">18</ref></item>
+                           <item>Vukašin Lutovac <ref target="#pb.19">19</ref></item>
+                           <item>Tone Jerovšek <ref target="#pb.20">20</ref></item>
+                           <item>Gorazdan Šinigoj <ref target="#pb.20">20</ref></item>
+                        </list>
+                     </item>
+                     <item n="4">Delovno besedilo predloga amandmajev k ustavi SRS <ref
+                           target="#pb.9">9</ref></item>
+                     <item n="5">Poročilo Izvršnega sveta Skupščine SR Slovenije o izvajanju
+                        družbenega plana SR Slovenije za obdobje 1986-1990 (3. točka dnevnega reda)
+                           <ref target="#pb.21">21</ref><list type="simple">
+                           <head>GOVORNIKI:</head>
+                           <item>Vili Treven <ref target="#pb.22">22</ref></item>
+                           <item>Todor Dmitriovič <ref target="#pb.23">23</ref></item>
+                           <item>Matija Vračič <ref target="#pb.26">26</ref></item>
+                           <item>Marjan Ašič <ref target="#pb.27">27</ref></item>
+                           <item>Janez Kučan <ref target="#pb.29">29</ref></item>
+                           <item>Jože Kerekeš <ref target="#pb.31">31</ref></item>
+                           <item>Boris Gabrič <ref target="#pb.32">32</ref></item>
+                           <item>Ivica Kavčič <ref target="#pb.33">33</ref></item>
+                           <item>Borut Plavšak <ref target="#pb.34">34</ref></item>
+                           <item>Ivanka Komprej <ref target="#pb.37">37</ref></item>
+                           <item>Aleksander Ravnikar <ref target="#pb.37">37</ref></item>
+                        </list>
+                     </item>
+                     <item n="6">6.Predlog zakona o spremembah in dopolnitvah zakona o notranjih
+                        zadevah (4. točka dnevnega reda) <ref target="#pb.39">39</ref></item>
+                     <item n="7">Predlog zakona o spremembah in dopolnitvah zakona o določitvi
+                        obveznosti plačevanja prispevka za pospeševanje družbeno organizirane tržne
+                        proizvodnje hrane, zagotavljanje nemotene osnove oskrbe in za blagovne
+                        rezerve (6. točka dnevnega reda) <ref target="#pb.40">40</ref><list
+                           type="simple">
+                           <head>GOVORNIKI:</head>
+                           <item>Lojze Klemenčič <ref target="#pb.40">40</ref></item>
+                           <item>Vlado Pogorevčnik <ref target="#pb.43">43</ref></item>
+                           <item>Franci Krumberger <ref target="#pb.45">45</ref></item>
+                           <item>Edo Bohinc <ref target="#pb.46">46</ref></item>
+                           <item>Janez Kučan <ref target="#pb.46">46</ref></item>
+                           <item>Lojze Klemenčič <ref target="#pb.47">47</ref></item>
+                        </list>
+                     </item>
+                     <item n="8">Predlog zakona o zagotavljanju dela sredstev za nujno oskrbo s
+                        pitno vodo na Dravskem polju v letih 1989 in 1990 (7. točka dnevnega reda)
+                           <ref target="#pb.49">49</ref><list type="simple">
+                           <head>GOVORNIKI:</head>
+                           <item>Janez Piskar <ref target="#pb.49">49</ref></item>
+                           <item>Marjan Ašič <ref target="#pb.50">50</ref></item>
+                           <item>Gorazd Mazej <ref target="#pb.51">51</ref></item>
+                           <pb n="I/3" xml:id="pb.I.3"/>
+                        </list>
+                     </item>
+                     <item n="9">Poročilo delegacije Skupščine SR Slovenije v Zboru Republik in
+                        pokrajin Skupščine SRFJ o poteku usklajevanja nekaterih aktov iz
+                        pristojnosti Zbora republik in pokrajin Skupščine SRFJ (9. točka dnevnega
+                        reda) <ref target="#pb.53">53</ref></item>
+                     <item n="10">Osnutek zakona o odpisu sredstev, odstopljenih v trajno uporabo
+                        organizacijam združenega dela in družbenopolitičnim skupnostim (10. točka
+                        dnevnega reda) <ref target="#pb.53">53</ref></item>
+                     <item n="11">točka dnevnega reda - strogo zaupno <ref target="#pb.54"
+                        >54</ref></item>
+                     <item n="12">Osnutke zakona o spremembah zakona o zveznih upravnih taksah (12.
+                        točka dnevnega reda) <ref target="#pb.54">54</ref></item>
+                     <item n="13">Predlog dogovora o izdaji doplačilne znamke "I. kongres USAO v
+                        Bihaču" (13. točka dnevnega reda) <ref target="#pb.54">54</ref><list
+                           type="simple">
+                           <head>GOVORNIKI:</head>
+                           <item>Neidentificiran govornik <ref target="#pb.54">54</ref></item>
+                           <item>Edo Bohinc <ref target="#pb.54">54</ref></item>
+                           <item>Vukašin Lutovac <ref target="#pb.55">55</ref></item>
+                        </list>
+                     </item>
+                     <item n="14">Predlog družbenega dogovora o spremembah in dopolnitvah družbenega
+                        dogovora o skupnih osnovah in merilih za določanje osebnih dohodkov ter
+                        drugih prejemkov in nadomestil funkcionarjev v organih družbenopolitičnih
+                        skupnosti in družbenopolitičnih organizacij (14. točka dnevnega reda) <ref
+                           target="#pb.55">55</ref></item>
+                     <item n="15">Volitve in imenovanja (15. točka dnevnega reda) <ref
+                           target="#pb.56">56</ref><list type="simple">
+                           <head>GOVORNIK:</head>
+                           <item>Slavko Osredkar <ref target="#pb.56">56</ref></item>
+                        </list>
+                     </item>
+                     <item n="16">Informacija o preoblikovanju družbenopolitičnih skupnosti v
+                        Mariboru (16. točka dnevnega reda) <ref target="#pb.59">59</ref><list
+                           type="simple">
+                           <head>GOVORNIK:</head>
+                           <item>Uroš Dular <ref target="#pb.59">59</ref></item>
+                           <pb n="I/4" xml:id="pb.I.4"/>
+                        </list>
+                     </item>
+                     <item n="17">Pobude, predlogi in vprašanja delegatov (17. točka dnevnega reda)
+                           <ref target="#pb.61">61</ref><list type="simple">
+                           <head>GOVORNIKI:</head>
+                           <item>Slavko Kleindienst <ref target="#pb.62">62</ref></item>
+                           <item>Tatjana Šubljar <ref target="#pb.65">65</ref></item>
+                           <item>Darinka Šuc-Lah <ref target="#pb.66">66</ref></item>
+                           <item>Miran Bogataj <ref target="#pb.67">67</ref></item>
+                           <item>Milivoj Samar <ref target="#pb.69">69</ref></item>
+                           <item>Slavko Kleindienst <ref target="#pb.69">69</ref></item>
+                           <item>Gorazd Žmavc <ref target="#pb.70">70</ref></item>
+                           <item>Slavko Kleindienst <ref target="#pb.72">72</ref></item>
+                           <item>Franjo Marošek <ref target="#pb.75">75</ref></item>
+                           <item>Borut Plavšak <ref target="#pb.74">74</ref></item>
+                           <item>Marjan Ašič <ref target="#pb.75">75</ref></item>
+                           <item>Ivica Kavčič <ref target="#pb.75">75</ref></item>
+                        </list>
+                     </item>
+                     <item n="17">Seznam govornikov II/l</item>
+                     <pb n="II/1" xml:id="pb.II.1"/>
+                  </list>
+               </item>
             </list>
-            <p>GOVORNIK:</p>
-            <p>Tomaž Grom 2</p>
-            <list type="ordered">
-               <item>2.Določitev dnevnega reda 2</item>
-            </list>
-            <p>GOVORNIKI:</p>
-            <p>Lado Škrjanec 3</p>
-            <p>Janez Kučan 4</p>
-            <p>Lojze Klemenčič 4</p>
-            <p>DNEVNI RED:</p>
-            <list type="ordered">
-               <item>1.Odobritev zapisnika 42. seje zbora 5</item>
-            </list>
-            <p>(Seja je bila prekinjena zaradi skupnega zasedanja)</p>
-            <list type="ordered">
-               <item>2.Predlog za izdajo zakona o spremembi zakona o pokojninskem in invalidskem
-                  zavarovanju s predlogom zakona (5. točka dnevnega reda) 6</item>
-            </list>
-            <p>GOVORNIK:</p>
-            <p>Miran Kalčič 6</p>
-            <list type="ordered">
-               <item>3.Ustavni zakon o spremembah ustavnega zakona za izvedbo amandmajev k Ustavi
-                  SFRJ (8. točka dnevnega reda) 8</item>
-               <item>4.Delovno besedilo predloga amandmajev k ustavi SRS 9</item>
-            </list>
-            <p>GOVORNIKI:</p>
-            <p>Vukašin Lutovac 9</p>
-            <p>Franc Perko 10</p>
-            <p>Pavla Križman 11</p>
-            <p>Jože Kerekeš 12</p>
-            <p>Borut Plavšak 13</p>
-            <p>Jože Damiš 15</p>
-            <p>Gorazd Žmavc 16</p>
-            <p>Ivica Kavčič 16</p>
-            <p>Janko Česnik 17</p>
-            <pb n="I/2" xml:id="pb.I.2"/>
-            <p>Ivica Kavčič 18</p>
-            <p>Vukašin Lutovac 19</p>
-            <p>Tone Jerovšek 20</p>
-            <p>Gorazdan Šinigoj 20</p>
-            <list type="ordered">
-               <item>5.Poročilo Izvršnega sveta Skupščine SR Slovenije o izvajanju družbenega plana
-                  SR Slovenije za obdobje 1986-1990 (3. točka dnevnega reda) 21</item>
-            </list>
-            <p>GOVORNIKI:</p>
-            <p>Vili Treven 22</p>
-            <p>Todor Dmitriovič 23</p>
-            <p>Matija Vračič 26</p>
-            <p>Marjan Ašič 27</p>
-            <p>Janez Kučan 29</p>
-            <p>Jože Kerekeš 31</p>
-            <p>Boris Gabrič 32</p>
-            <p>Ivica Kavčič 33</p>
-            <p>Borut Plavšak 34</p>
-            <p>Ivanka Komprej 37</p>
-            <p>Aleksander Ravnikar 37</p>
-            <list type="ordered">
-               <item>6.Predlog zakona o spremembah in dopolnitvah zakona o notranjih zadevah</item>
-            </list>
-            <p>(4. točka dnevnega reda) 39</p>
-            <list type="ordered">
-               <item>7.Predlog zakona o spremembah in dopolnitvah zakona o določitvi obveznosti
-                  plačevanja prispevka za pospeševanje družbeno organizirane tržne proizvodnje
-                  hrane, zagotavljanje nemotene osnove oskrbe in za blagovne rezerve (6. točka
-                  dnevnega reda) 40</item>
-            </list>
-            <p>GOVORNIKI:</p>
-            <p>Lojze Klemenčič 40</p>
-            <p>Vlado Pogorevčnik 43</p>
-            <p>Franci Krumberger 45</p>
-            <p>Edo Bohinc 46</p>
-            <p>Janez Kučan 46</p>
-            <p>Lojze Klemenčič 47</p>
-            <list type="ordered">
-               <item>8.Predlog zakona o zagotavljanju dela sredstev za nujno oskrbo s pitno vodo na
-                  Dravskem polju v letih 1989 in 1990 (7. točka dnevnega reda) 49</item>
-            </list>
-            <p>GOVORNIKI:</p>
-            <p>Janez Piskar 49</p>
-            <p>Marjan Ašič 50</p>
-            <p>Gorazd Mazej 51</p>
-            <pb n="I/3" xml:id="pb.I.3"/>
-            <p>9. Poročilo delegacije Skupščine SR Slovenije v Zboru Republik in pokrajin Skupščine
-               SRFJ o poteku usklajevanja nekaterih aktov iz pristojnosti Zbora republik in pokrajin
-               Skupščine SRFJ (9. točka dnevnega reda) 53</p>
-            <p>10. Osnutek zakona o odpisu sredstev, odstopljenih v trajno uporabo organizacijam
-               združenega dela in družbenopolitičnim skupnostim (10. točka dnevnega reda) 53</p>
-            <p>11.točka dnevnega reda - strogo zaupno ..54</p>
-            <p>12. Osnutke zakona o spremembah zakona o zveznih upravnih taksah (12. točka dnevnega
-               reda) 54</p>
-            <p>13. Predlog dogovora o izdaji doplačilne znamke "I. kongres USAO v Bihaču" (13. točka
-               dnevnega reda) 54</p>
-            <p>GOVORNIKI:</p>
-            <p>Neidentificiran govornik 54</p>
-            <p>Edo Bohinc 54</p>
-            <p>Vukašin Lutovac 55</p>
-            <p>14.Predlog družbenega dogovora o spremembah in dopolnitvah družbenega dogovora o
-               skupnih osnovah in merilih za določanje osebnih dohodkov ter drugih prejemkov in
-               nadomestil funkcionarjev v organih družbenopolitičnih skupnosti in družbenopolitičnih
-               organizacij (14. točka dnevnega reda) 55</p>
-            <p>15. Volitve in imenovanja (15. točka dnevnega reda) 56</p>
-            <p>GOVORNIK:</p>
-            <p>Slavko Osredkar 56</p>
-            <p>16. Informacija o preoblikovanju družbenopolitičnih skupnosti v Mariboru</p>
-            <p>(16. točka dnevnega reda) 59</p>
-            <p>GOVORNIK:</p>
-            <p>Uroš Dular 59</p>
-            <pb n="I/4" xml:id="pb.I.4"/>
-            <p>17. Pobude, predlogi in vprašanja delegatov (17. točka dnevnega reda) 61</p>
-            <p>GOVORNIKI:</p>
-            <p>Slavko Kleindienst 62</p>
-            <p>Tatjana Šubljar 65</p>
-            <p>Darinka Šuc-Lah 66</p>
-            <p>Miran Bogataj 67</p>
-            <p>Milivoj Samar 69</p>
-            <p>Slavko Kleindienst 69</p>
-            <p>Gorazd Žmavc 70</p>
-            <p>Slavko Kleindienst 72</p>
-            <p>Franjo Marošek 75</p>
-            <p>Borut Plavšak 74</p>
-            <p>Marjan Ašič 75</p>
-            <p>Ivica Kavčič 75</p>
-            <p>17. Seznam govornikov II/l</p>
-            <pb n="II/1" xml:id="pb.II.1"/>
          </div>
          <div>
             <head>SEZNAM GOVORNIKOV</head>
@@ -2123,7 +2154,7 @@
                   <p>Hvala lepa. Besedo ima tovariš Aleksander Ravnikar, predsednik skupine
                      delegatov vseh zborov za družbene dejavnosti.</p>
                </sp>
-               <sp>
+               <sp who="#sp.RavnikarAleksander">
                   <speaker>ALEKSANDER RAVNIKAR:</speaker>
                   <p>Tovariš predsednik, tovarišice in tovariši delegati! Skupina delegatov vseh
                      zborov Skupščine SR Slovenije za družbene dejavnosti je obravnavala poročilo
@@ -2250,7 +2281,7 @@
                      in predsednik Republiškega komiteja za tržišče in splošne gospodarske
                      zadeve.</p>
                </sp>
-               <sp>
+               <sp who="#sp.KlemenčičLojze">
                   <speaker>LOJZE KLEMENČIČ:</speaker>
                   <p>Tovarišice in tovariši delegati! Izvršni svet Skupščine SR Slovenije je za
                      današnje zasedanje posredoval predlog zakona o spremembah zakona o določitvi
@@ -2377,7 +2408,7 @@
                   <p>Besedo ima tovariš Vlado Pogorevčnik, delegat iz Skupščine občine
                      Maribor-Tabor.</p>
                </sp>
-               <sp>
+               <sp who="#sp.PogorevčnikVlado">
                   <speaker>VLADO POGOREVČNIK:</speaker>
                   <p>Tovariš predsednik, tovarišice in tovariši delegati! Pri tej točki dnevnega
                      reda se ne oglašam zato, ker se ne bi strinjal s predloženim predlogom zakona,
@@ -2500,7 +2531,7 @@
                   <p>Želi še kdo razpravljati? Besedo ima Franci Krumberger, Skupščina občine
                      Ljubljana Vič—Rudnik.</p>
                </sp>
-               <sp>
+               <sp who="#sp.KrumbergerFranci">
                   <speaker>FRANCI KRUMBERGER:</speaker>
                   <p>Tovariš predsednik, tovarišice in tovariši delegati 1 Skupina delegatov je ob
                      obravnavi sprememb in dopolnitev interventnega zakona ugotovila, da so stanje
@@ -2516,18 +2547,18 @@
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Naprej, prosim. Besedo ima Edo Bohinc, Skupščina občine Kamnik.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BohincEdo">
                   <speaker>EDO BOHINC:</speaker>
-                  <p>Naša pripomba je ta, da se z zakonom načelno strinjamo, samo želimo
-                     vedeti kako je to urejeno v drugih deželah. Koliko dobi od države neposredni
-                     proizvajalec, koliko pa predelovalna industrija? V našem primeru nas pa zanima,
-                     koliko bo dobil neposredni proizvajalec.</p>
+                  <p>Naša pripomba je ta, da se z zakonom načelno strinjamo, samo želimo vedeti kako
+                     je to urejeno v drugih deželah. Koliko dobi od države neposredni proizvajalec,
+                     koliko pa predelovalna industrija? V našem primeru nas pa zanima, koliko bo
+                     dobil neposredni proizvajalec.</p>
                </sp>
                <sp who="#sp.BeznikVlado">
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Prosim. Besedo ima tovariš Janez Kučan, Skupščina občine Murska Sobota.</p>
                </sp>
-               <sp>
+               <sp who="#sp.KučanJanez">
                   <speaker>JANEZ KUČAN:</speaker>
                   <p>Tovariš predsednik, glede na predhodno razpravo menim, da ni potrebno, da bi se
                      naš Odbor za usklajevanje predlogov sestajal, predvsem zaradi tega, ker ta
@@ -2567,7 +2598,7 @@
                   <p>Besedo ima Lojze Klemenčič, predsednik Republiškega komiteja za tržišče in
                      splošne gospodarske zadeve.</p>
                </sp>
-               <sp>
+               <sp who="#sp.KlemenčičLojze">
                   <speaker>LOJZE KLEMENČIČ:</speaker>
                   <p>Tovariš predsednik, tovarišice in tovariši delegati! Prej smo dobili pismeno
                      vprašanje delegata iz Kamnika, zato lahko ne glede na to, da ni bilo podano
@@ -2677,7 +2708,7 @@
                   <p>Pričenjam razpravo. Besedo ima Janez Piskar, delegat Skupščine občine
                      Tržič.</p>
                </sp>
-               <sp>
+               <sp who="#sp.PiskarJanez">
                   <speaker>JANEZ PISKAR:</speaker>
                   <p>Tovariš predsednik, tovarišice in tovariši delegati! Pred seboj imamo predlog
                      zakona o zagotavljanju dela sredstev za nujno oskrbo s pitno vodo na Dravskem
@@ -2740,7 +2771,7 @@
                   <p>Hvala lepa. Želi še kdo besedo? Prosim. Besedo ima tovariš Marjan Ašič,
                      Skupščina občine Celje.</p>
                </sp>
-               <sp>
+               <sp who="#sp.AšičMarjan">
                   <speaker>MARJAN AŠIČ:</speaker>
                   <p>Tovariš predsednik, tovarišice in tovariši delegati! Dve skupščini nazaj smo
                      Celjani in nekateri drugi bili bitko v tej skupščini za zaščito vodnih virov v
@@ -2781,7 +2812,7 @@
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala lepa. Besedo ima Gorazd Mazej, Skupščina občine Maribor-mesto.</p>
                </sp>
-               <sp>
+               <sp who="#sp.MazejGorazd">
                   <speaker>GORAZD MAZEJ:</speaker>
                   <p>Tovarišice in tovariši delegati! Za pripravo na današnjo sejo našega zbora smo
                      včeraj imeli obširno razpravo o teh katastrofah, ki jih doživljamo v Podravju v
@@ -2918,7 +2949,7 @@
                      Skupščine SR Slovenije. Predlog dogovora so obravnavala pristojna delovna
                      telesa in vam pisno poročala. Želi poročevalec besedo?</p>
                </sp>
-               <sp>
+               <sp who="#sp.Neidentificiran">
                   <speaker>NEIDENTIFICIRAN GOVORNIK:</speaker>
                   <p>Moti me pismo Slovenijalesa trgovine. Ne vem, ali se načelno opredeljujemo ali
                      trgujemo. Izgleda, da gre pri sprejemanju dogovora za čisto trgovino in me
@@ -2929,7 +2960,7 @@
                   <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                   <p>Hvala lepa. Besedo ima Edo Bohinc, Skupščina občine Kamnik.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BohincEdo">
                   <speaker>EDO BOHINC:</speaker>
                   <p>Izjemoma se strinjam s predloženim sklepom. V načelu pa bi predlagal delovnim
                      telesom skupščine in vsem nam, da smo načelni v reševanju problemov, pa tudi če
@@ -2941,7 +2972,7 @@
                      Ljubljana-Šiška.</p>
                </sp>
                <pb n="55" xml:id="pb.55"/>
-               <sp>
+               <sp who="#sp.LutovacVukašin">
                   <speaker>VUKAŠIN LUTOVAC:</speaker>
                   <p>V skupini smo se spraševali, v katerih primerih in po kakšnih kriterijih se
                      lahko kandidira za izdajo za doplačilne znamke. Če je to jasno, pa mi tega ne
@@ -3008,7 +3039,7 @@
                      tovariš Slavko Osredkar, poročevalec Komisije za volitve, imenovanja in
                      administrativne zadeve.</p>
                </sp>
-               <sp>
+               <sp who="#sp.OsredkarSlavko">
                   <speaker>SLAVKO OSREDKAR:</speaker>
                   <p>Tovariš predsednik, tovarišice in tovariši delegati! Komisija Skupščine SR
                      Slovenije za volitve, imenovanja in administrativne zadeve je na svoji 42. seji
@@ -3141,7 +3172,7 @@
                      tovariša Uroša Dularja, da poda dodatno informacijo k obravnavi te informacije
                      na odboru. Prosim.</p>
                </sp>
-               <sp>
+               <sp who="#sp.DularUroš">
                   <speaker>UROŠ DULAR:</speaker>
                   <p>Tovariš predsednik, tovarišice in tovariši delegati! Skupščina SR Slovenije je
                      10.7.1989 prejela pobudo vseh občinskih konferenc Socialistične zveze z območja
@@ -3284,7 +3315,7 @@
                   <p>Odpiram razpravo. Besedo ima Slavko Kleindienst, Skupščina občine Slovenska
                      Bistrica.</p>
                </sp>
-               <sp>
+               <sp who="#sp.KleindienstSlavko">
                   <speaker>SLAVKO KLEINDIENST:</speaker>
                   <p>Tovarišice in tovariši delegati, spoštovani predsednik! Res ni hvaležno
                      razpravljati na koncu napornega dnevnega reda in dela, vendar sem se kljub temu
@@ -3449,7 +3480,7 @@
                   <p>Hvala lepa. Besedo ima tovarišica Tatjana Štubljar, delegatka Skupščine občine
                      Črnomelj.</p>
                </sp>
-               <sp>
+               <sp who="#sp.ŠtubljarTatjana">
                   <speaker>TATJANA ŠTUBLJAR:</speaker>
                   <p>Tovariš predsednik, tovarišice in tovariši delegati! V svoji razpravi želim ta
                      zbor informirati o posledicah neurja, ki je 11. in 13. julija prizadelo Belo
@@ -3485,7 +3516,7 @@
                   <p>Hvala lepa. Besedo ima tovarišica Darinka Šuc-Lah, delegatka Skupščine občine
                      Šmarje pri Jelšah.</p>
                </sp>
-               <sp>
+               <sp who="#sp.Šuc-LahDarinka">
                   <speaker>DARINKA ŠUC-LAH:</speaker>
                   <p>Tovariš predsednik, tovarišice in tovariši delegati! Skupina delegatov za Zbor
                      občin v Skupščini SR Slovenije iz občine Šmarje pri Jelšah je obravnavala
@@ -3531,7 +3562,7 @@
                   <p>Besedo ima Miran Bogataj, namestnik republiškega sekretarja za ljudsko
                      obrambo.</p>
                </sp>
-               <sp>
+               <sp who="#sp.BogatajMiran">
                   <speaker>MIRAN BOGATAJ:</speaker>
                   <p>Tovariš predsednik, tovarišice in tovariši delegati! Bil bi zelo kratek. Vse
                      pobude, ki so bile dane oziroma, ki se tako ali drugače pojavljajo v zadnjih
@@ -3568,7 +3599,7 @@
                   <p>Hvala lepa. Besedo ima Milivoj Samar, predsednik Republiškega komiteja za
                      družbeno planiranje.</p>
                </sp>
-               <sp>
+               <sp who="#sp.SamarMilivoj">
                   <speaker>MILIVOJ SAMAR:</speaker>
                   <p>Tovariš predsednik, tovarišice in tovariši delegati. Glede na pobudo, ki je
                      bila podana, mislim, da je potrebno vsaj informirati o stanju na področju
@@ -3630,7 +3661,7 @@
                      razpravljati?</p>
                   <p>Besedo ima Slavko Kleindienst, Skupščina občine Slovenska Bistrica.</p>
                </sp>
-               <sp>
+               <sp who="#sp.KleindienstSlavko">
                   <speaker>SLAVKO KLEINDIENST:</speaker>
                   <p>Poudaril bi to, da pobude v zvezi s sanacijo nismo omejili na leto 1989, ampak
                      je odprta tudi za naprej, če je letos ni mogoče realizirati. Ne vidim pa
@@ -3665,7 +3696,7 @@
                      določene korake v smeri razreševanja problemov.</p>
                   <p>Besedo ima Gorazd Žmavc, Skupščina občine Ptuj.</p>
                </sp>
-               <sp>
+               <sp who="#sp.ŽmavcGorazd">
                   <speaker>GORAZD ŽMAVC:</speaker>
                   <p>Prihajam iz območja najbolj prizadetih.</p>
                   <p>Predsedstvu Skupščine SR Slovenije in Izvršnemu svetu Skupščine SR Slovenije,
@@ -3763,7 +3794,7 @@
                      seznanili vaše skupine.</p>
                   <p>Besedo ima Slavko Kleindienst, Skupščina občine Slovenska Bistrica.</p>
                </sp>
-               <sp>
+               <sp who="#sp.KleindienstSlavko">
                   <speaker>SLAVKO KLEINDIENST:</speaker>
                   <p>Skupine delegatov so res posredovale to pobudo, ki jo je dala naša občinska
                      organizacija Zveze socialistične mladine, vendar smo na zadnji seji skupin
@@ -3832,7 +3863,7 @@
                   <p>Besedo ima tovariš Marošek Franjo, delegat Skupščine občine Slovenske
                      Konjice.</p>
                </sp>
-               <sp>
+               <sp who="#sp.MarošekFranjo">
                   <speaker>FRANJO MAROŠEK:</speaker>
                   <p>Tovarišice in tovariši delegati! Čeprav je delegat iz Celja o tem vprašanju, o
                      katerem bom govoril, že spregovoril, imam dolžnost pred svojo delegacijo, da v
@@ -3877,7 +3908,7 @@
                      nesporazum, na katerega sem opozarjal.</p>
                   <p>Besedo ima Borut Plavšek, Skupščina občine Ljubljana-Center.</p>
                </sp>
-               <sp>
+               <sp who="#sp.PlavšakBorut">
                   <speaker>BORUT PLAVŠAK:</speaker>
                   <p>Tovariš predsednik, spoštovani tovariši in tovarišice delegati! Rad bi poudaril
                      naslednjo delegatsko pobudo. Ta letak smo delegati prejeli ob prihodu na sejo
@@ -3918,7 +3949,7 @@
                   <p>Hvala lepa. Želi še kdo postaviti vprašanje, pobudo? Prosim, besedo ima tovariš
                      Ašič, Skupščina občine Celje.</p>
                </sp>
-               <sp>
+               <sp who="#sp.AšičMarjan">
                   <speaker>MARJAN AŠIČ:</speaker>
                   <p>Tovariš predsednik, tovarišice in tovariši delegati! Dal sem tri pobude k
                      majski analizi kot predlog, da pride to v sklepe in stališča našega zbora. V
@@ -3935,7 +3966,7 @@
                   <p>Besedo ima tovarišica Ivica Kavčič, poročevalka k poročilu Izvršnega sveta
                      Skupščine SR Slovenije in k majski analizi.</p>
                </sp>
-               <sp>
+               <sp who="#sp.KavčičIvica">
                   <speaker>IVICA KAVČIČ:</speaker>
                   <p>Medzborovska skupina delegatov vseh zborov za pripravo sprememb in dopolnitev
                      osnutka ugotovitev, stališč in sklepov k poročilu Izvršnega sveta Skupščine SR
