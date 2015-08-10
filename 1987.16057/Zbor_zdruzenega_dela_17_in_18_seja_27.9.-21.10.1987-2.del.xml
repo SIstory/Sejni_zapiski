@@ -1,0 +1,2415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader xml:lang="slv">
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="slv" type="main" level="m">Sejni zapisi Skupščine Socialistične
+               republike Slovenije za 10. sklic (1986-1990), št. zvezka 15</title>
+            <title xml:lang="slv" type="sub" level="m">Zbor združenega dela, 17. seja (24. september
+               1987)</title>
+            <title xml:lang="slv" type="sub" level="m">Zbor združenega dela, 18. seja (21. oktober
+               1987)</title>
+            <title xml:lang="slv" type="desc">Elektronska izdaja</title>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marta Rendla</persName>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <resp>Validacija metapodatkov uvoženih iz SIstory</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <distributor>DARIAH-SI</distributor>
+            <idno type="URN">http://www.sistory.si/SISTORY:ID:16057</idno>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:16057</pubPlace>
+            <pubPlace>https://github.com/SIstory/Sejni_zapiski/tree/master/1987.16057</pubPlace>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+            <date when="2015-08-10+02:00">10. 8. 2015</date>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic xml:id="sistory.16059">
+                  <idno>SISTORY:ID:16059#page=72</idno>
+                  <title xml:lang="slv" type="main" level="a">Zbor združenega dela, 18. seja (21.
+                     oktober 1987)</title>
+                  <title xml:lang="slv" type="sub" level="a">Sejni zapisi Skupščine Socialistične
+                     republike Slovenije za 10. sklic (1986-1990), št. zvezka 15</title>
+                  <textLang xml:lang="slv" mainLang="slv">slovenski</textLang>
+                  <textLang xml:lang="eng" mainLang="slv">Slovenian</textLang>
+               </analytic>
+               <monogr xml:id="sistory.16057">
+                  <title xml:lang="slv" type="main" level="m">Sejni zapisi Skupščine Socialistične
+                     republike Slovenije za 10. sklic (1986-1990), št. zvezka 15</title>
+                  <title xml:lang="slv" type="sub" level="m">Zbor združenega dela, 17. seja (24.
+                     september 1987)</title>
+                  <title xml:lang="slv" type="sub" level="m">Zbor združenega dela, 18. seja (21.
+                     oktober 1987)</title>
+                  <imprint>
+                     <biblScope type="vol">zvezka 15</biblScope>
+                     <publisher>Skupščina Socialistične republike Slovenije</publisher>
+                     <date when="1987">1987</date>
+                  </imprint>
+               </monogr>
+               <series>
+                  <title>Sejni zapisi Skupščine Socialistične republike Slovenije</title>
+               </series>
+            </biblStruct>
+            <biblFull corresp="#sistory.16057">
+               <titleStmt>
+                  <title xml:lang="slv" type="main" level="m">Sejni zapisi Skupščine Socialistične
+                     republike Slovenije za 10. sklic (1986-1990), št. zvezka 15</title>
+                  <title xml:lang="slv" type="sub" level="m">Zbor združenega dela, 17. seja (24.
+                     september 1987)</title>
+                  <title xml:lang="slv" type="sub" level="m">Zbor združenega dela, 18. seja (21.
+                     oktober 1987)</title>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher>Skupščina Socialistične republike Slovenije</publisher>
+                  <date when="1987">1987</date>
+                  <availability status="free">
+                     <licence target="http://creativecommons.org/publicdomain/mark/1.0/"
+                        xml:lang="slv">Avtorske pravice so potekle, delo je v javni
+                        domeni.</licence>
+                     <licence target="http://creativecommons.org/publicdomain/mark/1.0/"
+                        xml:lang="eng">Public Domain Mark 1.0</licence>
+                  </availability>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>XML na portalu Zgodovina Slovenije - SIstory narejen v okviru izvajanja
+               infrastrukturnega programa Inštituta za novejšo zgodovino</p>
+         </projectDesc>
+         <!-- Vključena classDecl/taxonomy -->
+         <xi:include href="../taxonomy.xml"/>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="slv" xml:lang="slv">slovenski</language>
+            <language ident="slv" xml:lang="eng">Slovenian</language>
+            <language ident="en" xml:lang="sl">angleški</language>
+            <language ident="en" xml:lang="en">English</language>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <list>
+                  <item xml:lang="slv">predstavniška telesa</item>
+                  <item xml:lang="slv">stenografski zapisniki</item>
+                  <item xml:lang="slv">Socialistična republika Slovenija</item>
+                  <item xml:lang="slv">družbeno samoupravljanje</item>
+                  <item xml:lang="eng">representative bodies</item>
+                  <item xml:lang="eng">stenographical minutes</item>
+                  <item xml:lang="eng">Socialist Republic of Slovenia</item>
+                  <item xml:lang="eng">social self-management</item>
+                  <item xml:lang="eng">session</item>
+                  <item xml:lang="eng">term</item>
+                  <item xml:lang="eng">resumption of session</item>
+                  <item xml:lang="eng">joint session</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2015-08-10">
+            <name>Andrej Pančur</name>: kodiranje<list>
+               <item>//front//*</item>
+               <item>//div/@ana</item>
+               <item>//stage</item>
+               <item>//head</item>
+               <item>//castList</item>
+               <item>//docDate</item>
+            </list>
+         </change>
+         <change when="2015-08-10">
+            <name>Andrej Pančur</name>: ločil originalen XML dokument na dva dela:<list>
+               <item>Zbor_zdruzenega_dela_17_in_18_seja_27.9.-21.10.1987-1.del.xml</item>
+               <item>Zbor_zdruzenega_dela_17_in_18_seja_27.9.-21.10.1987-2.del.xml</item>
+            </list>
+         </change>
+         <change when="2015-08-10">
+            <name>Andrej Pančur</name>: izvoz in preverjanje metapodatkov.</change>
+         <change when="2015-08-09">
+            <name>Andrej Pančur</name>: konverzija docx2tei </change>
+         <change when="2015-08-10">
+            <name>Andrej Pančur</name>: označil TEI stil (tei:sp) za docx2tei konverzijo</change>
+         <change when="2015-02-16">
+            <name>Marta Rendla</name>: pregled in poprava OCR v DOCX</change>
+      </revisionDesc>
+   </teiHeader>
+   <text corresp="#sistory.16059">
+      <front>
+         <docTitle>
+            <titlePart>ZBOR ZDRUZENEGA DELA SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE</titlePart>
+            <titlePart>Sejni zapiski</titlePart>
+            <titlePart>18. seja - 21. oktober 1987</titlePart>
+         </docTitle>
+         <div type="contents">
+            <head>VSEBINA</head>
+            <list type="simple">
+               <head>ZBOR ZDRUŽENEGA DELA SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE (18. seja -
+                  21. oktober 1987)</head>
+               <item><list type="ordered">
+                     <head>PRED DNEVNIM REDOM: STRAN</head>
+                     <item n="1">Ugotavljanje prisotnosti delegatov in sklepčnosti seje 2<list
+                           type="simple">
+                           <head>GOVORNIKI:</head>
+                           <item>Igor Kovač 2</item>
+                        </list></item>
+                     <item>2. Določitev dnevnega reda 3</item>
+                  </list>
+               </item>
+               <item><list type="ordered">
+                     <head>DNEVNI RED:</head>
+                     <item n="1">Odobritev zapisnika 17. seje zbora (1. točka dnevnega reda)
+                        4</item>
+                     <item n="2"><list type="ordered">
+                           <item n="a">Predlog dopolnitev dolgoročnega plana SR Slovenije za obdobje
+                              1986-2000 4</item>
+                           <item n="b">Predlog dopolnitev družbenega plana SR Slovenije za obdobje
+                              1986-1990 (2. točka dnevnega reda) 4</item>
+                        </list><list type="simple">
+                           <head>GOVORNIKI:</head>
+                           <item>Milivoj Samar 5</item>
+                           <item>Anton Praprotnik 7</item>
+                           <item>Zora Završnik 9</item>
+                        </list></item>
+                     <item n="3"><list type="bulleted">
+                           <item n="-">Predlog za izdajo zakona o spremembah in dopolnitvah zakona o
+                              stanovanjskem gospodarstvu (3. točka dnevnega reda) 9</item>
+                           <item n="-">Predlog za izdajo zakona o spremembah in dopolnitvah zakona o
+                              stanovanjskih razmerjih (4. točka dnevnega reda) 9</item>
+                        </list><list type="simple">
+                           <head>GOVORNIKI:</head>
+                           <item>Ladislav Horvat 9</item>
+                           <item>Igor Bratina 11</item>
+                           <item>Lea Oražem 14</item>
+                           <item>Brane Kastelic 16</item>
+                           <item>Jelena Lozinšek 17</item>
+                           <item>Jože Erjavec 18</item>
+                           <item>Rudi Stopar 19</item>
+                           <item>Branka Car 21</item>
+                        </list></item>
+                     <item n="4">Predlog zakona o spremembi zakona o posebnem republiškem davku od
+                        prometa proizvodov in plačil za storitve ter o načinu, po katerem občani in
+                        zasebne pravne osebe obračunavajo plačujejo davek od prometa proizvodov in
+                        storitev (5. točka dnevnega reda) 22</item>
+                     <item n="5"><list type="ordered">
+                           <item n="a">Predlog zakona o spremembah in dopolnitvah zakona o rednih
+                              sodiščih</item>
+                           <item n="b">Predlog zakona o spremembah in dopolnitvah zakona o sodiščih
+                              združenega dela</item>
+                           <item n="c">Predlog zakona o spremembah in dopolnitvah zakona o javnem
+                              tožilstvu (6. točka dnevnega reda) 22</item>
+                        </list></item>
+                     <item n="6">Poročilo delegacije skupščine SR Slovenije v Zboru republik in
+                        pokrajin Skupščine SFRJ o poteku usklajevanja o deviznem poslovanju in
+                        nekaterih aktov iz pristojnosti Zbora republik in pokrajin Skupščine SFRJ
+                        (7. točka dnevnega reda) 23<list type="simple">
+                           <head>GOVORNIK:</head>
+                           <item>Franc Bašar 24</item>
+                        </list></item>
+                     <item n="7">Osnutek zakona o določitvi skupnega zneska sredstev za financiranje
+                        programa pridobivanja stanovanj za potrebe zveznih organov v obdobju
+                        1986-1990 Skupščine SFRJ (8. točka dnevnega reda) 25</item>
+                     <item n="8">Osnutek zakona o uporabi dela primarne emisije za časovno
+                        premostitev preliva sredstev za odpravo posledic potresa, ki je v letu 1986
+                        prizadel določena območja v SR Hrvatski in SR Bosni in Hercegovini (9. točka
+                        dnevnega reda) 26</item>
+                     <item n="9">Osnutek zakona o spremembi in dopolnitvi zakona o zveznih upravnih
+                        taksah (10. točka dnevnega reda) 26</item>
+                     <item n="10">Osnutek zakona o tarifi zveznih upravnih taks (11. točka dnevnega
+                        reda) 26</item>
+                     <pb/>
+                     <item n="11">Osnutek odloka o spremembi odloka o predračunu prihodkov tečajnih
+                        razlik iz določenih zunanjih kreditov za leto 1987 (12. točka dnevnega reda)
+                        27</item>
+                     <item n="12">Predlog zakona o ratifikaciji Konvencije o olajšanju mednarodnega
+                        pristopa k sodiščem (13. točka dnevnega reda) 27</item>
+                     <item n="13">Pobude, predlogi in vprašanja delegatov (14. točka dnevnega reda)
+                           27<list type="simple">
+                           <head>GOVORNIKA:</head>
+                           <item>Miha Bakovnik 29</item>
+                           <item>Janez Oven 29</item>
+                        </list></item>
+                     <item n="14">Dodatno poročilo Komisije za verifikacijo pooblastil in imunitetna
+                        vprašanja 31<list type="simple">
+                           <head>GOVORNIK:</head>
+                           <item>Igor Kovač 31</item>
+                        </list></item>
+                     <item n="15"><list type="ordered">
+                           <item n="a">Predlog dopolnitev dolgoročnega plana SR Slovenije za obdobje
+                              1986-2000</item>
+                           <item n="b">Predlog dopolnitev družbenega plana SR Slovenije za obdobje
+                              1986-1990 (2. točka dnevnega reda nadaljevanje 31<list type="simple">
+                                 <head>GOVORNIKA:</head>
+                                 <item>Vinko Keržan 32</item>
+                                 <item>Anton Praprotnik 33</item>
+                              </list></item>
+                        </list></item>
+                     <item n="16">Osnutek zakona o določitvi skupnega zneska sredstev za
+                        financiranje programa pridobivanja stanovanj za potrebe zveznih organov v
+                        obdobju 1987-1990 (8. točka dnevnega reda nadaljevanje 35<list type="simple">
+                           <head>GOVORNIK:</head>
+                           <item>Alojz Lindner 35</item>
+                        </list></item>
+                     <item n="17"><list type="ordered">
+                           <item n="a">Predlog dopolnitev dolgoročnega plana SR Slovenije za obdobje
+                              1986-2000</item>
+                           <item n="b">Predlog dopolnitev družbenega plana SR Slovenije za obdobje
+                              1986-1990 (2. točka dnevnega reda - nadaljevanje; usklajevanje)
+                                 37<list type="simple">
+                                 <head>GOVORNIKI:</head>
+                                 <item>Vinko Keržan 38</item>
+                                 <item>Anton Praprotnik 39</item>
+                                 <item>Vinko Keržan 39</item>
+                                 <item>Milivoj Samar 39</item>
+                                 <item>Milivoj Samar 40</item>
+                              </list></item>
+                        </list></item>
+                     <item n="18">Seznam govornikov II</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <pb/>
+         <div>
+            <head>SEZNAM GOVORNIKOV</head>
+            <p>ZBOR ZDRUŽENEGA DELA SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE (18. seja - 21.
+               oktober 1987)</p>
+            <castList>
+               <head>GOVORNIKI</head>
+               <castItem><actor xml:id="sp.BakovnikMiha">Bakovnik Miha</actor> 29</castItem>
+               <castItem><actor xml:id="sp.BašarFranc">Bašar Franc</actor> 24</castItem>
+               <castItem><actor xml:id="sp.BratinaIgor">Bratina Igor</actor> 11</castItem>
+               <castItem><actor xml:id="sp.CarBranka">Car Branka</actor> 21</castItem>
+               <castItem><actor xml:id="sp.ErjavecJože">Erjavec Jože</actor> 18</castItem>
+               <castItem><actor xml:id="sp.HorvatLadislav">Horvat Ladislav</actor> 9</castItem>
+               <castItem><actor xml:id="sp.KastelicBrane">Kastelic Brane</actor> 16</castItem>
+               <castItem><actor xml:id="sp.KovačIgor">Kovač Igor</actor> 2, 31</castItem>
+               <castItem><actor xml:id="sp.KeržanVinko">Keržan Vinko</actor> 31, 37, 39</castItem>
+               <castItem><actor xml:id="sp.LindnerAlojz">Lindner Alojz</actor> 35</castItem>
+               <castItem><actor xml:id="sp.LozinšekJelena">Lozinšek Jelena</actor> 17</castItem>
+               <castItem><actor xml:id="sp.OražemLea">Oražem Lea</actor> 15</castItem>
+               <castItem><actor xml:id="sp.OvenJanez">Oven Janez</actor> 29</castItem>
+               <castItem><actor xml:id="sp.PraprotnikAnton">Praprotnik Anton</actor> 7, 33,
+                  39</castItem>
+               <castItem><actor xml:id="sp.SamarMilivoj">Samar Milivoj</actor> 5, 39, 40</castItem>
+               <castItem><actor xml:id="sp.StoparRudi">Stopar Rudi</actor> 19</castItem>
+               <castItem><actor xml:id="sp.ZavršnikZora">Završnik Zora</actor> 9</castItem>
+            </castList>
+         </div>
+      </front>
+      <body>
+         <pb/>
+         <div ana="#PAR.ZbZdruDel">
+            <head>ZBOR ZDRUŽENEGA DELA</head>
+            <div ana="#PAR.Seja" n="18">
+               <head>18. seja</head>
+               <docDate when="1987-10-21">21. oktober 1987</docDate>
+               <castList>
+                  <castItem><roleDesc>Predsedoval:</roleDesc>
+                     <actor xml:id="sp.DvojmočValentin">Valentin Dvojmoč</actor>, <role>predsednik
+                        zbora združenega dela</role>.</castItem>
+               </castList>
+               <stage>Začetek seje ob 9.00 uri.</stage>
+               <div ana="#PAR.PredDnevRed">
+                  <div ana="#PAR.IzvKomis">
+                     <sp who="#sp.DvojmočValentin">
+                        <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                        <p>Tovarišice in tovariši delegati! Vsem prav lep pozdrav. Pričenjam 18.
+                           sejo Zbora združenega dela Skupščine SR Slovenije, ki sem jo sklical na
+                           podlagi člena poslovnika Skupščine.</p>
+                        <p>V smislu 12. člena poslovnika Zbora združenega dela moramo najprej
+                           izvoliti predsednika in člane Komisije za verifikacijo pooblastil in
+                           imunitetna vprašanja, ki bo pregledala pooblastila delegatov in sestavila
+                           poročila za zbor. V komisijo predlagam naslednje delegate: za predsednika
+                           Igorja Kovača, za člana pa Metko Goličič in Pavleta Šobarja.</p>
+                        <p>So navedeni delegati navzoči? (Da.) Hvala lepa. Želi še morda o tem
+                           predlogu kdo razpravljati? (Ne želi. ) Prehajamo na glasovanje.</p>
+                        <p>Kdor je za ta predlog, naj prosim, glasuje. (106 delegatov glasuje za.)
+                           Je kdo proti? (3 delegati.) Se je kdo vzdržal? (Nihče.)</p>
+                        <p>Ugotavljam, da so v Komisijo za verifikacijo pooblastil in imunitetna
+                           vprašanja izvoljeni predlagani delegati.</p>
+                        <p>Prosim predsednika in člane komisije, da se takoj sestanejo, pregledajo
+                           pooblastila delegatov in sestavijo poročilo za zbor.</p>
+                        <p>Dovolite mi, da v tem času dam nekaj obvestil. Na današnjo sejo so k
+                           posameznim točkam dnevnega reda vabljeni predstavniki: Izvršnega sveta
+                           Skupščine SR Slovenije, Republiškega sveta Zveze sindikatov, Gospodarske
+                           zbornice Slovenije, Samoupravne interesne skupnosti energetike Slovenije,
+                           Posebne samoupravne interesne skupnosti za elektrogospodarstvo in
+                           premogovništvo Slovenije, Posebne samoupravne interesne skupnosti za
+                           nafto in plin Slovenije, Vrhovnega sodišča, Sodišča združenega dela
+                           Slovenije, Javnega tožilstva Slovenije, Narodne banke Slovenije,
+                           Ljubljanske banke - Stanovanjsko-komunalne banke, Zveze stanovanjskih
+                           skupnosti Slovenije, Skupnosti za ceste Slovenije in Združenih cestnih
+                           podjetij Slovenije.</p>
+                        <p>Na sejo zbora so vabljeni tudi člani delegacije Skupščine SR Slovenije v
+                           Zboru republik in pokrajin Skupščine SFRJ, delegati v Zveznem zboru
+                           Skupščine SFRJ iz SR Slovenije ter predsednik in poročevalci odborov,
+                           komisij in skupin delegatov Skupščine.</p>
+                        <p>Danes ste na klop prejeli informacijo delegatov iz SR Slovenije v Zveznem
+                           zboru Skupščine SFRJ o uresničevanju sklepov, ki jih je zbor sprejel na
+                           prejšnji seji ob obravnavi pobude za sklenitev dogovora o skupnih
+                           temeljih financiranja splošnih družbenih in skupnih potreb z osnutkom
+                           dogovora.</p>
+                        <p>V zvezi s sejami v novembru in decembru pa bi vam dal še nekaj pojasnil.
+                           Kot veste, sta mesec november in december najbolj intenzivna glede na to,
+                           da sprejemamo planske akte za naslednje leto. V našem periodičnem
+                           programu smo predvideli tri seje zborov, in sicer 25. novembra, sredi
+                           decembra in konec decembra. Pričakovali smo, da bomo 25. novembra lahko
+                           razpravljali tudi o osnutku zvezne resolucije s spremljajočimi akti, saj
+                           bi Zvezni izvršni svet moral predložiti osnutke teh aktov do konca
+                           oktobra. Obveščeni ste, da pravkar potekajo prve razprave o
+                           antiinflacijskem programu, o programu notranje in zunanje konsolidacije
+                           in o spremembah deviznega zakona, o čemer bomo razpravljali na sejah
+                           zborov 6. novembra, Zvezna skupščina pa 12. novembra. Razprave in
+                           odločitve o teh programih ter razgovori o reprogramiranju zunanjih dolgov
+                           bodo gotovo vplivale tudi na koncipiranje ekonomske politike za prihodnje
+                           leto. Da bi bil osnutek zvezne resolucije lahko prilagojen vsebini
+                           sprejetega protiinflacijskega programa in drugim programom ter
+                           obveznostim, obstaja možnost, da Zvezni izvršni svet osnutka resolucije
+                           ne bo mogel predložiti pred opravljeno razpravo v Zvezni skupščini. To bo
+                           delegatsko odločanje v novembru in decembru gotovo otežilo, vendar tudi
+                           mi menimo, da je bolje predložiti delegatom za razpravo osnutek
+                           resolucije, ki bo vseboval jasne usmeritve za ekonomsko politiko v letu
+                           1988, kot pa da bi vztrajali na formalnih rokih za predložitev resolucije
+                           in s tem zagotovili le to, da bi se predlagani osnutek resolucije v
+                           razpravah bistveno spreminjal in dopolnjeval. Zvezni izvršni svet bo o
+                           tem, kdaj bo lahko predložil osnutek zvezne resolucije s spremljajočimi
+                           akti, razpravljal 23. oktobra, to se pravi pojutrišnjem. Zato prosim, da
+                           navedeno upoštevate, saj to pomeni, da predvidenih sej ne bomo mogli
+                           opraviti v rokih po periodičnem načrtu in da bodo morale biti nekatere
+                           seje sklicane v krajšem roku kot 30 dni.</p>
+                        <p>O možnem začetku razprave o osnutku resolucije vas bomo obvestili takoj,
+                           ko prejmemo obvestilo Zveznega izvršnega sveta in ko se bomo tudi z našim
+                           Izvršnim svetom dogovorili, kako bomo opravili razpravo o republiški
+                           resoluciji. Ob tem bomo z Izvršnim svetom pogledali tudi, kaj od
+                           predvidenih aktov lahko prenesemo v obravnavo na začetek prihodnjega
+                           leta. Toliko v vašo informacijo.</p>
+                        <p>Komisija je opravila svoje delo in prosim predsednika komisije tovariša
+                           Igorja Kovača, da poroča zboru.</p>
+                     </sp>
+                     <sp who="#sp.KovačIgor">
+                        <speaker>IGOR KOVAČ:</speaker>
+                        <p>Tovariš predsednik, tovarišice in tovariši delegati. Poročilo Komisije za
+                           verifikacijo pooblastil in imunitetna vprašanja Zbora združenega dela
+                           Skupščine SR Slovenije za 18. sejo, dne 21. oktobra 1987.</p>
+                        <p>Zbor združenega dela šteje 150 delegatov. Verifikacijska komisija
+                           ugotavlja, da je predložilo delegatska pooblastila 134 delegatov, in
+                           sicer: za gospodarsko področje 88 delegatov, s prosvetno-kulturnega
+                           področja 13 delegatov, s socialno-zdravstvenega področja 8 delegatov, s
+                           kmetijskega področja 14 delegatov, z obrtnega področja 5 delegatov, s
+                           področja državnih organov, družbenopolitičnih organizacij in društev 5
+                           delegatov, s področja oboroženih sil 1 delegat.</p>
+                        <p>Za posamezno delegatsko mesto so za različne točke dnevnega reda poslale
+                           po več delegatov naslednje skupine <pb/> delegatov: prosvetno-kulturno
+                           področje 7. okoliš Maribor Rotovž, število delegatskih mest 2, število
+                           delegiranih delegatov 3.</p>
+                        <p>Na današnji seji niso navzoči delegati iz naslednjih področij in
+                           okolišev: gospodarsko področje, 2. okoliš 1 delegat,</p>
+                        <p>3. okoliš 1 delegat, 10. okoliš 1 delegat, 20. okoliš 1 delegat, 27.
+                           okoliš 2 delegat, 32. okoliš 1 delegat,40. okoliš 1 delegat;
+                           socialno-zdravstveno področje 4. okoliš 1 delegat, 5. okoliš 1 delegat,
+                           z. okoliš 1 delegat, 8. okoliš 1 delegat, 9. okoliš 1 delegat; kmetijsko
+                           področje, 6. okoliš 1 delegat, 8. okoliš 2 delegata, 10. okoliš 1
+                           delegat. Na današnji seji torej ni navzočih 16 delegatov.</p>
+                        <p>Komisija je pregledala predložena pooblastila in ugotovila, da so le-ta v
+                           skladu z zakoni in ustavno SR Slovenije, zato predlaga, da Zbor
+                           združenega dela vsa predložena pooblastila verificira. Hvala.</p>
+                     </sp>
+                     <sp who="#sp.DvojmočValentin">
+                        <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                        <p>Hvala lepa. Želi kdo o poročilu komisije razpravljati? (Ne.) Prehajamo na
+                           glasovanje. O poročilu bomo glasovali v celoti, ker ni nobeno pooblastilo
+                           sporno.</p>
+                        <p>Kdor je za poročilo, naj prosim, glasuje. (125 delegatov glasuje za.) Je
+                           kdo proti? (En delegat.) Se je kdo vzdržal? (Nihče.)</p>
+                        <p>Ugotavljam, da je zbor z večino glasov sprejel poročilo Komisije za
+                           verifikacijo pooblastila delegatov za 18. sejo Zbora združenega dela.</p>
+                        <p>S tem ugotavljam, da je zbor sklepčen in da lahko pravno-veljavno odloča,
+                           ker je na seji navzoča večina delegatov.</p>
+                     </sp>
+                  </div>
+                  <div ana="#PAR.DolDnevRed">
+                     <sp who="#sp.DvojmočValentin">
+                        <p>Za današnjo sejo sem predlagal razširitev predloga dnevnega reda z
+                           osnutkom odloka o spremembi odloka o predračunu prihodkov in odhodkov
+                           tečajnih razlik iz določenih zunanjih kreditov za leto 1987, ki ga je
+                           predložil Zbor republik in pokrajin.</p>
+                        <p>Razlogi za predlagano razširitev so bili navedeni v razširitvi oziroma v
+                           spremnem dopisu in v obrazložitvi k odloku.</p>
+                        <p>Pričenjam razpravo. Želi o tej razširitvi kdo razpravljati? (Ne.)
+                           Prehajamo na glasovanje.</p>
+                        <p>Kdor je za predlagano razširitev, naj prosim, glasuje. (129 delegatov
+                           glasuje za.) Je kdo proti? (Nihče.) Se je kdo vzdržal? (Nihče.)</p>
+                        <p>Ugotavljam, da je zbor soglasno sprejel predlagano razširitev v
+                           obravnavo.</p>
+                        <p>S pismom z dne 14. oktobra 1987 sem vas obvestil, da z dnevnega reda
+                           današnje seje prelagam osnutek odloka o določitvi programa razvoja
+                           energetike SFR Jugoslavije do leta 1990 z vizijo razvoja do leta 2020.
+                           Razlogi za to preložitev so bili razvidni iz poročila skupine delegatov
+                           vseh zborov za proučevanje aktov iz pristojnosti zborov Skupščine SFRJ in
+                           ste ga prejeli.</p>
+                        <p>Hkrati sem vas obvestil, da z dnevnega reda seje umikam izvolitev
+                           Komisije Skupščine SR Slovenije za pripravo sprememb in dopolnitev Ustave
+                           SR Slovenije in točko volitve in imenovanja. Z razlogi za ta dva umika
+                           ste se seznanili s pismom Komisije za volitve in imenovanja z dne 14.
+                           oktobra.</p>
+                        <pb/>
+                        <p>Želi v zvezi s to preložitvijo in umikom kdo razpravljati? (Ne.)</p>
+                        <p>S tem ugotavljam, da se zbor strinja s preložitvijo in umikom.</p>
+                        <p>Danes ste na klop prejeli prečiščen predlog dnevnega reda. Se strinjate,
+                           da ga posebej ne berem? Torej lahko preidemo na glasovanje? (Da.)</p>
+                        <p>Kdor je za predlagani dnevni red, naj prosim, glasuje. (130 delegatov
+                           glasuje za.) Je kdo proti? (Nihče.) Se je kdo vzdržal? (Nihče.)</p>
+                        <p>Ugotavljam, da je predlog dnevnega reda sprejet soglasno.</p>
+                     </sp>
+                  </div>
+               </div>
+               <div ana="#PAR.DnevRed">
+                  <div ana="#PAR.TDR" n="1">
+                     <sp who="#sp.DvojmočValentin">
+                        <p>Prehajamo k 1. TOČKI DNEVNEGA REDA - ODOBRITEV ZAPISNIKA 17. SEJE
+                           ZBORA.</p>
+                        <p>Osnutek zapisnika ste prejeli. Danes ste na klop prejeli še osnutek
+                           zapisnika o obravnavi strogo zaupnih gradiv na 17. seji zbora. </p>
+                        <p>Pričenjam razpravo. Želi kdo razpravljati o zapisnikih? (Ne.) Prejeli smo
+                           pripombo 2. okoliša Ljubljana Center v zvezi s obravnavo 21. točke
+                           dnevnega reda, to je osnutka zakona o carinski tarifi, kjer menijo, da
+                           pojasnilo na seji zbora ni bilo odgovor na postavljeno vprašanje. V zvezi
+                           s tem bi rad obvestil skupino delegatov, da je bilo pojasnilo tovariša
+                           Mlinarja mišljeno v zvezi s sklepom, ki smo ga ob tem zakonu prejeli,
+                           medtem ko smo razpravo tovarišice Žužkove posredovali kot delegatsko
+                           vprašanje Izvršnemu svetu - danes ste prejeli odgovor na klop in
+                           delegaciji v Zboru republik in pokrajin, ki bo ob usklajevanju zakona v
+                           ustreznih delovnih telesnih Zbora republik in pokrajin to vprašanje še
+                           dodatno postavil oziroma ga je že.</p>
+                        <p>Predlagam, da v zapisnik na strani 23 vnesemo, da je bilo dano delno
+                           pojasnilo, bo v zvezi z registracijo odgovorjeno naknadno.</p>
+                        <p>Ima kdo še kakšno pripombo ali dopolnitev? (Ne.)</p>
+                        <p>Če ne, ugotavljam, da sta zapisnik 17. seje zbora in zapisnik o obravnavi
+                           strogo zaupnih gradiv sprejeta z dopolnitvijo na strani 23.</p>
+                        <p>Zapisnik o obravnavi strogo zaupnih gradiv oddajte na konec klopi, da jih
+                           bo kasneje naša pristojna služba pobrala.</p>
+                     </sp>
+                  </div>
+                  <div ana="#PAR.TDR" n="2">
+                     <sp who="#sp.DvojmočValentin">
+                        <p>Prehajamo k 2. TOČKI DNEVNEGA REDA</p>
+                        <p>A) PREDLOG DOPOLNITEV DOLGOROČNEGA PLANA SR SLOVENIJE ZA OBDOBJE
+                           1986-2000 IN</p>
+                        <p>B) PREDLOG DOPOLNITEV DRUŽBENEGA PLANA SR SLOVENIJE ZA OBDOBJE 1986-1990,
+                           ki ju je predložil v obravnavo izvršni svet.</p>
+                        <p>Predlog aktov je obravnavala tudi Zakonodajno-pravna komisija, ki ni
+                           imela pripomb. Predloga aktov obravnava tudi Družbenopolitični zbor na
+                           podlagi 74. člena poslovnika Skupščine, ki je predložil stališče, ki ste
+                           ga prejeli danes na klop pod ESA 299.</p>
+                        <p>Predlagam, da o obeh aktih razpravljamo skupaj, glasovali pa bomo
+                           ločeno.</p>
+                        <p>Amandmaje so predložili: skupina delegatov za gospodarsko področje, 42.
+                           okoliš Maribor Tezno k predlogu dopolnitev <pb/> družbenega plana k točki
+                           2. in k predlogu dopolnitev dolgoročnega plana k točki 3.1/33.</p>
+                        <p>Predlagam, da zbor imenuje skupino delegatov, ki bo predložene amandmaje
+                           proučila in poročala zboru. V skupino delegatov predlagam za vodjo
+                           skupine Vinka Keržana, poročevalca Odbora za družbenoekonomske odnose in
+                           razvoj, tovariša Braneta Lampreta, 4. okoliš Ljubljana Šiška in Rajka
+                           Matijeviča, 44. okoliš Ptuj.</p>
+                        <p>Želi o tem predlogu kdo razpravljati? (Ne.)</p>
+                        <p>Kdor je za predlagano skupino delegatov, naj prosim, glasuje. (128
+                           delegatov glasuje za.) Je kdo proti? (En delegat.) Se je kdo vzdržal? (En
+                           delegat.)</p>
+                        <p>Ugotavljam, da je skupina delegatov imenovana z večino glasov.</p>
+                        <p>Uvodno besedo bo imel Milivoj Samar, predsednik Republiškega komiteja za
+                           družbeno planiranje.</p>
+                     </sp>
+                     <sp who="#sp.SamarMilivoj">
+                        <speaker>MILIVOJ SAMAR:</speaker>
+                        <p>Tovariš predsednik, tovarišice in tovariši delegati 1 Izvršni svet je
+                           pripravil in vam predložil v sprejem na današnjem zasedanju predlog
+                           dopolnitev dolgoročnega plana SR Slovenije za obdobje 1986-2000 in
+                           predlog dopolnitev družbenega plana SR Slovenije za obdobje 1986-1990.
+                           Oba predloga sta pripravljena v skladu z odlokom o pripravi in sprejetju
+                           sprememb in dopolnitev planskih aktov SR Slovenije, ki nalagajo pripravo
+                           sprememb in dopolnitev, ki naj zagotove v najkrajšem možnem roku hitrejše
+                           izvajanje planskih nalog Slovenije na področju graditve avtoceste
+                           Bratstva in enotnosti ter cest po Osimskih sporazumih, kar bi bilo v
+                           skladu z resolucijo o politiki uresničevanja družbenega plana Jugoslavije
+                           v letu 1987 in hkrati naj bi s tem ustvarili planske predpogoje za
+                           sprejem in izvedbo skupnega programa graditve avtoceste Bratstva in
+                           enotnosti. Za ta program se del sredstev že zbira iz bencinskega dinarja
+                           po odloku Zveznega izvršnega sveta.</p>
+                        <p>V predlogu sprememb in dopolnitev obeh aktov je v kartografskem delu kot
+                           obvezno izhodišče opredeljeno v skladu z odlokom tudi nahajališče
+                           lapornate gline na območju Beljenskih gričev, kar omogoča uskladitev
+                           občinskih planov in še pravočasnost ugotovitev surovin za okoli 30%
+                           slovenske opekarske industrije.</p>
+                        <p>Na osnutek sprememb obeh planskih aktov je Izvršni svet prejel številne
+                           pripombe in predloge za vnos dodatnih cestnih odcepov, za spremembo
+                           dinamike njihove izgradnje ter zaščito izvajanja sprejetih planskih
+                           odločitev na področju cestnega gospodarstva. Nekaj pobud pa se je
+                           nanašalo na druga področja v planu, šlo je za plinovodno omrežje, oskrbo
+                           z vodo in spremembe prvega območja kmetijskih zemljišč.</p>
+                        <p>Proučili smo sprejete pobude za dopolnjevanje in menimo, da presegajo
+                           usmeritve za hitro spremembo in dopolnitev obeh planov. Na
+                           koordinacijskem sestanku s predlagatelji posameznih dopolnitev smo ob
+                           navzočnosti predstavnikov Skupnosti za ceste ugotovili nujnost celovite
+                           proučitve cestnega omrežja v Sloveniji, vključno z avtocestami,
+                           magistralnimi cestami in po noveliranju zakona tudi z regionalnimi
+                           cestami. Tako bo potrebno ob dopolnjevanju planskih aktov v začetku leta
+                           1988 po rednem <pb/> postopku v dolgoročni plan vnesti celotno zasnovo
+                           cestnega omrežja, ne glede na dinamiko izvajanja novogradenj.</p>
+                        <p>Hkrati bodo v analizi razvojnih možnosti Skupnosti za ceste izdelani tudi
+                           strokovni kriteriji za presojo prioritetnosti izgradnje cestnega omrežja,
+                           ti bodo po razpravi kot planski kriteriji vključeni v planske akte
+                           Skupnosti za ceste Slovenije in v dogovor o temeljih družbenega plana
+                           Slovenije.</p>
+                        <p>Tako bo vsem predlagateljem in zainteresiranim dana možnost, da ob
+                           analizi Skupnosti za ceste in Zavoda SR Slovenije za družbeno planiranje,
+                           nadalje v smernicah, v razpravi o osnutku in predlogu sprememb
+                           dolgoročnega plana enakopravno sodelujejo pri koncipiranju cestnega
+                           omrežja. V tem postopku bo potrebno tudi preveriti možnosti dinamiziranja
+                           izvajanja srednjeročnih planskih nalog pri izgradnji in rekonstrukciji
+                           cest.</p>
+                        <p>Vnašanje novih nalog in materialnih obveznosti v srednjeročne planske
+                           akte mora biti hkrati usklajeno v planskih aktih Skupnosti za ceste
+                           Slovenije, zlasti še v njenem samoupravnem sporazumu o temeljih plana in
+                           v dogovoru o temeljih družbenega plana Slovenije ter družbenem planu
+                           Slovenije, kolikor bi bilo s tem potrebno spreminjati strukturo naložb
+                           znotraj gospodarske infrastrukture oziroma povečati delež teh naložb v
+                           deležu celotnih naložb.</p>
+                        <p>Prav zaradi tega Izvršni svet meni, da ni mogoče že danes sprejeti
+                           predloženih amandmajev skupine delegatov Skupščine mesta Maribor in
+                           Maribor Tezno. Predlagamo, da se njihovi predlogi, skupaj s predlogi
+                           delegatov iz Sevnice, Posavja, Ormoža, Hrastnika, Brežic in Ptuja,
+                           obravnavajo po predvidenem postopku iz 1. do 7. člena odloka o
+                           spreminjanju in dopolnjevanju planskih aktov republike in Skupnosti za
+                           ceste oziroma po programu, ki ga je Izvršni svet sprejel za dopolnjevanje
+                           teh planskih aktov.</p>
+                        <p>Ta program določa termine, da bi v januarju mesecu imeli smernice v tej
+                           Skupščini za to dopolnjevanje, potem v mesecu februarju oziroma marcu
+                           osnutek, v maju mesecu pa bi Izvršni svet predložil predlog sprememb in v
+                           teh jasno in celovito zasnovo tudi cestnega omrežja.</p>
+                        <p>Glede pripomb in pobud, vezanih na izgradnjo avtoceste Bratstva in
+                           enotnosti, poudarjamo, da s sedanjo dopolnitvijo planov omogočamo
+                           pripravo in izvedbo vseh aktivnosti Skupnosti za ceste za pripravo
+                           planskih elementov, tako imenovana predhodna dela, idejne priprave
+                           idejnih projektov za izbor alternativnih rešitev v planskem procesu,
+                           zlasti gre tu za pripombo iz Novega Mesta. Menim, da je iskanje
+                           alternativnih rešitev s tem dopolnjevanjem tudi omogočeno, pri katerem pa
+                           sodelujejo Skupnost za ceste, drugi nosilci planiranja na ravni republike
+                           ter občine, skozi katere poteka cesta Bratstva in enotnosti.</p>
+                        <p>Usklajeni planski elementi v prostoru po sprejemu teh v srednjeročnem
+                           planu Skupnosti za ceste in občine omogočajo šele Izvršnemu svetu SR
+                           Slovenije, da izda prostorski izvedbeni načrt. Na tej osnovi se nato
+                           pripravijo, sprejemajo oziroma izdajo lokacijsko dovoljenje, gradbeno
+                           dovoljenje, investicijski program in izdela gradbeno-tehnična
+                           dokumentacija, sama dinamika izgradnje po odsekih pa izvede po dotoku s
+                           skupnim jugoslovanskim programom za izgradnjo avtoceste Bratstva in
+                           enotnosti predvidenih sredstev.</p>
+                        <p>Prav zaradi tega je v tej fazi v kartografskem delu možno opredeliti le
+                           pripravo za to novogradnjo, ne pa vnesti za vse odseke že kar obeležje
+                           novogradnje, kar je bila sicer pripomba občine Brežice. S temi planskimi
+                           odločitvami tudi ne posegamo v obstoječe programe in sredstva,
+                           opredeljena v planskih aktih Skupnosti za ceste Slovenije, na kar
+                           opozarjajo delegati iz Kopra, niti ne v prioritete, ki so dogovorjene v
+                           tej samoupravni skupnosti.</p>
+                        <p>Izvršni svet se tudi strinja z zahtevo po ponovni proučitvi cestninskega
+                           sistema na avtocesti Bratstva in enotnosti, na kar opozarjajo delegati iz
+                           Radovljice.</p>
+                        <p>Glede pobud za dopolnjevanje planskih aktov za področje plinifikacije in
+                           vodne oskrbe je potrebno intenzivirati delo za sprejem planskih aktov
+                           ustreznih samoupravnih interesnih skupnosti, ki teh aktov v takšni obliki
+                           še nimajo sprejetih, tako da bodo le-te potem imele veljavne planske akte
+                           in jih bo mogoče v napovedanem postopku od januarja do maja tudi
+                           dopolniti, spremeniti na osnovi pobud in seveda v skladu z materialnimi
+                           možnostmi, ki jih je z analizo razvojnih možnosti potrebno preveriti in
+                           ugotoviti. Med take pobude, ki zahtevajo proučitev v analizi razvojnih
+                           možnosti, sodijo tudi posamezni predlogi, ki zadevajo določilo zakona o
+                           pospeševanju razvoja manj razvitih in obmejnih območij Slovenije.</p>
+                        <p>Tovarišice in tovariši delegati! Izvršni svet predlaga, da oba predloga
+                           dopolnitev planskih aktov danes obravnavate in sprejmete v preloženi
+                           obliki. Hvala.</p>
+                     </sp>
+                     <sp who="#sp.DvojmočValentin">
+                        <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                        <p>Hvala lepa. K razpravi se je prijavil Anton Praprotnik, 42. okoliš,
+                           področje gospodarstva, Maribor Tezno.</p>
+                     </sp>
+                     <sp who="#sp.PraprotnikAnton">
+                        <speaker>ANTON PRAPROTNIK:</speaker>
+                        <p>Tovariš predsednik, tovarišice in tovariši delegati! Predlagamo, da se
+                           dopolni točka 3.1.33. dolgoročnega plana SR Slovenije za obdobje od leta
+                           1986 do leta 2000 tako, da se namesto besedila 'hitra cesta skozi
+                           Maribor, tretja etapa' vstavi besedilo ' Šentilj-Macelj'.</p>
+                        <p>V 2. odstavku te točke se črta besedilo 'in Šentiij-Maribor-Ptuj'. Zadnji
+                           odstavek predloga dopolnitev dolgoročnega plana SR Slovenije za obdobje
+                           1986-2000 se glasi: Dopolni se karta št. 7, zasnova cestno-prometnih
+                           povezav dolgoročnega plana SR Slovenije za obdobje od leta 1986 do leta
+                           2000, na listo karte št 3 v merilu 1 : 250.000 - zasnova prometnega
+                           omrežja zvez tako, da se vnese magistralna cestna povezava Krvavi
+                           potok-Kozina-Rupa in avtocesta Šentilj-Macelj kot obvezno izhodišče
+                           dolgoročnega plana SR Slovenije za pripravo dolgoročnih in srednjeročnih
+                           planov samoupravnih organizacij in skupnosti ter družbenopolitičnih
+                           skupnosti v SR Sloveniji."</p>
+                        <p>Predlagamo, da naj se v kartografskem delu dopolnitev dolgoročnega plana
+                           ne opredeljujejo etape izgradnje.</p>
+                        <p>Drugi amandma: k predlogu dopolnitev družbenega plana SR Slovenije za
+                           obdobje 1986-1990. Dopolni se točka 2 predloga dopolnitev družbenega
+                           plana SR Slovenije za obdobje 1986-1990, tako da se glasi: "dopolni se
+                           karta št. 7, cestno omrežje družbenega plana SR Slovenije, za obdobje
+                           1986-1990, na listo karte št. 3 v merilu 1 : 250.000 prometno omrežje,
+                           omrežje zvez in manj razvita območja, tako da se z oznako priprava za
+                           novogradnjo vnesejo preostali odcepi magistralne ceste avtomobilske ceste
+                           Bratstva in enotnosti od Karavank do Bregane in odseka cest po Osimskem
+                           sporazumu, Čebulovica - Divača - Sežana ter Krvavi potok Kozina - Rupa in
+                           avtocesta Šentilj - Macelj in z oznako, pričetek gradnje avtoceste
+                           Šentilj - Pesnica."</p>
+                        <pb/>
+                        <p>Obrazložitev: Kot argument k predlogu predlaganih amandmajev navajamo
+                           predvsem naslednje:</p>
+                        <p>1. Obremenjenost cestne povezave Šentilj - Macelj. Prek mejnega prehoda
+                           Šentilj se nadaljuje pot prek Maribora proti Zagrebu in obratno, tako da
+                           je v letu 1986 šlo več kot 1/3 vsega tovornega prometa v SR Sloveniji, to
+                           je 171.37 8 tovornih vozil in 1/8 vseh osebnih vozil, kar pomeni
+                           2.935.629 vozil in 14.000.000 potnikov, ki so prestopili mejne prehode
+                           Šentilj, Jurij ali Trate in nato nadaljevali proti Mariboru, Zagrebu in
+                           obratno.</p>
+                        <p>Obremenjenost ceste Šentilj - Macelj je izredno velika. Da je potrebna
+                           nova izgradnja avtoceste, priča tudi podatek o izredno velikem številu
+                           večjih prometnih nesreč. V letu 1986 je bilo 387 večjih prometnih
+                           nesreč.</p>
+                        <p>Posebej bi želeli opozoriti na varovanje Dravskega polja s pitno vodo,
+                           saj se z njo oskrbuje pretežni del prebivalstva s tega območja, kot tudi
+                           na načrtovanje drugih zajetij za primerno oskrbo s pitno vodo mesta
+                           Maribor.</p>
+                        <p>2. Zastopanost cestne infrastrukture v družbenih planih SR Slovenije.
+                           Izgradnja avtocestne povezave Šentilj - Macelj se vleče v družbenih
+                           planih SR Slovenije že od leta 1969 pa vse do danes, vendar z različnim
+                           poudarkom na posameznih odsekih in posameznih obdobjih. Moti nas to, da
+                           stopamo v letu 1987 glede planov z novimi odseki, ki se doslej v
+                           družbenih planih SR Slovenije niso pojavljali, hkrati pa ne zagotavljamo
+                           sredstev za izvedbo planiranih akcij iz preteklih planskih obdobij.</p>
+                        <p>3. Posebej poudarjamo, da je gospodarstvo naše občine kakor tudi celotne
+                           podravske regije in severozahodne Slovenije izredno zainteresirano za
+                           izgradnjo avtocestne povezave, saj se prek ustrezne cestne povezave
+                           odpirajo tudi ugodnejše možnosti razvoja in gospodarjenja v tem delu
+                           Slovenije kot tudi odpiranja tega dela gospodarstva v svet.</p>
+                        <p>4. Glede na to, da smo v vseh dosedanjih obravnavah planskih dokumentov
+                           opozarjali na nujnost vključitve izgradnje avtoceste od Šentilja do
+                           Maclja in da zanj obstaja v ustreznih strokovnih službah tudi vsa
+                           strokovna dokumentacija kot argument za neodložljivost izgradnje
+                           avtocestne povezave od Šentilja do Maclja še v tem dolgoročnem planu.
+                           Menimo, da sta predloga naših dveh amandmajev utemeljena. Hvala lepa.</p>
+                     </sp>
+                     <sp who="#sp.DvojmočValentin">
+                        <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                        <p>Obveščam delegate, da je amandmaje s podobno obrazložitvijo predložil
+                           tudi delegat 39. okoliša Maribor Rotovž.</p>
+                        <p>K razpravi se je prijavila tovarišica Zora Završnik, okoliš, gospodarstva
+                           iz Radovljice.</p>
+                     </sp>
+                     <sp who="#sp.ZavršnikZora">
+                        <speaker>ZORA ZAVRŠNIK:</speaker>
+                        <p>Tovariš predsednik, tovarišice in tovariši delegati. Ob pregledu
+                           grafičnega prikaza predloga <pb/> dopolnitve družbenega plana republike
+                           ugotavljamo, da je pri prikazu poteka novo načrtovane trase avtoceste
+                           prišlo do spremenjenega grafičnega prikaza trase, ki bistveno odstopa od
+                           sprejete trase, opredeljene v dolgoročnem družbenem planu republike in
+                           občine.</p>
+                        <p>Hkrati je predlagana trasa v nasprotju z opredeljeno traso v osnutku
+                           dopolnitev plana. Morebitna sprememba trase bi torej zahtevala uskladitev
+                           interesov med občino in republiko ter ustrezno dopolnitev dolgoročnih
+                           planov obeh. Ne v grafičnem prikazu ob obravnavi osnutka in ne v
+                           tekstualnem delu te obrazložitve dopolnitev dolgoročnega plana
+                           kakršnekoli spremembe trase niso navedene. Zato želimo, da se med
+                           odločanjem o dopolnitvah obeh planskih dokumentov to vprašanje predhodno
+                           razreši in upamo, da je vzrok navedenih nejasnosti le shematičnost
+                           prikaza in da kot obvezno izhodišče ni prišlo do sprememb opredelitve
+                           trase, prikazane v grafični prilogi v merilu 1 : 250.000, to je na karti
+                           cestnoprometne povezave št. 7, list št. 3.</p>
+                        <p>Prilagamo grafično gradivo, ki ga je pripravil Komite za urejanje
+                           prostora in varstvo okolja občine Radovljica.</p>
+                     </sp>
+                     <sp who="#sp.DvojmočValentin">
+                        <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                        <p>Hvala lepa. Pisnih prijav k razpravi ni več. Želi še kdo razpravljati?
+                           (Ne.)</p>
+                        <p>Ker ne želi nihče več razpravljati, zaključujem razpravo in prekinjam to
+                           točko dnevnega reda.</p>
+                        <p>Skupina delegatov, ki smo jo imenovali, naj se skupaj z delegati, ki so
+                           predložili amandma in predstavniki Izvršnega sveta, sestane in prouči
+                           razpravo ter zavzame stališče do teh amandmajev.</p>
+                        <p>Prosim tudi predstavnika Zakonodajno-pravne komisije, da se pridruži
+                           skupini.</p>
+                     </sp>
+                  </div>
+                  <div ana="#PAR.TDR" n="3, 4">
+                     <sp who="#sp.DvojmočValentin">
+                        <p>Predlagam, da zaradi povezanosti problematike in predlaganega sklepa
+                           obravnavamo skupaj 3. in 4. točko dnevnega reda, to je predlog za izdajo
+                           zakona o spremembah in dopolnitvah zakona o stanovanjskem gospodarstvu in
+                           predlog za izdajo zakona o spremembah in dopolnitvah zakona o
+                           stanovanjskih razmerjih, ki ju je predložil v obravnavo Izvršni svet
+                           Skupščine SR Slovenije.</p>
+                        <p>Se strinjate s tem, da skupaj obravnavamo ti dve točki? (Da. )</p>
+                        <p>K predlogu za izdajo zakona o spremembah in dopolnitvah zakona o
+                           stanovanjskem gospodarstvu ste prejeli tudi gradivo Zveze stanovanjskih
+                           skupnosti Slovenije: Nekatera vprašanja financiranja stanovanjske
+                           graditve po uveljavitvi zakona o celotnem prihodku in dohodku. Danes pa
+                           ste na klop prejeli tudi predlog pod ESA 303 in 309 in mnenje Izvršnega
+                           sveta Skupščine SR Slovenije.</p>
+                        <p>Uvodno besedo bo imel Ladislav Horvat, republiški svetovalec v
+                           Republiškem komiteju za varstvo okolja in urejanje prostora.</p>
+                     </sp>
+                     <sp who="#sp.HorvatLadislav">
+                        <speaker>LADISLAV HORVAT:</speaker>
+                        <p>Tovariš predsednik, tovarišice in tovariši delegati! Na podlagi sklepa,
+                           ki so ga zbori sprejeli ob obravnavi poročila o stanovanjskem
+                           gospodarstvu decembra lanskega leta, je Izvršni svet Skupščine SR
+                           Slovenije pripravil predlog za izdajo o spremembah in dopolnitvah zakona
+                           o stanovanjskem <pb/> gospodarstvu in stanovanjskih razmerjih, v katerem
+                           je zajel vse predloge in stališča, ki so bila sprejeta v skupščinski
+                           razpravi. To so potrdile tudi vse razprave o omenjenih zakonih v delovnih
+                           telesih skupščine in drugih organih.</p>
+                        <p>Predlagane spremembe in dopolnitve zakona o stanovanjskem gospodarstvu in
+                           zakona o stanovanjskih razmerjih se nanašajo zlasti na planiranje,
+                           financiranje in gospodarjenje s stanovanjskim skladom, vključno z uporabo
+                           stanovanj, v pogojih, ko se družbenoekonomski odnosi na tem področju
+                           uresničujejo bistveno v drugačnih razmerah kot v preteklosti. Vzroki za
+                           to so v splošnih gospodarskih težavah in spremenjenem načinu
+                           zagotavljanja sredstev iz čistega dohodka za reševanje stanovanjskih
+                           vprašanj od 1. julija 1987 kot posledica sprejete zvezne obračunske
+                           zakonodaje.</p>
+                        <p>Obseg stanovanjske graditve v zadnjem obdobju občutno pada. Tako je bilo
+                           v letošnjem prvem polletju po statističnih podatkih zgrajeno le 828
+                           stanovanj, od tega več kot 500 v Ljubljani, ostalih 314 pa v drugih
+                           občinah. V 46 občinah v prvem polletju ni bilo dokončano niti eno
+                           družbeno stanovanje.</p>
+                        <p>Nova obračunska zakonodaja bo že v letošnjem letu vplivala na obseg
+                           stanovanjske gradnje, pričakujemo pa lahko še večjo zaostritev pogojev
+                           gradnje in s tem še občutnejši padec njenega obsega v naslednjem
+                           letu.</p>
+                        <p>Izvršni svet zato meni, da je potrebno, ne glede na predlagane spremembe
+                           in dopolnitve zakona o stanovanjskem gospodarstvu in stanovanjskih
+                           razmerjih, takoj sprejeti še nekatere ekonomske in organizacijske ukrepe,
+                           ki naj olajšajo prehod iz sedanjega stanja v novi sistem stanovanjskega
+                           gospodarstva, kot je to tudi ponujeno v predlogih stanovanjske reforme
+                           Zveznega izvršnega sveta. Ti ukrepi so zlasti naslednji:</p>
+                        <p>1. Pospešiti je treba prehod na ekonomske stanarine, da bomo planirano
+                           višino 3.4% revalorizirane vrednosti stanovanj dosegli konec leta 1989 in
+                           ne 1990, kot je bilo predvideno.</p>
+                        <p>2. Z resolucijo za izvajanje družbenega plana za leto 1988 je treba
+                           opredeliti ustrezen delež sredstev bank iz hranilnih in vpoglednih vlog
+                           občanov za potrebe stanovanjskega in komunalnega gospodarstva.</p>
+                        <p>3. Omogočiti je treba prodajo družbenih stanovanj pod enakimi pogoji, kot
+                           se pridobivajo stanovanja ali stanovanjske hiše v zasebni lasti. V ta
+                           namen je potrebno izpolniti zakon o pogojih za prodajo stanovanj in
+                           stanovanjskih hiš v družbeni lastnini.</p>
+                        <p>4. S sredstvi davkov nepremičnin, davkov na dohodek od nepremičnin,
+                           davkov od prometa z nepremičninami in sredstvi nadomestila za uporabo
+                           stavbnih zemljišč naj se v večji meri omogoči financiranje urejanje
+                           stavnih zemljišč in s tem razbremeni cena stanovanj.</p>
+                        <p>Ob vsem tem predlagatelj želi s spremembami in dopolnitvami obeh zakonov
+                           odpraviti ovire, ki otežkočajo hitrejše prilagajanje stanovanjskega
+                           gospodarstva tržnim pogojem. Ker pa ima stanovanjsko gospodarstvo tudi
+                           socialno komponento, ki je kljub težavam ne smemo zanemariti, bi bilo
+                           treba s temi spremembami v okviru solidarnosti širiti družbeno pomoč tudi
+                           na stimuliranje pri varčevanju ter na druge oblike spodbujanja <pb/>
+                           občanov in delovnih organizacij pri reševanju stanovanjskih vprašanj z
+                           lastnimi sredstvi. Zato je treba namen in vire za družbeno pomoč v
+                           stanovanjskem gospodarstvu na novo opredeliti v zakonu, obseg sredstev pa
+                           naj se v skladu s potrebami in možnostmi določi v planskih aktih
+                           družbenopolitičnih skupnosti, stanovanjskih skupnosti ter delovnih
+                           organizacijah in skupnostih.</p>
+                        <p>Za hitrejšo in učinkovitejšo rešitev tega problema bo Izvršni svet
+                           Skupščine SR Slovenije proučil pobudo Odbora Zbora občin za urejanje
+                           prostora, stanovanjska in komunalna vprašanja ter Zveze stanovanjskih
+                           skupnosti Slovenije, da naj se te določbe, ki so sicer predlagane v
+                           spremembah in dopolnitvah zakona o stanovanjskem gospodarstvu, sprejmejo
+                           po skrajšanem postopku, z uveljavitvijo s 1. januarjem 1988.</p>
+                        <p>Izvršni svet bo tudi proučil pobudo Zveze stanovanjskih skupnosti
+                           Slovenije za spremembe in dopolnitve zakona o celotnem prihodku in
+                           dohodku, s katerimi bi bila dana možnost izdvajanja in uporabe sredstev
+                           sklada skupne porabe za reševanje stanovanjskih vprašanj ob periodičnih
+                           obračunih.</p>
+                        <p>Izvršni svet predlaga, da predložena predloga zakona o spremembah in
+                           dopolnitvah zakona o stanovanjskem gospodarstvu in zakona o stanovanjskih
+                           razmerjih obravnavate ter s svojimi predlogi ob upoštevanju dosedanje
+                           razprave daste usmeritev za nadaljnje oblikovanje zakonskih sprememb.
+                           Hvala lepa.</p>
+                     </sp>
+                     <sp who="#sp.DvojmočValentin">
+                        <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                        <p>Hvala lepa. K razpravi se je prijavil tovariš Igor Bratina, predsednik
+                           Zveze stanovanjskih skupnosti Slovenije.</p>
+                     </sp>
+                     <sp who="#sp.BratinaIgor">
+                        <speaker>IGOR BRATINA:</speaker>
+                        <p>Tovariš predsednik, tovarišice in tovariši delegati! V stanovanjskih
+                           skupnostih in njihovi zvezi delegati presojamo predlog za izdajo zakona o
+                           spremembah in dopolnitvah zakona o stanovanjskem gospodarstvu in predlog
+                           za spremembe in dopolnitve zakona o stanovanjskih razmerjih zlasti z
+                           vidika, koliko sta dejansko oba v funkciji nadaljnje krepitve
+                           samoupravnih družbenoekonomskih odnosov v stanovanjskem gospodarstvu, pa
+                           tudi v kontekstu stališč, priporočil in sklepov Skupščine SR Slovenije,
+                           sprejetih ob obravnavi poročila o stanovanjskem gospodarstvu, ki vendarle
+                           pomenijo okvir za sedanje posege v stanovanjsko zakonodajo.</p>
+                        <p>Toda od delegatov in delavcev v stanovanjskem gospodarstvu bi bilo
+                           neodgovorno, če ne bi skušali aktivno vplivati na potek razprav in se
+                           tako soočiti s ponujenimi smermi reševanja v obeh predlogih zakonov. Zato
+                           smo praktično ves čas razprav opozarjali, da mora vsaka sprememba teh
+                           predpisov v sedanjem času prispevati k odpravi zaznanih pomanjkljivosti v
+                           izvajanju stanovanjske politike in zlasti zagotoviti boljše možnosti za
+                           oživitev stanovanjske gradnje ter tako za hitrejše reševanje elementarnih
+                           vprašanj delavcev, delovnih ljudi in občanov pri nas in tudi to, da se v
+                           času, ko je za področje zagotavljanja sredstev za stanovanjsko gradnjo
+                           začel veljati zakon o celotnem prihodku in dohodku, predlagatelj v obeh
+                           predlogih za izdajo ni lotil ali pa ni ustrezno lotil financiranja kot
+                           pomembnega dela v sistemu stanovanjskega gospodarstva.</p>
+                        <pb/>
+                        <p>Te svoje poglede, kot tudi konkretne predloge in pripombe na oba predloga
+                           za izdajo, smo posredovali predlagatelju; z njimi ste seznanjeni tudi
+                           delegati v Skupščini.</p>
+                        <p>Zavedamo se, da so vprašanja stanovanjske gradnje, hitrega upadanja
+                           predvsem gradnje družbenih stanovanj v zadnjih letih in vseh posledic, ki
+                           iz tega logično izhajajo zelo zapletena, zahtevna in mnogo bolj celovita
+                           ter da še zdaleč niso rešitve zanje odvisne izključno od zagotavljanja
+                           sredstev v stanovanjskem gospodarstvu.</p>
+                        <p>Gre za vrsto vprašanj s tega področja, na katera je večkat opozarjala
+                           tudi Skupščina SR Slovenije, in sicer: nezagotovljeni viri za
+                           pridobivanje in urejanje stavbnih zemljišč, neustrezno delovanje skladov
+                           stavbnih zemljišč, nefleksibilnost pri zbiranju sredstev v bankah in
+                           neustreznost posojilne politike. Problematika gradbeništva, neurejeno
+                           področje oblikovanja in spremljanja cen stanovanj, neustrezna
+                           organiziranost za izvajanje družbeno usmerjene stanovanjske gradnje in
+                           verjetno še kaj. Toda uveljavitev zakona o celotnem prihodku in dohodku v
+                           delu, ki se nanaša na zagotavljanje sredstev, vendar pomeni vrhunec krize
+                           v stanovanjskem gospodarstvu. To pa vseeno ne more vplivati na dejstvo,
+                           da v stanovanjskem gospodarstvu sprejemamo in podpiramo osnovne namene
+                           sklopa tako imenovane obračunske zakonodaje.</p>
+                        <p>Naša samoupravna organiziranost ne daje možnosti direktnega vpliva na
+                           odločitve o sistemskih vprašanjih financiranja stanovanjskega
+                           gospodarstva, niti ne omogoča vpliva na odločitve tekoče ekonomske
+                           politike na ta segment družbene reprodukcije, zato smo ob sprejetju
+                           nekaterih usmeritev samoupravnim stanovanjskim skupnostim za
+                           racionalnejšo oziroma za pospešitev zamenjav znotraj obstoječega
+                           stanovanjskega sklada in s tem za ustreznejšo izrabo razpoložljivih
+                           stanovanj posredovali Izvršnemu svetu Skupščine SR Slovenije širši prikaz
+                           problematike, ki jo je potrebno v okviru nakazanih sprememb stanovanjske
+                           zakonodaje posebej pozorno in dosledno obdelati, to je vprašanje
+                           financiranja stanovanjske izgradnje.</p>
+                        <p>Hkrati in ob tem pa smo oblikovali svoj pogled na mogoče poti reševanja
+                           teh vprašanj in pripravili predloge, v katerih je dan prikaz možnega
+                           načina financiranja stanovanjskega gospodarstva v Sloveniji, ne da bi že
+                           takrat poznali prvine protiinflacijskega programa Zveznega izvršnega
+                           sveta, ki se nanašajo na stanovanjsko gospodarstvo. Ti predlogi
+                           upoštevajo tako določila zakona o celotnem prihodku in dohodku, naše
+                           dejanske družbenoekonomske razmere, predvsem pa usmeritve, da je potrebno
+                           gospodarstvo čimbolj razbremeniti stanovanjskega bremena razen za kadre,
+                           ki so posebej pomembni za delovanje in razvoj znotraj organizacij
+                           združenega dela.</p>
+                        <p>Te predloge smo pred dnevi posredovali tudi Skupščini SR Slovenije, žal
+                           pa ugotavljam, da jih delegati niste prejeli.</p>
+                        <p>Podrobnosti vendarle ne bom ponavljal. Navedem naj le, da je izhodišče
+                           celotnega sistema stanarina, ki mora poleg vzdrževanja in upravljanja
+                           pokriti še nadomeščanje stanovanjskega sklada, torej celotno in enostavno
+                           reprodukcijo. Kot viri za preostali del potrebne gradnje, to rej za
+                           razširjeno reprodukcijo pa pridejo v poštev zlasti: dohodki prebivalstva
+                           v obliki dolgoročnega namenskega stanovanjskega varčevanja, del sredstev
+                           <pb/> hranilnih vlog na vpogled v bankah, sredstva družbe za solidarnost
+                           oziroma družbeno pomoč pri lastnem reševanju stanovanjskega gospodarstva,
+                           sredstva od stanovanjskih kreditov, pridobljenih pod ugodnimi pogoji, ki
+                           ob visoki inflaciji pomenijo majhno, mnogokrat že simbolično vračilo,
+                           prihodki od davkov in morda še kaj.</p>
+                        <p>Ob taki usmeritvi ocenjujemo, da je za doseganje učinkov razbremenjevanja
+                           gospodarstva potrebno v okviru tekoče ekonomske politike in njenih
+                           ukrepov že za leto 1988 sprejeti take odločitve, ki bodo:</p>
+                        <p>1. Na učinkovit način zagotovile odpravo sedanjega, že skoraj popolnega
+                           zastoja v stanovanjski gradnji.</p>
+                        <p>2. Vlogo stanarine vzpostavile kot instrument za racionalno rabo
+                           stanovanj in delo kot vir sredstev za enostavno reprodukcijo.</p>
+                        <p>Za slednje pripravljamo predloge za takojšnji oziroma vsaj pospešeni
+                           prehod na primeren nivo stanarin, saj je verjetno že v večini danes
+                           jasno, da to sedaj ni več le ekonomsko, temveč je pri nas to tudi že in
+                           predvsem moralno in socialno vprašanje.</p>
+                        <p>Glede zagotovitve možnosti za izvajanje stanovanjske gradnje so bile v
+                           organih Zveze stanovanjskih skupnosti Slovenije sprejete določene možne
+                           smeri reševanja, oblikovane v nekaj predlogih, ki so bili posredovani
+                           Skupščini SR Slovenije in njenemu Izvršnemu svetu, Gospodarski zbornici
+                           Slovenije, Skupnosti socialnega varstva in drugim. Nanašajo se na
+                           povečevanje stanarin v naslednjem obdobju in vlogo amortizacije v njej,
+                           na potrebne takojšnje spremembe nekaterih členov zakona o stanovanjskem
+                           gospodarstvu, na zagotovitev ustrezno večjega deleža za dolgoročno
+                           stanovanjsko kreditiranje iz hranilnih vlog občanov na vpogled v bankah
+                           ter na nekatere planske aktivnosti tako v organizacijah združenega dele
+                           kot v stanovanjskih skupnostih.</p>
+                        <p>Tovarišice in tovariši delegati! Da bi zaustavili dosedanje neugodne
+                           trende v stanovanjski gradnji, jasno postavili cilje socialne politike
+                           oziroma solidarnosti v stanovanjskem gospodarstvu ter zagotovili možnosti
+                           uporabe sredstev iz dohodka organizacij združenega dela za spodbujanje
+                           delavcev in občanov, da si tudi sami kar najbolj prizadevajo za reševanje
+                           lastnega stanovanjskega vprašanja, in ker je Skupščina SR Slovenije
+                           pristojna za obravnavo in sprejetje, daje Zveza stanovanjskih skupnosti
+                           Slovenije pobudo, da delegati ocenite potrebo in primernost za pripravo
+                           vsebinske spremembe in sprejem po hitrem postopku sprememb in dopolnitev
+                           zakona o stanovanjskem gospodarstvu v delu, ki se nanaša na
+                           zagotavljanje, predvsem pa možnosti uporabe sredstev iz dohodka
+                           organizacij združenega dela za stanovanjsko graditev.</p>
+                        <p>Obrazložitev te pobude: Kot je bilo danes že poudarjeno in splošno
+                           ugotovljeno, se problematika financiranja v stanovanjskem gospodarstvu z
+                           uveljavitvijo zakona o celotnem prihodku in dohodku še bolj zaostruje.
+                           Uveljavitev tega zakona je že vplivala na obseg stanovanjske zidave v
+                           Sloveniji, ki izkazuje zaskrbljujoče trende upadanja. Iz podatkov o
+                           zidavi je razvidno, da v Sloveniji ne bomo dosegli načrtovanega obsega
+                           graditve stanovanj z vsemi, že omenjenimi neugodnimi posledicami za
+                           celotno gospodarsko rast.</p>
+                        <pb/>
+                        <p>Znano je, da se je sedanji smisel solidarnosti v stanovanjskem
+                           gospodarstvu zožil, včasih že kar zbanaliziral le v zagotavljanje lažje
+                           poti družbeno-najemnega stanovanja, brez kasnejšega sprotnega prevajanja
+                           nadaljnje upravičenosti do njega in na pomoč pri uporabi stanovanja.
+                           Prepričani pa smo, da je sedaj priložnost in realna zahteva časa za
+                           vzpostavitev drugačnega, novega koncepta solidarnosti oziroma pomoči
+                           družbe.</p>
+                        <p>V času, ko bo stanovanj gotovo manj in bo pot do njih težja za vsakogar,
+                           gre za pomoč družbe v funkciji spodbujevalca vsakega delavca in občana,
+                           da se kar najbolj tudi sam angažira za reševanje lastnega stanovanjskega
+                           vprašanja. Družbena pomoč mora biti tako opredeljena, da odpira najširšo
+                           perspektivo vsem, ki stanovanje potrebujejo, in v tem okviru je tudi
+                           mesto za vzpostavitev načinov za reševanje stanovanjskih vprašanj mladih
+                           delavcev in družin, družin z večjim številom otrok in tistih, ki prvič
+                           rešujejo stanovanjsko vprašanje. Vendar pa je treba tak način pomoči
+                           družbe v izhodiščih ločevati od načel upoštevanja ekonomskih zakonitosti
+                           tako pri pridobivanju kakor tudi pri uporabi stanovanj.</p>
+                        <p>Vse to je zajeto v pobudi in besedilu delovne zasnove spremembe 37. člena
+                           zakona o stanovanjskem gospodarstvu kot prilogi k tej pobudi, ki ga je
+                           seveda potrebno še nadalje strokovno dograjevati. Toda, povsem napak bi
+                           bilo, če bi to pobudo presojali z vidika širjenja solidarnosti oziroma
+                           sociale v stanovanjskem gospodarstvu. Nasprotno, menimo, da se krog
+                           solidarnostnih upravičencev s tem ne sme povečati, razen seveda za
+                           subvencije ob ustrezno višjih stanarinah, da pa bi pomoč družbe pri
+                           pridobivanju stanovanj postala pomemben in učinkovit instrument v vseh
+                           primerih, za katere bi bila dogovorjena in zares upravičena.</p>
+                        <p>S pobudo hočemo sprožiti drugačno razmišljanje o virih financiranja v
+                           stanovanjskem gospodarstvu in še posebej o vlogi, pomenu in načinih
+                           družbe pri lastnem angažiranju delavcev in občanov za rešitev
+                           stanovanjskega vprašanja, obenem pa zagotoviti ohranitev realne vrednosti
+                           vlaganja v stanovanja z neposrednim financiranjem in sprotnim vlaganjem,
+                           to je s takojšnjo materializacijo katerihkoli namenskih stanovanjskih
+                           sredstev.</p>
+                        <p>Sprejetje te opredelitve družbene pomoči pri reševanju stanovanjskih
+                           vprašanj, kot je opredeljena v tej pobudi, pomeni le zagotovitev pogojev
+                           in vzpostavitev vseh možnih najširših oblik pomoči pri lastnem reševanju
+                           stanovanjskega vprašanja, toda vedno le na osnovi ocen o konkretnih
+                           razmerah in možnostih družbe oziroma posameznega okolja za nudenje take
+                           pomoči.</p>
+                        <p>Hvala lepa. Opravičujem se za nekoliko daljše izvajanje.</p>
+                     </sp>
+                     <sp who="#sp.DvojmočValentin">
+                        <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                        <p>Hvala lepa. K razpravi se je prijavila tovarišica Lea Oražem, 3. okoliš,
+                           socialno-zdravstveno področje, Kočevje.</p>
+                     </sp>
+                     <sp who="#sp.OražemLea">
+                        <speaker>LEA ORAŽEM:</speaker>
+                        <p>Tovarišice in tovariši delegati! V skupini delegatov ocenjujemo, da v
+                           zakonu o stanovanjskih razmerjih ni zadovoljivo urejeno stanovanjsko
+                           vprašanje zakoncev po razvezi. Tudi predlagane spremembe ne bodo
+                           pripomogle k razrešitvi tega<pb/> vprašanja. Zaradi znane problematike in
+                           omejenih možnosti pridobivanja stanovanj, ostanejo mnogi zakonci po
+                           razvezi v dosedanjem stanovanju. V teh primerih pa se največkrat pojavijo
+                           nevzdržne razmere zaradi prepirov pa tudi nagajanj med razvezanima
+                           zakoncema, katerih žrtev so žal otroci, ki so zaradi razveze staršev že
+                           tako prizadeti. Zato se pri otrocih pojavljajo psihične motnje,
+                           razrvanost, slab uspeh v šoli in tako naprej.</p>
+                        <p>Zavedamo se, da se pri tem pojavlja še vrsta vzporednih vprašanj in
+                           problemov, tako, na primer, kako zagotoviti razvezanemu, ki mu ni
+                           dodeljena nadaljnja uporaba stanovanja,</p>
+                        <p>najnujnejši stanovanjski prostor, ker tega prostora sploh ni v kategoriji
+                           stanovanj, saj je znano, da se družbena stanovanja lahko dodeljujejo samo
+                           po prednostnem vrstnem redu. Zato razvezanec, ki je ostal nosilec
+                           stanovanjske pravice, sploh na tak vrstni red ne more priti. Razvezanec,
+                           ki bi se moral umakniti iz stanovanja, pa iz nagajivosti sploh noče
+                           konkurirati za uvrstitev na prednostni vrstni red.</p>
+                        <p>Nehumano je, da se daje absolutna prednost pravnim razglabljanjem, pušča
+                           pa v veljavi neživljenjske in destruktivne odnose v razdvojeni
+                           družini.</p>
+                        <p>Menimo, da bi morali z zakonom urediti to vprašanje na najprimernejši
+                           način za razpadlo družino, pri tem pa izhajati predvsem s stališča
+                           zaščite otroka in zakonca, ki mu je dodeljena uporaba stanovanja po
+                           razvezi in tudi skrb za otroke.</p>
+                        <p>Delegatom naše skupine ni uspelo oblikovati konkretnih predlogov, kako
+                           razrešiti navedeno problematiko. Pričakujemo pa, da bo to uspelo
+                           strokovnjakom s področja pravnih in ostalih znanosti.</p>
+                        <p>Na to problematiko smo opozorili že leta 1986 ob razpravi o stanovanjski
+                           problematiki.1</p>
+                        <p>Menimo tudi, da je treba pri izvajanju politike na področju
+                           stanovanjskega gospodarstva zasledovati naslednje cilje:</p>
+                        <p>1. - takojšnja uvedba ekonomskih stanarin ob sočasnem sofinanciranju;</p>
+                        <p>2. - varovanje kakovostnih kmetijskih zemljišč pri načrtovanju
+                           stanovanjskih gradenj;</p>
+                        <p>3. - sofinanciranje bodočih uporabnikov stanovanj;</p>
+                        <p>4. - policentrični razvoj stanovanjske graditve v Sloveniji;</p>
+                        <p>5. - OZD se morajo pri zaposlovanju zavedati odgovornosti tudi za
+                           reševanje stanovanjskih problemov delavcev in v pretežni meri same nositi
+                           breme za zagotavljanje stanovanj svojim delavcem. Pri tem opozarjamo na
+                           družbeni dogovor o pogojih za zaposlovanje ter o minimalnih standardih za
+                           življenjske in kulturne razmere pri zaposlovanju, ki bi ga morale
+                           izvajati organizacije združenega dela;</p>
+                        <p>6. - skrb za ohranjanje družbenih stanovanj mora v večji meri preiti na
+                           organizacije združenega dela, ki imajo nad temi stanovanji razpolagalno
+                           pravico.</p>
+                     </sp>
+                     <sp who="#sp.DvojmočValentin">
+                        <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                        <p>Hvala lepa, tovarišica Oražmova. Besedo ima Brane Kastelic, 9. okoliš
+                           gospodarstva Grosuplje.</p>
+                     </sp>
+                     <pb/>
+                     <sp who="#sp.KastelicBrane">
+                        <speaker>BRANE KASTELIC:</speaker>
+                        <p>Tovariš predsednik, tovarišice in tovariši delegati 1 Tudi v naši skupini
+                           menimo, da so spremembe predlaganih zakonov sicer potrebne, in sicer iz
+                           razlogov, ki jih navaja predlagatelj, vendar pa se ob tem sprašujemo, ali
+                           bodo te predlagane rešitve prispevale k izboljšanju odnosov v
+                           stanovanjskem gospodarstvu.</p>
+                        <p>Skupščina je decembra 1986. leta opozorila, da se na področju
+                           stanovanjskega gospodarstva razkorak med sprejetimi dokumenti in prakso
+                           prepočasi zmanjšuje. Rezultat tega je vse bolj neracionalno gospodarjenje
+                           s stanovanjskimi sredstvi, kar pa ima v končni fazi za posledico padanje
+                           gradnje družbenih stanovanj in s tem siromašenje stanovanjskega sklada
+                           nasploh.</p>
+                        <p>Že ob obravnavi poročila o stanovanjskem gospodarstvu smo opozarjali, da
+                           je za negativne tendence krivo predvsem neusklajeno delovanje vseh
+                           dejavnikov, ki vplivajo na stanovanjsko gradnjo. Gibanje družbene
+                           stanovanjske gradnje v letu 1987, če se spomnimo na številke, ki jih je
+                           poudaril tovariš Horvat, to ugotovitev samo še potrjuje.</p>
+                        <p>V skupščinskih stališčih, sklepih in priporočilih je bilo med drugim tudi
+                           jasno postavljeno, da je potrebno preprečiti nadaljnje upadanje družbene
+                           stanovanjske gradnje, in sicer s tem, da je potrebno planske cilje
+                           dosegati s podporo vseh oblik družbeno-stanovanjske gradnje - od
+                           investitorske gradnje za trg, zadružne gradnje.</p>
+                        <p>To pospeševanje stanovanjske gradnje je bilo kot cilj postavljeno tudi v
+                           obeh resolucijah, tako v zvezni kot v republiški. Pri tem je bila zvezna
+                           še posebej konkretna, saj je opredelila tako imenovanih 30.000 stanovanj
+                           za trg, ki naj bi pripomogla k uresničevanju ciljev na tem področju.
+                           Kljub tem planskim opredelitvam, ki naj bi OZD, ki potem izvajajo te
+                           stanovanjske plane, služile kot informacija oziroma okvir za postavljanje
+                           lastnih planov, pa s tekočimi ukrepi nenehno zaviramo kontinuirano
+                           gradnjo stanovanj v družbeni sferi, kar je bilo tudi predhodno že večkrat
+                           omenjeno.</p>
+                        <p>Naj še enkrat ponovim nekaj primerov: s prehodom na realne obrestne mere,
+                           ki naj bi na dolgi rok prispevale sicer k ohranjanju stanovanjskih
+                           sredstev in s tem pospeševale stanovanjsko gradnjo, smo, nasprotno,
+                           precej prispevali k zastoju gradnje. Pri tem prehodu na nov sistem namreč
+                           nismo hkrati upoštevali opozoril, ki smo jih tudi izrekli ob obravnavi
+                           poročila v prejšnjem letu, da višina povprečnega osebnega dohodka ne
+                           dopušča kupcu stanovanja, da bi le-tega lahko realno odplačal v tako
+                           kratkih rokih, kot veljajo za odplačilo stanovanjskih kreditov. Nujno bi
+                           bilo hkrati z valorizacijo uveljaviti bistveno daljše vračilne roke,
+                           takrat smo brali utemeljitve o najmanj 30 do 4 0 let, hkrati pa seveda
+                           tudi ustrezno znižati realno obrestno mero, da bi odpravili razkorak med
+                           izredno velikimi negativnimi realnimi obrestnimi merami in dokaj visoko
+                           realno obrestno mero. Po nekaterih ocenah bi bila lahko ta obrestna mera
+                           okoli 1%, da bi zagotavljala predvsem pokritje vseh manipulativnih
+                           stroškov.</p>
+                        <p>No, nadalje smo z novim obračunskim sistemom spremenili kar je bilo že
+                           povedano - način formiranja stanovanjskih sredstev. Poleg teh ukrepov so
+                           seveda poskrbeli v obračunski zakonodaji tudi za to, da se destimulira
+                           tudi same proizvajalce <pb/> oziroma graditelje stanovanj, ki bi mogoče
+                           te zadeve deloma reševali z gradnjo za trg; to smo poskrbeli z načinom
+                           revalorizacije nedokončane proizvodnje, s katero smo povzročili vrsto
+                           problemov pri teh delovnih organizacijah in to bo prav gotovo v bodoče še
+                           bolj vplivalo na to, da se bo stanovanjska gradnje še bolj
+                           zmanjševala.</p>
+                        <p>Gre torej ob vsem tem za pomembno vprašanje: zakaj se ne uresničujejo
+                           sklepi, sprejeti v Skupščini, zakaj se ne uresničujejo plani, ki so
+                           predlagani v tej Skupščini oziroma zakaj se skupščinam predlagajo ukrepi,
+                           ki niso v skladu z opredelitvami v planskih dokumentih? Kako da šele
+                           sedaj ugotavljamo, da obračunski zakon ne podpira teh ciljev, ki smo jih
+                           v planskih dokumentih sprejeli, kako da se že takrat ni opozorilo
+                           skupščine, da bo obračunski zakon imel takšne in drugačne posledice in da
+                           plani seveda zdaj niso več realni. Ob tem gre verjetno načelno tudi za
+                           vprašanje, ki smo ga zastavili na koordinacijskem odboru pri Gospodarski
+                           zbornici, da se nekako opredelimo, čigavi so pravzaprav tudi ti plani.
+                           Menim, da če v resoluciji zapišemo, da bomo pospešili stanovanjsko
+                           gradnjo, je to za vse izvajalce, ki skrbijo za izvajanje, predvsem pa za
+                           graditelje stanovanj predvsem informacija, ki jo bodo upoštevali pri
+                           svojih poslovnih odločitvah. Predlagatelj plana pa je dolžan, da s
+                           svojimi ukrepi zagotovi takšne razmere, da bodo lahko ti planski cilji
+                           tudi realizirani.</p>
+                        <p>To so razlogi, zaradi katerih se upravičeno poraja dvom, da bi lahko samo
+                           predlagane spremembe zakona obrnile tendence na stanovanjskem področju v
+                           pravo smer.</p>
+                        <p>Nič namreč ne pomaga, če uzakonimo možnost gradnje stanovanj za začasno
+                           oddajo pod tržnimi pogoji, na primer, čeprav se nam ideja po naši oceni
+                           zdi dobra, če pa vemo, da v praksi nastaja vrsta težav že s klasično
+                           gradnjo za trg, ki je bila nedavno tudi v našem sistemu relativno dobro
+                           izpeljana. Če se spomnimo, pred zakonom o stanovanjskem gospodarstvu, ki
+                           je okoli leta 1980 ukinil tako imenovano klasično gradnjo za trg.</p>
+                        <p>Zato se glede tega pridružujemo mnenju Komisije za pravosodje, ki meni,
+                           da mora predlagatelj zakona dati jamstvo, da bo s predlaganimi
+                           spremembami in dopolnitvami zakona zagotovljena tudi ustrezna praksa. Pri
+                           tem menimo, da je za to še zlasti pomembno zagotoviti usklajeno delovanje
+                           vseh dejavnikov v stanovanjski gradnji, skratka, poskrbeti za to, da bodo
+                           ti parcialni interesi posameznih dejavnikov čimbolj usklajeni s tistimi
+                           skupnimi interesi, ki si jih v skupščini postavljamo kot cilje.</p>
+                        <p>Pri tem pa menimo, da je trenutno najbolj nujno urediti pereče probleme
+                           financiranja stanovanjske gradnje, kar bomo sicer dejansko priča težkim
+                           problemom na tem področju. Hvala.</p>
+                     </sp>
+                     <sp who="#sp.DvojmočValentin">
+                        <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                        <p>Hvala lepa, tovariš Kastelic. Besedo ima tovarišica Jelena Lozinšek, 5.
+                           okoliš s področja obrti, Maribor Rotovž.</p>
+                     </sp>
+                     <sp who="#sp.LozinšekJelena">
+                        <speaker>JELENA LOZINŠEK:</speaker>
+                        <p>Tovariš predsednik, tovarišice in tovariši delegati! Delegati vseh petih
+                           okolišev, delegirani s področja obrtnih in podobnih dejavnosti Zbora
+                           združenega dela<pb/> Skupščine SR Slovenije, dajemo pripombo na 10. tezo
+                           k tezam za osnutek zakona o spremembah in dopolnitvah zakona o
+                           stanovanjskem gospodarstvu.</p>
+                        <p>V 10. tezi je predlagano, da se za prvim odstavkom 25. člena doda nov
+                           drugi odstavek, ki bi se glasil: 'Delovni ljudje, ki samostojno
+                           opravljajo dejavnost z osebnim delom s sredstvi v lasni občanov in
+                           delovni ljudje, ki samostojno kot poklic opravljajo umetniško in drugo
+                           dejavnost, namenjenih za stanovanjsko gradnjo in prenovo, sredstva iz
+                           čistega dohodka v višini, kot so to določili s samoupravnim sporazumom o
+                           temeljih plana stanovanjske skupnosti ali posebnim dogovorom preko
+                           občinskih obrtnih in drugih združenj.'</p>
+                        <p>Predlagamo, da se v citiranem odstavku kot osnova za obračun tega
+                           prispevka določi osnova, od katere se bodo obračunali prispevki za
+                           zadovoljevanje skupnih potreb na področju družbene dejavnosti. Takšen
+                           predlog je utemeljen z vidika poenostavitve in poenotenja osnovnih
+                           obračunov za različne prispevke. Hvala lepa.</p>
+                     </sp>
+                     <sp who="#sp.DvojmočValentin">
+                        <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                        <p>Hvala lepa. Besedo ima Jože Erjavec, predstavnik Gospodarske zbornice
+                           Slovenije.</p>
+                     </sp>
+                     <sp who="#sp.ErjavecJože">
+                        <speaker>JOŽE ERJAVEC:</speaker>
+                        <p>Tovariš predsednik, tovarišice in tovariši delegati! V Gospodarski
+                           zbornici ocenjujemo, da smo na področju stanovanjskega gospodarstva
+                           prišli v obdobje, ki terja temeljito spremembo dosedanje politike v smeri
+                           uveljavljanja ekonomskih pogojev na tem področju. To pa pomeni, da se
+                           bomo morali odpovedati skoraj neomejeni solidarnosti pri financiranju in
+                           kreditiranju graditve in pri uporabi stanovanj. Vsi dosedanji sistemi
+                           financiranja stanovanjske graditve so temeljili na virih, ki se
+                           predvidoma niso vračali in samostojno obnavljali. Stanarine, kot vir za
+                           gospodarjenje z velikim družbenim premoženjem, so bile socializirane do
+                           meje, ki ne stimulira več racionalne gradnje niti uporabe stanovanja.
+                           Podobno se dogaja pri kreditiranju same stanovanjske graditve.</p>
+                        <p>V preteklosti smo iskali rešitve v nenehnem spreminjanju sistemskih in
+                           organizacijskih oblik in v pretiranem normativizmu, namesto da bi to
+                           področje obravnavali kot gospodarsko dejavnost, ki se mora ravnati po
+                           ekonomskih zakonitostih, to pa pomeni, da moramo dopustiti in omogočiti
+                           zlasti združenemu delu in drugim subjektom v stanovanjski graditvi in pri
+                           uporabi stanovanj več poslovnosti, strokovnosti in motivacije. Kljub
+                           takim spoznanjem v poročilu o stanovanjskem gospodarstvu, v analizi o
+                           nekaterih vprašanjih uresničevanja družbenoekonomskih odnosov in
+                           samoupravne organiziranosti SIS-ov materialne proizvodnje, v programu
+                           ekonomske stabilizacije in podobnih dokumentih pa v praksi nikakor ne
+                           uspemo uveljaviti tega, kar smo ugotavljali v teoriji. Pripravljeni smo
+                           celo spreminjati sistemske rešitve zaradi posameznih deformacij, samo da
+                           bi se izognili vsebinskim problemom tega dela gospodarstva, ki mu v
+                           sedanji gospodarski krizi ni prizanešeno. Stanovanjsko gospodarstvo
+                           ostaja brez sredstev, zadostnih sredstev, lastnih sredstev za enostavno
+                           in razširjeno reprodukcijo in za vzdrževanje obstoječega stanovanjskega
+                           sklada, ne le zaradi obračunskih <pb/> zakonov, ampak predvsem zato, ker
+                           v 'boljših časih' nismo bili pripravljeni za celovito ureditev tega
+                           vprašanja.</p>
+                        <p>Iz teh razlogov podpiramo v Gospodarski zbornici Slovenije vse tiste
+                           spremembe in dopolnitve zakona o stanovanjskem gospodarstvu, zakona o
+                           stanovanjskih razmerjih, ki vodijo k uveljavljanju ekonomskih
+                           zakonitosti, racionalnejši gradnji in uporabi stanovanj in motiviranosti
+                           združenega dela za vlaganja v stanovanjsko graditev. K jasnejši
+                           razmejitvi pristojnosti in obveznosti med upravljavci in uporabniki
+                           stanovanj, ki terja med drugim tudi večjo pristojnost za upravljavce
+                           družbene lastnine, zoževanju kroga upravičencev do raznih oblik
+                           solidarnosti v stanovanjskem gospodarstvu, v učinkovitejši
+                           organiziranosti uporabnikov in izvajalcev pri gospodarjenju s
+                           stanovanjskimi hišami in pri graditvi. K odpravljanju pretirane oblike
+                           normativizma in administriranja, ko gre za ugotavljanje vseh vrst
+                           upravičencev za solidarnostna in druga družbena stanovanja, subvencije,
+                           diferencirane stanarine, vse mogoče evidence in podatke, pripravo
+                           planskih aktov, finančnega poslovanja, bilance, poročila in tako dalje, k
+                           podobni zaščiti upravljavcev, to se pravi vlagatelja, lastnikov družbenih
+                           stanovanj, kot velja za uporabnike stanovanj - pri tem mislimo predvsem
+                           na stanovanjska razmerja.</p>
+                        <p>Nadalje menimo, da mora predlagatelj predloga za izdajo zakona o
+                           stanovanjskem gospodarstvu, s tezami, in predloga za izdajo zakona o
+                           stanovanjskih razmerjih, s tezami, v naslednji fazi ponovno proučiti še
+                           nekatere rešitve glede na že predstavljen program sprememb oziroma
+                           stanovanjske politike v Jugoslaviji, kot jo je predlagal Zvezni izvršni
+                           svet. Hvala lepa.</p>
+                     </sp>
+                     <sp who="#sp.DvojmočValentin">
+                        <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                        <p>Hvala lepa, tovariš Erjavec. Pisnih prijav k razpravi ni več. Oddanih pa
+                           je bilo 12 razprav, in sicer delegatov iz Škofje Loke, Ljubljane, Šiške,
+                           Žalca, Slovenskih Konjic, Novega Mesta, Maribora Pobrežja, Litije,
+                           Kranja, Slovenske Bistrice, Celja, Raven na Koroškem, Maribor Tabora.
+                           Mogoče bi bilo dobro, da delegati iz Novega Mesta in Celja preberejo
+                           svojo razpravo. Besedo ima Rudi Stopar, gospodarsko področje, 30. okoliš
+                           Celje.</p>
+                     </sp>
+                     <sp who="#sp.StoparRudi">
+                        <speaker>RUDI STOPAR:</speaker>
+                        <p>Tovariš predsednik, tovarišice in tovariši delegati! Pripombe k tezam za
+                           osnutek zakona o spremembah in dopolnitvah zakona o stanovanjskih
+                           razmerjih so naslednje:</p>
+                        <p>K 2. tezi, predlagamo, da se novi četrti odstavek k 7. členu veljavnega
+                           zakona o stanovanjskih razmerjih črta. Iz vsakdanje prakse namreč
+                           ugotavljamo, da je stanovanje dobrina, z ekonomskimi in socialnimi
+                           dimenzijami premalo zavarovana. Najprej je preveč socialno obravnavana že
+                           z zakonodajo, še bolj pa v praksi, v primerih, ko je treba nekdanjemu
+                           imetniku stanovanjske pravice zagotoviti po prenehanju stanovanjske
+                           pravice najpotrebnejše prostore, gre največkrat za krivdne oblike izgube
+                           stanovanjske pravice, predvsem pa v primerih, ki so našteti v 56. členu
+                           zakona o stanovanjskih razmerjih. Tako se najpogosteje dogaja, da prihaja
+                           do tožb za prenehanje stanovanjskega razmerja in do dejanskega prenehanja
+                           stanovanjske pravice v primerih, ko imetniki stanovanjske pravice, kljub
+                           večkratnim opominom, še <pb/> naprej povzročajo škodo v stanovanju ali v
+                           drugih delih stanovanjske hiše, ko imetniki stanovanjske pravice kljub
+                           opominu in kljub vsakokratnim materialnim razmeram trdovratno odklanjajo
+                           plačevanje članarine in v primerih, ko imetniki stanovanjske pravice na
+                           najbolj grob način ovirajo druge stanovalce v stanovanjski hiši pri mirni
+                           uporabi njihovih stanovanj.</p>
+                        <p>S tem, če bi se na tak način omejila možnost poseganja po ukrepu v obliki
+                           najpotrebnejših prostorov, bi to pomenilo nadaljnjo potuho vsem sedanjim
+                           in bodočim imetnikom stanovanjske pravice, ki se ne podrejajo pravilom
+                           igre in ki ne znajo ali nočejo kulturno uporabljati svojih stanovanj. Pri
+                           tem ni brez pomena dejstvo, da si ni težko priskrbeti ustrezno zdravniško
+                           spričevalo, s katerim se izpodbija ustreznost najpotrebnejših prostorov.
+                           Nenazadnje pa se je že tudi doslej posegalo po tožbi za prenehanje
+                           stanovanjske pravice le v skrajno hudih primerih, ko si nekdanji imetniki
+                           stanovanjske pravice ne zaslužijo niti najpotrebnejših prostorov. Pri tem
+                           tudi ni brez pomena dejstvo, da je najpotrebnejši prostor lahko tudi suha
+                           zračna soba, ki ne more vplivati na poslabšanje zdravstvenega stanja.
+                           Seveda pa morajo imetniki stanovanjske pravice, ki so bolni ali imajo
+                           majhne otroke, in imetnice stanovanjske pravice, ki so noseče, živeti še
+                           bolj odgovorno in paziti, da zaradi krivdnih razlogov ne zaidejo v
+                           stanovanjsko stisko. S tako omejitvijo uporabe najpotrebnejših prostorov
+                           bi v praksi odpravili še zadnjo sankcijo, ki je lahko doletela najbolj
+                           nedisciplinirane uporabnike družbenih stanovanj, ki pa jih v resničnem
+                           življenju ni tako zelo malo.</p>
+                        <p>10. teza. Po našem mnenju bi bilo potrebno spremenjeni 41. člen zakona o
+                           stanovanjskih razmerjih definirati bolj preprosto in bolj razumljivo. V
+                           nasprotnem primeru bo prihajalo do različnih interpretacij in do zahtev
+                           za avtentično tolmačenje. Predvsem ni dovolj jasno, kdaj se pridobiva
+                           pravice do začasne in kdaj do trajne uporabe solidarnostnih
+                           stanovanj.</p>
+                        <p>15. teza. V 2. odstavku 56. člena zakona o stanovanjskih razmerjih ne
+                           zadostuje le določba, da je stanodajalec dolžan poravnati stanarino in
+                           druge obveznosti po predpisih o stanovanjskem gospodarstvu, če v 30 dneh
+                           po prejemu zahteve ne odpove imetniku stanovanjske pravice stanovanjsko
+                           razmerje. V praksi se namreč dogaja, da stanodajalci sicer reagirajo na
+                           zahteve stanovanjske skupnosti in vlagajo tožbe za prenehanje
+                           stanovanjskega razmerja, vendar je to tudi vse, kar storijo. Pogosto gre
+                           celo za navidezne tožbe. To določbo bi bilo zato potrebno dopolniti v tem
+                           smislu, da je stanodajalec kljub odpovedi stanovanjskega razmerja dolžan
+                           plačati zaostalo stanarino in druge stroške, če ne poskrbi za izselitev
+                           imetnika stanovanjske pravice, če ta kljub odpovedi stanovanjskega
+                           razmerja ne poravna zaostalih obveznosti. Končno pa bi bilo potrebno s
+                           spremembami in dopolnitvami zakona o stanovanjskih razmerjih na
+                           primernejši način urediti vprašanje imetnikov stanovanjske pravice, ki
+                           začasno ali trajno odhajajo v domove upokojencev in druge domove za
+                           ostarele in ki zadržijo stanovanjsko pravico na dosedanjih stanovanjih.
+                           Skoraj praviloma prihaja v praksi v teh primerih do špekulativnih
+                           razpolaganj s temi stanovanji, ko se obračajo tudi večje vsote denarja in
+                           ko taki imetniki stanovanjske pravice na <pb/> nedovoljen način omogočajo
+                           svojim navideznim podnajemnikom pridobitev stanovanjske pravice. Redko se
+                           namreč zgodi, da se stanovanje imetnika stanovanjske pravice, ki je v
+                           domu, po njegovi smrti brez raznih pripetij vrne stanodajalcu. Najmanj,
+                           kar bi bilo v takih primerih z zakonom določiti, je to, da bi bil imetnik
+                           stanovanjske pravice, ki odhaja v dom, dolžan pridobiti soglasje za
+                           oddajo stanovanja v podnajem. Na ta način bi vsaj zagotovili evidenco o
+                           vsakokratnih uporabnikih stanovanja, kar bi imelo pomen tudi pri
+                           skupnosti stanodajalcev pri obračunavanju obratovalnih stroškov. Hkrati
+                           pa bi bil stanodajalec seznanjen z medsebojnimi pravicami in obveznostmi,
+                           dogovorje med imetnikom stanovanjske pravice, ki je v domu in med
+                           podstanovalcem. Ker imetniki stanovanjske pravice, ki odhajajo v dom,
+                           nimajo nikakršnih posebnih obveznosti do stanodajalcev, nimajo
+                           stanodajalci nikakršnega pregleda nad razpolaganjem s takimi stanovanji.
+                           To pa ima za posledico, da pravi ali celo navidezni podstanovalci po
+                           smrti imetnika stanovanjske pravice na vse načine izsiljujejo priznanje
+                           stanovanjske pravice.</p>
+                     </sp>
+                     <sp who="#sp.DvojmočValentin">
+                        <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                        <p>Hvala lepa. Želi še kdo razpravljati? Besedo ima tovarišica Branka Car,
+                           25. okoliš gospodarstva, Novo Mesto.</p>
+                     </sp>
+                     <sp who="#sp.CarBranka">
+                        <speaker>BRANKA CAR:</speaker>
+                        <p>Tudi na našem območju smo podprli stališča Zakonodajno-pravne komisije,
+                           da je potrebno oceniti, ali so predlagane spremembe zakona take, da
+                           ustrezno razrešujejo stanovanjsko problematiko, da se je z uveljavljanjem
+                           zakona o celotnem prihodku in odhodku še posebej zaostrila. Tako tudi pri
+                           nas menimo, k da je potrebno na tem področju pri iskanju rešitev
+                           upoštevati dolgoročne cilje in ne izhajati le iz trenutne situacije, ki
+                           jo pogojuje nov obračunski sistem, ter oceniti, katere spremembe zakona
+                           so v tem trenutku potrebne in smotrne. Tudi mi namreč ugotavljamo, da
+                           predlagane spremembe zakona ne rešujejo bistvenega problema financiranja
+                           stanovanjskega gospodarstva. Stanovanjsko gospodarstvo je ostalo brez
+                           virov in s tem brez dosedanjega sistema financiranja stanovanjske
+                           gradnje, kar bo, recimo, v naši občini imelo za posledico, da bo v
+                           naslednjem letu prišlo do velikih težav pri realizaciji planiranega
+                           obsega gradnje družbenih stanovanj, torej celo do prekinitve in ne bo
+                           mogoče izpeljati niti ene gradnje novega bloka v občini, čeprav je že
+                           pripravljena dokumentacija in zemljišče. S tem je vprašljiva postavljena
+                           realizacija srednjeročnih načrtov reševanja stanovanjskih vprašanj
+                           delavcev v organizacijah združenega dela in pri samoupravni stanovanjski
+                           skupnosti.</p>
+                        <p>Zato predlagamo, da se pripravi operativni program ukrepov za saniranje
+                           obstoječega stanja, ki naj vključuje tudi takšno spremembo zakona o
+                           celotnem prihodku, s katero bo omogočeno akontativno oblikovanje in
+                           poraba stanovanjskih sredstev, da se zagotovi večji vpliv lastnikov
+                           stanovanj na gospodarjenje s stanovanji in ponovno proučijo rešitve ter
+                           določijo pogoji in merila glede uveljavljanja vpliva lastnikov
+                           stanovanj.</p>
+                        <p>Predlagamo tudi, da se pred izdelavo osnutka sprememb predlagatelj
+                           opredeli do statusa kotlovnic v stanovanjskih soseskah, ki so po zakonu o
+                           energetskem gospodarstvu energetski <pb/> objekti. Zakona o komunalnem
+                           gospodarstvu in stanovanjskem gospodarstvu jih ne omenjata, v praksi pa
+                           se s kotlovnicami ukvarjajo kurilni odbori in stanovanjske skupnosti ter
+                           funkcionirajo z vrsto problemov.</p>
+                        <p>Nadalje predlagamo, da se v stanovanjskem gospodarstvu še naprej ohranita
+                           sistem vzajemnosti in solidarnosti s tem, da se ta sistem vzajemnosti
+                           dopolni tako, da se združena sredstva namenja tudi za kreditiranje OZD za
+                           nakup družbeno najemnih stanovanj, sistemu solidarnosti pa naj bi dali
+                           novo vsebino, ne da bi pri tem širili sedanje število kategorij
+                           upravičencev do solidarnostnih stanovanj, ampak na novo proučili možnosti
+                           kreditiranja tudi nakupa stanovanj.</p>
+                     </sp>
+                     <sp who="#sp.DvojmočValentin">
+                        <speaker>PREDSEDNIK VALENTIH DVOJMOČ:</speaker>
+                        <p>Želi še kdo razpravljati? (Ne. ) Pisno oddane razprave bodo sestavni del
+                           tega gradiva. Zaključujem razpravo in prehajamo na glasovanje.</p>
+                        <p>sklepu pod ESA 303 in 309 predlagamo, da se sklepanje o predlogu za
+                           izdajo zakona odloži in da se proučijo stališča, priporočila in današnja
+                           razprava ter imenuje medzborovska skupina za oblikovanje teh stališč.
+                           Dajem na glasovanje predlog sklepa pod ESA 303 in 309, s katerim odlagamo
+                           sklepanje o teh dveh točkah dnevnega reda.</p>
+                        <p>Kdo je za, naj prosim, glasuje. (117 delegatov glasuje za.) Je kdo proti?
+                           (Nihče.) Se je kdo vzdržal? (1 delegat.)</p>
+                        <p>Ugotavljam, da je predlagani sklep sprejet z večino glasov.</p>
+                     </sp>
+                  </div>
+                  <div ana="#PAR.TDR" n="5">
+                     <sp who="#sp.DvojmočValentin">
+                        <p>Prehajamo k 5. TOČKI DNEVNEGA REDA - PREDLOG ZAKONA O SPREMEMBI ZAKONA O
+                           POSEBNEM REPUBLIŠKEM DAVKU OD PROMETA PROIZVODOV IN PLAČIL ZA STORITVE
+                           TER O NAČINU, PO KATEREM OBČANI IN ZASEBNE PRAVNE OSEBE OBRAČUNAVAJO IN
+                           PLAČUJEJO DAVEK OD PROMETA PROIZVODOV IN STORITEV, KI GA JE V OBRAVNAVO
+                           PREDLOŽIL IZVRŠNI SVET SKUPŠČINE SR SLOVENIJE.</p>
+                        <p>Predlog zakona je obravnavala tudi Zakonodajno-pravna komisija, ki ni
+                           imela pripomb.</p>
+                        <p>Pričenjam razpravo. Želi kdo razpravljati? (Ne.) Pisnih prijav k razpravi
+                           ni. Pisne razprave pa so oddali delegati občin Ljubljana Šiška, Ljubljana
+                           Bežigrad, Ljubljana Vič-Rudnik in Vrhnika-Logatec.</p>
+                        <p>Te razprave bomo dali predlagatelju v proučitev. Želi še kdo
+                           razpravljati? (Ne.) Če ne želi nihče razpravljati, zaključujem razpravo
+                           in prehajamo na glasovanje.</p>
+                        <p>Na glasovanje dajem predlog zakona o spremembi zakona o posebnem
+                           republiškem davku od prometa proizvodov in od plačil za storitve ter o
+                           načinu, po katerem občani in zasebne pravne osebe obračunavajo in
+                           plačujejo davek od prometa proizvodov in storitev.</p>
+                        <p>Kdor je za predlog tega zakona, naj prosim, glasuje. (114 delegatov glasu
+                           je za.) JE kdo proti? (Dva delegata.) Se je kdo vzdržal? (Štirje
+                           delegati.)</p>
+                        <p>Ugotavljam, da je predlog zakona sprejet z večino glasov.</p>
+                     </sp>
+                  </div>
+                  <div ana="#PAR.TDR" n="6">
+                     <sp who="#sp.DvojmočValentin">
+                        <p>Prehajamo k 6. TOČKI DNEVNEGA REDA -<pb/> A) PREDLOG ZAKONA O SPREMEMBAH
+                           IN DOPOLNITVAH ZAKONA O REDNIH SODISČIH, PREDLOG ZAKONA O SPREMEMBAH IN
+                           DOPOLNITVAH ZAKONA O SODIŠČIH ZDRUŽENEGA DELA IN PREDLOG ZAKONA O
+                           SPREMEMBAH IN DOPOLNITVAH ZAKONA O JAVNEM TOŽILSTVU, KI JIH JE V
+                           OBRAVNAVO PREDLOŽIL IZVRŠNI SVET.</p>
+                        <p>Prejeli ste tudi gradivo Republiškega sekretariata za pravosodje in
+                           upravo 'Pregled premoženjsko-pravne ureditve poslovnih prostorov
+                           temeljnih pravosodnih organov’. Predloge zakonov je obravnavala tudi
+                           Zakonodajno-pravna komisija, ki ni imela pripomb.</p>
+                        <p>Te zakone obravnava danes tudi Družbenopolitični zbor na podlagi 74.
+                           člena poslovnika Skupščine, ki je predložil stališče, ki ste ga danes
+                           prejeli na klop.</p>
+                        <p>Pričenjam razpravo. Želi kdo razpravljati? (Ne.) Pisnih prijav ni. Če ne
+                           želi nihče razpravljati, zaključujem razpravo. Prehajamo na glasovanje po
+                           posameznih aktih.</p>
+                        <p>Dajem na glasovanje predlog zakona o spremembah in dopolnitvah zakona o
+                           rednih sodiščih.</p>
+                        <p>Kdor je za tak predlog zakona, naj prosim, glasuje. (120 delegatov
+                           glasuje za.) Je kdo proti? (Nihče.) Se je kdo vzdržal? (En delegat.)</p>
+                        <p>Ugotavljam, da je predlog zakona sprejet z večino glasov.</p>
+                        <p>Na glasovanje dajem predlog zakona o spremembah in dopolnitvah zakona o
+                           sodiščih združenega dela.</p>
+                        <p>Kdor je za ta predlog, naj prosim, glasuje. (121 delegatov glasuje za.)
+                           Je kdo proti? (Nihče.) Se je kdo vzdržal? (En delegat.)</p>
+                        <p>Ugotavljam, da je predlog zakona sprejet z večino glasov.</p>
+                        <p>Na glasovanje dajem predlog zakona o spremembah in dopolnitvah zakona o
+                           javnem tožilstvu.</p>
+                        <p>Kdor je za ta predlog zakona, naj prosim, glasuje. (119 delegatov glasuje
+                           za.) Je kdo proti? (Nihče.) Se je kdo vzdržal? (Trije delegati.)</p>
+                        <p>Ugotavljam, da je tudi zakon sprejet z večino glasov.</p>
+                     </sp>
+                  </div>
+                  <div ana="#PAR.TDR" n="7">
+                     <sp who="#sp.DvojmočValentin">
+                        <p>Prehajamo k 7. TOČKI DNEVNEGA REDA - POROČILO DELEGACIJE SKUPŠČINE SR
+                           SLOVENIJE V ZBORU REPUBLIK IN POKRAJIN SKUPŠČINE SFRJ O POTEKU
+                           USKLAJEVANJA ZAKONA O DEVIZNEM POSLOVANJU IN NEKATERIH AKTOV IZ
+                           PRISTOJNOSTI ZBORA REPUBLIK IN POKRAJIN SKUPŠČINE SFR JUGOSLAVIJE.</p>
+                        <p>Poročilo o 18. seji Zbora republik in pokrajin Zvezne skupščine, ki je
+                           bila 30.9., 1.10. in 5.10., je bilo objavljano v Poročevalcu št. 26.</p>
+                        <p>Preden preidemo na razpravo, vas obveščam, da smo na prejšnji seji ob
+                           obravnavi osnutka zakona o zagotavljanju in uporabljanju sredstev za
+                           spodbujanje tehnološkega razvoja Jugoslavije, z dopolnilnim predlogom
+                           Zbora občin, sprejeli sklep ESA 323, ki ste ga tudi za današnjo sejo
+                           prejeli kot gradivo, kjer pooblaščamo svojo delegacijo v Zboru republik
+                           in pokrajin Skupščine SFRJ, da v postopku usklajevanja uveljavlja
+                           pripombe</p>
+                        <p>Skupščine SR Slovenije in nam o poteku usklajevanja in o uveljavitvi
+                           pripomb poroča.</p>
+                        <p>Družbenopolitični zbor je kot zainteresiran zbor predlagal Zboru
+                           združenega dela in Zboru občin, da zahteva, da se dopolnjeni osnutek
+                           predloži skupščinam republik in pokrajin v obravnavo.</p>
+                        <p>Glede na to, da smo točko na zadnji seji obravnavali že zelo pozno
+                           popoldan in da smo bili številčno precej okrnjeni, o tem predlogu nismo
+                           več glasovali. Zato danes predlagam zboru, da pooblastilo naši delegaciji
+                           v Zboru republik in pokrajin Skupščine SFRJ v točki 3. še dopolnimo z
+                           naslednjim besedilom:</p>
+                        <p>'Skupščina SR Slovenije pa zahteva, da se na osnovi pripomb skupščin
+                           republik in pokrajin ter prvega kroga usklajevanja pripravi dopolnjen
+                           osnutek zakona, ki naj ga Zbor republik in pokrajin Skupščine SFRJ pošlje
+                           skupščinam republik in pokrajin. Skupščina SR Slovenije bo dopolnjeni
+                           osnutek ponovno</p>
+                        <p>obravnavala.'</p>
+                        <p>To je dopolnitev in s tem bi bili usklajeni tudi z Družbenopolitičnim
+                           zborom.</p>
+                        <p>Želi o tej dopolnitvi kdo razpravljati? (Ne želi.) Kdor je za dopolnitev
+                           sklepa ESA 322 v 3. točki, kot sem prebral, naj prosim, glasuje.(119
+                           delegatov glasuje za.) Je kdo proti? (En delegat.) Se je kdo vzdržal?
+                           (Štirje delegati.)</p>
+                        <p>Ugotavljam, da je zbor tako dopolnjen sklep sprejel z večino glasov.</p>
+                        <p>Pričenjam razpravo o poročilu delegacije.</p>
+                        <p>K razpravi se je prijavil Franci Bašar, 3. okoliš, prosvetno-kulturno
+                           področje, Ljubljana Vič-Rudnik. Prosim.</p>
+                     </sp>
+                     <sp who="#sp.BašarFranc">
+                        <speaker>FRANC BAŠAR:</speaker>
+                        <p>Tovariš predsednik, tovarišice in tovariši delegati. Tudi današnje
+                           poročilo delegacije Skupščine SR Slovenije v Zboru republik in pokrajin
+                           Skupščine SFRJ me je prepričalo o pravilnosti našega razmišljanja na
+                           sejah skupin delegatov za Zbor združenega dela in Zbor občin Skupščine SR
+                           Slovenije s sedežem v občini Ljubljana Vič-Rudnik. Člani štirih skupin
+                           delegatov smo namreč v skladu z razpravo delegata Miheliča na julijski
+                           seji Zbora združenega dela spremljali politiko in konkretne ukrepe
+                           Zveznega izvršnega sveta v preteklih dveh mesecih. Danes ugotavljamo, da
+                           so sprejeti ukrepi in napovedi ukrepov Zveznega izvršnega sveta žal
+                           potrdili naša pesimistična pričakovanja glede sposobnosti obstoječe
+                           kadrovske sestave Zveznega izvršnega sveta, da izpolni v resoluciji za
+                           leto 1987 določene obveznosti.</p>
+                        <p>Naj omenim samo nesprejemljive rešitve na cenovnem področju, na primer v
+                           zvezi s cenami električne energije, železniškega prevoza, olja,
+                           sladkorja, mesa, dogajanja v zvezi z določanjem cen moke in kruha,
+                           zaščitnih cen pšenice za leto 1988. Taka kmetijska politika namreč
+                           temeljito ogroža materialni položaj kmetijskega sektorja in
+                           prebivalcev.</p>
+                        <p>Ob tem naj opozorim še na nesprejemljive in še nespremenjene rešitve na
+                           področju skupne porabe, na uveljavitev dogovora glede osebnih dohodkov
+                           carinikov v bolj razvitih republikah, na spremenjen način izplačevanja
+                           pokojnin in nenazadnje tudi na politiko negativne realne obrestne mere,
+                           ki je <pb/> v nasprotju s proglašeno politiko realnega vrednotenja
+                           proizvodnih dejavnikov.</p>
+                        <p>Če k temu dodamo še neodločno ravnanje Zveznega izvršnega sveta v primeru
+                           afere Agrokomerc, v zvezi s katero bi logično sledil odstop zveznega
+                           sekretarja za finance kot člana Izvršnega sveta, o prav tako pričakovanem
+                           odstopu guvernerja Narodne banke Jugoslavije in direktorja Službe
+                           družbenega knjigovodstva Jugoslavije. Ugotavljamo, da se Zvezni izvršni
+                           svet objektivno ne more izogniti odgovornosti za razpad finančne
+                           discipline.</p>
+                        <p>V nemogočih razmerah so se zaradi nerazumljivega odlašanja pristojnih v
+                           Zveznem komiteju za promet in zveze znašli tudi naši prevozniki ob
+                           sprejetju enostranskih ukrepov Republike Italije. Jasno je, da je naša
+                           ocena teh ukrepov nujno negativna. Zaradi navedenega menimo v skupinah
+                           delegatov, da sedanji sestavi Zveznega izvršnega sveta pod vodstvom
+                           predsednika Branka Mikuliča ne moremo več dati našega soglasja za vodenje
+                           ekonomske politike v naslednjih letih. Hvala.</p>
+                     </sp>
+                     <sp who="#sp.DvojmočValentin">
+                        <speaker>PREDSEDNIK VALENTIN DVOJMOČ.</speaker>
+                        <p>Hvala lepa. Želi še kdo razpravljati? Pisnih prijav ni. To razpravo bomo
+                           posredovali delegaciji. O tem bomo lahko govorili, ko bodo ti ukrepi
+                           predloženi. Situacija je dokaj težka in vsekakor bo potrebno veliko
+                           angažiranja vseh subjektivnih sil in vseh okolij, če bomo hoteli
+                           situacijo izboljšati.</p>
+                        <p>Želi še kdo razpravljati? (Ne.) Če ne želi nihče več razpravljati,
+                           zaključujem razpravo in zboru predlagam, da zbor v zvezi s poročilom
+                           delegacije Skupščine SR Slovenije v Zboru republik in pokrajin Skupščine
+                           SFRJ o poteku usklajevanja zakona o deviznem poslovanju in nekaterih
+                           aktov iz pristojnosti Zbora republik in pokrajin sprejme naslednji
+                           ukrep:</p>
+                        <p>'Zbor združenega dela Skupščine SR Slovenije se je seznanil s poročilom
+                           delegacije Skupščine SR Slovenije v Zboru republik in pokrajin Skupščine
+                           SFRJ o poteku usklajevanja zakona o deviznem poslovanju in nekaterih
+                           aktov iz pristojnosti Zbora republik in pokrajin Skupščine SFRJ in ga
+                           sprejema.'</p>
+                        <p>Želi o tem sklepu kdo razpravljati? (Ne želi.) Če ne želi nihče
+                           razpravljati, prehajamo na glasovanje.</p>
+                        <p>Kdor je za ta predlagani sklep, naj prosim glasuje. (116 delegatov
+                           glasuje za.) Je kdo proti? (Dva delegata.) Se je kdo vzdržal? (4
+                           delegati.)</p>
+                        <p>Ugotavljam, da je zbor predlagani sklep sprejel z večino glasov.</p>
+                     </sp>
+                  </div>
+                  <div ana="#PAR.TDR" n="8">
+                     <sp who="#sp.DvojmočValentin">
+                        <p>Prehajamo k 8. TOČKI DNEVNEGA REDA - OSNUTEK ZAKONA O DOLOČITVI SKUPNEGA
+                           ZNESKA SREDSTEV ZA FINANCIRANJE PROGRAMA PRIDOBIVANJA STANOVANJ ZA
+                           POTREBE ZVEZNIH ORGANOV V OBDOBJU 1987-1990, ki ga je predložil v
+                           obravnavo zbor republik in pokrajin skupščine SFRJ.</p>
+                        <p>V zvezi s to točko ste prejeli naslednja gradiva: Informacijo Zveznega
+                           sekretariata za pravosodje in organizacijo zvezne uprave o stanju
+                           stanovanjskega sklada zveznih organov, informacijo o porabljenih
+                           sredstvih za realizacijo stanovanjske izgradnje za potrebe zveznih
+                           organov in o drugih vprašanjih v <pb/> zvezi s pridobivanjem, delitvijo
+                           in uporabo stanovanj stanovanjskega sklada zveznih organov v obdobju od
+                           leta 1982 do 1986 z dopolnitvijo, pismo predsednika Skupščine SFRJ,
+                           mnenje Izvršnega sveta Skupščine SR Slovenije in predlog sklepa pod ESA
+                           196.</p>
+                        <p>Pričenjam razpravo. Pisne razprave so oddali delegati iz občin
+                           Maribor-Tabor in Škofja Loka. Pisnih prijav k razpravi ni.</p>
+                        <p>Če ne želi nihče razpravljati, zaključujem razpravo in prehajamo na
+                           glasovanje.</p>
+                        <p>Na glasovanje dajem predlog sklepa pod ESA 196, ki ste ga dobili z
+                           gradivom.</p>
+                        <p>Kdor je za, naj prosim, glasuje. (70 delegatov glasuje za.) Je kdo proti?
+                           (44 delegatov.) Se je kdo vzdržal? (5 delegatov. )</p>
+                        <p>Ugotavljam, da sklep ni sprejet.</p>
+                        <p>Zdaj moramo počakati še na izid glasovanja v Zboru občin.</p>
+                     </sp>
+                  </div>
+                  <div ana="#PAR.TDR" n="9">
+                     <sp who="#sp.DvojmočValentin">
+                        <p>Prehajamo k 9. TOČKI DNEVNEGA REDA - OSNUTEK ZAKONA O UPORABI DELA
+                           PRIMARNE EMISIJE ZA ČASOVNO PREMOSTITEV PRILIVA SREDSTEV ZA ODPRAVO
+                           POSLEDIC POTRESA, KI JE V LETU 1986 PRIZADEL DOLOČENA OBMOČJA V SR
+                           HRVATSKI IN SR BOSNI IN HERCEGOVINI, ki jo je v razpravo predložil zbor
+                           republik in pokrajin skupščin SFRJ.</p>
+                        <p>Ta osnutek zakona je zbor obravnaval že na 15. seji, dne 24. junija 1987,
+                           ko smo sklepanje osnutka zakona s sklepom odložili, zato ga danes ponovno
+                           obravnavamo. Danes ste na klop prejeli predlog sklepa ESA 246, s katerim
+                           ne dajemo soglasja.</p>
+                        <p>Pričenjam razpravo. Pisnih prijav ni. Pisno razpravo so oddali delegati
+                           iz občine Vrhnika - Logatec. Prehajamo na glasovanje.</p>
+                        <p>Kdor je za ta predlog sklepa, s katerim ne dajemo soglasja, naj prosim
+                           glasuje. (122 delegatov glasuje za.) Je kdo proti? (Nihče.) Se je kdo
+                           vzdržal? (Nihče.)</p>
+                        <p>Ugotavljam, da je predlog sklepa sprejet soglasno.</p>
+                     </sp>
+                  </div>
+                  <div ana="#PAR.TDR" n="10">
+                     <sp who="#sp.DvojmočValentin">
+                        <p>Prehajamo k 10. TOČKI DNEVNEGA REDA - OSNUTEK ZAKONA O SPREMEMBI IN
+                           DOPOLNITVI ZAKONA O ZVEZNIH UPRAVNIH TAKSAH, ki ga je predložil v
+                           obravnavo zbor republik in pokrajin.</p>
+                        <p>Izvršni svet Skupščine SR Slovenije je predlagal, naj se da soglasje k
+                           osnutku zakona. K osnutku zakona ste prejeli tudi predlog sklepa pod ESA
+                           322.</p>
+                        <p>Pričenjam razpravo. Želi kdo razpravljati? (Ne.) Pisnih razprav ni.
+                           Zaključujem razpravo in prehajamo na glasovanje. Na glasovanje dajem
+                           predlog sklepa pod ESA 332.</p>
+                        <p>Kdor je za, naj prosim, glasuje. (115 delegatov glasuje za.) Je kdo poti?
+                           (En delegat.) Se je kdo vzdržal? (Štirje delegati.)</p>
+                        <p>Ugotavljam, da je predlagani sklep sprejet z večino glasov.</p>
+                     </sp>
+                  </div>
+                  <div ana="#PAR.TDR" n="11">
+                     <sp who="#sp.DvojmočValentin">
+                        <p>Prehajamo k 11. TOČKI DNEVNEGA REDA OSNUTEK ZAKONA O TARIFI ZVEZNIH
+                           UPRAVNIH TAKS, ki ga je predložil v obravnavo zbor republik in
+                           pokrajin.</p>
+                        <p>K osnutku zakona ste prejeli mnenje Izvršnega sveta in predlog sklepa pod
+                           ESA 338.</p>
+                        <p>Pričenjam razpravo. Želi kdo razpravljati? (Ne.) Pisne razprave so oddali
+                           delegati iz Škofje Loke in Kranja. Če ne želi nihče razpravljati,
+                           zaključujem razpravo in prehajamo na glasovanje. Na glasovanje dajem
+                           predlog sklepa pod ESA 338 k osnutku zakona o tarifi zveznih upravnih
+                           taks.</p>
+                        <p>Kdor je za, naj prosim, glasuje (113 delegatov glasuje za.) Je kdo proti?
+                           (En delegat.) Se je kdo vzdržal? (7 delegatov. )</p>
+                        <p>Ugotavljam, da je predlog sklepa sprejet z večino glasov.</p>
+                     </sp>
+                  </div>
+                  <div ana="#PAR.TDR" n="12">
+                     <sp who="#sp.DvojmočValentin">
+                        <p>Prehajamo k 12. TOČKI DNEVNEGA REDA - OSNUTEK ODLOKA O SPREMEMBI ODLOKA O
+                           PREDRAČUNU PRIHODKOV IN ODHODKOV TEČAJNIH RAZLIK IZ DOLOČENIH ZUNANJIH
+                           KREDITOV ZA LETO 1987, ki ga je predložil v obravnavo zbor republik in
+                           pokrajin.</p>
+                        <p>K osnutku odloka ste prejeli mnenje Izvršnega sveta in predlog sklepa pod
+                           ESA 343.</p>
+                        <p>Pričenjam razpravo. Želi kdo razpravljati? Pisnih prijav ni. Prehajamo na
+                           glasovanje o predlogu sklepa.</p>
+                        <p>Kdor je za sklep, naj prosim glasuje. (124 delegatov glasuje za.) Je kdo
+                           proti? (Nihče.) Se je kdo vzdržal? (Nihče.)</p>
+                        <p>Ugotavljam, da je predlog sklepa sprejet soglasno.</p>
+                     </sp>
+                  </div>
+                  <div ana="#PAR.TDR" n="13">
+                     <sp who="#sp.DvojmočValentin">
+                        <p>Prehajamo k 13. TOČKI DNEVNEGA REDA - PREDLOG ZAKONA O RATIFIKACIJI
+                           KONVENCIJE O OLAJŠANJU MEDNARODNEGA PRISTOPA K SODIŠČEM, ki ga je v
+                           obravnavo predložila skupščina sfrj.</p>
+                        <p>K predlogu zakona ste prejeli mnenje Izvršnega sveta in predlog odloka o
+                           soglasju pod ESA 325.</p>
+                        <p>Predlog zakona sta obravnavala tudi Zakonodajno-pravna komisija in
+                           Komisija za mednarodne odnose, ki nista imela pripomb.</p>
+                        <p>Pričenjam razpravo. Želi kdo razpravljati? (Nihče.) Če ne želi nihče
+                           razpravljati, zaključujem razpravo in prehajamo na glasovanje.</p>
+                        <p>Na glasovanje dajem predlog odloka o soglasju k predlogu zakona o
+                           ratifikaciji konvencije o olajšanju mednarodnega pristopa k sodiščem pod
+                           ESA 325.</p>
+                        <p>Kdor je za predlog odloka, naj prosim glasuje. (123 delegatov glasuje
+                           za.) Je kdo proti? (Nihče.) Se je kdo vzdržal? (Nihče.)</p>
+                        <p>Ugotavljam, da je predlog zakona sprejet soglasno.</p>
+                     </sp>
+                  </div>
+                  <div ana="#PAR.TDR" n="14">
+                     <sp who="#sp.DvojmočValentin">
+                        <p>Prehajamo k 14. TOČKI DNEVNEGA REDA - POBUDE, PREDLOGI IN VPRAŠANJA
+                           DELEGATOV.</p>
+                        <p>V zvezi z delegatskimi vprašanji in pobudami vas obveščam, da je že bilo
+                           ogovorjeno na dodatno vprašanje skupine delegatov za gospodarsko
+                           področje, 42. okoliš Maribor Tezno v zvezi s pobudo za znižanje
+                           temeljnega in posebnega republiškega davka od obdavčenih brezalkoholnih
+                           pijač; na delegatsko vprašanje Odbora Zbora združenega dela za kmetijstvo
+                           glede pojasnila oblikovanja cen kmetijskih pridelkov in parametrov,
+                           stroškovnih razmerjih med posameznimi predelki in glede izdajanja
+                           spričeval <pb/> za izvoz mesa oziroma rib; na delegatsko vprašanje
+                           skupine delegatov iz občine Maribor Rotovž v zvezi z uresničevanjem nalog
+                           na področju stanovanjskega gospodarstva in na delegatsko vprašanje
+                           skupine delegatov za gospodarsko področje 32. okoliš Velenje v zvezi z
+                           osnutkom dopolnitev družbenega plana SR Slovenije in dolgoročnega plana
+                           SR Slovenije.</p>
+                        <p>Te odgovore Izvršnega sveta in Veterinarskega zavoda ste prejeli danes na
+                           klop. Želite, da jih predlagatelj bere? (Ne. )</p>
+                        <p>Hkrati vas obveščam, da je Izvršni svet Skupščine SR Slovenije posredoval
+                           tudi stališče do pobud, in sicer: Pobude skupine delegatov za gospodarsko
+                           področje 25. okoliš Novo Mesto glede spremembe prvega ter tretjega
+                           odstavka 15. člena ter 18. člena zakona o kmetijskih zemljiščih; pobude
+                           skupine delegatov za gospodarsko področje 41. okoliš Maribor Tabor za
+                           registracijo in zavarovanje koles z motorjem, pobude skupine delegatov za
+                           gospodarsko področje 4. okoliš Ljubljana Šiška za poenotenje kriterijev
+                           pri ravnanju z nevarnimi snovmi na celotnem prostoru Jugoslavije, ki jih
+                           bomo posredovali vodjem teh skupin delegatov.</p>
+                        <p>Na današnji seji so predložili delegatska vprašanja in pobude oziroma so
+                           bile predložene pisno: pobuda skupine delegatov za gospodarsko področje,
+                           13. okoliš Škofja Loka, v zvezi s plačevanjem prispevkov samoupravnih
+                           interesnih skupnostih in prelivanjem sredstev med samoupravnimi
+                           interesnimi skupnostmi družbenih dejavnosti; pobuda Zbora združenega dela
+                           Skupščine občine Ljubljana Bežigrad; v zvezi z osnutkom odloka o
+                           odškodnini zaradi spremembe namembnosti kmetijskega zemljišča ali gozda v
+                           občini Ljubljana Bežigrad, zahteva skupine delegatov za gospodarsko
+                           področje, 4. okoliš Ljubljana Šiška, v zvezi s problematiko poslovanja
+                           delovne organizacije Lek in Gorenje Tiki v zvezi z obračunskim zakonom;
+                           delegatsko vprašanje skupine delegatov za gospodarsko področje, 3. okoliš
+                           Ljubljana Moste-Polje, v zvezi z osnutkom zakona o določitvi skupnega
+                           zneska za financiranje programa pridobivanja stanovanj za potrebe zveznih
+                           organov v obdobju 1988-1990, koliko postopkov za izpraznitev neupravičeno
+                           zasedenih stanovanj in stanovanjskega sklada zveznih organov je bilo
+                           sproženih; delegatsko vprašanje skupine delegatov za gospodarsko
+                           področje, 7. okoliš Kamnik, glede uporabe solidarnostnih sredstev za
+                           odpravo posledic potresa v Črni gori in kdo je odgovoren za smotrno rabo
+                           le-teh; delegatsko vprašanje skupin delegatov za gospodarsko področje,
+                           42. okoliš Maribor Tezno, v zvezi z izgubo elektrogospodarstva Slovenije;
+                           delegatsko vprašanje v zvezi z zmanjšanjem števila prometnih nezgod
+                           programa SR Slovenije na področju prometne varnosti in stroški v zvezi s
+                           prometnimi nesrečami, ki ga je predložila skupina delegatov iz Kranja;
+                           delegatsko vprašanje skupine delegatov za kmetijsko področje Dravograd v
+                           zvezi s cenami za kmetijske pridelke, kompenzacije in nadomestil za večje
+                           predelovalne stroške v hribih; delegatsko vprašanje skupine delegatov za
+                           gospodarsko področje, 32. okoliš Velenje, v zvezi z gradnjo odlagališča
+                           jedrskih odpadkov v občini Velenje oziroma Mozirja, to je v Solčavi;
+                           stališče skupine delegatov za gospodarsko področje iz občine Ljubljana
+                           Vič-Rudnik, na odgovor Izvršnega sveta na delegatsko vprašanje glede
+                           kurilnega olja in ostrejših kazni za <pb/> porabnike in pobudo skupine
+                           delegatov za gospodarsko področje 38. okoliša Maribor Pobrežje v zvezi z
+                           inštitutom spreminjanja delovnih zmožnosti, predlog da se osnova za
+                           odmero nadomestila osebnega dohodka delavca na drugem ustreznem delovnem
+                           mestu v proizvodnji, vezani na normo, razširi na doseganje delovnega
+                           uspeha najmanj zadnjega petletnega obdobja in predlog v zvezi z
+                           izvajanjem sklepov invalidskih komisij. Sedaj smo dobili še vprašanje
+                           delegatov 4 7. okoliš, gospodarsko področje iz Lendave, o problematiki
+                           cenovnih nesorazmerij med krušnimi žiti ter proizvodi iz le-teh in
+                           živinsko krmo.</p>
+                        <p>K tej točki sta prijavljena še dva razpravljavca. Besedo ima Miha
+                           Bakovnik, 12. okoliš, področje gospodarstva, Kranj.</p>
+                     </sp>
+                     <sp who="#sp.BakovnikMiha">
+                        <speaker>MIHA BAKOVNIK:</speaker>
+                        <p>Tovariš predsednik, tovarišice in tovariši delegati! Skupina delegatov iz
+                           Kranja je izoblikovala naslednje delegatsko vprašanje.</p>
+                        <p>V sredstvih javnega obveščanja že dalj časa beremo opozorila, da je
+                           prometna varnost v letošnjem letu v Sloveniji katastrofalna. Najmanj 403
+                           mrtvi v cestnem prometu v prvih devetih mesecih letošnjega leta to
+                           potrjuje. To pomeni tudi 15% več mrtvih kot v enakem obdobju lanskega
+                           leta in kar 22 % več kot v letu 1985. Poleg tega je Slovenija, tako kot
+                           Jugoslavija, na dnu lestvice evropskih držav, če primerjamo stanje
+                           prometne varnosti. Neprecenljive izgube človeških življenj in velike
+                           materialne škode, ki jih spremljajo, zato zahtevajo celovito zasnovo
+                           ukrepov za spremembe pri poglavitnih dejavnikih, ki vplivajo na varnost
+                           cestnega prometa, človeka, vozil, ceste in družbenega okolja.</p>
+                        <p>Sprašujemo, kaj je storil Izvršni svet Skupščine SR Slovenije, da bi se
+                           zmanjšalo število prometnih nezgod in njihovih posledic, razen zaostritve
+                           represije pri prometnih prekrških? Kakšen program ima SR Slovenija, da se
+                           na področju prometne varnosti približamo razvitim državam, kakšne stroške
+                           imamo, ko družba zaradi prometnih nezgod, mrtvih, poškodovanih
+                           udeležencev v prometu, to je materialnih škod, izgub delovnih prispevkov
+                           delovnih dni, stroškov zdravljenja, rehabilitacije, invalidnosti drugih,
+                           moramo zato kot družba nositi? Zato zahtevamo, da se odgovor na
+                           delegatsko vprašanje objavi v Poročevalcu.</p>
+                     </sp>
+                     <sp who="#sp.DvojmočValentin">
+                        <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                        <p>Hvala lepa, tovariš Bakovnik, besedo ima tovariš Janez Oven, 2. okoliš,
+                           obrt, Ljubljana Šiška.</p>
+                     </sp>
+                     <sp who="#sp.OvenJanez">
+                        <speaker>JANEZ OVEN:</speaker>
+                        <p>Spoštovani tovariš predsednik, tovarišice in tovariši delegati! Delegati
+                           vseh petih okolišev, delegirani s področja obrti in podobnih dejavnosti
+                           Zbora združenega dela Skupščine SR Slovenije dajemo pobudo za spremembo
+                           in dopolnitev zakona o davkih občanov.</p>
+                        <p>To pobudo dajemo, ker se davčna politika tudi v tekočem letu, kljub
+                           zagotovilom pristojnih republiških organov, ni spremenila in nam v tako
+                           zaostrenem gospodarskem položaju ne daje možnosti niti za normalno
+                           poslovanje kaj šele za pospešen razvoj, kar družba pričakuje od nas in
+                           verjetno tudi potrebuje.</p>
+                        <pb/>
+                        <p>Pri reševanju davčne politike se ne upošteva niti planskih dokumentov
+                           niti stališč CK ZK Slovenije, ki v svojih usmeritvah in stališčih izrecno
+                           podpira to vejo gospodarstva.</p>
+                        <p>Prav tako se ne upošteva družbenih dogovorov o pospeševanju drobnega
+                           gospodarstva, ki predvideva pospešeno ustanavljanje obrtnih delavnic in s
+                           tem v zvezi ustvarjanje več proizvodov in storitev za izvoz, nadomestitev
+                           uvoza in za zadovoljevanje potreb občanov. Dokler, se ne bodo upoštevane
+                           smernice zgoraj navedenih institucij, tudi ni pričakovati večjega
+                           zaposlovanja na tem področju, obratno. Samostojni obrtniki bomo primorani
+                           zmanjševati obseg dela, kar bo imelo tudi za posledico zmanjšanje števila
+                           zaposlenih delavcev v obratovalnicah samostojnih obrtnikov.</p>
+                        <p>Na ta način bomo zavili z začrtane poti in ne bomo dosegli zaželenih
+                           uspehov. Zato menimo, da mora ta zbor na današnji seji sprejeti pobudo za
+                           spremembo davčnega zakona, da čimprej pristopimo k reševanju naslednjih
+                           nekaj primerov: revalorizacija plačanih obresti od kreditov na osnovna in
+                           obratna sredstva, kakor tudi zavarovanje plačil, kar velja po veljavnih
+                           predpisih samo za uporabnike družbenih sredstev in ne za samostojne
+                           obrtnike. Če dodamo še neugodno najemanje in vračanje kreditov
+                           samostojnih obrtnikov, resnično nimamo motivacije za širitev obsega
+                           poslovanja oziroma opravljanje gospodarske dejavnosti.</p>
+                        <p>Navedel sem samo najpomembnejše razloge za pobudo za spremembo in
+                           dopolnitev zakona o davkih občanov, podrobnejše in konkretnejše predloge
+                           pa dajemo v pisni obliki in jih ne bi bral. Upam, da boste delegati
+                           podprli nujnost naše pobude, ker bomo le na ta način dosegli, da bodo
+                           predlagane spremembe in dopolnitve zakona o davkih občanov veljale že od
+                           1. januarja 1988 in tako vplivale na razrešitev najnujnejših problemov,
+                           ki bodo morda zavrle opuščanje opravljenih obrtnih dejavnosti in
+                           zmanjševanje obsega dela v obrtnih delavnicah.</p>
+                        <p>Poudarjamo, da želimo samo spremembo in ne novega zakona. Hvala lepa.</p>
+                     </sp>
+                     <sp who="#sp.DvojmočValentin">
+                        <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                        <p>Hvala lepa. To pobudo bomo posredovali Izvršnemu svetu.</p>
+                        <p>Želi kdo postaviti kakšno delegatsko vprašanje? (Ne. ) Če ne, predlagam
+                           naslednje: Ker skupina za usklajevanje še ni končala dela, moramo pa tudi
+                           počakati še Zbor občin v zvezi s sprejetimi akti, pri katerih moramo biti
+                           usklajeni, in Družbenopolitični zbor, odrejam odmor do 12.00 ure.</p>
+                     </sp>
+                     <stage>(Seja zbora je bila prekinjena ob 11.15. uri in se je nadaljevala ob
+                        12.10. uri.)</stage>
+                  </div>
+                  <div ana="#PAR.IzvKomis">
+                     <sp who="#sp.DvojmočValentin">
+                        <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                        <p>Tovarišice in tovariši delegati! Nadaljujemo sejo. Ker je Zbor občin
+                           sprejel sklep k 8. točki dnevnega reda, moramo imenovati usklajevalno
+                           komisijo. V to komisijo predlagam naslednje delegate: Alojza Lindnerja,
+                           ki je tudi poročevalec Odbora za finance, Staneta Gantarja, 13. okoliš,
+                           Škofja Loka in Jurija Mišiča, 3. okoliš, Ljubljana Moste.</p>
+                        <p>Dajem v razpravo predlog za usklajevalno komisijo. Ima kdo kakšno
+                           pripombo? (Ne.)</p>
+                        <pb/>
+                        <p>Kdor je za imenovanje skupine, naj prosim glasuje. (127 delegatov glasuje
+                           za.) Je kdo proti? (Nihče.) Se je kdo vzdržal? (En delegat.)</p>
+                        <p>Ugotavljam, da je usklajevalna skupina imenovana z večino glasov in
+                           prosim, da se takoj sestane z delegati Zbora občin.</p>
+                        <p>Prosim še predsednika verifikacijske komisije tovariša Igorja Kovača, da
+                           da še dodatno poročilo verifikacijske komisije.</p>
+                     </sp>
+                     <sp who="#sp.KovačIgor">
+                        <speaker>IGOR KOVAČ:</speaker>
+                        <p>Dodatno poročilo Komisije za verifikacijo pooblastil in imunitetna
+                           vprašanja je naslednje.</p>
+                        <p>Na sejo zbora sta dodatno prišla še dva delegata in sicer skupine
+                           delegatov za gospodarsko področje, 2. okoliš, Ljubljana Center, 1 delegat
+                           in Ljubljana Moste-Polje 1 delegat.</p>
+                        <p>Tako je danes na seji zbora navzočih 136 delegatov.</p>
+                        <p>Tudi ti dve pooblastili sta v skladu z ustavo in zakonom SR Slovenije in
+                           predlagam zboru, da jih verificira.</p>
+                     </sp>
+                     <sp who="#sp.DvojmočValentin">
+                        <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                        <p>Hvala lepa. Dajem dodatno poročilo verifikacijske komisije na
+                           glasovanje.</p>
+                        <p>Kdor je za, naj prosim, glasuje. (130 delegatov glasuje za.) Je kdo
+                           proti? (Nihče.) Se je kdo vzdržal? (Nihče.)</p>
+                        <p>Ugotavljam, da je dodatno poročilo verifikacijske komisije soglasno
+                           sprejeto.</p>
+                        <p>Glede priprave programa dela zborov za leto 1988 vas obveščam, da smo
+                           imenovali delovno skupino delegatov za pripravo programa, v kateri so
+                           sodelovali: predsednik zbora, podpredsednik in predsednik Odbora za
+                           družbenopolitični sistem.</p>
+                        <p>Ker smo na prejšnji seji razrešili podpredsednika zbora tovariša Franca
+                           Jelena in smo izvolili novega predsednika tovariša Antona Suška
+                           predlagam, da v skupino za pripravo programa imenujemo Valentina
+                           Dvojmoča, Antona Suška in Jožeta Antolina.</p>
+                        <p>Želi kdo o tem razpravljati? (Ne.) Potem prehajamo na glasovanje.</p>
+                        <p>Kdor je za, naj prosim glasuje. (129 delegatov glasuje za.) Je kdo proti?
+                           (Nihče.) Se je kdo vzdržal? (Nihče.)</p>
+                        <p>Ugotavljam, da je skupina delegatov imenovana soglasno.</p>
+                        <p>Ker moramo počakati na stališče usklajevalne skupine, predlagam
+                           odmor.</p>
+                     </sp>
+                     <stage>(Seja zbora je bila prekinjena ob 12.15. uri in se je nadaljevala ob 13.
+                        uri)</stage>
+                  </div>
+                  <div ana="#PAR.TDR" n="2">
+                     <sp who="#sp.DvojmočValentin">
+                        <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                        <p>Tovarišice in tovariši, nadaljujemo sejo.</p>
+                        <p>Skupina delegatov je končala delo.</p>
+                        <p>Vračamo se k 2. TOČKI DNEVNEGA REDA - PREDLOG DOPOLNITEV DOLGOROČNEGA
+                           PLANA SR SLOVENIJE ZA OBDOBJE 1986-2000 IN PREDLOG DOPOLNITEV DRUŽBENEGA
+                           PLANA SLOVENIJE ZA OBDOBJE 1986-1990.</p>
+                        <p>Prosim predstavnika skupine delegatov, da poroča zboru. Vinko Kržan,
+                           vodja skupine, ima besedo.</p>
+                     </sp>
+                     <pb/>
+                     <sp who="#sp.KeržanVinko">
+                        <speaker>VINKO KERŽAN:</speaker>
+                        <p>Tovariš predsednik, tovarišice in tovariši delegati. Skupina za proučitev
+                           predloga dopolnitev dolgoročnega in srednjeročnega plana SR Slovenije je
+                           bila ob obravnavi sprememb navedenih planskih dokumentov pisno
+                           seznanjena, da je skupina delegatov Maribor Tezno predlagala Zboru
+                           združenega dela Skupščine SR Slovenije naslednja dva amandmaja.</p>
+                        <p>K predlogu dopolnitev dolgoročnega plana SR Slovenije za obdobje
+                           1986-2000. Dopolni se točka 3.1/33 dolgoročnega plana SR Slovenije za
+                           obdobje od leta 1986 do leta 2000 tako, da se namesto besed: 'hitra cesta
+                           skozi Maribor 3. etapa', vstavi besedilo 'Šentilj - Macelj'.</p>
+                        <p>V 2. odstavku te točke se izpusti besedilo (in Šentilj - Maribor -
+                           Ptuj)</p>
+                        <p>Zadnji odstavek predloga dopolnitev dolgoročnega plana SR Slovenije pa
+                           naj se glasi: ' Dopolni se karta številka 7. zasnova cestno prometnih
+                           povezav, tako da se vnese magistralna cestna povezava Krvavi potok -
+                           Kozina - Rupa in avtocesta Šentilj Macelj kot obvezno izhodišče
+                           dolgoročnega plana SR Slovenije za pripravo dolgoročnih in srednjeročnih
+                           planov samoupravnih organizacij in skupnosti ter družbenopolitičnih
+                           skupnosti v SR Sloveniji' .</p>
+                        <p>Amandma k predlogu dopolnitev družbenega plana Slovenije za obdobje
+                           1986-1990 je naslednji.</p>
+                        <p>Dopolni se točka 2 predloga dopolnitev družbenega plana SR Slovenije za
+                           obdobje 1986-1990 tako, da se glasi: "dopolni se karta št. 7, tako da se
+                           z znakom 'priprava za novogradnjo' vnesejo preostali odcepi magistralne
+                           ceste avtomobilske ceste Bratstva in enotnosti od Karavank do Bregane in
+                           odseka cest po Osimskem sporazumu Čebularica - Divača - Sežana ter Krvavi
+                           potok - Kozina - Rupa in avtoceste Šentilj - Macelj in z oznako pričetek
+                           gradnje avtoceste Šentilj - Pesnica."</p>
+                        <p>Skupina je ob proučitvi predlaganih sprememb planskih dokumentov, ter
+                           posredovanih amandmajev poudarila:</p>
+                        <p>Skupina meni, da so predlagane spremembe in dopolnitve planskih aktov v
+                           skladu in v okviru, kot ga je določil odlok o pripravi in sprejetju
+                           sprememb in dopolnitev dolgoročnega plana in srednjeročnega plana SR
+                           Slovenije, vendar pa skupina z večino glasov ocenjuje, da predložena
+                           amandmaja skupine delegatov Maribor Tezno ne sodita v ta okvir, zato
+                           menimo, da je v tej fazi sprejemanja sprememb planskih dokumentov še ni
+                           mogoče upoštevati, zato zboru predlaga, da amandmaja skupine delegatov
+                           občine Maribor-Tezno, ki se nanašata na spremembe oziroma dopolnitve
+                           planskih aktov, ne sprejme.</p>
+                        <p>2. Skupina je ob proučitvi amandmajev, argumentov, navedenih v
+                           obrazložitvi, presodila, da je tematika tako pereča, da zahteva rešitev.
+                           Predložena amandmaja skupine delegatov je zato potrebno vključiti v
+                           postopek priprave sprememb in dopolnitev planskih dokumentov na nivoju SR
+                           Slovenije, kot je predvideno v prvem in drugem delu odloka, po katerem
+                           bodo spremembe in dopolnitve planskih aktov sprejete najkasneje v maju
+                           1988. leta.</p>
+                        <p>Skupina se je seznanila s stališčem Izvršnega sveta Skupščine SR
+                           Slovenije, ki ne podpira predloženih amandmajev.</p>
+                        <pb/>
+                        <p>Izvršni svet ocenjuje, da je problematiko cest potrebno reševati v rednem
+                           postopku sprememb in dopolnitev planskih dokumentov.</p>
+                        <p>3. Glede na vse navedeno skupina predlaga zboru, da ob sprejemanju
+                           sprememb planskih dokumentov sprejeme še dodatni sklep, ki naj se
+                           glasi:</p>
+                        <p>1. Izvršni svet Skupščine SR Slovenije naj pri pripravi sprememb in
+                           dopolnitev planskih aktov upošteva tudi amandmaja in predlog skupin
+                           delegatov, upoštevajoč pri tem materialne možnosti in začrtan rokovnik za
+                           spremembe in dopolnitve planskih dokumentov.</p>
+                        <p>2. Skupina predlaga zboru, da priporoči Republiški skupnosti za ceste, da
+                           navedena amandmaja upošteva pri nadaljnjih aktivnostih sprememb in
+                           dopolnitev planskih dokumentov.</p>
+                        <p>V zvezi s predlogom iz Radovljice je bila skupina seznanjena, da je trasa
+                           predvidene avtoceste v družbenem planu SR Slovenije le orientacijska in
+                           da se konkretizacija trase avtoceste določi in uskladi v družbenem planu
+                           občine v merilu 1 : 5.000 in planu Skupnosti za ceste Slovenije. Hvala
+                           lepa.</p>
+                     </sp>
+                     <sp who="#sp.DvojmočValentin">
+                        <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                        <p>Hvala lepa, tovariš Kržan. Sprašujem predstavnico Radovljice, ali se s to
+                           obrazložitvijo strinja (Da.) Hvala. Prehajamo na amandma. Ali se Izvršni
+                           svet s tem amandmajem strinja? (Ne.)</p>
+                        <p>Sedaj se moramo najprej opredeliti do amandmaja in predloga dopolnitev
+                           dolgoročnega plana.</p>
+                        <p>Skupina delegatov za gospodarsko področje, 42. okoliš Maribor-Tezno, je k
+                           predlogu dopolnitev dolgoročnega plana predložila amandma k točki
+                           3.1.33.</p>
+                        <p>Skupina delegatov, ki je proučila amandma, in Izvršni svet Skupščine
+                           amandmaja ne podpirata. Glede na to sprašujem delegate iz občine
+                           Maribor-Tezno ali vztrajate pri amandmaju? Besedo ima Anton Praprotnik,
+                           gospodarsko področje, 42. okoliš Maribor-Tezno.</p>
+                     </sp>
+                     <sp who="#sp.PraprotnikAnton">
+                        <speaker>ANTON PRAPROTNIK:</speaker>
+                        <p>Naj ponovim: pri amandmaju vztrajamo. Na kratko bi želel še enkrat
+                           spomniti, da je vprašanje ceste Šentilj-Macelj odprto že od leta
+                           1969.</p>
+                        <p>Hkrati bi poudaril, da občani Maribora in tudi širše Podravske regije ne
+                           oporekamo pereči problematiki na področju cestnega omrežja od Kopra do
+                           Jesenic, Nove Gorice, Novega Mesta, Ljubljane in drugih okolij. Hočemo le
+                           ustrezno opredelitev v skladu s predlaganimi amandmaji, da ne bomo večno
+                           argumentirali vsem znano problematiko. Obravnavana cestna povezava so
+                           vrata v Jugoslavijo, vrata, ki močno škripajo in grozijo, da se bodo
+                           zaprla. Prosim vas, da razmislite in odločite po svoji vesti, vsekakor pa
+                           v skladu s pooblastili svojih okolij. Oprostite nam, da smo vam vzeli
+                           koristen čas. Hvala lepa.</p>
+                     </sp>
+                     <sp who="#sp.DvojmočValentin">
+                        <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                        <p>Hvala. Ima še kdo kakšno razpravo pred glasovanjem? (Ne.) Torej
+                           zaključujem razpravo. Ker skupina delegatov vztraja pri amandmaju, dajem
+                           na glasovanje amandma k točki 3.1.33 predloga dopolnitev dolgoročnega
+                           plana.</p>
+                        <p>Sedaj se moramo najprej opredeliti do amandmaja in predloga dopolnitev
+                           dolgoročnega plana.</p>
+                        <pb/>
+                        <p>Kdor je za amandma Maribora, naj prosim glasuje. (84 delegatov glasuje
+                           za.) Je kdo proti? (24 delegatov.) Se je kdo vzdržal? (14 delegatov.)</p>
+                        <p>Amandma k dopolnitvi dolgoročnega plana SR Slovenije je sprejet z večino
+                           glasov.</p>
+                        <p>Na glasovanje dajem predlog dopolnitev dolgoročnega plana SR Slovenije za
+                           obdobje 1986-2000 v celoti, torej skupaj s tem amandmajem.</p>
+                        <p>Kdor je za naj prosim, glasuje. (104 delegati glasujejo za.) Je kdo
+                           proti? (6 delegatov.) Se je kdo vzdržal? (13 delegatov.)</p>
+                        <p>Sedaj se moramo opredeliti še do amandmaja skupine delegatov za
+                           gospodarsko področje, 42. okoliš Maribor Tabor, ki je k predlogu
+                           dopolnitve družbenega plana SR Slovenije predložila amandma k 2. točki.
+                           Skupina delegatov je proučila amandma, Izvršni svet amandmaja ne
+                           podpira.</p>
+                        <p>Glede na to sprašujem skupino delegatov iz Maribor Tezna, ali vztrajate
+                           pri amandmaju? (Da.)</p>
+                        <p>Ker skupina delegatov vztraja pri amandmaju, dajem na glasovanje amandma
+                           k 2. točki predloga dopolnitev družbenega plana.</p>
+                        <p>Kdor je za ta amandma k srednjeročnemu planu, naj prosim, glasuje. (83
+                           delegatov je glasovalo za.) Je kdo proti? (18 delegatov.) Se je kdo
+                           vzdržal? (21 delegatov.)</p>
+                        <p>Ugotavljam, da je tudi ta amandma sprejet z večino glasov.</p>
+                        <p>Na glasovanje dajem predlog dopolnitev družbenega plana SR Slovenije za
+                           obdobje 1986-1990 skupaj s tem amandmajem v celoti.</p>
+                        <p>Kdor je za, naj prosim, glasuje. (100 delegatov je glasovalo za.) Je kdo
+                           proti? (8 delegatov.) Se je kdo vzdržal? (17 delegatov.)</p>
+                        <p>Ugotavljam, da je predlog dopolnitev družbenega plana sprejet z večino
+                           glasov.</p>
+                        <p>Ker moramo počakati še na obvestilo Zbora občin in o tem obvestiti tudi
+                           Družbenopolitični zbor, če je to v skladu z njegovimi stališči, odrejam
+                           krajši odmor.</p>
+                     </sp>
+                     <sp who="#sp.DvojmočValentin">
+                        <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                        <p>Tovarišice in tovariši. Zbor občin nas je obvestil, da je predlog
+                           dopolnitev dolgoročnega plana SR Slovenije in predlog dopolnitev
+                           družbenega plana SR Slovenije sprejel v predloženem besedilu, torej brez
+                           amandmajev. Glede na to, da nismo usklajeni z Zborom občin, moramo
+                           imenovati medzborovsko usklajevalno komisijo. Ali se strinjate, da
+                           imenujemo v medzborovsko komisijo iste delegate kot za skupino za
+                           proučitev amandmaja? (Da.) Torej v medzborovsko komisijo imenujemo Vinka
+                           Keržana, Braneta Lampreta in Rajka Matijeviča. Ima kdo kakšno pripombo k
+                           temu predlogu? Če ne, dajem ta predlog na glasovanje.</p>
+                        <p>Kdor je za, naj prosim glasuje. (95 delegatov je glasovalo za.) Je kdo
+                           proti? (En delegat.) Se je kdo vzdržal? (En delegat.)</p>
+                        <p>Ugotavljam, da so člani medzborovske komisije imenovani z večino
+                           glasov.</p>
+                        <pb/>
+                        <p>Prosim imenovane tovariše, da gredo na usklajevanje.</p>
+                     </sp>
+                  </div>
+                  <div ana="#PAR.TDR" n="8">
+                     <sp who="#sp.DvojmočValentin">
+                        <p>Vračamo se k 8. TOČKI DNEVNEGA REDA - OSNUTEK ZAKONA O DOLOČITVI SKUPNEGA
+                           ZNESKA SREDSTEV ZA FINANCIRANJE PROGRAMA PRIDOBIVANJA STANOVANJ ZA
+                           POTREBE ZVEZNIH ORGANOV V OBDOBJU 1987-1990.</p>
+                        <p>Usklajevalna skupina je končala z delom. Prosim poročevalca komisije tov.
+                           Alojza Lindnerja, da poroča zboru.</p>
+                     </sp>
+                     <sp who="#sp.LindnerAlojz">
+                        <speaker>ALOJZ LINDNER:</speaker>
+                        <p>Spoštovani zbor, tovariš predsednik! Skupna komisija Zbora združenega
+                           dela in Zbora občin podaja naslednje poročilo k osnutku zakona o
+                           določitvi skupnega zneska sredstev za financiranje programa pridobivanja
+                           stanovanj za potrebe zveznih organov v obdobju 1987-1990.</p>
+                        <p>Skupščina SR Slovenije je prvič obravnavala problematiko pridobivanja
+                           stanovanj za potrebe zveznih organov v letu 1985. Takrat je Skupščina SR
+                           Slovenije sprejela stališče, da je potrebno na ravni federacije sprejeti
+                           zakonsko ureditev za vse investicije za potrebe zveznih organov celovito
+                           in da bo Skupščina SR Slovenije odločala o tem programu šele, ko bo ta
+                           celoviti program pripravljen. Zvezni izvršni svet je na podlagi pripomb
+                           Skupščine SR Slovenije sprejel to pripombo skupščine in pripravil program
+                           tehnično-tehnološke modernizacije zveznih organov za obdobje 1987-1990,
+                           osnutek zakona o skupnem znesku sredstev za financiranje dela programa
+                           tehnično-tehnološke organizacije zveznih organov za obdobje 1987-1990,
+                           program pridobivanja stanovanj za potrebe zveznih organov za obdobje
+                           1987-1990 ter osnutek zakona o določitvi skupnega zneska sredstev za
+                           financiranje programa pridobivanja stanovanj za potrebe zveznih organov v
+                           obdobju 1987-1990.</p>
+                        <p>Skupščina SR Slovenije je oba osnutka zakonov o skupnih zneskih sredstev
+                           za financiranje dela programa tehnično-tehnološke modernizacije zveznih
+                           organov za obdobje 1987-1990 in osnutek zakona o določitvi skupnega
+                           zneska sredstev za financiranje programa pridobivanja stanovanj za
+                           potrebe zveznih organov v obdobju 1987-1990 in osnutek zakona o določitvi
+                           skupnega zneska sredstev za financiranje programa pridobivanja stanovanj
+                           za potrebe zveznih organov v obdobju 1987-1990 prvič obravnavala na sejah
+                           zborov 24.6.1984. Na teh sejah zborov je Skupščina SR Slovenije k osnutku
+                           zakona o skupnem znesku sredstev za financiranje dela programa
+                           tehnično-tehnološke modernizacije zveznih organov za obdobje 1987-1990
+                           dala soglasje, medtem ko ni sprejela sklepa, s katerim naj bi dala
+                           soglasje k osnutku zakona o določitvi skupnega zneska sredstev za
+                           financiranje programa pridobivanja stanovanj za potrebe zveznih organov v
+                           obdobju 1987-1990. Skupščina SR Slovenije je zato od predlagatelja zakona
+                           zahtevala dodatna pojasnila in informacije, ki so jih postavljali
+                           delegati Skupščine SR Slovenije v okviru razprave k osnutku zakona o
+                           določitvi skupnega zneska sredstev za financiranje programa pridobivanja
+                           stanovanj za potrebe zveznih organov v obdobju 1987-1990.</p>
+                        <p>Predlagatelj zakona je Skupščini SR Slovenije posredoval vsa zahtevana
+                           dodatna pojasnila in informacije, s katerimi tudi odgovarja na vsa
+                           zastavljena vprašanja delegatov Skupščine SR Slovenije ob prvi obravnavi
+                           tega zakona. Ob ponovni obravnavi <pb/> navedenega zakona v delegatski
+                           bazi so skupine delegatov postavile še nekatera dodatna vprašanja, na
+                           katere pa je predlagatelj zakona deloma že odgovoril v in formacijah, ki
+                           jih je posredoval Skupščini SR Slovenije.</p>
+                        <p>Hkrati skupna komisija Zbora združenega dela in Zbora občin želi podati
+                           dodatna pojasnila k navedenim dodatnim vprašanjem.</p>
+                        <p>Skupina delegatov za delegiranje delegatov v Zbor združenega dela
+                           Skupščine SR Slovenije, gospodarsko področje 3. okoliš Ljubljana
+                           Moste-Polje, je postavila naslednje delegatsko vprašanje :</p>
+                        <p>Koliko postopkov za izpraznitev neupravičeno zasedenih stanovanj iz
+                           stanovanjskega sklada zveznih organov je bilo sproženih?</p>
+                        <p>Zvezni sekretariat za pravosodje v svoji informaciji navaja, da štiri
+                           stanovanja še vedno zasedajo bivši funkcionarji in vodilni delavci, ki
+                           jim je prenehala funkcija v zveznih organih. Torej gre za štiri tako
+                           imenovana neupravičeno zasedena družinska potovanje. Nobeno med temi
+                           štirimi stanovanji ni službeno potovanje. Po informaciji Zveznega
+                           sekretariata za pravosodje ni niti enega primera, da bi bivši funkcionar
+                           ali vodilni delavec zasedal službeno stanovanje potem, ko mu je prenehal
+                           mandat. Zvezni sekretariat za pravosodje tudi zatrjuje, da noben od
+                           štirih bivših funkcionarjev, ki so odšli iz zveznih organov, ne uporablja
+                           dveh stanovanj, temveč uporabljajo obstoječa stanovanja zato, ker na
+                           novih delovnih mestih še niso uredili stanovanjskega problema.</p>
+                        <p>Zvezno pravobranilstvo proti štirim bivšim funkcionarjem in vodilnim
+                           delavcem ni sprožilo postopka za vrnitev družinskega stanovanja, ker za
+                           to ni zakonitih razlogov. Ti štirje funkcionarji namreč ne zasedajo
+                           stanovanj nezakonito, temveč le še niso uredili svojega stanovanjskega
+                           problema. Zvezno javno pravobranilstvo je v letu 1986 sprožilo postopek
+                           proti 465 uporabnikom družinskih stanovanj iz zveznega stanovanjskega
+                           sklada. V letu 1987 pa doslej 13 postopkov. Od 465 sproženih postopkov je
+                           101 postopek končan, 364 postopkov pa še poteka. Od 13 sproženih
+                           postopkov v letu 1987 sta dva postopka končana, dva pa še potekata.
+                           Zvezno javno pravobranilstvo tudi ni ugotovilo niti enega primera
+                           nezakonito zasedenega službenega oziroma funkcionarskega stanovanja.
+                           Sproženi postopek Zveznega javnega pravobranilstva se nanašajo na odpoved
+                           pogodbe o uporabi stanovanj za nekdanje delavce delovne skupnosti skupnih
+                           služb zveznih upravnih organov. Sicer pa Zvezno javno pravobranilstvo
+                           enkrat letno predloži pristojnim organom Skupščine SFRJ poročilo o vseh
+                           uvedenih postopkih proti uporabnikom stanovanj, ki nezakonito uporabljajo
+                           stanovanja zveznega stanovanjskega sklada, z vsemi potrebnimi
+                           podatki.</p>
+                        <p>Skupna komisija meni, da je s tem tudi podan odgovor na postavljeno
+                           vprašanje skupine delegatov za delegiranje delegatov za Zbor občin
+                           Skupščine občine Ljubljana Šiška. Skupna komisija je na podlagi vseh
+                           navedenih ugotovitev soglasno ugotovila, da so podani vsi odgovori na vsa
+                           zastavljena vprašanja med razprave k osnutku zakona in osnutek zakona
+                           podpira. Hkrati skupna komisija predlaga Zboru združenega dela, da se
+                           pozitivno opredeli k <pb/> predlaganem sklepu k osnutku zakona pod ESA
+                           196, tako kot se je opredelil Zbor občin te skupščine. Hvala lepa.</p>
+                     </sp>
+                     <sp who="#sp.DvojmočValentin">
+                        <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                        <p>Hvala lepa, tovariš Lindner. Pričenjam razpravo. Želi o tem poročilu
+                           komisije kdo razpravljati? (Ne.) Še kakšno dodatno vprašanje? (Ne.) Tukaj
+                           je tudi posredno odgovorjeno na delegatsko vprašanje Ljubljana Moste
+                           Polje. Glasovali bomo o predlogu usklajevalne komisije, da se predloženi
+                           sklep ESA 196 sprejme.</p>
+                        <p>Kdor je za ta sklep, naj prosim, glasuje. (45 delegatov glasuje za.) Je
+                           kdo proti? (55 delegatov.) Se je kdo vzdržal? (16 delegatov.)</p>
+                        <p>Ugotavljam, da sklep ni sprejet.</p>
+                        <p>Ker sklep ni sprejet, moramo predložiti nov sklep, ki ga bom prebral in
+                           se glasi:</p>
+                        <p>Sklep k osnutku zakona o določitvi skupnega zneska sredstev za
+                           financiranje programa pridobivanja stanovanj za potrebe zveznih organov v
+                           obdobju 1987 do 1990.</p>
+                        <p>1. Skupščina SR Slovenije ne daje soglasja k osnutku zakona o določitvi
+                           skupnega zneska sredstev za financiranje programa pridobivanja stanovanj
+                           za potrebe zveznih organov v obdobju 1987-1990.</p>
+                        <p>2. Skupščina SR Slovenije je po proučitvi dodatnih gradiv zveznih organov
+                           ter obvestil delegacije in Izvršnega sveta ugotovila, da predlagani zakon
+                           ne daje dovolj zagotovil za uresničevanje napovedane racionalizacije in
+                           modernizacije zvezne uprave in izboljšanje kvalitete dela, zlasti nujne
+                           kadrovske krepitve in večje strokovnosti.</p>
+                        <p>Skupščina SR Slovenije predlaga, da se pripravi nov program v okviru
+                           protiinflacijskega programa. Napori za kadrovsko prenovo pa morajo
+                           vsebovati tudi potrebna sredstva za razreševanje stanovanjskih vprašanj,
+                           ki naj se na podlagi sprejetega programa zagotavljajo v proračunu
+                           federacije in razporejajo vsako leto z zakonom o izvajanju proračuna
+                           federacije.</p>
+                        <p>Ste lahko sledili? (Da.) Pričenjam razpravo. Želi kdo razpravljati?
+                           (Ne.)</p>
+                        <p>Kdor je za ta sklep, ki sem ga prebral, naj prosim, glasuje. (115
+                           delegatov glasuje za.) Je kdo proti? (Trije delegati.) Se je kdo vzdržal?
+                           (Trije delegati.)</p>
+                        <p>Ugotavljam, da je sklep sprejet z večino glasov.</p>
+                        <p>O tem sklepu moram obvestiti še predsednika Zobra občin, ker mora Zbor
+                           občin o tem razpravljati in ustrezen sklep sprejeti.</p>
+                        <p>Ponovno odrejam 10 minut odmora, ker komisija za usklajevanje plana še
+                           dela.</p>
+                     </sp>
+                     <stage>(Seja je bila prekinjena ob 14.00 uri in se je nadaljevala ob 14.50.
+                        uri.)</stage>
+                  </div>
+                  <div ana="#PAR.TDR" n="2">
+                     <sp who="#sp.DvojmočValentin">
+                        <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                        <p>Usklajevalna komisija je končala svoje delo, zato se vračamo k 2. TOČKI
+                           DNEVNEGA REDA.</p>
+                        <p>Prosim poročevalca tovariša Keržana, da poroča zboru.</p>
+                     </sp>
+                     <pb/>
+                     <sp who="#sp.KeržanVinko">
+                        <speaker>VINKO KERŽAN:</speaker>
+                        <p>Tovariš predsednik, tovarišice in tovariši delegati. Komisija vseh zborov
+                           Skupščine SR Slovenije za proučitev predloga dopolnitev dolgoročnega in
+                           srednjeročnega plana SR Slovenije je bila ob obravnavi sprememb navedenih
+                           planskih dokumentov seznanjena z vsebino in rezultati glasovanja in
+                           obravnave navedene problematike na vseh treh zborih Skupščine SR
+                           Slovenije.</p>
+                        <p>Člani komisije so v razpravi poudarili in ponovno izpostavili, da je
+                           tematika, ki je navedena in argumentirana v obrazložitvi k mariborskim
+                           amandmajem, tako pereča, da zahteva razrešitev. Ker je bila razprava in
+                           glasovanje na Zboru združenega dela in Zboru občin različna, so člani
+                           komisije menili, da je kljub temu potrebno enotno razrešiti in s tem
+                           omogočiti sprejem sprememb in dopolnitev planskih dokumentov.</p>
+                        <p>Z večino glasov je komisija sprejela naslednje predloge:</p>
+                        <p>Komisija predlaga zboru, da sprejeme prvi amandma tistega, ki smo ga mi
+                           že sprejeli - ki se nanaša na dolgoročni plan SR Slovenije za obdobje
+                           1986-2000 z naslednjo obrazložitvijo:</p>
+                        <p>"Komisija je proučila oba posredovana amandmaja in v razpravi poudarila,
+                           da ju ni mogoče obravnavati povsem enakovredno. Ker amandma, ki se nanaša
+                           na dolgoročni plan, predstavlja predvsem obvezo za vključitev navedene
+                           tematike, kot obvezno izhodišče za pripravo dolgoročnega plana SR
+                           Slovenije in dolgoročnih planov samoupravnih organizacij in skupnosti ter
+                           družbenopolitičnih skupnosti v SR Sloveniji, komisija meni, da je
+                           sprejemljiv, čeprav se zaveda, da s tem že prejudicira spremembe koncepta
+                           sprememb planskih dokumentov, kot je predvideno v odloku, ki določa
+                           rokovnik sprememb in dopolnitev."</p>
+                        <p>Komisija predlaga zboru, da ne sprejme drugega amandmaja mariborske
+                           občine, ki se nanaša na družbeni plan SR Slovenije za obdobje 1986-1990 z
+                           naslednjo obrazložitvijo.</p>
+                        <p>"Sprejem takega amandmaja bi povzročil oziroma imel tako finančne
+                           posledice, obenem pa bi bil v celoti v nasprotju s temeljnimi izhodišči
+                           planiranja, po katerih je potrebno izpeljati obveznost sočasnega
+                           usklajevanja planskih dokumentov vseh predvidenih nosilcev planiranja,
+                           opreracionalizacijo dogovorjenih nalog v dogovoru o temeljih plana,
+                           predvsem pa obvezno uskladitev v okviru Skupnosti za ceste
+                           Slovenije."</p>
+                        <p>Glede na to, da se je komisija z vsebino navedenega amandmaja strinjala,
+                           pa je predlagala, da se ob glasovanju sprejme še dodatni sklep, ki se
+                           glasi: 'Izvršni svet Skupščine SR Slovenije naj pri pripravi sprememb in
+                           dopolnitev planskih aktov upošteva tudi amandma in predloge skupin
+                           delegatov, upoštevajoč pri tem začrtan rokovnik za spremembe in
+                           dopolnitve planskih dokumentov.</p>
+                        <p>Komisija predlaga zboru, da priporoči Republiški skupnosti za ceste, da
+                           navedeni amandma upošteva pri nadaljnjih aktivnostih sprememb in
+                           dopolnitev v svojih planskih dokumentov." Hvala lepa.</p>
+                     </sp>
+                     <sp who="#sp.DvojmočValentin">
+                        <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                        <p>Hvala lepa. Želi o poročilu komisije kdo razpravljati? (Ne želi.)</p>
+                        <pb/>
+                        <p>Prehajamo na glasovanje. Torej, o dolgoročnem planu ne bomo razpravljali
+                           niti sklepali, ker je to že sprejeto in potrjeno.</p>
+                        <p>Na glasovanje dajem predlog usklajevalne komisije v zvezi z amandmajem k
+                           predlogu dopolnitev družbenega plana SR Slovenije za obdobje 1986-1990,
+                           da se amandmaja ne sprejme.</p>
+                        <p>Kdor je za to, da se amandmaja ne sprejme, naj prosim glasuje. (62
+                           delegatov glasuje za.)</p>
+                        <p>Besedo ima Anton Praprotnik, gospodarsko področje, 42. okoliš Maribor
+                           Tezno.</p>
+                     </sp>
+                     <sp who="#sp.PraprotnikAnton">
+                        <speaker>ANTON PRAPROTNIK:</speaker>
+                        <p>Menim, da vse problematike v zvezi s tem ne poznate. Stališče Maribora
+                           je, da, če bi bile v zvezi s tem prehude težave, potem odstopa od tega.
+                           Torej glede drugega amandmaja naj obvelja mnenje usklajevalne komisije,
+                           oziroma Izvršnega sveta.</p>
+                     </sp>
+                     <sp who="#sp.DvojmočValentin">
+                        <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                        <p>In to s pogojem, da se sprejme še poseben sklep pri izvajanju tega
+                           srednjeročnega plana, za to gre.</p>
+                     </sp>
+                     <sp who="#sp.PraprotnikAnton">
+                        <speaker>ANTON PRAPROTNIK:</speaker>
+                        <p> Drugače nastajajo problemi glede ceste Bratstva in enotnosti in
+                           sredstev, ki jih dobimo od federacije, če danes plana ne bi sprejeli.
+                           Menim, da je glavni problem v tem, da, če Mariborčani to sprejmejo, se
+                           jim vse skupaj podaljša za nekaj mesecev. Čeprav jim je obljubljeno in
+                           tudi zapisano v sklepu, da se jim da prioriteta.</p>
+                     </sp>
+                     <sp who="#sp.DvojmočValentin">
+                        <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                        <p>Pričenjam razpravo tudi o tem dodatnem pojasnilu. Prosim, da se o
+                           razpravi izreče vodja skupine Vinko Keržan.</p>
+                     </sp>
+                     <sp who="#sp.KeržanVinko">
+                        <speaker>VINKO KERŽAN:</speaker>
+                        <p>Tovarišice in tovariši delegati! Želel bi poudariti, da pooblastila o
+                           umiku drugega amandmaja nimam, da pa nisem nasprotoval temu poročilu
+                           usklajevalne skupine. Sem pa posebej poudaril, da nobenih popravkov, ki
+                           so se pojavljali na skupini, ne sprejemam.</p>
+                     </sp>
+                     <sp who="#sp.DvojmočValentin">
+                        <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                        <p>Prvi amandma je bil sprejet v besedilu, kot je bil predložen. Ima še kdo
+                           kakšno vprašanje? Besedo ima tovariš Milivoj Samar, predsednik
+                           Republiškega komiteja za družbeno planiranje in član Izvršnega sveta
+                           Slovenije.</p>
+                     </sp>
+                     <sp who="#sp.SamarMilivoj">
+                        <speaker>MILIVOJ SAMAR:</speaker>
+                        <p>Imam občutek, da nam ni povsem jasno, za kaj gre.</p>
+                        <p>Pri vprašanju srednjeročnega plana in njegovem dopolnjevanju zadeva to
+                           dopolnjevanje določene materialne obveznosti, ki morajo biti najprej v
+                           samoupravni interesni skupnosti razčiščene, da bo dovolj jasno, kaj lahko
+                           še v tem srednjeročnem planskem obdobju storimo, koliko lahko dodamo k
+                           tem programom, koliko pa ne. Brez takšnega postopka zadev ni mogoče kar
+                           tako zaključiti. Izvršni svet ob obravnavi teh amandmajev ni zanikal
+                           problematike, ki je na tem področju prisotna, vendar menim, da je <pb/>
+                           treba na takšen način te stvari izpeljati v naslednjih štirih oziroma
+                           petih mesecih. S tem, ko danes ne dopolnjujemo na takšen način
+                           srednjeročnega plana, sprejemamo samo tisti del, ki pomeni hitrejšo
+                           realizacijo in pridobitev dodatnih sredstev za izgradnjo avtoceste in
+                           Osimskih sporazumov v skladu z jugoslovanskim programom, da se vključi že
+                           v analizo možnosti v samoupravni interesni skupnosti in v Zavodu za plan,
+                           ki pripravlja to analizo, zato da bi v decembru oziroma januarju o tem
+                           dopolnjevanju, vključno s temi mariborskimi opredelitvami, lahko povedli
+                           razpravo in sprejeli smernice, kako potem dopolniti plane v osnutek in
+                           predlog do meseca maja v prihodnjem letu. Torej zamik je samo v tem
+                           smislu, ne pa, če tako rečem, odstop od nekega amandmaja.</p>
+                     </sp>
+                     <sp who="#sp.DvojmočValentin">
+                        <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                        <p>Ali bi lahko povedal še, kakšne bodo posledice, če se to odloži?</p>
+                     </sp>
+                     <sp who="#sp.SamarMilivoj">
+                        <speaker>MILIVOJ SAMAR:</speaker>
+                        <p>Mrežni plan, ki je napravljen zato, da bi lahko to traso avtoceste
+                           napravili v obdobju do leta 1991, je zelo zahteven. Predpogoj za izdelavo
+                           posameznih planskih elementov v samoupravi interesni skupnosti in v
+                           občinah, kjer ta cesta poteka, je izredno napet, ker je potrebnih veliko
+                           opravil, le-ta pa so pogojena s tem, ali mi tako dopolnjen srednjeročni
+                           plan, kot ga predlagamo, imamo ali ne. Odlaganje te razprave še za en
+                           mesec pomeni v tem mrežnem planu ne samo ta mesec, ampak se nam to
+                           multiplicira, tako da s posameznimi odseki, tudi če tako tuja kot domača
+                           sredstva bodo na razpolago - da bodo ta dela praktično stala. To pa v teh
+                           pogojih inflacije ni sprejemljivo in prav gotovo, čim večja je inflacija,
+                           čim večje je propadanje teh sredstev, daljši je zamik tovrstne gradnje.
+                           To bi povzročilo določene posledice ne samo v tem srednjeročnem planskem
+                           obdobju, ampak v naslednjih oziroma v celem tem dokaj ambicioznem
+                           programu, ki ga imamo tudi do leta 2000, v katerem s prvim sprejetim
+                           amandmajem dejansko še povečujemo oziroma želimo povečati in se zavezati,
+                           da se za to iščejo še dodatna sredstva.</p>
+                     </sp>
+                     <sp who="#sp.DvojmočValentin">
+                        <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                        <p>Hvala lepa. Kot sem obveščen, je Zbor občin predlog komisije sprejel. Je
+                           še kakšno vprašanje? (Ne.) Lahko preidemo na glasovanje? (Da.)</p>
+                        <p>Na glasovanje dajem predlog usklajevalne komisije, da se amandmaja ne
+                           sprejme.</p>
+                        <p>Kdor je za ta predlog, da se amandmaja ne sprejme, naj prosim, glasuje.
+                           (90 delegatov glasuje za.) Je kdo proti? (24 delegatov.) Se je kdo
+                           vzdržal? (Šest delegatov.)</p>
+                        <p>Ugotavljam, da je predlog usklajevalne komisije, da se amandmaja ne
+                           sprejme, sprejet z večino glasov.</p>
+                        <p>Na glasovanje dajem predlog dopolnitev družbenega plana SR Slovenije za
+                           obdobje 1986-1990 v predloženem besedilu. To pomeni, brez amandmaja.</p>
+                        <p>Kdor je za, naj prosim, glasuje. (97 delegatov glasuje za.) Je kdo proti?
+                           (19 delegatov.) Se je kdo vzdržal? (En delegat . )</p>
+                        <p>Ugotavljam, da je predlog dopolnitev družbenega plana sprejet z večino
+                           glasov.</p>
+                        <pb/>
+                        <p>Prav tako ugotavljam, da je zbor predlagana akta sprejel v skladu s
+                           stališči Družbenopolitičnega zbora, ki nas je obvestil, da amandmajem ne
+                           nasprotuje.</p>
+                        <p>Na predlog usklajevalne skupine predlagam še dodatni sklep k 2.
+                           točki:</p>
+                        <p>1. Izvršni svet Skupščine SR Slovenije naj pri pripravi sprememb in
+                           dopolnitev planskih aktov upošteva predloge skupin delegatov, upoštevajoč
+                           pri tem materialne možnosti in začrtan rokovnih za spremembe in
+                           dopolnitve planskih dokumentov.</p>
+                        <p>Pričenjam razpravo. Želi kdo razpravljati? (Ne.) Zaključujem
+                           razpravo.</p>
+                        <p>Kdor je za ta dodatni sklep, naj prosim glasuje. (111 delegatov glasuje
+                           za. ) Je kdo proti? (Dva delegata. ) Se je kdo vzdržal? (Pet
+                           delegatov.)</p>
+                        <p>Ugotavljam, da je tudi dodatni sklep sprejet z večino glasov.</p>
+                        <p>Obveščam vas, da smo pri točkah, kjer smo sprejemali končne in skupne
+                           odločitve, usklajeni z Zborom občin in Družbenopolitičnim zborom. Tudi
+                           Zbor občin je sprejel negativen sklep gleda osnutka zakona o določitvi
+                           skupnega zneska sredstev za financiranje programa pridobivanja stanovanj
+                           za potrebe zveznih delegatov.</p>
+                        <p>S tem je dnevni red današnje seje izčrpan.</p>
+                        <p>Zahvaljujem se vam za udeležbo in razpravo na seji ter zaključujem 18.
+                           sejo Zbora združenega dela.</p>
+                     </sp>
+                     <stage>(Seja zbora je bila končana ob 15.15 uri.)</stage>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
