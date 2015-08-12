@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader xml:lang="slv">
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="slv" type="main" level="m">Sejni zapisi Skupščine Socialistične republike Slovenije za 10. sklic (1986-1990), št. zvezka   1</title>
+            <title xml:lang="slv" type="sub" level="m">Zbor združenega dela,  1. seja (7. maj 1986)</title>
+            <title xml:lang="slv" type="desc">Elektronska izdaja</title>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marta Rendla</persName>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <resp>Validacija metapodatkov uvoženih iz SIstory</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <distributor>DARIAH-SI</distributor>
+            <idno type="URN">http://www.sistory.si/SISTORY:ID:16027</idno>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:16027</pubPlace>
+            <pubPlace>https://github.com/SIstory/Sejni_zapiski/tree/master/1986.16027</pubPlace>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                  >Creative Commons Priznanje avtorstva 4.0 International licenco</ref></p>
+            </availability>
+            <date when="2015-08-11+02:00">11. 8. 2015</date>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic xml:id="sistory.16028">
+                  <idno>SISTORY:ID:16028#page=3</idno>
+                  <title xml:lang="slv" type="main" level="a">Zbor združenega dela,  1. seja (7. maj 1986)</title>
+                  <title xml:lang="slv" type="sub" level="a">Sejni zapisi Skupščine Socialistične republike Slovenije za 10. sklic (1986-1990), št. zvezka   1</title>
+                  <textLang xml:lang="slv" mainLang="slv">slovenski</textLang>
+                  <textLang xml:lang="eng" mainLang="slv">Slovenian</textLang>
+               </analytic>
+               <monogr xml:id="sistory.16027">
+                  <title xml:lang="slv" type="main" level="m">Sejni zapisi Skupščine Socialistične republike Slovenije za 10. sklic (1986-1990), št. zvezka 1</title>
+                  <title xml:lang="slv" type="sub" level="m">Zbor združenega dela, 1. seja (7. maj 1986)</title>
+                  <title xml:lang="slv" type="sub" level="m">Zbor združenega dela, 2. seja (28. maj 1986)</title>
+                  <imprint>
+                     <biblScope type="vol">zvezka   1</biblScope>
+                     <publisher>Skupščina Socialistične republike Slovenije</publisher>
+                     <date when="1986">1986</date>
+                  </imprint>
+               </monogr>
+               <series>
+                  <title>Sejni zapisi Skupščine Socialistične republike Slovenije</title>
+               </series>
+            </biblStruct>
+            <biblFull corresp="#sistory.16027">
+               <titleStmt>
+                  <title xml:lang="slv" type="main" level="m">Sejni zapisi Skupščine Socialistične republike Slovenije za 10. sklic (1986-1990), št. zvezka 1</title>
+                  <title xml:lang="slv" type="sub" level="m">Zbor združenega dela, 1. seja (7. maj 1986)</title>
+                  <title xml:lang="slv" type="sub" level="m">Zbor združenega dela, 2. seja (28. maj 1986)</title>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher>Skupščina Socialistične republike Slovenije</publisher>
+                  <date when="1986">1986</date>
+                  <availability status="free">
+                     <licence target="http://creativecommons.org/publicdomain/mark/1.0/"
+                        xml:lang="slv">Avtorske pravice so potekle, delo je v javni
+                        domeni.</licence>
+                     <licence target="http://creativecommons.org/publicdomain/mark/1.0/"
+                        xml:lang="eng">Public Domain Mark 1.0</licence>
+                  </availability>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>XML na portalu Zgodovina Slovenije - SIstory narejen v okviru izvajanja
+               infrastrukturnega programa Inštituta za novejšo zgodovino</p>
+         </projectDesc>
+         <!-- Vključena classDecl/taxonomy -->
+         <xi:include href="../taxonomy.xml"/>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="slv" xml:lang="slv">slovenski</language>
+            <language ident="slv" xml:lang="eng">Slovenian</language>
+            <language ident="en" xml:lang="sl">angleški</language>
+            <language ident="en" xml:lang="en">English</language>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <list>
+                  <item xml:lang="slv">predstavniška telesa</item>
+                  <item xml:lang="slv">stenografski zapisniki</item>
+                  <item xml:lang="slv">Socialistična republika Slovenija</item>
+                  <item xml:lang="slv">družbeno samoupravljanje</item>
+                  <item xml:lang="eng">representative bodies</item>
+                  <item xml:lang="eng">stenographical minutes</item>
+                  <item xml:lang="eng">Socialist Republic of Slovenia</item>
+                  <item xml:lang="eng">social self-management</item>
+                  <item xml:lang="eng">session</item>
+                  <item xml:lang="eng">term</item>
+                  <item xml:lang="eng">resumption of session</item>
+                  <item xml:lang="eng">joint session</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2015-08-12">
+            <name>Andrej Pančur</name>: kodiranje<list>
+               <item>//front//*</item>
+               <item>//div/@ana</item>
+               <item>//stage</item>
+               <item>//head</item>
+               <item>//castList</item>
+               <item>//docDate</item>
+            </list>
+         </change>
+         <change when="2015-08-12">
+            <name>Andrej Pančur</name>: ločil originalen XML dokument tei.xml na dva dela:<list>
+               <item>Zbor_zdruzenega_dela_1_2_seja_7.5.-28.5.1986-1.del.xml</item>
+               <item>Zbor_zdruzenega_dela_1_2_seja_7.5.-28.5.1986-2.del.xml</item>
+            </list>
+         </change>
+         <change when="2015-08-11">
+            <name>Andrej Pančur</name>: izvoz in preverjanje metapodatkov.</change>
+         <change when="2015-08-10">
+            <name>Andrej Pančur</name>: konverzija docx2tei </change>
+         <change when="2015-08-10">
+            <name>Andrej Pančur</name>: označil TEI stil (tei:sp) za docx2tei konverzijo</change>
+         <change when="2015-02-04">
+            <name>Marta Rendla</name>: pregled in poprava OCR v DOCX</change>
+      </revisionDesc>
+   </teiHeader>
+   <text corresp="#sistory.16028">
+      <front>
+         <docTitle>
+            <titlePart>ZBOR ZDRUŽENEGA DELA SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE</titlePart>
+            <titlePart>Sejni zapiski</titlePart>
+            <titlePart>1. seja - 7. maj 1986</titlePart>
+         </docTitle>
+         <pb/>
+         <div type="contents">
+            <head>VSEBINA</head>
+            <list type="simple">
+               <head>ZBOR ZDRUŽENEGA DELA SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE</head>
+            <head>(1. seja - 7. maj 1986)</head>
+            <item><list type="ordered">
+                  <head>PRED DNEVNIM REDOM: STRAN</head>
+               <item n="1">Izvolitev predsednika in članov Komisije za verifikacijo pooblastil in imunitetna vprašanja 1</item>
+               <item n="2">Poročilo komisije za verifikacijo pooblastil in imunitetna vprašanja 2<list type="simple">
+                  <head>GOVORNICA:</head>
+                  <item>Jelka Rainer 2</item>
+               </list></item>
+               <item n="3">Določitev dnevnega reda 2</item>
+            </list>
+            </item>
+               <item><list type="ordered">
+                  <head>DNEVNI RED:</head>
+               <item n="1">Izvolitev predsednika in podpredsednika Zbora združenega dela Skupščine SRS (1. točka dnevnega reda) 4<list type="simple">
+                  <head>GOVORNIK:</head>
+                  <item>Slavko Osredkar 4</item>
+               </list></item>
+               <item n="2">Imenovanje sekretarja Zbora združenega dela Skupščine SRS (2. točka dnevnega reda) 7</item>
+               <item n="3">Izvolitev predsednika, podpredsednika in članov Komisije Skupščine SR Slovenije za volitve, imenovanja in administrativne zadeve (3. točka dnevnega reda) 8<list type="simple">
+                  <head>GOVORNICA:</head>
+                  <item>Jelka Rainer 8</item>
+               </list></item>
+               <item n="4">Izvolitev predsednika, podpredsednika in članov Zakonodajno-pravne komisije Skupščine SR Slovenje (8. točka dnevnega reda) 8</item>
+               <item n="5">Predlog odloka o ustanovitvi, nalog in sestavi delovnih teles Zbora združenega dela Skupščine SR Slovenije (9. točka dnevnega reda) 9</item>
+               <item n="6">Predlog sklepa o ustanovitvi, nalogah in sestavi Skupščine delegatov vseh zborov za spremljanje uresničevanja planskih aktov (10. točka dnevnega reda) 9</item>
+               <item n="7">Predlog sklepa o ustanovitvi, nalogah in sestavi Skupine delegatov vseh zborov za proučevanje aktov iz pristojnosti zborov Skupščine SFRJ (11. točka dnevnega reda) 10</item>
+               <item n="8">Volitve in imenovanja (12. točka dnevnega reda) 10</item>
+               <item n="9">Poročilo delegacije Skupščine SR Slovenije v Zboru republik in pokrajin Skupščine SFRJ o poteku usklajevanja nekaterih aktov v Zboru republik in pokrajin Skupščine SFRJ (13. točka dnevnega reda) 11<list type="simple">
+                  <head>GOVORNIK:</head>
+                  <item>Jože Globačnik 11</item>
+               </list></item>
+               <item n="10">Informacija o pripravi periodičnega delovnega načrta Zbora združenega dela Skupščine SR Slovenije za II. in III. trimesečje 1986 (16. točka dnevnega reda) 17</item>
+               <item n="11">11.Pobude, predlogi in vprašanja delegatov (17. točka dnevnega reda) 18<list type="simple">
+                  <head>GOVORNIKA:</head>
+                  <item>Ivan Mavrič 19</item>
+                  <item>Božo Šušteršič 19</item>
+               </list></item>
+               <item n="12">Osnutek zakona o preložitvi vračanja anuitet za kredite, dane organizacijam združenega dela z ozemlja SR Črne gore in SR Makedonije iz sredstev Sklada federacije za kreditiranje hitrejšega razvoja gospodarsko manj razvitih republik in avtonomnih pokrajin, ki zapadejo januarja 1986 in predlog zakona o obveznem posojilu Slovenije v letu 1986 (14. točka dnevnega reda) 20<list type="simple">
+                  <head>GOVORNIKI:</head>
+                  <item>Bojan Šefman 20</item>
+                  <item>Rudi Šepič 21</item>
+                  <item>Miran Ocepek 23</item>
+                  <item>Viktor Ptičar 24</item>
+                  <item>Brane Lampret 24</item>
+                  <item>Rudi Šepič 25</item>
+                  <item>Emil Tomažič 25</item>
+               </list></item>
+               <item n="13">Seznam govornikov II/1</item>
+               </list>
+               </item>
+            </list>
+         </div>
+         <div>
+            <head>SEZNAM GOVORNIKOV</head>
+            <head>ZBOR ZDRUŽENEGA DELA SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE (1. seja - 7. maj 1986)</head>
+            <castList>
+               <head>GOVORNIKI: STRAN</head>
+               <castItem><actor xml:id="sp.GlobačnikJože">Globačnik Jože</actor> 11</castItem>
+               <castItem><actor xml:id="sp.LampretBrane">Lampret Brane</actor> 24</castItem>
+               <castItem><actor xml:id="sp.MavričIvan">Mavrič Ivan</actor> 19</castItem>
+               <castItem><actor xml:id="sp.OcepekMiran">Ocepek Miran</actor> 23</castItem>
+               <castItem><actor xml:id="sp.OsredkarSlavko">Osredkar Slavko</actor> 4</castItem>
+               <castItem><actor xml:id="sp.PtičarViktor">Ptičar Viktor</actor> 24</castItem>
+               <castItem><actor xml:id="sp.RainerJelka">Rainer Jelka</actor> 2, 8</castItem>
+               <castItem><actor xml:id="sp.ŠefmanBojan">Šefman Bojan</actor> 20</castItem>
+               <castItem><actor xml:id="sp.ŠepičRudi">Šepič Rudi</actor> 21, 25</castItem>
+               <castItem><actor xml:id="sp.ŠušteršičBožo">Šušteršič Božo</actor> 19</castItem>
+               <castItem><actor xml:id="sp.TomažičEmil">Tomažič Emil</actor> 25</castItem></castList>
+         </div>
+      </front>
+      <body>
+            <div>
+               <head>ZBOR ZDRUŽENEGA DELA SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE</head>
+               <div>
+                  <head>1. seja</head>
+                  <p>(7. maj 1986)</p>
+                  <p>Sejo sta vodila: Martin Mlinar, dosedanji predsednik Zbora združenega dela in Valentin Dvojmoč, predsednik Zbora združenega dela.</p>
+                  <p>Seja se je začela ob 9.00 uri.</p>
+                  <sp>
+                     <speaker>PREDSEDUJOČI MARTIN MLINAR:</speaker>
+                     <p>Tovarišice in tovariši delegati! Pričenjam 1. sejo Zbora združenega dela Skupščine SR Slovenije, ki sem jo sklical na podlagi prvega odstavka 2. člena poslovnika Zbora združenega dela in 99. člena poslovnika Skupščine SR Slovenije. Sejo zbora bom vodil do izvolitve novega predsednika in podpredsednika zbora. Pri vodenju mi pomaga tovarišica Erika Vrhunec, dosedanja sekretarka Zbora združenega dela Skupščine SR Slovenije.</p>
+                     <p>V smislu 12. člena poslovnika Zbora združenega dela moramo pred prehodom na dnevni red izmed delegatov v zboru izvoliti predsednika in člane Komisije za verifikacijo pooblastil in imunitetna vprašanja, ki bo pregledala pooblastila delegatov in sestavila poročilo za zbor.</p>
+                     <p>Predlagam, da v Komisijo za verifikacijo pooblastil in imunitetna vprašanja izvolimo naslednje delegate: za predsednika tovarišico Jelko Rainer, za člana pa tovariša Franca Gogalo in Branka Miheliča.</p>
+                     <p>Ali so predlagani delegati navzoči? (Da.) Želi morda o tem predlogu kdo razpravljati? (Nihče.) Če ne, prosim, da o predlogu glasujete.</p>
+                     <p>Kdo je za predlog? (141 delegatov.) Je kdo proti? (Nihče.) Se je kdo vzdržal? (Nihče.)</p>
+                     <p>Ugotavljam, da so v Komisijo za verifikacijo pooblastil in imunitetna vprašanja soglasno izvoljeni: za predsednika tovarišica Jelka Rainer, za člana pa tovariša Franc Gogala in Branko Mihelič.</p>
+                     <p>Prosim predsednika in člane komisije, da se sestanejo, pregledajo pooblastila in sestavijo poročilo za zbor. Ker bo komisija hitro opravila svoje delo, prosim delegate, da ostanejo v dvorani.</p>
+                     <p>Obveščam zbor, da so na današnjo sejo zbora vabljeni predstavniki Republiškega sveta Zveze sindikatov Slovenije, Gospodarske zbornice Slovenije in člani delegacije Skupščine SR Slovenije v Zboru republik in pokrajin Skupščine SFR Jugoslavije.</p>
+                     <p>Hkrati vas obveščam, da ste dobili danes na klop tudi nekaj dodatnega gradiva, ki ga v tem času, ko Komisija za verifikacijo pooblastil pripravlja poročilo, prosim, preglejte.</p>
+                     <p>Med gradivi ste prejeli tudi predlog dnevnega reda današnje seje. V zvezi z današnjo sejo ste prejeli pisno obvestilo, v katerem je obrazložen potek seje. Če se kdo želi prijaviti za razpravo k današnjemu dnevnemu redu, to je predvsem od 13. točke dalje, naj, prosim, to stori na posebni, za ta namen pripravljeni prijavnici.</p>
+                     <p>Komisija za verifikacijo je končala z delom in prosim predsednico, da poroča zboru.</p>
+                  </sp>
+                  <sp>
+                     <speaker>JELKA RAINER:</speaker>
+                     <p>Zbor združenega dela šteje 150 delegatov. Verifikacijska komisija ugotavlja, da je predložilo delegatska pooblastila 146 delegatov, in sicer: iz gospodarstva 94 delegatov, s prosvetno-kulturnega področja 13 delegatov, socialno zdravstvenega področja 13 delegatov, iz kmetijskega področja 16 delegatov, iz obrtnega področja 4 delegati, s področja državnih organov, družbenopolitičnih organizacij in društev 5 delegatov, s področja oboroženih sil 1 delegat.</p>
+                     <p>Na današnji seji niso navzoči delegati iz naslednjih področij in okolišev: gospodarsko področje - 25. okoliš, 1 delegat, kmetijsko področje - 9. okoliš, 2 delegata, obrtno področje - 1. okoliš, 1 delegat.</p>
+                     <p>Na današnji seji torej niso navzoči 4 delegati.</p>
+                     <p>Pooblastila so v skladu z ustavo in zakoni.</p>
+                  </sp>
+                  <sp>
+                     <speaker>PREDSEDUJOČI MARTIN MLINAR:</speaker>
+                     <p>Hvala lepa. Želi o poročilu komisije kdo razpravljati? (Nihče.) Če ne želi nihče, zaključujem razpravo. O poročilu bomo glasovali v celoti, ker je iz poročila razvidno, da so vsa pooblastila v skladu z ustavo in zakoni in nobeno pooblastilo ni sporno.</p>
+                     <p>Kdo je za poročilo? (146 delegatov.) Je kdo proti? (Nihče.) Se je kdo vzdržal? (Nihče.)</p>
+                     <p>Ugotavljam, da je zbor soglasno sprejel poročilo Komisije za verifikacijo pooblastil in imunitetna vprašanja ter s tem verificiral pooblastila delegatov za 1. sejo Zbora združenega dela.</p>
+                     <p>S tem ugotavljam, da je zbor sklepčen in da lahko veljavno odloča, ker je na seji navzoča večina delegatov.</p>
+                     <p>Pred določitvijo dnevnega reda se je potrebno opredeli ti o naslednjem. Izvršni svet Skupščine SR Slovenije je predlagal, da Skupščina SR Slovenije predlog zakona o obveznem posojilu SR Slovenije v letu 1986 sprejme na podlagi 314. in 315. člena poslovnika Skupščine SR Slovenije, to je po hitrem postopku. Razlogi so bili navedeni v spremnem pismu k zakonu.</p>
+                     <p>Želi v zvezi s tem predlogom Izvršnega sveta Skupščine SR Slovenije kdo razpravljati? (Nihče.) Če ne želi nihče, potem zaključujem razpravo in dajem predlog Izvršnega sveta Skupščine SR Slovenije na glasovanje.</p>
+                     <p>Kdo je za predlog Izvršnega sveta Skupščine SR Sloveni je, da se zakon sprejme po hitrem postopku? (129 delegatov.) Je kdo proti? (3 delegati.) Se je kdo vzdržal? (4 delegati.)</p>
+                     <p>Ugotavljam, da je zbor z večino glasov sprejel predlog Izvršnega sveta Skupščine SR Slovenije, da se zakon obravnava po hitrem postopku.</p>
+                     <p>Komisija za volitve, imenovanja in administrativne zadeve je predložila predlog odloka o razrešitvi namestnika predsednika Republiškega komiteja za varstvo okolja in urejanje<pb/> prostora in o imenovanju namestnikov republiških sekretarjev in predsednikov republiških komitejev, zato predlagam, da predlog dnevnega reda razširimo tudi s točko volitve in imenovanja.</p>
+                     <p>Želi v zvezi s tem predlogom za razširitev dnevnega reda kdo razpravljati? (Nihče.) Če ne želi nihče, potem zaključujem razpravo in dajem predlog na glasovanje.</p>
+                     <p>Kdo je za? (145 delegatov.) Je kdo proti? (Nihče.) Se je kdo vzdržal? (Nihče.)</p>
+                     <p>Ugotavljam, da zbor soglasno sprejema predlagano razširitev dnevnega reda.</p>
+                     <p>Glede na navedeno predlagam zboru, da na podlagi 18. člena poslovnika Zbora združenega dela za današnjo sejo sprejme naslednji dnevni red:</p>
+                     <p>1. Izvolitev predsednika in podpredsednika Zbora združenega dela Skupščine SR Slovenije</p>
+                     <p>2.Imenovanje sekretarja Zbora združenega dela Skupščine SR Slovenije</p>
+                     <p>3.Izvolitev predsednika, podpredsednika in članov Komisije Skupščine SR Slovenije za volitve, imenovanja in administrativne zadeve</p>
+                     <p>4. Izvolitev predsednika in podpredsednikov Skupščine SR Slovenije</p>
+                     <p>5. Imenovanje generalnega sekretarja Skupščine SR Slovenije in namestnika generalnega sekretarja</p>
+                     <p>6. Izvolitev predsednika Izvršnega sveta Skupščine SR Slovenije</p>
+                     <p>7. Izvolitev podpredsednikov in članov Izvršnega sveta Skupščine SR Slovenije ter imenovanje republiških sekretarjev in predsednikov republiških komitejev</p>
+                     <p>8. Izvolitev predsednika, podpredsednika in članov Zakonodajno-pravne komisije Skupščine SR Slovenije</p>
+                     <p>9. Predlog odloka o ustanovitvi, nalogah in sestavi delovnih teles Zbora združenega dela Skupščine SR Slovenije</p>
+                     <p>10. Predlog sklepa o ustanovitvi, nalogah in sestavi skupine delegatov vseh zborov za spremljanje uresničevanja planskih aktov</p>
+                     <p>11. Predlog sklepa o ustanovitvi, nalogah in sestavi skupine delegatov vseh zborov za proučevanje aktov iz pristojnosti zborov Skupščine SR Slovenije</p>
+                     <p>12. Volitve in imenovanja</p>
+                     <p>13. Poročilo delegacije Skupščine SR Slovenije v Zboru republik in pokrajin Skupščine SFR Jugoslavije o poteku usklajevanja nekaterih aktov v Zboru republik in pokrajin Skupščine SFR Jugoslavije</p>
+                     <p>14. a) Osnutek zakona o preložitvi vračanja anuitet za kredite, dane organizacijam združenega dela z ozemlja SR Črne gore in SR Makedonije iz sredstev Sklada federacije za kreditira nje hitrejšega razvoja gospodarsko manj razvitih republik in avtonomnih pokrajin, ki zapadejo 1. januarja 1986</p>
+                     <p>b) predlog zakona o obveznem posojilu SR Sloveniji v letu 1986</p>
+                     <p>15. Osnutek zakona o spremembah in dopolnitvah zakona o določitvi prihodkov federacije, ki se v letu 1986 uporabljajo za pospeševanje zunanjetrgovinskih odnosov s tujino</p>
+                  <pb/>
+                     <p>16. Informacija o pripravi periodičnega delovnega načrta Zbora združenega dela Skupščine SR Slovenije za II. In III. trimesečje 1986</p>
+                     <p>17. Pobude, predlogi in vprašanja delegatov.</p>
+                     <p>Želi o predlaganem dnevnem redu kdo razpravljati? (Nihče.) Če ne želi nihče, potem zaključujem razpravo in prehajamo na glasovanje. Na glasovanje dajem predlagani dnevni red.</p>
+                     <p>Kdo je za? (144 delegatov.) Je kdo proti? (Nihče.) Se je kdo vzdržal? (Nihče.)</p>
+                     <p>Ugotavljam, da je predlagani dnevni red za današnjo sejo soglasno sprejet.</p>
+                     <p>Prehajamo na 1. TOČKO DNEVNEGA REDA - IZVOLITEV PREDSEDNIKA IN PODPREDSEDNIKA ZBORA ZDRUŽENEGA DELA SKUPŠČINE SR SLOVENIJE. Predlog Republiške konference Socialistične zveze delovnega ljudstva Slovenije, s katerim predlaga, da se za predsednika zbora izvoli tovariš Valentin Dvojmoč ste prejeli. Prejeli ste tudi predlog odloka o izvolitvi predsednika in podpredsednika Zbora združenega dela Skupščine SR Slovenije. Prosim predstavnika Republiške konference Socialistične zveze delovnega ljudstva Slovenije, da poda obrazložitev predloga za predsednika in podpredsednika Zbora združenega dela.</p>
+                     <p>Besedo ima tovariš Slavko Osredkar, član Izvršnega odbora Predsedstva Republiške konference Socialistične zveze delovnega ljudstva Slovenije. Prosim.</p>
+                  </sp>
+                  <sp>
+                     <speaker>SLAVKO OSREDKAR:</speaker>
+                     <p>Tovarišice in tovariši delegati. Republiška konferenca Socialistične zveze delovnega ljudstva Slovenije je v skladu s svojo družbeno vlogo in s posebej opre deljeno nalogo pri določanju in izvajanju kadrovske politike, opravila kandidacijski postopek za najodgovornejše delegatske dolžnosti v Skupščini SR Slovenije.</p>
+                     <p>V okviru tega postopka je Predsedstvo Republiške konference Socialistične zveze po opravljenem usklajevalnem postopku oblikovalo predlog možnih kandidatov tudi za predsednika Zbora združenega dela republiške Skupščine. Pri oblikovanju tega predloga je Predsedstvo uporabilo za kadrovsko izhodišče seznam evidentiranih možnih kandidatov za to delegatsko dolžnost, ki so bili tudi izvoljeni za delegate oziroma za člane temeljne delegacije v združenem delu. Upoštevalo je splošna načela kadrovske politike, ki so za nosilce najodgovornejših družbenih funkcij opredeljene v družbenem dogovoru o uresničevanju kadrovske politike v SR Sloveniji. Razen tega je Predsedstvo posebej pozorno upoštevalo tudi posebne kriterije, ki jih narekujejo specifične naloge Zbora združenega dela in iz njih izhajajoče naloge predsednika zbora.</p>
+                     <p>Nenazadnje je Predsedstvo upoštevalo tudi zahtevnost sedanjega časa, ki še bolj kot doslej narekuje, da so predlagani kandidati za najodgovornejše delegatske dolžnosti s svojim dosedanjim delom dokazali, da so dosledni borci za uveljavljanje programa dolgoročnih ciljev gospodarske stabilizacije in za utrjevanje političnega sistema socialističnega samoupravljanja. Kandidati morajo biti sposobni in pripravljeni si prizadevati, da se po poti demokratičnega soočanja različnih interesov doseže<pb/>dogovor, ki bo v največji možni meri prispeval k uresničitvi dolgoročnih strateških ciljev razvoja naše skupnosti.</p>
+                     <p>Predlog možnih kandidatov je Predsedstvo posredovalo v razpravo kandidacijskim konferencam v občinah in posebnim družbenopolitičnim skupnostim, to je mestu Ljubljana, Maribor in Obalni skupnosti. Navedene kandidacijske konference so o predlogu razpravljale in oblikovale mnenje, s katerim so izrazile podporo predlogu možnih kandidatov.</p>
+                     <p>Upoštevajoč mnenja oziroma podporo kandidacijskih konferenc je prva republiška kandidacijska konferenca na predlog Predsedstva Republiške konference Socialistične zveze določila kandidata za predsednika Zbora združenega dela, in sicer tovariša Valentina Dvojmoča, rojenega leta 1942, po poklicu je diplomirani ekonomist, ki je opravljal dosedaj odgovorne dolžnosti v združenem delu, bil pa je tudi predsednik občinske skupščine, v zadnjem mandatnem obdobju pa je opravljal dolžnost sekretarja Medobčinskega sveta Zveze komunistov Slovenije za Posavje.</p>
+                     <p>Koordinacijski odbor za kadrovska vprašanja pri Predsedstvu Republiške konference Socialistične zveze je v skladu z določili volilnega pravilnika opravil tudi kandidacijski postopek za podpredsednika Zbora združenega dela. Po opravljenem postopku usklajevanja, v katerem so sodelovali tudi predsedniki medobčinskih svetov Socialistične zveze in preko njih tudi predsedniki občinskih konferenc Socialistične zveze, je koordinacijski odbor oblikoval predlog, da delegati Zbora združenega dela republiške skupščine izvolite za podpredsednika zbora tovariša Franca Jelena, rojenega leta 1954 po poklicu diplomirani ekonomist, zaposlen v Sestavljeni organizaciji združenega dela Hmezad Žalec.</p>
+                     <p>Koordinacijski odbor za kadrovska vprašanja je enotno ocenil, da kandidat ustreza vsem načelom in kriterijem kadrovske politike ter je prepričan, da bo lahko uspešno opravljal to dolžnost. Zato predlagamo v imenu koordinacijskega odbora, da ga izvolite za podpredsednika.</p>
+                     <p>V imenu prve republiške koordinacijske konference pa predlagam, da za predsednika zbora izvolite tovariša Dvojmoča.</p>
+                  </sp>
+                  <sp>
+                     <speaker>PREDSEDUJOČI MARTIN MLINAR:</speaker>
+                     <p>Hvala. Želi morda kdo o predlogu, ki ga je podal tovariš Osredkar razpravljati? (Nihče.) Če ne želi nihče razpravljati, potem zaključujem razpravo in prehajamo na glasovanje.</p>
+                     <p>Glasovanje je na podlagi poslovnika Skupščine tajno. Predlagam, da zbor izvoli dva delegata, ki mu bosta pomagala pri izvedbi volitev. In sicer predlagam tovariša Vinka Keržana in tovariša Žarka Okorna. Ima morda kdo kakšen drugačen predlog? (Ne.) Če nima, potem dajem ta predlog na glasovanje.</p>
+                     <p>Kdo je za? (146 delegatov.) Je kdo proti? (Nihče.) Se je kdo vzdržal? (Nihče.)</p>
+                     <p>Ugotavljam, da je zbor soglasno izvolil predlagana kandidata za pomoč pri izvedbi volitev. Prosim imenovana delegata, da prideta za predsedniško mizo in da zavzameta svoje mesto.</p>
+                     <p>Strokovno službo pa prosim, da pripravi vse potrebno za glasovanje, ki bo potekalo po naslednjem postopku. Vsak delegat naj se javi pri glasovalni mizi, kjer bo njegova udeležba pri volitvah označena v volilnem imeniku in kjer bo dobil glasovnico.</p>
+                  <pb/>
+                     <p>Ena glasovalna miza je za delegate, katerih priimki se začno s črko A do L, druga pa za delegate s priimki, ki se začno s črko M do Ž. Za kandidata se glasuje tako, da se obkroži številka pred njegovim imenom.</p>
+                     <p>Je morda potrebno še kakšno pojasnilo v zvezi z izvedbo volitev? (Ne.)</p>
+                  </sp>
+                  <stage>(Seja je bila nato zaradi izvedbe volitev prekinjena ob 9.30 uri in se je nadaljevala po volitvah ob 9.45 uri.)</stage>
+                  <sp>
+                     <speaker>PREDSEDUJOČI MARTIN MLINAR:</speaker>
+                     <p>Ugotavljam, da so vsi navzoči delegati volili in odrejam 15 minutni odmor za ugotovitev volilnega izida. Delegate prosim, da ne zapuščate dvorane, ker bo volilna komisija hitro preštela glasove.</p>
+                  </sp>
+                  <stage>(Seja je bila prekinjena ob 9.30 uri in se je nadalje vala ob 9.45 uri.)</stage>
+                  <sp>
+                     <speaker>PREDSEDUJOČI MARTIN MLINAR:</speaker>
+                     <p>Tovarišice in tovariši delegati! Nadaljujemo sejo zbora.</p>
+                     <p>Izid volitev za predsednika in podpredsednika zbora je naslednji :</p>
+                     <p>Zbor združenega dela šteje 150 delegatov, na seji je navzočih 146 delegatov. Za predsednika zbora je bilo oddanih 146 glasovnic. Za kandidata je glasovalo 142 delegatov, proti so glasovali 4 delegati, neveljavnih glasovnic ni bilo.</p>
+                     <p>Ker je za kandidata za predsednika zbora glasovala večina vseh delegatov v zboru, ugotavljam, da je v skladu s prvim odstavkom 354. člena poslovnika Skupščine za predsednika Zbora združenega dela izvoljen Valentin Dvojmoč.</p>
+                     <p>Za podpredsednika zbora je bilo oddanih 146 glasovnic. Za kandidata je glasovalo 144 delegatov, proti sta glasovala 2 delegata, neveljavnih glasovnic ni bilo.</p>
+                     <p>Ker je za kandidata za podpredsednika zbora glasovala večina vseh delegatov v zboru, ugotavljam, da je v skladu s prvim odstavkom 354. člena poslovnika Skupščine za podpredsednika Zbora združenega dela Skupščine SR Slovenije izvoljen Franc Jelen.</p>
+                     <p>Odlok o izvolitvi predsednika in podpredsednika Zbora združenega dela bo objavljen v Uradnem listu SR Slovenije.</p>
+                     <p>V smislu 434. člena ustave SR Slovenije in 372. člena poslovnika Skupščine SR Slovenije prosim tovariša Valentina Dvojmoča in tovariša Franca Jelena, da pristopita k predsedniški mizi, kjer bosta podala slovesni izjavi, in sicer tako, da bosta podpisala besedilo slovesne izjave, ki ga bom sedaj prebral:</p>
+                     <p>"Izjavljam, da bom svojo dolžnost opravljal vestno in odgovorno, da bom delal po ustavi in zakonih ter da bom varoval družbeni red Socialistične federativne republike Jugoslavije. Z vsemi svojimi močmi se bom boril za razvoj socialističnih samo upravnih odnosov, za oblast delavskega razreda in uresničevanje skupnih interesov delovnih ljudi in občanov ter za napredek in razvoj Socialistične republike Slovenije in Socialistične federativne republike Jugoslavije."</p>
+                     <p>Prosim tovariša Valentina Dvojmoča in Franca Jelena, da podpišeta slovesni izjavi. (Ploskanje.)</p>
+                  <pb/>
+                     <p>Tovarišu Valentinu Dvojmoču in tovarišu Francu Jelenu čestitam v imenu vseh delegatov in v svojem imenu in jima želim veliko uspeha pri upravljanju njune odgovorne in pomembne dolžnosti.</p>
+                     <p>Prosim tovariša Valentina Dvojmoča in tovariša Franca Jelena, da prevzameta vodenje seje.</p>
+                  </sp>
+                  <sp>
+                     <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                     <p>Tovarišice delegatke, tovariši delegati! Zahvaljujem se vam v imenu izvoljenega pod predsednika tovariša Franca Jelena in v svojem imenu za zaupanje, ki ste ga izkazali z izvolitvijo.</p>
+                     <p>Odgovorna situacija, ki je pred Zborom združenega dela 4. delegatskega mandata nam nalaga številne zadolžitve. Poseben poudarek bomo morali dati še nadaljnjemu izvrševanju dolgoročne stabilizacije. Ne število, temveč kvaliteta predpisov, ki jih bomo sprejemali v tem mandatnem obdobju, bodo morali biti usmerjeni v krepitev družbene zasnove dela in krepitev vloge in odgovornosti delavca samoupravljavca v neposrednih delovnih sredinah. V okviru Kritične analize delovanja političnega sistema socialističnega samoupravljanja se bomo zavzemali na osnovi sprejetih resolucijskih dokumentov minulih kongresov za okrepljeno vlogo in položaj Zbora združenega dela v okviru celotnega delovanja delegatskega skupščinskega sistema. Prepričan sem, da se vsi, ki smo izvoljeni kot delegati v naš zbor združenega dela zavedamo dolžnosti, ki so nam jo z izvolitvijo naložili naši sodelavci. Skrbeli bomo za neposredno povezavo in informiranost svoje delegatske baze. Na osnovi demokratične izmenjave mnenj pa bomo sprejemali takšne akte, ki bodo uresničevali dogovorjene resolucijske cilje.</p>
+                     <p>Ob zaključku mi še dovolite, da se v imenu nas vseh zahvalim delegatom preteklega mandatnega obdobja za vloženo delo, še posebej pa dosedanjemu predsedniku Zbora združenega dela tovarišu Martinu Mlinarju za prizadevno vodenje zbora. Vsem še naprej želimo veliko delovnih uspehov na delovnih opravilih in funkcijah, ki jih bodo opravljali. Hvala lepa. (Ploskanje.)</p>
+                     <p>Prehajamo na 2. TOČKO DNEVNEGA REDA - IMENOVANJE SEKRETARJA ZBORA ZDRUŽENEGA DELA SKUPŠČINE SR SLOVENIJE.</p>
+                     <p>Predlog odloka o imenovanju sekretarke zbora je dala Komisija za volitve, imenovanja in administrativne zadeve. Ta predlog ste dobili na klop. Za sekretarko zbora je predlagana tovarišica Ana Repanšek, diplomirana ekonomistka, dosedanja sekretarka Družbenopolitičnega zbora Skupščine SR Slovenije.</p>
+                     <p>Želi o predlogu tega odloka kdo razpravljati? (Ne.) Če ne želi nihče, potem prehajamo na glasovanje.</p>
+                     <p>Kdo je za predlog odloka? (145 delegatov.) Je kdo proti? (Nihče.) Se je kdo vzdržal? (Nihče.)</p>
+                     <p>Ugotavljam, da je zbor soglasno imenoval za sekretarko Zbora združenega dela tovarišico Ano Repanšek, ki ji v svojem in vašem imenu k izvolitvi čestitam.</p>
+                     <p>Hkrati bi se želel zahvaliti dosedanji sekretarki zbora tovarišici Eriki Vrhunec, ki je dve mandatni obdobji vestno in uspešno opravljala to funkcijo. Tovarišica Erika, hvala lepa. (Ploskanje.)</p>
+                  <pb/>
+                     <p>Prehajamo na 3. TOČKO DNEVNEGA REDA - IZVOLITEV PRED SEDNIKA, PODPREDSEDNIKA IN ČLANOV KOMISIJE SKUPŠČINE SR SLOVENIJE ZA VOLITVE, IMENOVANJA IN ADMINISTRATIVNE ZADEVE. Predlog odloka, ki ga je pripravila dosedanja Komisija za volitve, imenovana in administrativne zadeve, ste prejeli.</p>
+                     <p>Želi morda predstavnik komisije predlog odloka še ustno obrazložiti? (Ne.)</p>
+                     <p>Pričenjam razpravo o predlogu odloka. Želi kdo besedo? (Ne.) Ker ne želi nihče razpravljati, zaključujem razpravo in dajem predlog odloka o izvolitvi predsednika, podpredsednika in članov Komisije Skupščine SR Slovenije za volitve, imenovanja in administrativne zadeve na glasovanje.</p>
+                     <p>Kdo je za ta odlok? (143 delegatov.) Je kdo proti? (1 delegat.) Se je kdo vzdržal? (Nihče.)</p>
+                     <p>Ugotavljam, da je predlog sprejet z večino glasov.</p>
+                     <p>S tem so v Komisijo za volitve, imenovanja in administrativne zadeve Skupščine SR Slovenije izvoljeni: Ivan Godec, Ivanka Šulgaj, Tone Anderlič, Helga Brodnik, Alojz Jožef, Rudi Petan, Slavko Osredkar, Emil Štern, Tomaž Tušar, Maks Verčko, Mihael Žilavc in Jadran Pišot.</p>
+                     <p>Ker je en delegat prišel še dodatno, prosim, da predsednica Komisije za verifikacijo pooblastil poda novo poročilo.</p>
+                  </sp>
+                  <sp>
+                     <speaker>JELKA RAINER:</speaker>
+                     <p>Komisija za verifikacijo pooblastil in imunitetna vprašanja ugotavlja, da je pozneje prišel Slavko Kovačevič, z gospodarskega področja, 25. okoliš, Novo mesto. Po novem je navzočih 147 delegatov, odsotni so 3 delegati.</p>
+                  </sp>
+                  <sp>
+                     <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                     <p>Hvala lepa. Ima kdo kakšno pripombo k dodatnemu poročilu? (Ne.) Se je kdo vzdržal? (1 delegat.)</p>
+                     <p>Ugotavljam, da je dopolnitev poročila verifikacijske komisije sprejeta z večino glasov.</p>
+                     <p>S tem prekinjam sejo Zbora združenega dela. Sejo bomo nadaljevali na skupnem zasedanju z Zborom občin in Družbenopolitičnim zborom v tej dvorani. Zato prosim, da ostanete na svojih mestih.</p>
+                  </sp>
+                  <stage>(Seja je bila prekinjena ob 10.00 uri in se je nadalje vala ob 14.55 uri.)</stage>
+                  <sp>
+                     <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                     <p>Tovarišice in tovariši! Nadaljujemo sejo zbora.</p>
+                     <p>Prehajamo na 8. TOČKO DNEVNEGA REDA - IZVOLITEV PRED SEDNIKA, PODPREDSEDNIKA IN ČLANOV ZAKONODAJNO-PRAVNE KOMISIJE SKUPŠČINE SR SLOVENIJE. Predlog odloka, ki ste ga prejeli danes, je pripravila Komisija za volitve, imenovanja in administrativne zadeve Skupščine SR Slovenije. Želi morda predstavnik komisije besedo? (Ne.)</p>
+                     <p>Pričenjam razpravo o predlogu odloka. Kdo želi besedo? (Nihče.) Ker ne želi nihče razpravljati, zaključujem razpravo in dajem predlog odloka o izvolitvi predsednika, podpredsednika in<pb/>članov Zakonodajno-pravne komisije Skupščine SR Slovenije na glasovanje.</p>
+                     <p>Kdo je za? (140 delegatov.) Je kdo proti? (Nihče.) Se je kdo vzdržal? (Nihče.)</p>
+                     <p>Ugotavljam, da je predlog odloka soglasno sprejet. S tem so v Zakonodajno-pravno komisijo Skupščine SR Slovenije izvoljeni za predsednika Tone Jerovšek, za podpredsednika Marjan Kotar, za člane Peter Marinkovič, Marjana Koren, Miran Ocepek, dr. Bogomir Sajovic, Dušan Semolič, Ivko Spetič, Marjan Markovič, dr. Franc Arhar, dr. Marko Ilešič, Tit Stanovnik in Ivan Žužek.</p>
+                     <p>Prehajamo na 9. TOČKO DNEVNEGA REDA - PREDLOG ODLOKA O USTANOVITVI, NALOGAH IN SESTAVI DELOVNIH TELES ZBORA ZDRUŽENEGA DELA SKUPŠČINE SR SLOVENIJE. Predlog odloka ste prejeli.</p>
+                     <p>Pričenjam razpravo o predlogu odloka. Želi kdo besedo? (Nihče.) Ker ne želi nihče razpravljati, zaključujem razpravo in prehajamo na glasovanje. Na glasovanje dajem predlog odloka o ustanovitvi, nalogah in sestavi delovnih teles Zbora združenega dela Skupščine SR Slovenije.</p>
+                     <p>Kdo je za? (141 delegatov.) Je kdo proti? (Nihče.) Se je kdo vzdržal? (Nihče.)</p>
+                     <p>Ugotavljam, da je predlog odloka soglasno sprejet.</p>
+                     <p>Prehajamo na 10. TOČKO DNEVNEGA REDA - PREDLOG SKLEPA O USTANOVITVI, NALOGAH IN SESTAVI SKUPINE DELEGATOV VSEH ZBOROV ZA SPREMLJANJE URESNIČEVANJA PLANSKIH AKTOV.</p>
+                     <p>Komisija za volitve, imenovanja in administrativne zadeve je pripravila predlog sklepa, ki ste ga prejeli. Danes ste prejeli dopolnitev k 3. točki sklepa in predlog odloka o izvolit predsednika, podpredsednika in članov skupine delegatov.</p>
+                     <p>Želi morda predstavnik komisije besedo? (Ne želi.) Želi o predlogu sklepa z dopolnitvijo in predlogu odloka kdo razpravljati? (Nihče.) Če ne želi nihče razpravljati, prehajamo na glasovanje. Na glasovanje dajem predlog sklepa o ustanovitvi, nalogah in sestavi skupine delegatov vseh zborov za spremljanje uresničevanja planskih aktov, skupaj s predlagano dopolnitvijo.</p>
+                     <p>Kdo je za? (140 delegatov.) Je kdo proti? (Nihče.) Se je kdo vzdržal? (Nihče.)</p>
+                     <p>Ugotavljam, da je predlog sklepa z dopolnitvijo soglasno sprejet.</p>
+                     <p>Prehajamo na glasovanje o predlogu odloka o izvolitvi predsednika, podpredsednika in članov skupine delegatov vseh zborov za spremljanje uresničevanja planskih aktov.</p>
+                     <p>Kdo je za predlog odloka? (138 delegatov.) Je kdo Proti? (1 delegat.) Se je kdo vzdržal? (Nihče.)</p>
+                     <p>Ugotavljam, da je predlog odloka sprejet z večino glasov. S tem so bili v skupino delegatov izvoljeni za predsednika Valentin Dvojmoč, za podpredsednika Jože Korinšek, za člane Silva Bauman-Čenčič, Janez Bratkovič, Željko Cigler, Mitja Jenko, Štefan Kadoič, Janez Kocijančič, Jože Krašovec, Franjo Križmančič, Jože Marolt, Igor Požar, Živko Pregel, Darinka Smrke in Jože Turnšek.</p>
+                  <pb/>
+                     <p>Prehajamo na 11. TOČKO DNEVNEGA REDA - PREDLOG SKLEPA O USTANOVITVI, NALOGAH IN SESTAVI SKUPINE DELEGATOV VSEH ZBOROV ZA PROUČEVANJE AKTOV IZ PRISTOJNOSTI ZBOROV SKUPŠČINE SFR JUGOSLAVI JE. Predlog sklepa je pripravila Komisija za volitve, imenovanja in administrativne zadeve in ste ga prejeli. Danes ste prejeli še dopolnitev k 3. točki sklepa in predlog odloka o izvolitvi predsednika, podpredsednika in članov skupine delegatov vseh zborov za proučevanje aktov iz pristojnosti zborov Skupščine SFR Jugoslavije.</p>
+                     <p>Želi morda predstavnik komisije besedo? (Ne želi.) Želi o predlogu sklepa z dopolnitvijo in predlogom odloka kdo razpravljati? (Nihče.) Če ne želi nihče razpravljati, prehajamo na glasovanje. Na glasovanje dajem predlog sklepa o ustanovitvi, nalogah in sestavi skupine delegatov vseh zborov za proučevanje aktov iz pristojnosti zborov Skupščine SFR Jugoslavije skupaj s predlagano dopolnitvijo.</p>
+                     <p>Kdo je za? (140 delegatov.) Je kdo proti? (Nihče.) Se je kdo vzdržal? (Nihče.)</p>
+                     <p>Ugotavljam, da je predlog sklepa z dopolnitvijo soglasno sprejet.</p>
+                     <p>Prehajamo na glasovanje o predlogu odloka o izvolitvi predsednika, podpredsednika in članov skupine delegatov vseh zborov za proučevanje aktov iz pristojnosti zborov Skupščine SFR Jugoslavije.</p>
+                     <p>Kdo je za predlog odloka? (140 delegatov.) Je kdo proti? (Nihče.) Se je kdo vzdržal? (1 delegat.)</p>
+                     <p>Ugotavljam, da je predlog odloka sprejet z večino glasov.</p>
+                     <p>S tem so bili v skupino delegatov izvoljeni: za predsednika Jože Knez, za podpredsednika Martin Mlinar, za člane Andrej Božič, Janez Drnovšek, Franc Gerbec, Duša Haložan-Sedej, Franc Hribar, Igor Kadunc, Vlado Klemenčič, Jože Matjašec, Rado Roter, Bojan Šefman, Janez Šinkovec, Jože Šumelj in Ivan Vitežnik.</p>
+                     <p>Prehajamo na 12. TOČKO DNEVNEGA REDA — VOLITVE IN IMENOVANJA. Komisija za volitve, imenovanja in administrativne zadeve je predložila predlog odloka o razrešitvi namestnika predsednika Republiškega komiteja za varstvo okolja in urejanje prostora in o imenovanju namestnikov republiških sekretarjev in Predsednikov republiških komitejev, ki ste ga prejeli danes na klop.</p>
+                     <p>Želi o predlogu odloka kdo razpravljati? (Nihče.) Če ne želi nihče, prehajamo na glasovanje.</p>
+                     <p>Kdo je za predlog odloka o razrešitvi namestnika predsednika Republiškega komiteja za varstvo okolja in urejanje prostora in o imenovanju namestnikov republiških sekretarjev in predsednikov republiških komitejev? (139 delegatov.) Je kdo Proti? (Nihče.) Se je kdo vzdržal? (Nihče.)</p>
+                     <p>Ugotavljam, da je predlog odloka soglasno sprejet. S tem je dolžnosti namestnika predsednika Republiškega komiteja za Varstvo okolja in urejanje prostora razrešen Tone Oljšak. Za namestnike republiških sekretarjev pa so imenovani: Miran Bogataj - za namestnika republiškega sekretarja za ljudsko obrambo, Dore<pb/> Dovečar - za namestnika republiškega sekretarja za notranje zadeve.</p>
+                     <p>Za namestnike predsednikov republiških komitejev so imenovani: Neven Borak - za namestnika predsednika Republiškega komiteja za družbeno planiranje, Martina Djokič - za namestnico predsednika Republiškega komiteja za drobno gospodarstvo, Mirko Fabčič - za namestnika predsednika Republiškega komiteja za informiranje, Janez Krevs - za namestnika predsednika Republiške ga komiteja za mednarodno sodelovanje, Maver Jerkič - za namestnika predsednika Republiškega komiteja za varstvo okolja in urejanje prostora, Emil Milan Pintar - za namestnika predsednika Republiškega komiteja za raziskovalno dejavnost in tehnologijo, Vilibald Premrl - za namestnika predsednika Republiškega komiteja za varstvo okolja in urejanje prostora, Pavle Svete - za namestnika predsednika Republiškega komiteja za zakonodajo.</p>
+                     <p>Ponovno so imenovani: Metka Oderlap - za namestnico predsednika Republiškega komiteja za tržišče in splošne gospodarske zadeve, Saša Skulj - za namestnika predsednika Republiškega komiteja za industrijo in gradbeništvo in Jelka Žekar - za namestnico predsednika Republiškega komiteja za tržišče in splošne gospodarske zadeve.</p>
+                     <p>Prehajamo na 13. TOČKO DNEVNEGA REDA - POROČILO DELEGA CIJE SKUPŠČINE SR SLOVENIJE V ZBORU REPUBLIK IN POKRAJIN SKUPŠČI NE SFR JUGOSLAVIJE O POTEKU USKLAJEVANJA NEKATERIH AKTOV V ZBORU REPUBLIK IN POKRAJIN SKUPŠČINE SFR JUGOSLAVIJE.</p>
+                     <p>K tej točki ste prejeli naslednja gradiva: poročilo delegacije o poteku usklajevanja nekaterih aktov, ki je bilo dano na seji zbora 10. aprila 1986, osnutek zakona o zagotovitvi sredstev za regres dela stroškov iz naslova obresti za kredite za zaloge pšenice letine 1985 in sklep k osnutku zakona o spreminjanju dela kratkoročnih kreditov bank in organizacij združenega dela iz primarne emisije v dolgoročni kredit za obratna sredstva, ki ga je zbor sprejel na seji 26. marca 1986, in sklep, ki ga je zbor k osnutku zakona sprejel 10. aprila 1986, sklep k osnutku zakona o prenosu dela terjatev po bilanci deviznih rezerv pri Narodni banki Jugoslavije na federacijo brez obveznosti vračanja, ki ga je zbor sprejel na seji 11. marca 1986.</p>
+                     <p>Delegacija je predložila za današnjo obravnavo poročilo o poteku usklajevanja nekaterih aktov v Zboru republik in pokrajin Skupščine SFR Jugoslavije, hkrati pa bo o tem tudi ustno Poročala. Prosim predstavnika delegacije, da poroča zboru. Besedo ima tovariš Jože Globačnik.</p>
+                  </sp>
+                  <sp>
+                     <speaker>JOŽE GLOBAČNIK:</speaker>
+                     <p>Tovarišice in tovariši delegati! Skupščine SR Slovenije je na sejah pristojnih zborov v februarju in marcu letos obravnavala nekatere akte iz pristojnosti Zbora republik in pokrajin Skupščine SFR Jugoslavije.</p>
+                     <p>Delegacija je na seji Zbora združenega dela 10. aprila letos podala ustno in pisno poročilo o poteku usklajevanja teh aktov. Takrat je tudi obvestila, da se bo usklajevanje odloka o strategiji tehnološkega razvoja, zakona o spremembah carinske tarife in zakona o združevanju v Gospodarsko zbornico Jugoslavije začelo po 15. aprilu tega leta. S tem v zvezi lahko danes<pb/>obvestimo, da je Zvezni izvršni svet k odloku o strategiji tehnološkega razvoja poslal stališče do pripomb in predlogov vseh skupščin, na tej podlagi pa bo pripravljeno novo dopolnjeno besedilo osnutka odloka.</p>
+                     <p>Usklajevanje tega odloka se prenaša v naslednje mandat no obdobje. K spremembam zakona o carinski tarifi je Zvezni izvršni svet 22.4. letos predložil dopolnilni predlog. Glede na to, da je bilo poročilo delegacije pripravljeno prejšnji teden, pa vas danes lahko dodatno obvestim, da po proučitvi dopolnilnega predloga o spremembah carinske tarife delegacija po dogovoru z do nedavnim starim Izvršnim svetom Skupščine SR Slovenije predlaga, da jo pooblastite naj se v usklajevalnem postopku zavzame, da se takoj sprejmejo le tiste spremembe carinske tarife, ki so predlo žene na podlagi že sprejetih opredelitev v družbenem planu Jugoslavije in letošnji zvezni resoluciji.</p>
+                     <p>Te se nanašajo na opredelitev oziroma 50%-no znižanje carine pri uvozu opreme in rezervnih delov za izgradnjo objektov s samoupravnim združevanjem dela in sredstev v gospodarsko manj razvitih republikah in SAP Kosovu ter v nerazvitih občinah v Socialistični republiki Srbiji izven avtonomnih pokrajin.</p>
+                     <p>Predlaga tudi, da jo pooblastite, da v usklajevalnem postopku vztraja, da se podaljša dosedanja oprostitev carine pri uvozu reprodukcijskega materiala iz blagovnih kreditov. Za navedene rešitve naj ima delegacija tudi pooblastilo v smislu drugega odstavka 300. člena ustave SFR Jugoslavije, kar bi pomenilo, da v primeru doseženega soglasja tako usklajene delne spremembe carinske tarife Zbor republik in pokrajin lahko sprejme že 13. maja. Delo v zvezi s celovito prenovo carinske tarife se bo nadaljevalo in bo delegacija v skladu s sprejetimi pooblastili z dne 12. februarja usklajevala vse druge pripombe in predloge in zboru o tem poročala.</p>
+                     <p>Zakon o združevanju v Gospodarsko zbornico Jugoslavije je bil medtem usklajen in ga je Zbor republik in pokrajin sprejel na seji 23.4. letos. Skupščina SR Slovenije je dala soglasje k osnutku zakona, oblikovala vrsto načelnih in konkretnih pripomb ter pooblastila delegacijo, da po potrebi poroča o poteku usklajevanja in da po končanem usklajevanju da soglasje k predlogu zakona.</p>
+                     <p>Delegacija je uveljavila pripombo naj se pri prenosu javnih pooblastil na Gospodarsko zbornico Jugoslavije postopa restriktivno, da Gospodarska zbornica Jugoslavije ne sme prevzemati vloge zveznih upravnih organov in da ne sme imeti funkcije pooblaščenega predlagatelja. Uveljavila je tudi pripombo, da naj bo ena poglavitnih nalog članic v splošnih združenjih, da dajejo pobude in se sporazumevajo o skupnih programih ter pripombo, da naj se zakonsko določi možnost ponovitve 4-letnega mandata v skupščini zbornice.</p>
+                     <p>Delegacija je uspela uveljaviti pripombo, naj se podrobneje opredeli sodelovanje z gospodarskimi zbornicami republik in avtonomnih pokrajin. Določeno je, da bo vsebino in način sodelovanja določal statut zbornice. To velja tudi za naloge v enotnem informacijskem sistemu in za mehanizem sprejemanja sklepov v organih in telesih zbornice. Delegacija je s tem soglašala potem, ko je bilo doseženo soglasje, da statut zbornice<pb/>potrjuje Skupščina SFR Jugoslavije, saj je s tem uveljavljena ena od ključnih pripomb naše Skupščine.</p>
+                     <p>Potrjevanje statuta je bilo sprejeto tudi zaradi številnih opozoril vseh drugih delegacij, da utegne organiziranje Gospodarske zbornice Jugoslavije po novem zakonu povzročiti probleme v praksi, ki bi morebiti celo narekovali spremembo zakona.</p>
+                     <p>V zvezi s pripombo naj se zadrži dosedanji način financiranja predstavništev Gospodarske zbornice Jugoslavije v tujini, pa je Zbor republik in pokrajin sprejel sklep, da je treba spremeniti ustrezne določbe zakona o opravljanju prometa blaga in storitev s tujino tako, da bo dosedanji način financiranja veljal do konca leta 1986, Zvezni izvršni svet pa mora proučiti možnosti, da se organizacije združenega dela razbremeni stroškov za delovanje teh predstavništev.</p>
+                     <p>Delegacija je v skladu s sprejetimi pooblastili dala soglasje k tako usklajenemu besedilu zakona.</p>
+                     <p>Na tej seji je Zbor republik in pokrajin sprejel še zakon o zadolževanju samoupravnih interesnih skupnosti za ceste pri Mednarodni banki za obnovo in razvoj, potem ko je bilo v zvezi z vprašanji naše delegacije ugotovljeno, da bo jamstvo zagotovljeno od konzorcija domačih bank, posojila pa bremenijo kreditno garancijski potencial vseh članic konzorcija in so vključene v plačilno bilanco.</p>
+                     <p>Zbor je sprejel tudi poročilo o delu Zveznega izvršnega sveta in zbora v preteklem mandatnem obdobju, zakon o sredstvih za financiranje programa tretje etape izgradnje plovne poti po Donavi od Beograda do jugoslovansko-madžarske meje, program sodelovanja Skupščine SFR Jugoslavije s predstavniškimi telesi drugih držav za leto 1986 ter opravil volitve in imenovanja.</p>
+                     <p>Od vseh aktov, ki jih je Skupščina SR Slovenije do danes obravnavala, so ostali neusklajeni le zakon o zagotovitvi sredstev za regres dela stroškov iz naslova obresti za kredite za zaloge pšenice letine 1985, zakon o spreminjanju dela kratkoročnih kreditov bank in organizacij združenega dela iz primarne emisije v dolgoročni kredit za obratna sredstva in zakon o prenosu dela terjatev po bilanci deviznih rezerv pri Narodni banki Jugoslavije na federacijo brez obveznosti vračanja. Predvideno je, da naj bi Zbor republik in pokrajin v starem sestavu te akte sprejel na svoji zadnji seji v tem mandatu, ta seja pa je sklicana za 13.5.1986. Zato danes poročam o nadaljnjem usklajevanju teh aktov.</p>
+                     <p>1. Zakon o zagotovitvi sredstev za regres dela stroškov iz obresti za kredite za zaloge pšenice letine 1985. Delegacija je na sejah Zbora združenega dela 26.3. in 10.4. letos opozorila, da bo težko uveljavila predloge Skupščine SR Slovenije, naj se regresi zagotavljajo glede na porabo pšenice oziroma moke v posamezni republiki oziroma avtonomni pokrajini in da naj se sredstva zagotovijo iz celotnega presežka Narodne banke Jugoslavije 10 milijard dinarjev ter da v letošnje obveznosti ne morejo biti vštete neporavnane obveznosti po lanskem dogovoru.</p>
+                     <p>Vse te predloge je Skupščina opredelita kot pogoj, da delegacija lahko da soglasje k temu zakonu.</p>
+                  <pb/>
+                     <p>Vse druge skupščine so podprle zakonsko interventno rešitev. Pripombo, naj se regres zagotavlja po kriteriju porabe moke, je imela samo še Skupščina SAP Vojvodine. Pripombo, naj se sredstva ne zagotavljajo preko računa SDK pri zveznem upravnem organu, je imela še Skupščina Srbije. Sabor SR Hrvatske pa je menil, da je to že utečen mehanizem iz lanskega leta in v interesu proizvajalcev ne predlaga spremembe zgolj tehnike obračunavanja.</p>
+                     <p>V zvezi z lanskimi zaostalimi obveznostmi je Zvezni izvršni svet pojasnil, da jih nista izpolnili SR Srbija in Makedonija, ker menita, da na podlagi uporabe primarne emisije na njunih območjih ni podlage za tolikšno obveznost, vendarle je Zvezni izvršni svet to vključil v letošnje obveznosti z namenom, da se izpolnijo vsi neplačani zahtevki žitno-mlinskih organizacij, torej v interesu proizvajalca.</p>
+                     <p>V zvezi s sredstvi je Zvezni izvršni svet pojasnil, da gre za izredne in neplanirane prihodke narodnih bank republik in avtonomnih pokrajin, ki jim pripadajo iz predvidenega presežka 10 milijard dinarjev pri Narodni banki Jugoslavije po deležih obresti na koriščene kredite iz primarne emisije in jih sicer uporabljajo v skladu s predpisi republik in avtonomnih pokrajin.</p>
+                     <p>Zvezni izvršni svet zato predlaga, da se neplaniranim presežkom prihodkov posredno določi namen s tem interventnim zakonom, ki pa ga bo treba izpopolniti z ustreznimi predpisi republik in avtonomnih pokrajin.</p>
+                     <p>Delegacije Sabora SR Hrvatske, Sobranja SR Makedonije in SAP Vojvodine so na podlagi teh pojasnil Zveznega izvršnega sveta pripombe svojih skupščin umaknile z namenom, da se doseže soglasje k predloženemu zakonu.</p>
+                     <p>Tako glede na dobljena pooblastila edino naša delegacija ni smela soglašati s predloženimi rešitvami. Odbor za finance Zbora republik in pokrajin je na podlagi takega izida usklajevanja menil, naj Skupščina SR Slovenije ponovno oceni svoje stališ če. Zvezni izvršni svet in vse delegacije namreč ocenjujejo, da je sprejem navedenega zakona nujen za vsaj delno ublažitev ekonomskega položaja žitno-mlinskih organizacij, ker njihovega položaja v tem obdobju ne bi kazalo reševati predvsem z dvigovan jem cen.</p>
+                     <p>Zato je Zvezni izvršni svet tudi že napovedal možnost, da v primeru nesoglasja, predlaga Predsedstvu SFR Jugoslavije, da se ta zakon sprejme kot izreden ukrep.</p>
+                     <p>Delegacija v skladu z navedenim predlaga, da zbor na današnji seji ponovno oceni, ali je res smotrno, da naša skupščina soglasje k predloženim rešitvam za letošnje prvo polletje še naprej pogojuje, čeprav s tem soglašajo vse druge skupščine, pomenijo pa podaljšanje lanskih rešitev.</p>
+                     <p>Po dogovoru z Izvršnim svetom Skupščine SR Slovenije zato delegacija predlaga, da jo pooblastite, da v imenu Skupščine SR Slovenije da soglasje k predlogu zakona.</p>
+                     <p>2. Zakon o prenosu dela terjatev po bilanci deviznih rezerv pri Narodni banki Slovenije na federacijo brez obveznosti vračanja.</p>
+                     <p>Delegacija je na seji Zbora združenega dela 10.4.1986 Podrobno poročala o dotedanjem poteku usklajevanja in da ni bilo<pb/> doseženo soglasje niti o enem členu zakona. Poročala je tudi, da je Zvezni izvršni svet že podal v odločitev v soglasju osnutek zakona o kritju tečajnih razlik iz naslova zunanjih kreditov. Zvezni izvršni svet je v skladu s sprejetimi zadolžitvami v Odboru za kreditno monetarni sistem za nadaljnje usklajevanje 18.4. letos predložil dopolnilni predlog, v katerem je v znatno večji meri kot prej izhajal iz stališč in pripomb skupščin republik in avtonomnih pokrajin. Predložil je namreč besedilo novih štirih členov, v katerih je sprejel tudi večino predlogov naše skupščine.</p>
+                     <p>Tako bi se z zakonom predpisali pogoji in način za pokritje tečajnih razlik pri Narodni banki Jugoslavije iz tujih kreditov in depozitov na podlagi deponiranih deviznih vlog občanov in organizacij združenega dela ter po odplačilih tujih kreditov mednarodnih finančnih organizacij od 1.1.1984 do 31.12. 1985 za del, ki je bil prodan Narodni banki Jugoslavije ter za pokrivanje dela stroškov bank v zvezi z deponiranjem deviznih vlog občanov, kar je bil eden od predlogov naše skupščine, da se zadrži interes poslovnih bank za devizno varčevanje občanov.</p>
+                     <p>Upoštevan je naš predlog, da bi se bilance deviznih rezerv oziroma terjatev in obveznosti Narodne banke Jugoslavije izkazovale v dinarski vrednosti in naš predlog, da se tečajne razlike poravnajo ob zapadlosti, pri čemer negativni ali pozitiv ni saldo terjatev oziroma obveznosti pomeni obračunsko terjatev ali obveznost do federacije v tistem delu realiziranih tečajnih razlik, ki jih v posameznem letu ni mogoče pokriti iz realnih virov po predračunu deviznih rezerv Narodne banke Jugoslavije, ki ga sprejema Skupščina SFR Jugoslavije.</p>
+                     <p>Prav tako je glede virov za pokrivanje negativnih tečajnih razlik upoštevan naš predlog, da so viri proračuna federacije pozitivne tečajne razlike, obresti po kreditih na podlagi deponiranih deviz, del obresti na kredite iz primarne emisije in del primarne emisije.</p>
+                     <p>Predvideno je tudi, da se poslovnim bankam pokriva tečajne razlike iz neto zmanjšanja deviznih vlog po mesečnem stanju. Tako bistveno dopolnjene rešitve je delegacija podprla, ker so vse v skladu s sprejetimi pooblastili. Tudi vse delegacije drugih skupščin, razen delegacije Skupščine Črne gore so sprejele zakon v dopolnjenem besedilu, kot ga je predložil Zvezni izvršni svet.</p>
+                     <p>Delegacija Skupščine SR Črne gore je ponovila svoj zadržek k zakonu v celoti, ker vztraja, da se sprejme enotni Zakon o pokrivanju tečajnih razlik, iz vseh naslovov ali pa vsaj hkrati oba zakona. Delegacija Črne gore torej ni nasprotovala vsebini zakona, pač pa je vztrajala na formalni obveznosti iz letošnje resolucije, da bo predložen enotni zakon s trajnimi rešitvami._</p>
+                     <p>Odbor je na podlagi takega izida usklajevanja obvestil predsednika zbora, da ni pogojev za uskladitev zakona. Na sestanku predsedujočih delegacij je bilo ob ugotovitvi, da je ta zakona treba sprejeti, dano priporočilo delegaciji Skupščine SR Črne gore, da v svoji skupščini ponovno oceni svoje stališče, da bi bil zakon lahko sprejet na podlagi soglasja, ne pa kot izjemen ukrep.</p>
+                  <pb/>
+                     <p>Delegacija ocenjuje, da je uveljavila bistvene predloge Skupščine SR Slovenije in da lahko glasuje za sprejem zakona.</p>
+                     <p>3. Zakon o spreminjanju dela kratkoročnih kreditov bank in organizacij združenega dela iz primarne emisije v dolgoročni kredit za obratna sredstva.</p>
+                     <p>Delegacija je na seji Zbora združenega dela 10.4. letos podrobno poročala o neusklajenih stališčih in predlogih. Tudi v nadaljevanju usklajevanja soglasja k zakonu ni bilo doseženo, bilo pa je več pripravljenosti Zveznega izvršnega sveta in večine delegacij za približevanje stališč.</p>
+                     <p>Zvezni izvršni svet je od številnih predlogov za razširitev obsega konverzije pripravljen sprejeti le 100% konverzijo za organizacije združenega dela iz Črne gore in Makedonije zaradi težkega finančnega položaja v celoti s tem, da je skupni učinek tega povečanja manjši od 10 milijard dinarjev in bi bilo to sprejemljivo.</p>
+                     <p>Večina delegacij to argumentacijo Zveznega izvršnega sveta, ki je pripravljen tudi na podlagi sklepov Predsedstva CK ZK Jugoslavije in Predsedstva SFR Jugoslavije, sprejema, zaenkrat pa ji nasprotuje le delegacija Skupščine SR Bosne in Hercegovine s trditvijo, da bi se s tem položaj nerazvitih neupravičeno diferenciral. Ta delegacija bo v svoji skupščini to stališče ponovno preverila.</p>
+                     <p>V zvezi z odstopom konverzije za posamezne namene večina delegacij soglaša, da ni potrebno izenačiti konverzije za izvoz s konverzijo za kmetijstvo, ker v zadnjem času sprejeti posebni dodatni ukrepi za spodbujanje izvoza v določeni meri izboljšujejo položaj izvoznikov.</p>
+                     <p>Naša delegacija je izrazila pridržek k predlogom, da bi Skupščina lahko ponovno ocenila svoje stališče in da verjetno ne bi vztrajala na izenačitvi konverzije, če bi bil črtan kriterij stopnje pokritosti obratnih sredstev. S črtanjem tega kriterija so se pripravljene strinjati tudi vse druge delegacije in Zvezni izvršni svet pod pogojem, da se zakon uskladi. Vse druge delegacije so pripravljene umakniti predloge svojih skupščin, če vse sprejmejo in se uskladijo na predlogih Zveznega izvršnega sveta. V takem položaju bi naša delegacija glede na pooblastilo, da naj še vztraja na bistvenih pripombah, lahko sprejela argumentacijo, da izenačitev konverzije za izvoz s konverzijo za kmetijstvo ni Potrebna, ker so bili za pospeševanje izvoza sprejeti dodatni ukrepi, o čemer je delegacija podrobno poročala na seji Zbora združenega dela 10. aprila letošnjega leta.</p>
+                     <p>Zakon v odboru doslej ni bil usklajen in je odbor o tem poslal poročilo. Na sestanku predsedujočih je bilo vsem delegacijam, ki imajo zadržke svetovano, naj ponovno v skupščinah ocenijo svoja stališča, da bi bilo mogoče zakon uskladiti, ne pa sprejeti kot izjemen ukrep. V skladu z dobljenim pooblastilom bo delegacija po dogovoru z Izvršnim svetom Skupščine SR Slovenije dala soglasje k zakonu, če bo črtan kriterij pokritosti trajnih obratnih sredstev.</p>
+                     <p>Delegacija predlaga, da zbor sprejme njeno poročilo. Hvala.</p>
+                  </sp>
+                  <pb/>
+                  <sp>
+                     <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                     <p>Zahvaljujem se tovarišu Globačniku za podano poročilo. Želi o poročilu delegacije kdo razpravljati? (Ne želi.) Če ne želi, zaključujem razpravo in predlagam zboru, da sprejme naslednji sklep:</p>
+                     <p>1. Skupščina SR Slovenije sprejema poročilo svoje delegacije o poteku usklajevanja nekaterih aktov iz pristojnosti Zbora republik in pokrajin Skupščine SFR Jugoslavije in ugotavlja, da je delegacija delala v skladu s prejetimi pooblastili ter jo pooblašča, da v nadaljnjem usklajevanju izhaja iz usmeritev, podanih v poročilu.</p>
+                     <p>2. Skupščina SR Slovenije pooblašča svojo delegacijo v Zboru republik in pokrajin Skupščine SFR Jugoslavije, da v smislu drugega odstavka 300. člena ustave SFR Jugoslavije da soglasje k predlogu zakona o zagotovitvi sredstev za del stroškov iz obresti za kredite za zaloge pšenice letine 1985.</p>
+                     <p>3. Skupščina SR Slovenije pooblašča svojo delegacijo v Zboru republik in pokrajin Skupščine SFR Jugoslavije, da v smislu drugega odstavka 300. člena ustave SFR Jugoslavije, da soglasje k predlogu tistih rešitev iz osnutka zakona o spremembah in dopolnitvah zakona o carinski tarifi, ki se nanašajo na oprostitve oziroma 50% znižanje carine pri uvozu opreme in rezervnih delov za izgradnjo objektov s samoupravnim združevanjem dela in sred stev v gospodarsko manj razvitih republikah in SAP Kosovo ter v nerazvitih občinah v SR Srbiji izven socialističnih avtonomnih pokrajin in na oprostitev carine pri uvozu reprodukcijskega materiala iz blagovnih kreditov.</p>
+                     <p>Želi o tem sklepu kdo razpravljati? (Ne želi.) Ker ne želi nihče razpravljati, prehajamo na glasovanje.</p>
+                     <p>Kdo je za predlagani sklep? (124 delegatov.) Je kdo proti? (4 delegati.) Se je kdo vzdržal? (11 delegatov.)</p>
+                     <p>Ugotavljam, da je zbor predlagani sklep sprejel z večino glasov.</p>
+                     <p>Ker skupina delegatov, ki smo jo prej imenovali za proučevanje aktov iz zvezne pristojnosti še dela in obravnava našo 14. in 15. točko dnevnega reda, predlagam, da ti dve točki preskočimo in preidemo na 16. točko dnevnega reda. Ko bo skupina končala z delom, se bomo vrnili na ti dve točki. Se s takim predlogom strinjate? (Da. )</p>
+                     <p>Prehajamo na 16. TOČKO DNEVNEGA REDA - INFORMACIJA O PRIPRAVI PERIODIČNEGA DELOVNEGA NAČRTA ZBORA ZDRUŽENEGA DELA SKUPŠČINE SR SLOVENIJE ZA II. IN III. TRIMESEČJE 1986.</p>
+                     <p>K tej točki ste prejeli program dela zborov Skupščine SR Slovenije za leto 1986. Obveščamo vas, da danes v okviru te točke dnevnega reda obravnavamo pregled zadev, ki bi jih zbor uvrstil na dnevni red svoje 2. seje dne 28. maja 1986, ki ste ga dobili z gradivom kot informacijo. To pa zato, ker za današnjo sejo še ni bilo mogoče pripraviti periodičnega delovnega načrta z vsemi sestavinami, ki jih določa poslovnik Skupščine SR Sloveni je. Predlog periodičnega delovnega načrta bo pripravljen za naslednjo sejo zbora. Želi kdo o tem razpravljati?</p>
+                     <p>Prav tako vas obveščam, da bomo morali naslednjo sejo zbora sklicati predvidoma 28. maja 1986. Poslovnik Skupščine SR Slovenije sicer predpisuje za sklic seje najmanj 30-dnevni rok,<pb/>izjemoma pa se lahko skliče seja tudi v krajšem roku iz razlogov, ki so navedeni v 99. členu poslovnika Skupščine SR Slovenije. Ti razlogi in dejstvo, da se je zbor konstituiral šele danes, narekujejo potrebo po sklicanju seje v krajšem roku.</p>
+                     <p>Želi o tej informaciji kdo razpravljati? (Nihče.) Če ne želi nihče razpravljati, prehajamo na glasovanje o skrajšanem roku za sklic 2. seje. Na glasovanje dajem predlog za sklic seje v skrajšanem roku.</p>
+                     <p>Kdo je za? (128 delegatov.) Je kdo proti? (7 delegatov.) Se je kdo vzdržal? (4 delegati.)</p>
+                     <p>Ugotavljam, da zbor z večino glasov soglaša, da se seja skliče v skrajšanem roku kot je določen v poslovniku Skupščine.</p>
+                     <p>Ker imamo za naslednjo sejo, kot ste videli iz pregleda zadev, predvidenih za obravnavo precej točk dnevnega reda, nimamo pa še izvoljenih članov delovnih teles, ki jih bomo volili na drugi seji, predlagam, da imenujemo skupino delegatov z nalogo, da prouči vsa vprašanja, ki so predvidena za obravnavo na seji zbora 28. maja 1986, razen iz pristojnosti federacije, in da o tem poroča zboru. Moram povedati, da nismo pravočasno dobili vseh spiskov delegatov in zato nismo mogli pravočasno formirati odborov našega zbora, kar nekoliko zavlačuje in otežuje tudi redno delo.</p>
+                     <p>V predvideno skupino delegatov bi zato predlagal: Valentina Dvojmoča - predsednika zbora kot vodjo skupine, Franca Jelena - podpredsednika zbora, Vinka Keržana - delegata gospodarskega področja, 8. okoliš, Litija, Žarka Okorna - gospodarsko področje, 12. okoliš, Kranj, Mirka Pavšiča - gospodarsko področje, 21. okoliš, Koper, Mirana Ocepka - gospodarsko področje, 42. okoliš, Maribor-Tezno in Almo Bernik - socialno-zdravstveno področje, 4. okoliš, Jesenice.</p>
+                     <p>Želi o tem predlogu kdo razpravljati? (Nihče.) Če ne želi nihče razpravljati, prehajamo na glasovanje.</p>
+                     <p>Kdo je za to skupino delegatov? (136 delegatov.) Je kdo proti? (1 delegat.) Se je kdo vzdržal? (3 delegati.)</p>
+                     <p>Ugotavljam, da je skupina delegatov imenovana z večino glasov.</p>
+                     <p>Prehajamo na 17. TOČKO DNEVNEGA REDA - POBUDE, PREDLOGI IN VPRAŠANJA DELEGATOV.</p>
+                     <p>V zvezi s to točko dnevnega reda naj vas seznanim, da ima po poslovniku Skupščine SR Slovenije delegat v zboru pravico postaviti Izvršnemu svetu Skupščine SR Slovenije ali republiškim upravnim organom vprašanja, pobude in predloge, ki se nanašajo na njihovo delo ali na zadeve iz njihove pristojnosti. Delegat v zboru ima pravico zahtevati obvestila in pojasnila od predsednika Skupščine, predsednikov zborov in predsednikov delovnih teles.</p>
+                     <p>Za današnjo sejo ste na klop prejeli pobude za spremembo predpisov, ki jih je predložila konferenca delegacij za Zbor združenega dela Skupščine občine Ljubljana-Bežigrad, številka 20. Pobude bomo posredovali pristojnim organom v proučitev.</p>
+                     <p>Pisno delegatsko vprašanje je oddala skupina delegatov za področje kmetijstva, 4. okoliš, Postojna, in sicer zahteva jasen odgovor, kdo je odgovoren za uvoz plesnive semenske koruze.</p>
+                  <pb/>
+                     <p>Delegatsko vprašanje bomo posredovali Izvršnemu svetu Skupščine SR Slovenije.</p>
+                     <p>Pisno se je prijavil k razpravi tovariš Ivan Mavrič, delegat Zbora združenega dela za področje gospodarstva, 4. okoliš, Ljubljana-Šiška. Prosim.</p>
+                  </sp>
+                  <sp>
+                     <speaker>IVAN MAVRIČ:</speaker>
+                     <p>Tovariš predsednik, tovarišice in tovariši delegati! 26. marca letos smo sprejeli poročilo o uresničevanju sklepov Zbora združenega dela za II. polletje 1986. Kljub temu pa bi povedal naslednje:</p>
+                     <p>Že 25.12.1985 smo sprejemali interventni zakon o določitvi obveznosti plačevanja prispevka iz dohodka TOZD za pokrivanje dela stroškov enostavne reprodukcije elektrogospodarstva in premogovništva. Takrat sem kot delegat naše delegacije, 4. okoliša, Ljubljana-Šiška razpravljal in naša delegacija je za zakon glasovala s tem, da je Zbor združenega dela k zakonu sprejel še sklep. Zahtevali smo, da nam Služba družbenega knjigo vodstva odgovori na naslednji seji, vendar do danes po 5 mesecih odgovora še nimamo, zakaj je bila prikrita izguba elektrogospodarstva, in sicer za vrednost kreditov jedrske centrale Krško. Takrat delegati nismo imeli podatkov o tem, zasledili pa smo jih v sredstvih javnega obveščanja in jim verjeli. Iz razprave smo lahko ugotovili, da je bila izguba bistveno večja, kot so jo prikazala sredstva javnega obveščanja, zato smo bili enotnega mnenja, da Služba družbenega knjigovodstva pokriva podatke. Odgovora torej ni.</p>
+                     <p>Danes bi novemu predsedniku rad povedal, da sem dobil ustno zagotovilo dosedanjega predsednika zbora tovariša Martina Mlinarja, da bo direktor Službe družbenega knjigovodstva v kratkem o tem poročal.</p>
+                     <p>Želel bi, da je odgovor dan do naslednje seje zbora, če smo jo že morali danes izglasovati.</p>
+                     <p>Na seji 25.12. sem tudi večkrat razpravljal in do danes nisem dobil razprave v avtorizacijo. Zahtevam jo takoj. Hvala lepa.</p>
+                  </sp>
+                  <sp>
+                     <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                     <p>Hvala. Pojasnil bi delegatu, da je Služba družbenega knjigovodstva pripravila analizo zaključnih računov in da bo na eni prihodnjih sej dano poročilo o stanju v elektrogospodarstvu.</p>
+                     <p>Glede avtorizacije pa bodo odgovorne službe sprejele opozorilo na znanje, vem pa, da traja nekaj časa, preden lahko dobi vsak delegat svojo razpravo v avtorizacijo.</p>
+                     <p>Besedo ima tovariš Božo Šušteršič, področje gospodarstva, 42. okoliš, Maribor-Tezno.</p>
+                  </sp>
+                  <sp>
+                     <speaker>BOŽO ŠUŠTERŠIČ:</speaker>
+                     <p>Tovariš predsednik, tovarišice in tovariši delegati! Skupina delegatov Skupščine občine Maribor - Tezno za delegiranje v Zbor združenega dela SR Slovenije je na svoji seji obravnavala in postavila naslednje delegatsko vprašanje.</p>
+                     <p>Zanima nas, kakšno stališče bo zavzel Zbor združenega dela Skupščine SR Slovenije do osnutka zakona o predčasni upokojitvi delavcev v zvezni upravi. Nameravana upokojitev 1.400<pb/>delavcev, ki imajo komaj 25 let delovne dobe, prejemali pa naj bi polno pokojnino, absolutno ni sprejemljiva. Argumente predlagateljev zakona, češ da je pomladitev zvezne uprave nujna, ni mogoče sprejeti. Tudi v številnih gospodarskih organizacijah združenega dela in družbenih dejavnostih so potrebne pomladitve (kadrovske osvežitve), pa ni nihče pomislil, da bi sedaj zaposlenim podarja li leta delovne dobe in jih upokojili s pokojnino, enako tisti, ki bi jo dobili, če bi delali 40. oziroma 35. let. Morajo si pač najti drugo zaposlitev. Če so ljudje iz zvezne uprave tako veliko prispevali k razvoju naše družbe, so pa še mladi, jim je potrebno omogočiti, da svoje znanje in izkušnje uporabijo na drugih delovnih mestih. Če pa zanje razen v zvezni upravi ni nikjer dela, potem tisto, kako dobro so delali doslej, preprosto ne more biti res. Vsekakor pa je res nekaj drugega, kajti če bo zakon sprejet, bodo delavci SFR Jugoslavije v neenakopravnem položaju. In tisti, ki bodo na slabšem, bodo morali prispevati sredstva za darilo tistim, ki bodo na boljšem.</p>
+                     <p>Predlagamo, da se predlagatelj omenjenega osnutka zakona pokliče na odgovornost ter da se zahteva njegov odstop. (Ploskanje.)</p>
+                  </sp>
+                  <sp>
+                     <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                     <p>Delegatsko vprašanje bomo posredovali pristojnim organom in prosili za odgovor.</p>
+                     <p>Pisno smo prejeli tudi delegatsko vprašanje v zvezi s kriteriji pri preganjanju vojnih zločincev. Vprašanje bomo posredovali ustreznim organom.</p>
+                     <p>Želi še kdo postaviti kakšno vprašanje ali dati pobudo? (Nihče.) S tem zaključujem to točko dnevnega reda.</p>
+                     <p>Prehajamo na 14. TOČKO DNEVNEGA REDA - OSNUTEK ZAKONA O PRELOŽITVI VRAČANJA ANUITET ZA KREDITE, DANE ORGANIZACIJAM ZDRUŽENEGA DELA Z OZEMLJA SR ČRNE GORE IN SR MAKEDONIJE IZ SREDSTEV SKLADA FEDERACIJE ZA KREDITIRANJE HITREJŠEGA RAZVOJA GOSPODARSKO MANJ RAZVITIH REPUBLIK IN AVTONOMNIH POKRAJIN, KI ZAPADEJO 1. JANUARJA 1986 IN PREDLOG ZAKONA O OBVEZNEM POSOJILU SLOVENIJI V LETU 1986.</p>
+                     <p>Osnutek zakona je Skupščini SR Slovenije predložil v obravnavo Zbor republik in pokrajin Skupščine SFR Jugoslavije. V povezavi s tem zakonom je Izvršni svet Skupščine SR Slovenije predložil predlog zakona o obveznem posojilu SR Sloveniji v letu 1986. Zato predlagam, da oba akta obravnavamo skupaj, glasovali pa. bomo o vsakem posebej.</p>
+                     <p>K tej točki ste prejeli naslednja gradiva: ocena stanja zadolženosti gospodarstva SR Makedonije in SR Črne gore, mnenje Izvršnega sveta Skupščine SR Slovenije in predlog sklepa k osnutku zakona, ki ga je pripravila skupina delegatov vseh zborov Skupščine SR Slovenije za proučevanje aktov iz pristojnosti zborov Skupščine SFR Jugoslavije.</p>
+                     <p>Osnutek zakona in predlog zakona je obravnavala Zakonodajno-pravna komisija, ki ni imela pripomb. Želi predstavnik skupine delegatov besedo? (Da.) Besedo ima tovariš Bojan Šefman.</p>
+                  </sp>
+                  <sp>
+                     <speaker>BOJAN ŠEFMAN:</speaker>
+                     <p>Tovariš predsednik, tovarišice in tovariši delegati! Skupina delegatov, izvoljena na današnji seji, to je<pb/>skupina delegatov vseh zborov za proučevanje aktov iz pristojnosti zborov Skupščine SFR Jugoslavije, se je takoj po izvolitvi sestala in pregledala med drugim tudi ta akt, za katerega ste predlog sklepa dobili na klop. Naša skupina delegatov ima dopolnilo k temu sklepu in bi prosil, da obrnete sklep na drugo stran.</p>
+                     <p>Na koncu 2. točke skupina delegatov predlaga, da se sklep dopolni z dodatnim novim odstavkom, ki bolj natančno zavezuje in opredeljuje nadaljnje aktivnosti na tem področju, in ki se glasi: Delegacija naj zahteva, da se pripravi analiza o sposobnosti gospodarstva SR Črne gore, SR Makedonije in SAP Kosovo, da redno odplačujejo anuitete iz posojil Sklada federacije v prihodnjih letih, ker je ukrep po tem zakonu sprejemljiv le za leto 1986. Hvala lepa.</p>
+                  </sp>
+                  <sp>
+                     <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                     <p>Hvala. Besedo ima tovariš Rudi Šepič, član Izvršnega sveta Skupščine SR Slovenije in republiški sekretar za finance.</p>
+                  </sp>
+                  <sp>
+                     <speaker>RUDI ŠEPIČ:</speaker>
+                     <p>Tovariš predsednik, tovarišice in tovariši delegati! Skupščina SFR Jugoslavije je naši Skupščini predložila v obravnavo zakon o preložitvi vračanja anuitet za kredite, dane organizacijam združenega dela z območja Črne gore in Makedonije iz sredstev Sklada federacije za kreditiranje hitrejšega razvoja gospodarsko manj razvitih republik in avtonomnih pokrajin, ki zapadejo 1. januarja leta 1986.</p>
+                     <p>Zakon predlaga odlaganja dospelih anuitet iz posojila Sklada federacije posojilojemalcem iz območja Črne gore in Makedonije, ki zapadejo 1. januarja 1986, za dobo petih let, in sicer do 1.1.1991 leta. Sredstva za odlog dospelih anuitet zagotovijo republike in avtonomni pokrajini v sorazmerju z njihovo udeležbo v teh anuitetah v obliki brezobrestnega posojila. v kolikor socialistične republike in avtonomni pokrajini ne izpolnijo obveznosti iz zakona, lahko zvezni sekretar za finance blokira proračun te republike oziroma pokrajine. Sklad bo posojilo vrnil republikam in avtonomnima pokrajinama po preteku pet let od vplačila.</p>
+                     <p>Predlagatelj utemeljuje potrebo, da se preložitev teh obveznosti uredi z zakonom, z izredno težkih gospodarskim stan jem, v katerem so organizacije združenega dela iz teh dveh republik. V strukturi dohodka v obeh republikah samo obresti dvakrat presegajo ustvarjena sredstva za razširitve in izboljša nje materialne osnove dela.</p>
+                     <p>Primanjkljaj lastnih, trajnih in dolgoročnih virov za obratna sredstva je konec leta 1984 znašal v Črni gori 94, v Makedoniji pa kar 146 milijard dinarjev. Že nekaj let je letna stopnja padanja investicijske aktivnosti 20%-na, stanje pa se ne bo kmalu izboljšalo, saj predstavljajo v Črni gori samo obveznosti do tujine večji znesek, kot vsa sredstva za reprodukcijo, v Makedoniji pa 80% oziroma brez obveznosti Fenija, 2/3 tega zneska. Organizacije združenega dela v teh dveh republikah dejansko poslujejo v skrajno zoženih finančnih okvirih, tako za zagotavljanje razširjene kot enostavne reprodukcije.</p>
+                     <p>Zaradi težkega gospodarskega stanja v Črni gori in Makedoniji Izvršni svet Skupščine SR Slovenije soglaša z<pb/>odložitvijo dospelih anuitet, ki zapadejo v letošnjem letu. Na ta način se ustvarjena akumulacija celotnega gospodarstva prerazdeli v korist Črne gore in Makedonije ter se s tem izboljša ekonomsko finančno stanje v teh dveh republikah. Menimo, da je tak način reševanja nakopičenih problemov predvsem v SAP Kosovu, v Črni gori in Makedoniji primernejši in manj problematičen od uporabe primarne emisije za neposredno pokrivanje obveznosti, ki jih organizacije združenega dela iz teh družbenopolitičnih skupnosti sicer ne bi mogle izpolniti.</p>
+                     <p>Ob tem pa menimo, da je potrebno rešitev, ki jo je predlagal Zvezni izvršni svet, dopolniti in pripraviti tako, da bodo socialistične republike in avtonomne pokrajine svojo obveznost lahko izvršile, ne da bi postavljale organizacije združenega dela, ki morajo tako ali drugače prispevati sredstva, v neenakopraven položaj. Ustrezne dopolnitve zveznega zakona smo predložili po svojem mnenju.</p>
+                     <p>Če Skupščina SR Slovenije sprejme rešitev, kot jo predlaga Izvršni svet Skupščine SR Slovenije, je potrebno oprede liti vir za izvršitev zvezne obveznosti. Zaradi limitirane splošne porabe ni mogoče zagotoviti sredstev iz republiškega proračuna, zato smo za izpolnitev obveznosti SR Slovenije iz zveznega zakona Skupščini hkrati predložili v obravnavo zakon o obveznem posojilu SR Slovenije v letu 1986. S tem zakonom SR Slovenija razpisuje obvezno brezobrestno posojilo v skupnem znesku 989 milijonov 741 tisoč 545 dinarjev. Zavezanci za to posojilo bodo vse temeljne in druge organizacije združenega dela s področja gospodarstva, ki so v letu 1984 izpolnile obveznost SR Slovenije za pospeševanje razvoja gospodarsko manj razvitih republik in pokrajin. Zavezanci bodo vplačali obveznost po zakonu v višini 6,6% od izpolnjene obveznosti v letu 1984. Za vplačane zneske obveznega posojila bo Slovenija sklenila z zavezanci posojilne pogodbe. S pogodbami se bo zavezala, da bo posojilo vrnila do 31. januarja 1991 leta.</p>
+                     <p>Tak republiški zakon, ki omogoča izpolnitev obveznosti Slovenije, je potrebno v primeru, da Skupščina SR Slovenije da soglasje k zveznemu zakonu, sprejeti hkrati s tem soglasjem. Za izvedbo republiškega zakona je namreč potreben določen postopek, ki ga je treba izpeljati za vse zavezance, zato pa je potreben določen čas. Ker bi Slovenija izpolnila obveznosti iz zveznega Zakona z vplačilom sredstev, bo imetnikom obveznosti Sklada federacije z območja Slovenije tako omogočeno vnovčenje vseh kuponov obveznic Sklada federacije, ki so dospeli 1.1.1986. Vsi imetniki kuponov bodo tako imeli enako možnost vnovčevanja in enako možnost, da oblikujejo dohodek iz tistega dela anuitet, ki predstavlja vračilo obresti.</p>
+                     <p>Tovarišice in tovariši delegati! Predlagamo, da pooblastite vašo delegacijo v Zboru republik in pokrajin, da upoštevajoč mnenje Izvršnega sveta Skupščine SR Slovenije, da soglasje k osnutku zveznega zakona. Predlagamo tudi, da sprejmete predlog zakona, s katerim bo Sloveniji omogočeno realizirati obveznosti iz zveznega zakona. Hvala lepa.</p>
+                  </sp>
+                  <pb/>
+                  <sp>
+                     <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                     <p>Hvala lepa. Želi besedo predstavnik delegacije? (Ne želi.) Pričenjam razpravo. Kot sem že omenil, razpravljamo o obeh aktih skupaj.</p>
+                     <p>Besedo ima tovariš Miran Ocepek, gospodarsko področje 42. okoliš, Maribor-Tabor.</p>
+                  </sp>
+                  <sp>
+                     <speaker>MIRAN OCEPEK:</speaker>
+                     <p>Tovariš predsednik, tovarišice in tovariši delegati! Moram povedati, da moram glede na to, da smo del gradiva prejeli na seji (na klop), predvsem mnenje Izvršnega sveta Skupščine SR Slovenije, našo razpravo nekoliko korigirati, bi jo pa kljub temu posredoval.</p>
+                     <p>Skupina delegatov z gospodarskega področja Zbora združenega dela Skupščine občine Maribor-Tezno, 42. okoliš, je ob obravnavi osnutka zakona in predloga zakona po razpravi sprejela naslednja stališča.</p>
+                     <p>Menimo, da pri sprejemanju obeh zakonov ponovno prihaja do dodatnega, v posrednem smislu, obremenjevanja gospodarstva SR Slovenije, na kar delegati v republiki vedno opozarjamo. Gospodarstvo, kot smo že večkrat poudarjali, praktično ne zmore dodatnih obremenitev. Tako se dogaja, da posamezne dobre organizacije združenega dela v SR Sloveniji, najemajo kredite pod znanimi zelo neugodnimi pogoji, da bi poravnavale zakonske obveznosti oziroma zagotavljale potrebna obratna sredstva. Tudi sredstva, o katerih danes govorimo, se bodo predvsem v večjih organizacijah združenega dela zbirala na podoben način. Vse to pomeni, da ob upoštevanju sedanjih neugodnih razmer, predvsem inflacije, vrnjena sredstva za kreditodajalca v letu 1991 ne bodo predstavljala ničesar oziroma bodo praktično podarjena.</p>
+                     <p>Verjetno bi kazalo, da glede na to, da bodo zakoni sprejeti, v zveznem zakonu o predložitvi vračanja anuitet za kredite, dane organizacijam združenega dela z ozemlja SR Črne gore in SR Makedonije iz sredstev Sklada federacije za kreditira nje hitrejšega razvoja gospodarsko manj razvitih republik in avtonomnih pokrajin, ki zapadejo 1. januarja 1986 na nek način opozorimo organizacije združenega dela z ozemlja teh socialističnih republik na racionalno gospodarjenje z družbenimi sredstvi, predvsem pa na dejstvo, da morajo biti tisti, ki kredite najema jo, v stanju le-te tudi vračati. Nobenega kredita ne bi smele najemati organizacije združenega dela, če za to nimajo ekonomsko upravičenih razlogov. V zveznem zakonu predlagatelj tudi ni predvidel nikakršne kontrole nad izvajanjem zakona. Prav tako bi bilo koristno, da bi delegati tudi v zvezi s tem dobili vsaj pojasnila, če že ni mogoče v samem tekstu zakona zagotoviti kontrolo nad izvajanjem le-tega.</p>
+                     <p>Na koncu kljub navedenemu, poznavajoč razmere v SR Črni Gori in SR Makedoniji, menimo, da je prav, da oba zakona podpira jo oziroma damo soglasje k njihovemu sprejetju. Sprašujemo pa se, kdaj bomo s takšnim načinom dela prenehali.</p>
+                     <p>V celoti podpiramo mnenja in predloge Izvršnega sveta Skupščine SR Slovenije, saj so praktično enaki našim stališčem.</p>
+                  </sp>
+                  <sp>
+                     <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                     <p>Hvala lepa. Želi še kdo razpravljati? (Da.) Besedo ima tovariš Viktor Ptičar, gospodarsko Področje, 41. okoliš, Maribor-Tabor.</p>
+                  </sp>
+                  <pb/>
+                  <sp>
+                     <speaker>VIKTOR PTIČAR:</speaker>
+                     <p>Tovariš predsednik, tovarišice in tovariši delegati! Strinjamo se s predlogi in mnenji Izvršnega sveta Skupščine SR Slovenije, vendar bi kljub temu dodal nekaj naših stališč.</p>
+                     <p>Skupina meni, da je vse preveč hitrih postopkov pri sprejemanju zakonov celo v takšnih primerih, kot je današnji in za katerega menimo, da ni opravičljivega razloga. Obrazložitev zakona je izredno pomanjkljiva, saj navala le stanje, ne navaja pa razlogov za takšno stanje in argumentov, ki so potrebni za ustrezno odločanje posebno o tako pomembnih vprašanjih.</p>
+                     <p>Zakaj je v teh republikah stopnja akumulacije daleč izpod poprečja? Zakaj je likvidnost organizacij združenega dela izredno slaba? Zakaj je zadolženost v tujini visoko nad poprečjem? Kako se uresničujejo dosedanje usmeritve in cilji na teh in drugih področjih in tako dalje? Ali je za takšno stanje razlog zgolj v nerazvitosti? To so vprašanja, na katera bi verjetno hoteli imeti bolj konkretne odgovore. Takšne medletne obremenitve organizacij združenega dela, ki izhajajo iz predloženega zakona o obveznem posojilu, povzročajo tudi veliko zmedo v planih, ki ne predvidevajo takšnih obremenitev in katerih uresničevanje bo oteženo. Kot kaže, je potrebno to vprašanje glede preložitve anuitet hitro rešili. V redu. Potem pa predlagam, da se v ustreznem roku pripravi ustreznejša obrazložitev, ki bo tudi dovolj argumentirana in prepričljiva. Hvala lepa.</p>
+                  </sp>
+                  <sp>
+                     <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                     <p>Hvala. Želi še kdo razpravljati? Besedo ima Brane Lampret, gospodarsko področje, 4. okoliš, Ljubljana-Šiška.</p>
+                  </sp>
+                  <sp>
+                     <speaker>BRANE LAMPRET:</speaker>
+                     <p>Tovariš predsednik, tovarišice in tovariši delegati! Na naši skupini delegatov smo ugotovili, da v obrazložitvi k predlogu zakona o obveznem posojilu Socialistični republiki Sloveniji v letu 1986 manjka predvsem vprašanje oziroma opredelitev, kam so bila investirana sredstva za nerazvite? Močno nas tudi zanima njihova učinkovitost in odgovor na že večkrat postavljeno vprašanje odgovornosti v zvezi s temi vprašanji.</p>
+                     <p>Zavzeli smo stališče oziroma ugotavljamo, da s tem zakonom rešujemo v bistvu likvidnost Sklada, kar pa menimo, da ni v skladu z namenom tega Sklada.</p>
+                     <p>V zvezi s tem bi še poudaril, da smo ugotovili, da bi bilo potrebno, da Izvršni svet Skupščine SR Slovenije in Gospodarska zbornica Slovenije dasta oceno učinkov tega zakona na poslovanje slovenskega gospodarstva, čeprav je jasno, da se s tem zmanjšuje akumulativna sposobnost gospodarstva.</p>
+                     <p>Ob koncu bi se pridružil predhodnemu delegatu, ki je tudi ugotovil, da ni kontrole nad izvajanjem tega zakona. Hvala -Lepa.</p>
+                  </sp>
+                  <sp>
+                     <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                     <p>Hvala. Želi še kdo razpravljati? Ima mogoče kakšen komentar predstavnik Izvršnega sveta Skupščine SR Slovenije ali delegacije? Besedo ima tovariš Rudi Šepič.</p>
+                  </sp>
+                  <pb/>
+                  <sp>
+                     <speaker>RUDI ŠEPIČ:</speaker>
+                     <p>Tovariš predsednik, tovarišice in tovariši delegati! Ne bi odgovarjal na vsa vprašanja, ker mislim, da dopolnitev, ki jo je danes sprejela skupina, odgovarja na celo vrsto vprašanj, saj zahteva pripravo analize o sposobnosti vračanja anuitet iz posojil sklada.</p>
+                     <p>Odgovoril pa bi na dve vprašanji. Zakaj hitri postopek? v zvezni resoluciji za letošnje leto je bil predviden in zadolžen Zvezni izvršni svet, da prouči stanje v Makedoniji in Črni gori. Ker je priprava analize trajala nekaj mesecev smo zakon v našo Skupščino dobili pozno, tako nam je ostalo zelo malo časa za pripravo stališča Izvršnega sveta Skupščine SR Slovenije, kot tudi za to, da ste bili delegati seznanjeni z zakonom in stališči Izvršnega sveta Skupščine SR Slovenije.</p>
+                     <p>To je osnovi razlog, zakaj v tem primeru hitri postopek. Zvezna skupščina pa je zelo jasno zahtevala, naj bi ta zakon sprejeli še v stvari sestavi Zvezne skupščine.</p>
+                     <p>Tovariš delegat iz občine Ljubljana-Šiška je rekel, da je vprašanje predvsem likvidnost Sklada. Menim, da ni ravno tako, ampak gre za reševanje dejanske likvidnosti organizacij združene ga dela. Ta sredstva odloženih anuitet ne bodo niti prišla na zvezni sklad, ampak enostavno ostanejo organizacijam združenega dela, ki so jih koristile in bi jih bile dolžne vrniti. Hvala lepa.</p>
+                  </sp>
+                  <sp>
+                     <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                     <p>Hvala lepa. Besedo ima tovariš Emil Tomažič, član delegacije Skupščine SR Slovenije v Zboru republik in pokrajin Skupščine SFR Jugoslavije.</p>
+                  </sp>
+                  <sp>
+                     <speaker>EMIL TOMAŽIČ:</speaker>
+                     <p>Tovariš predsednik, tovarišice in tovariši delegati! Glede kontrole sredstev Sklada federacije za hitrejši razvoj gospodarsko manj razvitih moram povedati, da je prav na predlog in zahtevo naše Skupščine v zakonu o Skladu federacije določeno, da sta Služba družbenega knjigovodstva in Sklad dolžna spremljati v bodoče namen in naložbe iz teh sredstev, tako smo v tem smislu napravili korak naprej.</p>
+                     <p>Ta obveznost je v zvezni resoluciji. Iz naslednjega razloga. Ko smo v prejšnjem letu usklajevali sistemska zakona o manj razvitih, predvsem je to zakon o sredstvih Sklada federacije in pa zakon o dopolnilnih sredstvih, smo imeli velike probleme prav zaradi tega, ker so delegati iz teh dveh republik, to je Makedonije in Črne gore, neprestano in argumentirano dokazovali, kakšna je gospodarska situacija. Nekateri ste informirani o tem, da smo se glede stopenj zelo razhajali. Stopnje, ki jih je naša Skupščina sprejela, so bile precej nižje od predlaganih s strani Zveznega izvršnega sveta, medtem ko so delegati in skupščine teh dveh republik zahtevale precej višje stopnje.</p>
+                     <p>Kot je znano smo se uskladili na predlaganih stopnjah Zveznega izvršnega sveta s tem, da smo se dogovorili, da se v resoluciji za leto 1986 zapiše obveznost, ki je danes pred nami. Hvala lepa.</p>
+                  </sp>
+                  <sp>
+                     <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                     <p>Hvala lepa. Menim, da je bil dan dober poudarek razpravljavcev in tudi usmeritev naši<pb/>delegaciji. Vsebina pripomb pa je vsebovana v predlagani dopolnitvi sklepa skupine.</p>
+                     <p>Pisno razpravo k zakonu o obveznem posojilu je oddala skupina delegatov za gospodarsko področje, 23. okoliš, Postojna.</p>
+                     <p>Če ni več razpravljavcev, potem predlagam, da preidemo na glasovanje o predlogu sklepa.</p>
+                     <p>Kdo je za ta sklep z dopolnitvijo? (96 delegatov.) Je kdo proti? (29 delegatov.) Se je kdo vzdržal? (14 delegatov.)</p>
+                     <p>Ugotavljam, da je sklep skupaj z dopolnitvijo sprejet z večino glasov.</p>
+                     <p>Na glasovanje dajem še predlog zakona o obveznem Posojilu Socialistični republiki Sloveniji v letu 1986.</p>
+                     <p>Kdo je za predlog zakona? (95 delegatov.) Je kdo proti? (26 delegatov.) Se je kdo vzdržal? (16 delegatov.)</p>
+                     <p>Ugotavljam, da je tudi predlog tega zakona sprejet z večino glasov.</p>
+                     <p>Obveščam vas, da Zbor občin še ni zaključil razprav k točkam, ki jih obravnava enakopravno z našim zborom, zato bomo morali počakati, če bo treba še kaj usklajevati.</p>
+                  </sp>
+                  <stage>(Seja je bila prekinjena ob 16.30 uri in se je nadalje vala ob 16.50 uri.)</stage>
+                  <sp>
+                     <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                     <p>Tovarišice in tovariši delegati! Obveščam vas, da smo pri točkah, kjer smo sprejemali skupne in končne odločitve usklajeni z Zborom občin. S tem je dnevni red današnje seje izčrpan.</p>
+                     <p>Zahvaljujem se vam za udeležbo in za razpravo na seji zbora ter zaključujem 1. sejo Zbora združenega dela. Hvala lepa.</p>
+                  </sp>
+                  <stage>(Seja je bila končana 7. maja 1986 ob 16.50 uri.)</stage>
+               </div>
+            </div>
+         
+      </body>
+   </text>
+</TEI>
