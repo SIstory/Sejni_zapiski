@@ -32,7 +32,6 @@
             </availability>
             <date when="2015-08-11+02:00">11. 8. 2015</date>
          </publicationStmt>
-         
          <sourceDesc>
             <biblStruct>
                <analytic xml:id="sistory.16029">
@@ -298,16 +297,19 @@
          </div>
       </front>
       <body>
-         <div>
             <pb/>
-            <div>
+            <div ana="#PAR.ZbZdruDel">
                <head>ZBOR ZDRUŽENEGA DELA SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE</head>
-               <div>
+               <div ana="#PAR.Seja">
                   <head>2. seja</head>
-                  <p>(28. maj 1986)</p>
-                  <p>Sejo je vodil Valentin Dvojmoč, predsednik Zbora združenega dela.</p>
+                  <docDate when="1986-05-28">(28. maj 1986)</docDate>
+                  <castList>
+                     <castItem><roleDesc>Sejo je vodil</roleDesc>
+                        <actor xml:id="sp.DvojmočValentin">Valentin Dvojmoč</actor>, <role>predsednik
+                           Zbora združenega dela</role>.</castItem>
+                  </castList>
                   <stage>Seja se je pričela ob 9.00 uri.</stage>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Tovarišice in tovariši delegati! Najprej vsem prav lep pozdrav.</p>
                      <p>Pričenjam 2. sejo Zbora združenega dela Skupščine SR Slovenije, ki sem jo sklical na podlagi prvega odstavka 2. člena poslovnika Zbora združenega dela in 99. člena poslovnika Skupščine SR Slovenije.</p>
@@ -325,7 +327,7 @@
                      <p>Po roku, določenem v poslovniku, sta vložili amandmaje skupini delegatov iz občin Novo mesto in Maribor-Tabor k predlogu zakona o varstvu pri delu. Imamo torej dva amandmaja za 7. točko dnevnega reda. O amandmajih, ki jih bomo morebitno še dobili, pa se bo zbor opredelil pred pričetkom razprave o zakonu.</p>
                      <p>Ugotavljam, da je verifikacijska komisija končala s svojim delom in prosim predsednika komisije, da poroča zboru.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.HočevarMiran">
                      <speaker>MIRAN HOČEVAR:</speaker>
                      <p>Komisija za verifikacijo pooblastil in imunitetna vprašanja Zbora združenega dela Skupščine SR Slovenije za 2. sejo, dne 28.5.1986 je ugotovila naslednje:</p>
                      <p>Zbor združenega dela šteje 150 delegatov. Verifikacijska komisija ugotavlja, da je predložilo delegatska pooblastila 138 delegatov, in sicer: z gospodarskega področja 87 delegatov, s prosvetno-kulturnega področja 12 delegatov, s socialno-zdravstvenega področja 13 delegatov, s kmetijskega področja 15 delegatov, z obrtnega področja 5 delegatov, s področja državnih organov, družbenopolitičnih organizacij in društev 5 delegatov, s področja oboroženih sil 1 delegat.</p>
@@ -334,7 +336,7 @@
                      <p>Komisija je pregledala vsa predložena pooblastila in ugotavlja, da so le-ta v skladu z zakoni in ustavo SR Slovenije, zato predlaga, da Zbor združenega dela vsa predložena pooblastila verificira.</p>
                   </sp>
                   <pb/>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Želi o poročilu komisije kdo razpravljati? (Nihče.) Če ne želi nihče razpravljati, prehajamo na glasovanje. O poročilu bomo glasovali v celoti, ker ni sporno nobeno pooblastilo.</p>
                      <p>Kdo je za poročilo? (141 delegatov.) Je kdo proti? (Nihče.) Se je kdo vzdržal? (Nihče.)</p>
@@ -369,7 +371,7 @@
                      <p>V nadaljevanju bomo na skupnem zasedanju poslušali informacijo Izvršnega sveta Skupščine SR Slovenije o tekočih gospodarskih gibanjih. Skupno zasedanje bo vodil predsednik Zbora občin Vlado Beznik.</p>
                   </sp>
                   <stage>(Seja zbora je bila prekinjena ob 9.25 uri in se je nadaljevala ob 10.05 uri.)</stage>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Nadaljujemo sejo Zbora združenega dela. Želi morda v zvezi z informacijo o tekočih gospodarskih gibanjih, ki smo jo poslušali na skupnem zasedanju, kdo razpravljati? (Nihče.)</p>
                      <p>Ker ne želi nihče razpravljati, predlagam zboru, da na podlagi informacije Izvršnega sveta Skupščine SR Slovenije sprejme naslednji sklep:</p>
@@ -388,7 +390,7 @@
                      <p>Predstavnik Izvršnega sveta Skupščine SR Slovenije k tej točki dnevnega reda je tovariš Franci Pivec, član Izvršnega sveta Skupščine SR Slovenije in predsednik Republiškega komiteja za vzgojo in izobraževanje ter telesno kulturo. Želi morda besedo? (Ne želi.) Želi predstavnik delegacije besedo? (Ne želi.) Želijo poročevalci delovnih teles besedo? (Ne želijo.)</p>
                      <p>Pričenjam razpravo. Razpravljamo o družbenem dogovoru in o predloženih sklepih. K razpravi se je prijavil tovariš dr.<pb/> Miran Mihelčič, delegat Zbora združenega dela za področje prosvete in kulture iz občine Ljubljana Vič-Rudnik.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.MihelčičMiran">
                      <speaker>DR. MIRAN MIHELČIČ:</speaker>
                      <p>Tovariš predsednik, tovarišice in tovariši delegati! Tovariš Samar nas je pri prejšnji točki pozval, da se odločno spopademo z odkloni in inflacijskimi avtomatizmi. Ko je govoril o odklonih, je verjetno mislil na to, da se spopadamo z odkloni od dogovorjene politike. Pod govorjeno politiko pa kaže verjetno razumeti tisto, kar je povedal v nadaljevanju, torej da skušamo porabiti tisto, kar smo že ustvarili.</p>
                      <p>Družbeni dogovor, ki ga imamo pred seboj, je neke vrste dokument, ki posega ne samo v porabo že ustvarjenega dohodka, ampak tudi v porabo dohodka, ki ga bomo ustvarili šele v prihodnosti. Naš spopad, to se pravi spopad Zbora združenega dela s tendencami, o katerih je govoril tovariš Samar, pa verjetno lahko izvajamo prek naše nadzorne funkcije, torej da nadzorujemo, kako se troši v preteklosti ustvarjen dohodek in kako se bo trošil v prihodnosti. Nedvomno je res, da mora Zbor združenega dela biti še zlasti pozoren v tistih primerih, kadar se za določeno aktivnost zelo na široko zbirajo sredstva, kajti v takih primerih velja, da je poraba daleč od tistih, ki ustvarjajo, zato moramo Mi kot posredniki ta nadzor tudi striktno in visoko opravljati.</p>
@@ -404,11 +406,11 @@
                      <p>Prepričan sem sicer, da se sprejemu tega družbenega dogovora verjetno ne bomo mogli izogniti, kajti predaleč smo že, preveč pogojnih "da" smo že dajali in tako naprej, vendar je treba računati, da takšen poseg v sredstva, namenjena uvozu, temeljito posega tudi v nekatere možnosti uvoza naših organizacij združenega dela.</p>
                      <p>In končno še sklep. S spremljajočimi gradivi smo dobili tudi delegatsko pobudo Zveze socialistične mladine Slovenije, in danes predlog sklepa; menim, da kaže to delegatsko pobudo in predlog sklepa podpreti.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Hvala. K razpravi se je prijavila tovarišica Marjana Olstrak, gospodarsko področje, 44. okoliš, Ptuj.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.OlstrakMarjana">
                      <speaker>MARJANA OLSTRAK:</speaker>
                      <p>Tovarišice in tovariši! K tej točki dnevnega reda bi posredovala stališče skupine delegatov iz Ptuja in Ormoža.</p>
                      <p>Jugoslavija je bila že večkrat organizator in gostitelj športnih prireditev, kot na primer sredozemskih, evropskih, svetovnih in drugih. V tem obsegu smo ne le spodbujali razvoj in krepitev teh športnih disciplin na domačih tleh, pač pa tudi<pb/>dokazovali našo odprtost in v veliki meri prispevali svoj delež k zbliževanju športnikov in narodov iz različnih krajev sveta.</p>
@@ -418,40 +420,40 @@
                      <p>Naša skupina zato meni, da je skrajni čas, da udeleženci veljavnega dogovora že pri nastajanju pobud kandidatur za taka športna tekmovanja temeljito in širše verificirajo take pobude, zlasti pa tiste, ki imajo za posledico ureditev novih športnih ter spremljajočih objektov za dobro izpeljavo takih mednarodnih športnih tekmovanj.</p>
                      <p>Kandidatura za organizacijo univerziade prav gotovo ni odraz takih širših in predhodno verificiranih podatkov, postopkov in usklajenosti že pri nastajanju pobude za tako kandidaturo. Delegati naše skupine se dejansko vprašamo, kakšen smisel ima danes glasovati za ta dogovor, če smo, gledano z ekonomskega stališča, pravzaprav vsi proti tej univerziadi in je postopek že tako daleč speljan, da ga tudi ni več mogoče ustaviti. Hvala.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Hvala lepa. Besedo ima tovariš Jože Juričinec, gospodarsko področje, 39. okoliš, Maribor-Rotovž.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.JuričinecJože">
                      <speaker>JOŽE JURIČINEC:</speaker>
                      <p>Tovariš predsednik, tovarišice in tovariši delegati! Zelo zaskrbljujoče je vprašanje ali bolje rečeno gledanje na življenje in delo nas Jugoslovanov, in sicer vseh tistih subjektov v naši družbi, ki z dvignjeno glavo v današnjem času, ob tako poglobljeni in vsestranski gospodarski krizi, ko nas iz dneva v dan vse bolj pesti zunanja in notranja likvidnost ter visoka inflacija, ko je gospodarstvo že tako preobremenjeno in ne ustvarja niti minimalne potrebne akumulacije, ki predstavlja materialno osnovo za življenje in delo jutrišnjega dne, takrat, ko načenjamo lastno substanco ali bolje rečeno, ko si žagamo vejo na kateri sedimo, posebej pa, ko nas pesti problem 1 milijon nezaposlenih in to predvsem mladih in<pb/> izobraženih delavcev, si upajo predlagati in dajati prednost sprejemu družbenega dogovora o organiziranju in financiranju 14. svetovnih univerzitetnih letnih iger v letu 1987 v Zagrebu in podobnih prireditev. Brez teh smo Jugoslovani lahko, oziroma v kolikor jih ne bo, se naš gospodarski položaj ne bo v ničemer poslabšal in Jugoslavija ne bo izgubila na mednarodnem ugledu. Nasprotno mi izgubljamo na ugledu zaradi naših slabih cest in železniških prog in številnih drugih nerešenih gospodarskih vprašanj, ki so bistvenega pomena za delo in življenje nas vseh. To je zato, ker ne ravnamo in delamo tako, kot smo to zapisali v preštevilnih dokumentih.</p>
                      <p>Delavci v združenem delu, posebej pa tisti, ki pošteno delamo in si s svojim delom ne moremo zagotoviti niti osnovnih eksistenčnih življenjskih pogojev, moramo vedeti, da so tudi takšni, ki se sprašujejo kakšne so moralne kvalitete teh subjektov, ki takšne pobude in predloge v današnji gospodarski situaciji podpirajo, oziroma ali so sploh seznanjeni z gospodarskim položajem in nenazadnje kakšne so njihove politične in vsestranske odgovornosti.</p>
                      <p>Tako razmišljajo delavci v združenem delu občine Maribor-Rotovž in so proti sprejemu družbenega dogovora oziroma predlagajo, da Jugoslavija priredi te igre, ko bodo pri nas boljši časi, oziroma podane večje finančne možnosti.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Hvala lepa. Besedo ima tovariš Stane Habič, gospodarsko področje, 1. okoliš, Ljubljana-Bežigrad.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.HabičStane">
                      <speaker>STANE HABIČ:</speaker>
                      <p>Spoštovani predsednik, spoštovane tovarišice in tovariši! Pripombe k predlogu družbenega dogovora o organiziranju univerzitetnih poletnih iger leta 1987 v Zagrebu so naslednje :</p>
                      <p>V zvezi s tem predlogom se mi zastavlja naslednje vprašanje. 10. člen družbenega dogovora o pogojih organiziranja in skupnega financiranja mednarodnih športnih tekmovanj, ki jih prirejamo v Jugoslaviji (Uradni list SFRJ, št. 1/85) določa, da se njegove določbe uporabljajo tudi za tista mednarodna športna tekmovanja, za katera je bila kandidatura dobljena pred sklenitvijo tega dogovora, prirejena pa bodo po njegovi sklenitvi, če izpolnjuje pogoje iz tega dogovora.</p>
                      <p>To določilo bi torej bilo potrebno uporabiti za organiziranje univerziade v Zagrebu, smisel tega določila pa vidim v tem, da je v preteklosti pridobljeno kandidaturo potrebno podvreči ponovnim pretresom v smislu kriterijev tega dogovora. To pa dalje pomeni, da je s stališča kriterijev 4. člena dogovora potrebno določiti, ali v preteklosti pridobljeno kandidaturo obdržimo, oziroma se ji odpovemo. Menim, da če bi neka od udeleženk dogovora menila, da v preteklosti pridobljena kandidatura ne ustreza kriterijem, potem ne bi nastopila njena obveznost sofinanciranja.</p>
                      <p>Iz priloženega gradiva je razvidno, da po sprejetju omenjenega družbenega dogovora naša kandidatura za organizacijo univerziade ni bila podvržena ponovnemu pretresu, marveč smo sedaj postavljeni pred izvršeno dejstvo, da se nam dobesedno<pb/>izstavlja račun v višini 69 starih milijard. Vprašujem se, zakaj je bil sploh sklenjen takšen družbeni dogovor, če za univerziado ne velja in, kot kaže, ne velja tudi za kandidaturo Beograda za organizacijo poletnih olimpijskih iger.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Hvala lepa. Besedo ima tovariš Marko Jakopič, področje prosvete in kulture, 3. okoliš, Ljubljana Vič-Rudnik.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.JakopičMarko">
                      <speaker>MARKO JAKOPIČ:</speaker>
                      <p>Pravzaprav nimam več kaj dosti povedati, saj je v bistvu vse povedano. Vidim, da so tudi drugi proti tej kandidaturi. Sprašujem se samo, kje je zatajilo, da smo postavljeni pred tako dejstvo, ker je očitno, da univerziada bo. Ali veste, kaj je to? To je zamašek od Coca Cole, ki nosi znak univerziade. Pojavil se je na vžigalicah, lahko kupite majice. Očitno je gospodarstvo, oziroma kdorkoli je bil, dosti prej vedel, kaj se bo zgodilo, kot pa mi. In koliko držav si lahko še privošči v desetih letih toliko tako velikih prireditev, kot si jih bomo mi: zimska, letna univerziada, pa še kakšen bo verjetno vmes. Mislim, da tega niti v Ameriki ne počenjajo, čeprav pojemo njihovo Coca Colo. Menim, da je pri tem zatajil naš samoupravni sistem, ali pa ga sploh ni. Več vam ne morem povedati.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Hvala lepa. Pisnih prijav nimam več. Želi še kdo razpravljati? (Ne.) Želi besedo predstavnik Izvršnega sveta Skupščine SR Slovenije? (Da.) Besedo ima tovariš Franci Pivec, član Izvršnega sveta Skupščine SR Slovenije in predsednik Republiškega komiteja za vzgojo in izobraževanje ter telesno kulturo.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.PivecFranci">
                      <speaker>FRANCI PIVEC:</speaker>
                      <p>Tovariši delegati! Kot je razvidno iz sicer kratkega mnenja Izvršnega sveta Skupščine SR Slovenije, se zavzemamo za kar se da stvarno obravnavo celotne problematike v zvezi z univerziado. Tudi v dosedanjem postopku si je Izvršni svet Skupščine SR Slovenije, vsekakor po naročilu delegatov v Skupščini, prizadeval za pridobitev vseh manjkajočih podatkov in utemeljitev, ki bi bile nujne za celovito videnje pomena in razsežnosti prireditve in s tem v zvezi za odločitve, ki so potrebne za njeno izvedbo. V obravnavi pa moramo ločiti nekaj stvari.</p>
                      <p>Danes obravnavamo družbeni dogovor, torej poseben akt, medtem ko je Skupščina že v predhodnem postopku obravnavala vprašanje oprostitve uvoznih dajatev in o tem sprejela tudi ustrezno normativno rešitev. Prav tako je že obravnavala problematiko preusmeritve davka od prometa proizvodov in tudi v zvezi s tem sprejela ustrezne normativne rešitve. Sedaj se v teh točkah vračamo nazaj na že sprejete odločitve, kar je sicer povsem na mestu glede na razsežnosti celotne prireditve, vendar so formalni postopki v zvezi s tema dvema vidikoma organizacije svetovnih univerzitetnih športnih iger že dokončani oziroma izpeljani.</p>
@@ -467,7 +469,7 @@
                      <p>V Izvršnem svetu Skupščine SR Slovenije in očitno tudi delegati v Skupščini mislimo dosledno vztrajati na izvajanju teh določil družbenega dogovora.</p>
                      <p>Še pojasnilo v zvezi z delegatsko pobudo Zveze socialistične mladine. Dobili ste jo v pisni obliki in menimo, da na nekaj zastavljenih vprašanj v razpravi ob predlogu družbenega dogovora o univerziadi odgovarja tudi mnenje Izvršnega sveta Skupščine SR Slovenije k omenjeni pobudi. Hvala lepa.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Hvala lepa, tovariš Pivec. Ima še kdo kakšno mnenje ali pripombo v zvezi z obrazložitvijo?(Ne.) Če ni razprave, potem razpravo zaključujem in prehajamo na glasovanje.</p>
                      <p>Na glasovanje dajem najprej predlog sklepa v predlogu družbenega dogovora o organiziranju in financiranju XIV. svetovnih Univerzitetnih poletnih iger leta 1987 v Zagrebu.</p>
@@ -487,7 +489,7 @@
                      <p>Predlagam 20 minut odmora.</p>
                   </sp>
                   <stage>(Seja je bila prekinjena ob 10.45 uri in se je nadaljevala ob 11.15 uri.)</stage>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Tovarišice in tovariši! Nadaljujemo sejo zbora.</p>
                      <p>Prehajamo na 5. TOČKO DNEVNEGA REDA - POBUDA ZA SKLENITEV DOGOVORA O SKUPNIH TEMELJIH FINANCIRANJA SPLOŠNIH DRUŽBENIH IN SKUPNIH POTREB S PREDLOGOM DOGOVORA. Pobudo je Skupščini SR Slovenije predložil Zvezni izvršni svet. K pobudi ste prejeli informacijo o razlikah v besedilu pobude, mnenje Izvršnega sveta Skupščine SR Slovenije in mnenja ter ugotovitve Predsedstva Republiške konference Socialistične zveze delovnega ljudstva.</p>
@@ -502,7 +504,7 @@
                      <p>Predstavnik Izvršnega sveta Skupščine SR Slovenije k tej točki dnevnega reda je tovariš dr. Jože Kunič, namestnik republiškega sekretarja za finance. Želi morda besedo? (Ne želi.) Želijo poročevalci delovnih teles besedo? (Ne želijo.)</p>
                      <p>Pričenjam razpravo. K razpravi se je prijavil tovariš Miha Bakovnik s področja gospodarstva, 12. okoliš, Kranj.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.BakovnikMiha">
                      <speaker>MIHA BAKOVNIK:</speaker>
                      <p>Skupina delegatov za Zbor združenega dela iz Kranja se strinja s stališči skupine delegatov za Zbor združenega dela in Zbor občin Skupščine SR Slovenije, vendarle ima ob tem še dodatne pripombe zlasti glede ustreznosti pobude za sklenitev dogovora in nujnosti doslednega uveljavljanja družbenoekonomskih odnosov svobodne menjave dela ter neustreznosti roka uveljavitve dogovora ob dejstvu, da so planski dokumenti za obdobje 1986-1990 že sprejeti oziroma v zaključnih fazah sprejemanja. Prav tako, da je 6-mesečni rok za uskladitev predpisov močno prekratek, saj bo potrebno spremeniti vrsto zakonov in samoupravnih sporazumov, pri čemer ne smemo hiteti. Nadalje nujnosti, da se rok za razpravo o osnutku dogovora podaljša in vanjo vključi tudi samoupravne interesne skupnosti, sindikat in ostale družbenopolitične organizacije ter da se napravi celovita analiza sprememb v obremenitvi gospodarstva, glede na predlagane spremembe osnov in virov zagotavljanja sredstev, predvsem za to, ker se pričakujejo določeni problemi. Spričo dejstva, da izvajanje dogovora zahteva povečano administriranje, je te naloge iz dogovora še potrebno uskladiti, da ne bo večjega administrativnega urejanja kot doslej in glede ugotovitve, da za Slovenijo uveljavitev tega dogovora ne bo pomenila tolikšnih sprememb kot za nekatere druge, saj smo se predlaganim opredelitvam, predvsem glede vsebine posameznih oblik porabe že prej približali.</p>
                      <p>Delegacija ima še konkretne pripombe, in sicer: v 3. členu bi bilo potrebno še bolj natančno opredeliti splošne družbene potrebe, predvsem glede financiranja SIS družbenih dejavnosti prek proračuna. Menimo, da smo v Sloveniji, zagotovo pa v občini Kranj to že precej očistili. Prav tako je v bilancah, ki so sestavni del dogovora, potrebno ohraniti termin "sredstva<pb/>za delo organov družbenopolitične skupnosti", to je upravnih organov, pravosodja, družbenopolitičnih organizacij in ne samo sredstva za delo upravnih organov. Vključiti pa bi bilo potrebno tudi sredstva za urejanje prostora in investicije v negospodarstvo, kot sofinanciranje izgradnje postaj milice, kadrovska stanovanja.</p>
@@ -511,11 +513,11 @@
                      <p>Ta dogovor tudi ne posega v tisto sfero, ki jo pokrivajo SIS materialne proizvodnje, ki so tudi oblika porabe in ki ni nikjer zajeta.</p>
                      <p>Glede na vrsto problemov in nujnosti dograditve tega dogovora predlagamo, naj bo razprava temeljita in naj teče toliko časa, da bomo stvari uskladili. Hvala.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Hvala lepa. Besedo ima tovariš Miha Lesar, področje gospodarstva, 1. okoliš, Ljubljana-Bežigrad.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.LesarMiha">
                      <speaker>MIHA LESAR:</speaker>
                      <p>Tovariš predsednik, spoštovane tovarišice in tovariši delegati! Skupina delegatov, ki delegira delegate v Zbor združenega dela Skupščine SR Slovenije, gospodarsko področje okoliš, je na svoji seji dne 22. maja letos obravnavala gradivo za 2. sejo zbora in imela naslednje pripombe k osnutku tega družbenega dogovora.</p>
                      <p>Skupina delegatov podpira mnenje oziroma pripombe skupine delegatov Zbora združenega dela in Zbora občin za<pb/>proučitev gradiv, ki bodo obravnavana na seji dne 28. maja in so vsebovana v poročilu.</p>
@@ -525,11 +527,11 @@
                      <p>Skupina delegatov nadalje predlaga dopolnitev družbenega dogovora z dodatnimi členi, ki naj opredelijo možnost in zahtevo po vplačevanju vseh obveznosti iz dohodka na zbirni račun pri Službi družbenega knjigovodstva. Od tu naprej naj bi se sredstva pošiljala uporabnikom.</p>
                      <p>Obrazložitev. Mnenja smo, da je v današnjem sistemu izredne razvejanosti, različnih osnov in sedežev za plačevanje prispevkov oziroma obveznosti, takšna rešitev nujna in bi bistveno pocenila sedanje stroške obračuna v organizacijah združenega dela. Hvala lepa.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Besedo ima tovariš Dušan Bažato, gospodarsko področje, 17. okoliš, Nova Gorica.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.BažatoDušan">
                      <speaker>DUŠAN BAŽATO:</speaker>
                      <p>Tovariš predsednik, tovarišice in tovariši delegati! Dovolite mi, da preberem mnenje skupine delegatov okoliša.</p>
                      <p>1. Skrajni čas je že, da to področje čimbolj poenotimo. Iz izrednega gradiva je razvidno, da smo na področju financiranja splošnih in skupnih potreb po posameznih republikah in pokrajinah zelo različni. Te razlike ugotavljamo tudi v združenem delu, ko primerjamo neto osebne dohodke zaposlenih delavcev, ki prebivajo v različnih krajih Jugoslavije. Razlike so tako velike, da povzročajo med delavci precejšnje negodovanje.</p>
@@ -537,11 +539,11 @@
                      <p>Prvič. V drugem odstavku 3. člena dogovora je napisano, da se s prihodki iz prvega odstavka financirajo med ostalim tudi intervencije in investicije v gospodarstvu. Predvsem nam ni<pb/>razumljivo, zakaj naj bi se investicije v gospodarstvu financirale iz teh sredstev.</p>
                      <p>Drugič. Pripomba se nanaša na določilo 15. člena in je povezana s problematiko sprejemanja odločitev obveznosti do financiranja skupnih potreb. V Novi Gorici smo imeli v lanskem letu s tem v zvezi določene probleme, ker nam je družbeni pravobranilec samoupravljanja oporekal način sprejemanja prispevnih stopenj. Sedaj pa vidimo, da se v republiških samoupravnih interesnih skupnostih te obremenitve sprejemajo kar v skupščinah teh skupnosti. Naša želja je, da se postopek sprejemanja teh odločitev natančneje opredeli. Hvala lepa.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Hvala. Kot gost se je prijavil k razpravi tovariš Niko Žibret, predsednik Izobraževalne skupnosti SR Slovenije.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.ŽibretNiko">
                      <speaker>NIKO ŽIBRET:</speaker>
                      <p>Tovariš predsednik, tovarišice in tovariši delegati! Predsedstvo Izobraževalne skupnosti Slovenije meni, da bi pristojni zbori Skupščine SR Slovenije ob obravnavanju pobud in zlasti ob odločanju o predlogu predmetnega dogovora mora zvedeti tudi za stališča samoupravnih interesnih skupnosti družbenih dejavnosti Slovenije, ki jih ta dogovor tudi zadeva. Le-te pa še niso dobile niti besedila predloga. Težava je tudi v tem, da so se skupščine teh skupnosti šele nedavno konstituirale v novi delegatski sestavi. Tako bo skupščina Izobraževalne skupnosti Slovenije imela svojo prvo delovno sejo, naslednjo sejo šele v začetku julija, predvidoma 2. julija, zato do takrat ne moremo nastopiti pred zbori Skupščine SR Slovenije z avtentičnimi stališči.</p>
                      <p>Po našem mnenju bodo tudi za Izobraževalno skupnost Slovenije v načelu sprejemljive pripombe, ki jih je v svojem mnenju podal Izvršni svet Skupščine SR Slovenije. Vendar v predsedstvu in v strokovni službi te skupnosti izpostavljamo še nekaj odprtih vprašanj, kot so na primer:</p>
@@ -549,11 +551,11 @@
                      <p>Drugič. V skladu s 112. členom zakona o združenem delu bi dogovor republik in avtonomnih pokrajin lahko določil skupna merila za usklajevanje obveznosti za zadovoljevanje skupnih potreb, ki se poravnavajo iz dohodka, z gibanjem družbenega proizvoda vsega gospodarstva in produktivnosti družbenega proizvoda v mejah, določenih v planih družbenopolitičnih skupnosti. Predloženi dogovor pa ima bolj prvine dosedanjih zveznih intervencijskih zakonov za omejevanje porabe - v spominu so nam zakoni o začasni omejitvi z delom družbenih sredstev in tako naprej, ki so veljali v preteklih letih. Negativne posledice iz teh zakonov so nas tudi spodbudile v tem delu razprave, saj se niti ne<pb/>predvideva možnosti, da družbenopolitične skupnosti v svojih planih selektivno opredelijo prednosti pri zadovoljevanju skupnih potreb glede na specifiko svojega območja. Linearen pristop verjetno ni sprejemljiv. Tako se ohranjajo tendence po urejanju skupne porabe kljub že večkrat verificiranim stališčem, na primer 19 seje Centralnega komiteja Zveze komunistov Slovenije, dalje, v kritični analizi o družbenopolitičnem sistemu in tako dalje, da ne gre za porabo, temveč za eno od oblik družbene reprodukcije. Vzgoja in izobraževanje sta po splošnem prepričanju eden od bistvenih pogojev za nemoten proces materialne proizvodnje in vseh drugih dejavnosti oziroma celo najbolj bistven pogoj za hitrejši razvoj tega procesa in ne poraba.</p>
                      <p>Predpostavljamo, da bi razprava v skupščini Izobraževalne skupnosti Slovenije lahko prispevala k razjasnitvi stališč do predlaganega dogovora, zato predlagamo, naj pristojni zbori Skupščine SR Slovenije odložijo odločanje o predlogu dogovora dokler ne bodo znana stališča skupščine Izobraževalne skupnosti Slovenije in tudi skupščin samoupravnih interesnih skupnosti drugih družbenih dejavnosti. Hvala lepa.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Hvala lepa. Besedo ima tovariš Albert Marzidovšek, delegat gospodarskega področja, 39. okoliš, Maribor-Rotovž.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.MarzidovšekAlbert">
                      <speaker>ALBERT MARZIDOVŠEK:</speaker>
                      <p>Tovariš predsednik, tovarišice in tovariši delegati! V zvezi s pobudo za sklenitev družbenega dogovora o skupnih osnovah financiranja splošnih in skupnih potreb z osnutkom dogovora daje delegacije Skupščine občine Maribor-Rotovž naslednje pripombe.</p>
                      <p>Delegacija ugotavlja, da predlagani osnutek za sklenitev družbenega dogovora o skupnih osnovah financiranja splošnih družbenih in skupnih potreb, ki ga je predložil Zvezni izvršni svet, ne prispeva k večji racionalizaciji na področju sistema financiranja skupnih družbenih potreb, zlasti na področju večje smotrnosti pri opredeljevanju osnov, od katerih se obračunavajo prispevki in davki. Gre za vprašanje različnih prispevkov, ki jih morajo službe za obračun osebnih dohodkov v organizacijah združenega dela spremljati za vse družbenopolitične skupnosti v občinah, republikah in avtonomnih pokrajinah, kjer je stalno bivališče zaposlenih delavcev.</p>
@@ -561,11 +563,11 @@
                      <p>Sicer pa v določenih vsebinskih opredelitvah prinaša osnutek družbenega dogovora premike pri opredeljevanju skupnih in<pb/>splošnih družbenih potreb ter opredelitvi osnov kot vira financiranja.</p>
                      <p>Hkrati pa ugotavljamo, da se s tem aktom nadaljuje tendenca uvajanja novih obrazcev, podatkov in informacij ter se uvaja nova kategorija bruto osebnih dohodkov. Eden temeljnih ciljev predlagateljev novih aktov mora biti tudi v skladu s stabilizacijskim programom racionalizacije v poplavi podatkov, kvalitetne informacije in predvsem razbremenjevanje organizacij združenega dela režijskega dela. Ta cilj s predloženim osnutkom družbenega dogovora ni dosežen, zato ga ne moremo sprejeti in predlagamo kompletno revizijo obstoječih podatkov v množici obrazcev. Hvala lepa.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Hvala lepa. Besedo ima dr. Miran Mihelčič, prosvetno-kulturno področje, 3. okoliš, Ljubljana Vič-Rudnik.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.MihelčičMiran">
                      <speaker>DR. MIRAN MIHELČIČ:</speaker>
                      <p>Tovariš predsednik, tovarišice in tovariši delegati! Dobro pripravljene in strokovno utemeljene razprave delegatov pred menoj mi omogočajo, da svojo razpravo skrajšam na potreben minimum.</p>
                      <p>Najprej bi ugotovil, da pobuda s predlogom dogovora, zlasti pa predlog dogovora sam, še vsebuje nekatere nedorečenosti in nejasnosti. Pričakujemo pa, da bomo sprejemali strokovno temeljito pripravljena gradiva.</p>
@@ -575,18 +577,18 @@
                      <p>V zvezi s tem bi še to omenil, da si delegati v samoupravnih interesnih skupnostih in skupščinah družbenopolitičnih skupnosti želimo včasih bolj samostojno odločati, kot pa da bi nas okvirjali določeni trdni okviri.</p>
                      <p>V zvezi z vsem tem predlagam, da Zbor združenega dela sprejme sklep, da se predlog družbenega dogovora preoblikuje v osnutek zato, da bomo imeli dovolj časa za temeljito in strokovno<pb/>poglobljeno razpravo, še zlasti, ker se mi zdi, da je uvajanje novih osnov in meril, ki ne bodo bistveno prispevale, vsaj po dosedanjih ocenah ne, k nekim spremembam, ker ne poznamo torej njihovih učinkov. Uveljavljanje tega dogovora sredi srednjeročnega obdobja pa je nekoliko sporno.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Prijav za razpravo nimam več. Pisne prijave so oddali delegati 47. okoliša, Lendava, 9. okoliša, Grosuplje, 32. okoliša, Velenje, 8. okoliša, Litija, 20. okoliša, Ajdovščina, 19. okoliša, Idrija, 25. okoliša, Novo mesto. Te razprave bodo sestavni del zapisnika in bodo tudi strokovna podlaga za delo predlagatelja oziroma pooblaščenega predstavnika Skupščine pri medresorski skupini v Beogradu.</p>
                      <p>Želi še kdo razpravljati? (Ne.) Želi razpravljati predstavnik Izvršnega sveta Skupščine SR Slovenije? (Ne.)</p>
                      <p>S tem prekinjam razpravo. Skupino, ki smo jo imenovali, da prouči to točko dnevnega reda, prosim, da se sestane skupaj z delegati Zbora občin in Družbenopolitičnega zbora.</p>
                      <p>Ker smo ugotovili, da je na sejo prišlo še nekaj delegatov, prosim za DODATNO POROČILO VERIFIKACIJSKE KOMISIJE.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.HočevarMiran">
                      <speaker>MIRAN HOČEVAR:</speaker>
                      <p>Komisija za verifikacijo pooblastil ugotavlja, da so na sejo kasneje prišli delegati z gospodarskega območja, 27. okoliš, Krško Jože Bažinč, 42. okoliš, Maribor-Tezno Jože Valentinčič in Rado Mlakar ter s kmetijskega področja, 1. okoliš, Kranj Janez Klopčič. Hvala.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Pooblastila so v redu? (Da.) Dajem dodatno poročilo verifikacijske komisije v razpravo. Ima kdo kakšno pripombo? (Ne.) Potem dajem to poročilo oziroma dodatek k poročilu na glasovanje.</p>
                      <p>Kdo je za? (141 delegatov.) Je kdo proti? (Nihče.) Se je kdo vzdržal? (Nihče.)</p>
@@ -594,7 +596,7 @@
                      <p>Prehajamo na 6. TOČKO DNEVNEGA REDA - OSNUTEK ZAKONA O SPREMEMBAH IN DOPOLNITVAH ZAKONA O ZAJAMČENEM OSEBNEM DOHODKU IN IZPLAČEVANJU OSEBNIH DOHODKOV V ORGANIZACIJAH ZDRUŽENEGA DELA, KI POSLUJEJO Z IZGUBO. Osnutek zakona je Skupščini SR Slovenije predložil v obravnavo Izvršni svet Skupščine SR Slovenije. Osnutek zakona je obravnavala tudi Zakonodajno-pravna komisija, ki ni imela pripomb.</p>
                      <p>Predstavnik Izvršnega sveta Skupščine SR Slovenije k tej točki dnevnega reda je tovariš Franc Škufca, namestnik predsednika Republiškega komiteja za delo. Želi besedo? (Da.) Prosim, tovariš Škufca.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.ŠkufcaFranc">
                      <speaker>FRANC ŠKUFCA:</speaker>
                      <p>Tovariš predsednik, tovarišice in tovariši delegati! Skupščina SR Slovenije je na 55. seji 27. novembra razpravljala in sprejela predlog za izdajo zakona o spremembah in dopolnitvah zakona o zajamčenem osebnem dohodku in izplačevanju osebnih dohodkov v organizacijah združenega dela, ki poslujejo z izgubo. S predvidenimi spremembami in dopolnitvami naj bi<pb/>navedeni zakon uskladili z zveznim zakonom o sanaciji in prenehanju organizacij združenega dela.</p>
                      <p>Zvezni zakon o sanaciji je pred spremembami, ki so bile sprejete v letu 1985, pooblaščal republike, da s svojim zakonom določijo višino osebnega dohodka, ki ga lahko izplačujejo organizacije združenega dela v primeru poslovanja z izgubo po zaključnem računu. S spremembami in dopolnitvami zakona o sanaciji pa je že določena višina osebnih dohodkov, ki jih smejo izplačevati organizacije, ki izkažejo izgubo po zaključnem računu.</p>
@@ -606,12 +608,12 @@
                      <p>Po zaključnem računu za lansko leto je v Sloveniji izkazalo izgubo 221 organizacij združenega dela z 48000 zaposlenimi delavci, od tega je nekrito izgubo izkazalo 85 organizacij združenega dela. V periodičnem obračunu za I. trimesečje letošnjega leta je izgubo izkazalo 717 organizacij združenega dela, v katerih dela 140000 delavcev. V primeru poslovanja z izgubo v prvem trimesečju ni določenih omejitev za izplačevanje osebnih dohodkov. Zaradi tega je potrebno v vseh tistih organizacijah združenega dela, ki so izkazale izgubo, sprejeti čimprej ustrezne ukrepe, da se izboljšajo rezultati poslovanja do konca prvega polletja letošnjega leta.</p>
                      <p>V skladu z navedenimi razlogi Izvršni svet Skupščine SR Slovenije predlaga, da sprejmete osnutek zakona o spremembah in dopolnitvah zakona o zajamčenem osebnem dohodku in izplačevanju<pb/>osebnih dohodkov v organizacijah združenega dela, ki poslujejo z izgubo. Hvala lepa.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Hvala lepa. Želijo poročevalci delovnih teles razpravljati? (Ne želijo.)</p>
                      <p>Pričenjam razpravo. Želi kdo besedo? (Da.) K razpravi se je prijavil tovariš Zlatko Erlih, gospodarsko področje, 45. okoliš, Gornja Radgona.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.ErlihZlatko">
                      <speaker>ZLATKO ERLIH:</speaker>
                      <p>Tovarišice in tovariši delegati! Skupina delegatov 45. okoliša za Zbor združenega dela občine Gornja Radgona in občine Ljutomer je na svoji seji dne 23. maja obravnavala osnutek zakona o spremembah in dopolnitvah zakona o zajamčenem osebnem dohodku in izplačevanju osebnih dohodkov o organizacijah, ki poslujejo z izgubo.</p>
                      <p>Delegati se načelno strinjamo z usmeritvami in tendencami osnutka zakona, vendar menimo, da zakon ne upošteva, da so določene organizacije združenega dela v neenakopravnem ekonomskem položaju v primerjavi z drugimi. V mislih imamo organizacije, ki izgubljajo dohodek na področju izvoza in organizacije s področja kmetijstva, ki zaradi disparitet ugotavljajo izgubo.</p>
@@ -619,29 +621,29 @@
                      <p>Tudi agroživilski kompleks občine ugotavlja v prvem četrtletju negativne finančne rezultate. Disparitete med vhodnimi cenami surovin in reprodukcijskega materiala ter cenami končnih proizvodov permanentno že nekaj let povzročajo izpad dohodka. Ta razkorak je prišel tako daleč, da temeljne organizacije v reprodukcijski verigi poslujejo z izgubami.</p>
                      <p>V taki situaciji ne moremo govoriti o enakopravnem položaju vseh gospodarskih subjektov na področju pridobivanja dohodka, zato predlagamo, da se našteti problemi najprej razrešijo, šele potem bodo podani objektivni pogoji za enakopravno ravnanje vseh organizacij na področju, ki ga obravnava ta osnutek zakona. Hvala lepa.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Hvala lepa. Besedo ima tovarišica Tanja Halozar-Terlovič, gospodarsko področje, 39. okoliš, Maribor-Rotovž.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.HalozarTerlovičTanja">
                      <speaker>TANJA HALOZAR-TERLOVIČ:</speaker>
                      <p>Tovariš predsednik, tovarišice in tovariši delegati! Skupina delegatov 39. okoliša, Maribor-Rotovž ugotavlja, da nenehno parcialno dopolnjevanje in spreminjanje zakona o zajamčenem osebnem dohodku ter izplačevanju osebnih dohodkov v organizacijah združenega dela, ki poslujejo z izgubo, ne daje kvalitetnih možnosti za sanacijo organizacij združenega dela, ki imajo možnost trajne sanacije. Zato predlagamo celovito revizijo zakona s tem, da je zborom združenega dela dana<pb/>pristojnost oceniti, kdaj obstajajo realne možnosti za sanacijo organizacije združenega dela. Takšnim organizacijam združenega dela morajo biti dane vse možnosti normalnega nagrajevanja delavcev, saj je eden izmed izredno pomembnih elementov sanacije tudi kadrovska sanacija.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Hvala lepa. Besedo ima tovariš Horst Helbl, gospodarsko področje, 37. okoliš, Radlje ob Dravi.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.HelblHorst">
                      <speaker>HORST HELBL:</speaker>
                      <p>Tovariš predsednik, tovarišice in tovariši delegati! Skupina delegatov za delegiranje delegatov v Zbor združenega dela Skupščine SR Slovenije, gospodarsko področje, 37. okoliš, je k osnutku zakona o spremembah in dopolnitvah zakona o zajamčenih osebnih dohodkih in izplačevanju osebnih dohodkov v organizacijah združenega dela, ki poslujejo z izgubo, sprejela naslednja stališča in predloge.</p>
                      <p>Ugotavljamo, da je sicer potrebno uskladiti republiške predpise z zvezno zakonodajo, vendar menimo, da je predhodno nujno ugotoviti tudi posledice sprememb. Dosedanji veljavni republiški zakon o spremembah in dopolnitvah zakona o zajamčenih osebnih dohodkih in izplačevanju osebnih dohodkov v organizacijah združenega dela, ki poslujejo z izgubo, je omogočil, da je skupščina družbenopolitične skupnosti ali od nje pooblaščeni organ presodil na osnovi predhodnih proučitev objektivnosti izgube, da lahko izgubaši izplačujejo višje osebne dohodke od zajamčenih. Tako se je lahko na nivoju občine presojalo in ugotavljalo, ali so vzroki za izgubo pri organizacijah združenega dela sezonske oziroma prehodne narave, ali so vzroki globji in jih v krajšem časovnem obdobju ne bo mogoče odpraviti. Na osnovi temeljite presoje je nato bilo dano mnenje v zvezi z izplačevanjem osebnih dohodkov.</p>
                      <p>Osnutek sprememb zakona takega pristopa ne dopušča, kar se bo negativno odrazilo zlasti pri organizacijah združenega dela, kjer je izguba sezonska oziroma prehodne narave. Predvsem obstaja bojazen, da bodo nižji osebni dohodki imeli za posledico odliv predvsem strokovnih kadrov, kar se bo v končni fazi odrazilo tudi v poslabšanju gospodarjenja organizacij združenega dela in njihove uvrstitve na listo večjih izgubašev. Menimo, da je zaradi vseh navedenih razlogov potrebno temeljito proučiti učinke in spremembe dopolnitve zakona. Hvala.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Hvala lepa. Besedo ima tovariš Igor Klinar, delegat gospodarskega področja, 46. okoliš, Murska Sobota.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.KlinarIgor">
                      <speaker>IGOR KLINAR:</speaker>
                      <p>Tovarišice in tovariši delegati! Skupina delegatov za Zbor združenega dela Skupščine SR Slovenije iz občine Murska Sobota podpira poročilo skupine delegatov za proučitev gradiv. Prav je, da se zavzemamo za enotne rešitve na tem področju, vendar menimo, da sedanji način razreševanja ni edini niti najbolj učinkovit. Zakon izgubo jemlje kot danost in se ne poglablja v njene vzroke. Vemo pa, da je pri nas veliko izgub povzročenih z neustrezno primarno delitvijo družbenega<pb/>proizvoda oziroma z administrativnimi ukrepi določanja cen in pogojev poslovanja. V takih primerih je uporaba določil tega zakona nepravična in nedopustna. Vsi dosedanji ukrepi, ki so bili usmerjeni v višino sredstev za osebne dohodke, in to ne samo v organizacijah združenega dela z izgubo, so izhajali iz dohodka, pri čemer ni upoštevano to, v kakšnem položaju je posamezna panoga oziroma dejavnost v primarni delitvi družbenega proizvoda.</p>
                      <p>V poročilu skupine delegatov za oceno gradiv je izražena utemeljena skrb, da bi togo izvajanje določil tega zakona pomenilo uzakonitev nepravičnosti. Zato predlagamo, da tudi v bodoče zagotovimo selektiven pristop in se s tem izognemo neumestnim poenostavitvam na tem področju. Mnenja smo, da bi morali občinski izvršni sveti prevzeti obveznost, da obravnavajo vsako organizacijo združenega dela z izgubo, in sicer vsako posebej. V primerih, ko za izgubo ni kriva organizacija združenega dela, naj bi nadalje obveljal 20. člen republiškega zakona, ne pa samo vnaprejšnje izjeme, kot so dane v zakonu.</p>
@@ -649,21 +651,21 @@
                      <p>Strinjamo se, da se v aktivnosti glede posledic uveljavitve tega zakona vključi Gospodarska zbornica oziroma splošna združenja, hkrati pa predlagamo, da ocenijo morebitne posledice v proizvodnji in na trgu. Če je že potrebno, da se tudi družbenopolitične skupnosti vključujejo v upravljanje z družbenimi sredstvi, naj to delajo samo izjemoma, restriktivno z zakonsko regulativo.</p>
                      <p>V poročilu je navedena premajhna skrb organizacij združenega dela pri izdelavi kvalitetnih sanacijskih programov. To je res, res pa je tudi, da je odnos družbenopolitičnih skupnosti do sanacijskih ukrepov v posameznih organizacijah združenega dela formalističen, zato se na ta način niso in ne bodo uspešno reševale motnje v poslovanju organizacij združenega dela. Takšen način tudi odvrača poslovodne strukture od iskanja in odpravljanja pravnih vzrokov, kateri bi morali imeti podporo v družbenopolitični skupnosti. Avtonomno reševanje problemov v združenem delu ob zagotoviti približno enakih pogojev poslovanja za vse panoge bi bistveno zmanjšal nepotrebne intervencije v družbenopolitični skupnosti v poslovanju organizacij združenega dela. Zato bi bilo bolje, da vodstva družbenopolitičnih skupnosti poskrbijo oziroma delujejo v smeri urejanja ravnotežnih pogojev gospodarjenja za vse, od vodstev organizacij združenega dela z izgubo pa zahtevajo jasne programe za odpravo izgub. Doseganje obeh ciljev, tako vodstev družbenopolitičnih skupnosti kot vodstev organizacij združenega dela, naj bo kriterij njihove sposobnosti za opravljanje svojih funkcij.<pb/> Menimo, da bi bistveno drugačen pristop k razreševanju ekonomskih problemov v veliki meri odpravil potrebo po sprejemanju takšnih zakonov, kot je ta. Menimo, da naj je že veliko, ki pričakujemo takšen pristop. Hvala lepa.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Hvala. Besedo ima tovariš Andrej Radelj, gospodarsko področje, 28. okoliš, Trbovlje.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.RadeljAndrej">
                      <speaker>ANDREJ RADELJ:</speaker>
                      <p>Skupina delegatov 28. okoliša je razpravljala o zakonu o zajamčenem osebnem dohodku. V zvezi s tezami za osnutek zakona o spremembah in dopolnitvah zakona o zajamčenem osebnem dohodku, ki so izšle v skupščinskem Poročevalcu številka 33/85, ter osnutkom omenjenega zakona, ki je izšel v skupščinskem Poročevalcu številka 10/85, je SOZD REK Edvarda Kardelja posredoval sklepe delavskega sveta SOZD REK Edvarda Kardelja Republiškemu komiteju za delo in Republiškemu komiteju za energetiko že v novembru leta 1985 in posredoval naslednje pripombe.</p>
                      <p>Nesprejemljivo je, da so rudniki in elektrogospodarstvo obravnavani v zakonu o zajamčenem osebnem dohodku brez izjeme, dokler se ne razreši njihov družbenoekonomski položaj. Prosimo, da predlagate takšno zakonodajno rešitev, ki bo omogočala rudnikom in elektrogospodarstvom normalno izplačevanje osebnih dohodkov v primeru izpolnjevanja dogovorjenih planov.</p>
                      <p>Obrazložitev. Če se sprejme republiški zakon o zajamčenem osebnem dohodku v predlagani obliki, potem je potrebno dejavnosti elektrogospodarstva in premogovništva omogočiti oblikovanje cen v procesu dogovarjanja med proizvajalci in uporabniki v interesni skupnosti energetike brez administrativnih posegov Zveznega izvršnega sveta. V primeru, če namerava Zvezni izvršni svet še nadalje neposredno odrejati cene električne energije in premoga, kar ni v skladu z zakonom o družbeni kontroli cen, je nujno zagotoviti takšno zakonodajno rešitev, iz katere bo izvzeta dejavnost električne oziroma organizacije združenega dela, ki so opredeljene v 6. členu zakona o družbeni kontroli cen. Hvala.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Prijavnic za razpravo nimam več. Želi še kdo razpravljati? Prosim, besedo ima tovariš Peter Toš, predsednik Republiškega komiteja za delo.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.TošPeter">
                      <speaker>PETER TOŠ:</speaker>
                      <p>Tovariš predsednik, tovarišice in tovariši delegati! Pripombe, ki ste jih imeli k rešitvam, ki jih vsebuje veljavni zakon o sanaciji in prenehanju organizacij združenega dela, ki je bil nazadnje noveliran sredi lanskega leta, so v bistvu bile tudi pripombe, ki smo jih imeli v Republiki Sloveniji in ki so jih sporočali naši delegati v Zvezni skupščini v postopku sprejemanja in dopolnjevanja tega zakona.</p>
                      <p>Moram reči, da tudi mi menimo in smo menili ves čas, da so rešitve, ki jih vsebuje naš zakon v SR Sloveniji, glede na mnoge vzroke, ki pogojujejo izgube pri poslovanju organizacij združenega dela, ustreznejše od rešitev, ki jih uveljavlja zvezni zakon. Toda drugo dejstvo je prav tako nesporno, namreč, da zvezni zakon neposredno z uveljavljenimi spremembami v lanskem letu pričenja urejati področje omejevanja pri izplačilu osebnih<pb/>dohodkov, v organizacijah, ki izkazujejo izgubo tako po zaključnem računu kot tudi v primeru izgube pri tekočem poslovanju. In prav to dejstvo, ki je bilo izpričano že v nekaj pobudah Zveznega izvršnega sveta in Službe družbenega knjigovodstva Jugoslavije, da je potrebno čim hitreje izvesti postopek uskladitve neusklajenih republiških predpisov z že veljavnim zveznim zakonom, je v bistvu bilo podmena za stališča delovnih teles, vključujoč pri tem Zakonodajno-pravno komisijo Skupščine in za stališča Izvršnega sveta Skupščine SR Slovenije, da predloži spremembe in dopolnitve republiškega zakona.</p>
@@ -672,7 +674,7 @@
                      <p>Zato kljub vsemu, glede na dosedanji potek razprave in opredelitev v republiški skupščini in glede na to, da med vašimi stališči, izpričanimi v razpravi, tudi v Izvršnem svetu Skupščine SR Slovenije pravzaprav v veliki meri soglašamo, predlagam, da ta razprava ne bi vplivala na odmik sprejetja osnutka tega zakona, saj je nenazadnje pred nami še rok, v katerem bomo skušali doseči še morebitne možne dopolnitve in spremembe rešitev v zveznem zakonu, dokler ne bi dokončno uveljavili z republiškim zakonom, ki je danes v razpravi, prenehanje veljavnosti določil, ki so v bistvu pomenila specifičen način urejanja te problematike v SR Sloveniji.</p>
                      <p>Za konec pa naj povem samo še to. Vedeti pri vsem tem pa je treba tudi to, da je v lanskem letu po podatkih in analizi podatkov nedvomno bilo ugotovljeno, da smo zaobrnili nekoliko poprejšnjega leta prisotne tendence, da so osebni dohodki v organizacijah, ki so pri poslovanju izkazovale izgubo, bili praviloma enaki ali v nekaterih primerih celo hitrejši v svoji rasti in tudi po ravni kot v organizacijah, ki so pri poslovanju izkazovale dohodek. V lanskem letu smo konec leta prvič po nekaj letih zabeležili ponovno nižjo raven osebnih dohodkov v organizacijah, ki so pri poslovanju izkazovale izgube, toda podatki za prvo četrtletje letošnjega leta opozarjajo, da se ta nižja raven ponovno približuje povprečnemu osebnemu dohodku v dejavnosti, ki takšni organizaciji z izgubo pripadajo. To je nedvomno slab podatek in slaba tendenca glede na sistemske rešitve, ki jih imamo v zakonu o združenem delu, pa tudi glede na družbene opredelitve, ki smo jih zapisali v mnogih družbenih dokumentih glede odnosa dohodek, izguba, osebni dohodek. Tudi to bi veljalo<pb/>imeti v mislih, ko se boste odločali o predlogu, ki ga ponuja Izvršni svet Skupščine SR Slovenije. Hvala lepa.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Hvala. Želi še kdo razpravljati? (Nihče.) Delegate bi obvestil, da so pismene razprave oddali delegati z gospodarskega področja občin Tolmin, Idrija, Velenje in Tržič. Dobili smo tudi delegatsko pobudo iz Murske Sobote, ki jo bomo posredovali predlagatelju v proučitev.</p>
                      <p>Želi še kdo razpravljati? (Nihče.) Zaključujem razpravo in zboru predlagam, da sprejme naslednji sklep:</p>
@@ -688,30 +690,30 @@
                      <p>Vložen je tudi amandma skupine delegatov Maribor-Tabor, o katerem moramo prav tako glasovati, ali ga bo zbor obravnaval.</p>
                      <p>Prosim predstavnika skupine delegatov iz Novega mesta, da pojasni razloge za prepozno vložitev amandmaja.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.LukšičJože">
                      <speaker>JOŽE LUKŠIČ:</speaker>
                      <p>Tovariš predsednik, tovarišice in tovariši delegati 1 Dovolj utemeljenega predloga, kot ga zahteva poslovnik, nimam, vendar kot je vsebina amandmaja podobna ostalim amandmajem, ga bomo, če bo potrebno umaknili.</p>
                   </sp>
                   <pb/>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Hvala. Ima kdo kakšno pripombo? (Ne.) Prehajamo na glasovanje o tem, ali bo zbor obravnaval prepozno vloženi amandma iz Novega mesta.</p>
                      <p>Kdo je za to, da obravnavamo amandma skupine delegatov iz Novega mesta? (128 delegatov.) Je kdo proti? (5 delegatov.) Se je kdo vzdržal? (2 delegata.)</p>
                      <p>Ugotavljam, da bomo amandma vsebinsko vključili v razpravo, ker je bil sprejet z večino glasov.</p>
                      <p>Prosim delegata iz občine Maribor-Tabor, da obrazloži razloge za prepozno vložitev amandmaja.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.VokačPavel">
                      <speaker>PAVEL VOKAČ:</speaker>
                      <p>Tovarišice in tovariši delegati! Naša skupina je na podlagi poznejšega mnenja Društva nekadilcev Maribor ponovno razpravljala o spornem členu o kajenju in se odločila, da pozneje predlaga še ta amandma.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Hvala lepa. Začenjam razpravo. Želi kdo besedo? (Nihče.)</p>
                      <p>Kdo je za to, da vključimo amandma v vsebinsko razpravo? (127 delegatov.) Je kdo proti? (8 delegatov.) Se je kdo vzdržal? (3 delegati.)</p>
                      <p>Ugotavljam, da bomo tudi ta amandma vzeli v vsebinsko obravnavo kljub prepozni vložitvi.</p>
                      <p>Predstavnik Izvršnega sveta Skupščine SR Slovenije k tej točki dnevnega reda je tovariš Milan Kalčič, namestnik predsednika Republiškega komiteja za delo, ki bo imel uvodno obrazložitev.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.KalčičMiran">
                      <speaker>MIRAN KALČIČ:</speaker>
                      <p>Tovarišice in tovariši delegati, tovariš predsednik! Pred nami je predlog zakona o spremembah in dopolnitvah zakona o varstvu pri delu, ki ureja materijo, o kateri je potrebno spregovoriti nekaj uvodnih besed.</p>
                      <p>Predlog zakona je nastajal na podlagi tvornega sodelovanja vseh skupščinskih delovnih teles, ob sodelovanju tega zbora in ne nazadnje tudi ob sodelovanju vseh tistih, ki so sodelovali v najširši javni razpravi, ki je bila organizirana ob osnutku zakona. To javno razpravo je organizirala in vodila Zveze sindikatov Slovenije.</p>
@@ -735,11 +737,11 @@
                      <p>Za zaključek naj povem še to. S sprejemom tako izpopolnjenega predloga zakona bo uveljavljena razvitejša sistemska podlaga za družbeno organizirano skrb za varno delo, predvsem pa še za nadaljnjo humanizacijo pogojev dela in to iz vseh razlogov, ki sem jih navedel. Po drugi strani menimo, da bomo z novelo zakona prispevali k procesu razvijanja zavesti vseh nas, delavcev samoupravljavcev, in to na tak način, da bo varstvo pri delu postalo ne le zgolj pravica slehernega pač pa tudi njegova obveznost.</p>
                      <p>Predlagamo, da po opravljeni razpravi predlog zakona o spremembah in dopolnitvah zakona o varstvu pri delu sprejmete, vključno z amandmaji, ki jih je predlagal Izvršni svet Skupščine SR Slovenije. Hvala lepa.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Hvala lepa. Prosim poročevalca skupine delegatov, podpredsednika zbora, tovariša Franca Jelena, da poroča v imenu skupine.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.JelenFranc">
                      <speaker>FRANC JELEN:</speaker>
                      <p>Tovariš predsednik, tovarišice in tovariši delegati! Dovolite, da vam posredujem nekaj osnovnih zaključkov s seje skupine delegatov za proučitev gradiv za današnjo sejo zbora.</p>
                      <p>Skupina je ugotovila, da je predlagatelj pri pripravi predloga zakona o varstvu pri delu v bistvenih vprašanjih sledil stališčem in usmeritvam delegatov ob obravnavi osnutka zakona, skupin delegatov za Zbor združenega dela Skupščine SR Slovenije, delovnim telesom zbora in Skupščine ter sklepom zbora.</p>
@@ -748,17 +750,17 @@
                      <p>Nadalje skupina meni, da je s predlaganim amandmajem k 34. členu predloga zakona zadoščeno zahtevam, da se pri opredeljevanju prostorov, kjer kajenje ni dovoljeno, zaradi varstva pri delu in ker je tehnologija dela taka, opredeli še dodaten kriterij, da v prostorih, kjer se srečuje več ljudi: sejne sobe, lokali, javna prevozna sredstva in drugo, kajenje ni dovoljeno, zato, ker ga ti ljudje zaradi odnosa do lastnega zdravja odklanjajo. S tem kriterijem pa je na določen način ugodeno tudi zahtevi društev nekadilcev, kar je navedeno že v poročilu skupine .</p>
                      <p>Posredoval sem glavne zaključke skupine za proučitev gradiv z dne 15. maja 1986. Hvala lepa.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Hvala lepa tovarišu Jelenu. Pričenjam razpravo. K razpravi se je prijavil tovariš Jože Dernač, delegat skupine delegatov za gospodarsko področje, 27. okoliš, Krško.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DernačJože">
                      <speaker>JOŽE DERNAČ:</speaker>
                      <p>Tovariš predsednik, tovariši delegati in tovarišice delegatke! Skupina delegatov iz Posavja ima pripombo na obrazložitev amandmaja k 34. členu zakona o spremembah in dopolnitvah zakona o varstvu pri delu. Slišali smo sicer, da se amandma k 34. členu umika, toda kljub temu bom navedel pripombe.</p>
                      <p>Obrazložitev amandmaja glede opredelitve prostorov, kjer kajenje ni dovoljeno zaradi varstva pri delu, ki lahko povzroči posledice, kot so požar, eksplozija in podobno in v prostorih, kjer se zadržuje več ljudi, je preveč načelna. Predlagamo, da se obrazložitev dopolni, in sicer:</p>
                      <p>Opredelitev prostorov, kjer kajenje ni dovoljeno zaradi varstva pri delu, ker lahko povzroči posledice, kot so požar in podobno in v prostorih, kjer se zadržujeta dva oziroma več ljudi, kot so delo z mladoletniki, delo v pisarnah, lakirnicah, sestankih, prevoznih sredstvih in podobno. Še vedno se dogaja, da smo nekadilci nemočni proti kadilcem. Hvala lepa.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Ugotoviti moramo, da je to pripomba k obrazložitvi amandmaja, ni pa to amandma.</p>
                      <p>Želi še kdo razpravljati? (Nihče.) Ker imamo dva amandmaja delegatov, skupina delegatov je svojega umaknila, predlagam pa, da za proučitev teh amandmajev imenujemo skupino delegatov.</p>
@@ -768,14 +770,14 @@
                      <p>Skupina delegatov je končala z delom in nadaljujemo z obravnavo pobude za sklenitev dogovora o skupnih temeljih financiranja splošnih družbenih in skupnih potreb s predlogom zakona.</p>
                      <p>Besedo ima tovariš Igor Kadunc.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.KaduncIgor">
                      <speaker>IGOR KADUNC:</speaker>
                      <p>Skupina delegatov predlaga, da se predlagani sklep dopolni v 3. točki, kjer se v tretji vrstici doda besedilo, ki ga bom prebral.</p>
                      <p>"V smislu 347. člena poslovnika Skupščine Skupščina SR Slovenije pooblašča za usklajevanje dogovora v skladu z navedenimi pripombami" in sedaj novo besedilo: "in pripombami delegatov na seji zborov" potem se pa nadaljuje "tovariša Rudija Šepiča". Skupina meni, da ni razlogov, da bi predlog dogovora prekvalificirali v osnutek, ker se bo postopek usklajevanja nadaljeval. V besedilu 3. točke tudi piše, da je Rudi Sepič oziroma Izvršni svet Skupščine SR Slovenije zadolžen, da o poteku usklajevanja poroča Skupščini SR Slovenije, nakar bo Skupščina dokončno sklepala o dogovoru in določila podpisnika tega dogovora. Tudi v tem primeru bomo dobivali poročila in bomo o tem, kaj je bilo narejeno, sproti razpravljali.</p>
                      <p>Poleg tega so bile danes tudi pripombe, ki jih nismo mogli pregledati in ugotoviti ali so ustrezna ali ne, zato bo prvo poročilo verjetno vsebovalo poleg usklajevanj tudi upoštevanje današnje razprave na seji in pisno oddanih pripomb.</p>
                      <p>Predlagamo, da se predloženi sklep z dopolnilom sprejme .</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Pričenjam razpravo o poročilu skupine. Želi kdo razpravljati? (Ne.)</p>
                      <p>Sedaj dajem na glasovanje sklep z dopolnitvijo skupine.</p>
@@ -788,7 +790,7 @@
                      <p>Prehajamo na 8. TOČKO DNEVNEGA REDA - OSNUTEK ZAKONA O SPREMEMBAH IN DOPOLNITVAH ZAKONA O UREDITVI DOLOČENIH VPRAŠANJ S PODROČJA VARNOSTI ŽELEZNIŠKEGA PROMETA. Osnutek zakona je Skupščini predložil v obravnavo Izvršni svet Skupščine SR Slovenije. Osnutek zakona je obravnavala tudi Zakonodajno-pravna komisija, ki ni imela pripomb.</p>
                      <p>Predstavnik Izvršnega sveta Skupščine SR Slovenije k tej točki dnevnega reda je tovariš Peter Marn, namestnik predsednika Republiškega komiteja za promet in zveze, ki bo imel uvodno obrazložitev. Prosim, tovariš Marn.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.MarnPeter">
                      <speaker>PETER MARN:</speaker>
                      <p>Tovariš predsednik, tovarišice in tovariši delegati! Skupščina je v preteklem mandatu ob obravnavi poročila o stanju varnosti v železniškem prometu v SR Sloveniji, ki ga je pripravil Izvršni svet Skupščine SR Slovenije sklenila, da je za odpravo ugotovljenih slabosti potrebno pripraviti pobudo za spremembe in dopolnitve zveznega zakona o temeljih varnosti v železniškem prometu, republiški zakon o ureditvi določenih vprašanj s področja varnosti železniškega prometa pa dopolniti glede udeležbe prometne inšpekcije pri raziskavah izrednih dogodkov, ki imajo težke posledice za zdravje ljudi in družbeno premoženje ter okrepiti inšpekcijski nadzor glede vseh vprašanj s področja delovnih razmerij, ki zadevajo varnost železniškega prometa.</p>
                      <p>Na omenjeno pobudo je sedaj v postopku sprejemanja predlog za izdajo z osnutkom novega zveznega zakona, ki bo temeljna vprašanja varnosti v železniškem prometu uredil v celoti na novo. To pa pomeni, da lahko s spremembami in dopolnitvami republiškega zakona o ureditvi določenih vprašanj s področja varnosti železniškega prometa uredimo le tiste zadeve, za katere so zbori te Skupščine ob obravnavi poročila o stanju varnosti v železniškem prometu tako sklenili in tista vprašanja, za katera se je ob izvajanju zakona pokazalo, da jih je treba drugače urediti, dopolniti ali uskladiti z drugimi predpisi.</p>
@@ -810,17 +812,17 @@
                      <p>V osnutku zakona smo v prehodne določbe vnesli še spremembe rokov, v katerih morajo biti izvedena križanja železniške proge s cesto, nadvozom in podvozom, v primerih iz 1. točke 21. člena tega zakona, in sicer se petletni rok podaljša v 9 letni rok. Rok treh let, v katerem bi morala biti križanja železniške proge s cestami zavarovana z zapornicami ali polzapornicami ali svetlobnimi zvočnimi napravami v primeru iz 22. člena tega zakona, pa se podaljša tudi na 9 let, tako da bodo ti roki sovpadali z zaključkom sedanjega srednjeročnega obdobja.</p>
                      <p>Predlagamo delegatom, da po obravnavi sprejmete osnutek zakona o spremembah in dopolnitvah zakona o ureditvi določenih vprašanj s področja varnosti železniškega prometa. Hvala lepa.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Hvala. Pričenjam razpravo. K razpravi se je prijavil tovariš Jože Dernač, delegat za gospodarsko področje, 27. okoliš, Krško.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DernačJože">
                      <speaker>JOŽE DERNAČ:</speaker>
                      <p>Tovariš predsednik, tovarišice in tovariši delegati! Glede na širok varnostni pas, ki ga predvideva osnutek<pb/>ob železniških progah in glede na predvidene omejitve koriščanje tega pasu, ki jih bo šele predpisal Republiški komite za promet in zveze v 1., 3. in 4. členu tretji odstavek ter v 7. členu 4. točka, imamo za nujno, da se te omejitve opredelijo pred sprejetjem zakona.</p>
                      <p>Občina Sevnica ima ravno ob železniški progi Zidani most-Zagreb ravninski predel, v katerem predvidevamo razvoj industrije in kmetijstva, kot je gojenje hmelja, nasadi in podobno. Zaradi majhnih razsežnosti tega ravninskega predela je ta za nas širok varnostni pas z nejasnimi določbami glede koriščenja v nasprotju z našimi predvidevanji družbenega plana. Zahtevamo jasne pogoje koriščenja varnostnega pasu ob železniških progah, ker se le tako odločamo o samem zakonu.</p>
                      <p>Menimo, da to ni le problem občine Sevnica, pač pa vseh občin, skozi katere potekajo železniške proge. Hvala lepa.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Želi še kdo razpravljati? (Ne.) Potem zaključujem razpravo in predlagam naslednji sklep:</p>
                      <p>1. Osnutek zakona o spremembah in dopolnitvah zakona o ureditvi določenih vprašanj s področja varnosti v železniškem prometu se sprejme.</p>
@@ -832,15 +834,15 @@
                      <p>Odrejam daljši odmor.</p>
                   </sp>
                   <stage>(Seja je bila prekinjena ob 12.50 uri in se je nadaljevala ob 13.40 uri.)</stage>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Nadaljujemo sejo zbora. Ker je medtem prišel na sejo še en delegat, prosim KOMISIJO ZA VERIFIKACIJO POOBLASTIL IN IMUNITETNA VPRAŠANJA, DA PODA DODATNO POROČILO.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.HočevarMiran">
                      <speaker>MIRAN HOČEVAR:</speaker>
                      <p>Komisija za verifikacijo pooblastil je ugotovila, da je kasneje prišla še tovarišica Danica Puljak, gospodarsko področje, 26. okoliš, Črnomelj.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Želi o dodatnem poročilu kdo razpravljati? (Ne.) Če ne, prehajamo na glasovanje.</p>
                      <p>Kdo je za poročilo? (119 delegatov.) Je kdo proti? (3 delegati.) Se je kdo vzdržal? (1 delegat.)</p>
@@ -849,12 +851,12 @@
                      <p>Vračamo se na 7. TOČKO DNEVNEGA REDA - PREDLOG ZAKONA O SPREMEMBAH IN DOPOLNITVAH ZAKONA O VARSTVU PRI DELU.</p>
                      <p>Prosim poročevalca skupine delegatov, da poroča. Besedo ima tovariš Franc Jelen.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.JelenFranc">
                      <speaker>FRANC JELEN:</speaker>
                      <p>Tovarišice in tovariši! Skupina delegatov je obravnavala oba amandmaja k 34. členu predlaganega zakona o varstvu pri delu ter ugotovila, da sta oba amandmaja z vidika zakona o varstvu pri delu nesprejemljiva.</p>
                      <p>Hkrati je skupina ugotovila, da predlagani amandma s strani Izvršnega sveta Skupščine SR Slovenije po vsebini zajema tudi vsebino predlaganih amandmajev, je pa tudi širše zastavljen. Zato so predstavniki obeh predlagateljev amandmajev soglašali z amandmajem Izvršnega sveta Skupščine SR Slovenije k 34. členu predloga zakona o varstva pri delu in odstopili od svojih amandmajev. Hvala lepa.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Hvala. Želi kdo razpravljati o poročilu skupine delegatov? (Nihče.) Če nihče, potem zaključujem razpravo. Ker sta skupini delegatov umaknili amandmaje, ostajajo le amandmaji Izvršnega sveta Skupščine SR Slovenije.</p>
                      <p>Prehajamo na glasovanje o amandmajih Izvršnega sveta Skupščine SR Slovenije. Predlagam zboru, da glasujemo posebej o vsebinskih amandmajih in skupaj o redakcijskih amandmajih. Se strinjate s tem? (Da.)</p>
@@ -880,7 +882,7 @@
                      <p>Prehajamo na 10. TOČKO DNEVNEGA REDA - OSNUTEK ZAKONA O ZAKLJUČNEM RAČUNU O IZVRŠITVI PRORAČUNA SR SLOVENIJE ZA LETO 1985 S PREDLOGOM ZAKONA. Osnutek zakona je Skupščini SR Slovenije predložil v obravnavo Izvršni svet Skupščine SR Slovenije. Osnutek zakona je obravnavala tudi Zakonodajno-pravna komisija, ki ni imela pripomb.</p>
                      <p>Predstavnik Izvršnega sveta Skupščine SR Slovenije k tej točki dnevnega reda je dr. Jože Kunič, namestnik republiškega sekretarja za finance. Želi morda besedo? (Da.) Besedo ima tovariš dr. Jože Kunič.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.KuničJože">
                      <speaker>DR. JOŽE KUNIČ:</speaker>
                      <p>Tovarišice in tovariši delegati! Obseg republiškega proračuna je bil v letu 1985 določen z resolucijo o politiki uresničevanja družbenega plana SR Slovenije za obdobje 1981-1985 v letu 1985, po kateri so sredstva za zadovoljevanje splošnih družbenih potreb v SR Sloveniji lahko rasla v višini 90% nominalne rasti dohodka.</p>
                      <p>Konec meseca oktobra 1985 je Zvezna skupščina sprejela zakon o začasni prepovedi razpolaganja z delom družbenih sredstev družbenopolitičnih skupnosti in samoupravnih interesnih skupnosti družbenih dejavnosti za porabo v letu 1985, ki je določal, da se v okviru limitiranega dela republiškega proračuna zagotavljajo sredstva za obveznosti v SR Sloveniji, poravnavanje obveznosti do drugih republik in federacije pa je ostalo neprijetno.</p>
@@ -904,7 +906,7 @@
                      <p>Navedeni skupini delegatov sta tudi predlagali, da naj se v primeru, če na sejah zborov Skupščine SR Slovenije k osnutku zakona o zaključnem računu o izvršitvi proračuna SR Slovenije za leto 1985 ne bi bilo pripomb, osnutek zakona preoblikuje v predlog zakona in kot tak sprejme.</p>
                      <p>Izvršni svet Skupščine SR Slovenije podpira navedeni predlog in predlaga zboru, da obravnava in sprejme predlagani zakon o zaključnem računu o izvršitvi proračuna SR Slovenije za leto 1985. Hvala lepa.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Hvala lepa. Pričenjam razpravo. Želi kdo besedo? (Ne.) Ker ne želi nihče razpravljati, zaključujem razpravo in prehajamo na glasovanje. Na glasovanje dajem osnutek zakona o zaključnem računu o izvršitvi proračuna SR Slovenije za leto 1985 s predlogom zakona.</p>
                      <p>Kdo je za? (141 delegatov.) Je kdo proti? (1 delegat.) Se je kdo vzdržal? (1 delegat.)</p>
@@ -912,7 +914,7 @@
                      <p>Prehajamo na 9. TOČKO DNEVNEGA REDA - PREDLOG ZA IZDAJO ZAKONA O VARNOSTI V UREJENIH KOPALIŠČIH. Predlog za izdajo zakona je Skupščini predložil v obravnavo Izvršni svet Skupščine SR Slovenije. Obravnavala ga je tudi Zakonodajno-pravna komisija.</p>
                      <p>Predstavnik Izvršnega sveta Skupščine SR Slovenije pri tej točki dnevnega reda je tovariš Branko Bračko, namestnik republiškega sekretarja za notranje zadeve. Želite besedo? (Da.) Prosim.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.BračkoBranko">
                      <speaker>BRANKO BRAČKO:</speaker>
                      <p>Tovariš predsednik, tovarišice in tovariši delegati! Zaradi nekaterih pomislekov, ki so povezani s predlogom za izdajo tega zakona, želim vsaj na kratko utemeljiti potrebo po izdaji takšnega predpisa.</p>
                      <p>Leta 1984 je Republiški štab za civilno zaščito pripravil poročilo o stanju in problematiki varstva pred utopitvami. Iz tega poročila izhaja, da imamo v Sloveniji sorazmerno veliko utopitev, letno jih je bilo v povprečju od leta 1981 do leta 1984 po 64 na leto. Izvršni svet Skupščine SR Slovenije, ki je to poročilo obravnaval, je naložil posebni medresorski skupini, da predvsem s pravnega vidika prouči, kaj je na tem področju že storjenega in kaj bi bilo potrebno še urediti.</p>
@@ -926,11 +928,11 @@
                      <p>V zvezi s pomislekom ali je zakon potreben, pa še enkrat poudarjam to, kar sem omenil že na začetku, da v obstoječi zakonodaji ni pravne podlage za izdajo izvršilnih predpisov, ki bi urejali varstvo v urejenih kopališčih in zaradi tega je izdaja zakona potrebna, če želimo to vprašanje urediti. Zakon pa je potreben tudi zaradi predpisovanja sankcij, saj jih s podzakonskimi predpisi ne moremo določati.</p>
                      <p>Tovarišice in tovariši delegati! Predlagam torej, da sprejmete predlog za izdajo zakona s tezami v predloženem besedilu .</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Hvala lepa. Pričenjam razpravo. Prijavil se je Venčeslav Pušnik, gospodarsko področje, 21. okoliš, Koper.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.PušnikVenčeslav">
                      <speaker>VENČESLAV PUŠNIK:</speaker>
                      <p>Tovariš predsednik, tovarišice in tovariši delegati! Izhajam iz turističnega Portoroža in na naši seji smo ob obravnavi predloga za izdajo zakona o varnosti v kopališčih SR Slovenije oblikovali naslednja mnenja.</p>
                      <p>Gre za to, da zakone sprejemamo zaradi tega, da se jih držimo, ko pa jih sprejmemo, pa iščemo v njih "luknje". Naša skupina meni, da je potrebno besedilo predloga zakona popraviti, in sicer v 2. tezi točno opredeliti, da se ureja varnost v odprtih bazenih, zaprtih bazenih, urejenih kopališčih na obalah rek, naravnih in umetnih jezerih in na morju.</p>
@@ -939,19 +941,19 @@
                      <p>V 12. tezi se ponavlja zahteva tudi Zakonodajno-pravne komisije, da reševalci iz vode ne bodo mogli legitimirati in kaznovati domačih državljanov, ker nimajo pri sebi denarja in osebnih izkaznic. Prav tako se ne bo moglo izvajati kaznovanje za tuje državljane, ki bodo po končanem dopustu zapustili našo državo in za sodnika za prekrške ne bodo več dosegljivi, niti jih uradna oseba ne more dobiti na licu mesta. Hvala lepa.</p>
                   </sp>
                   <pb/>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Besedo ima Miha Bakovnik, gospodarsko področje, 12. okoliš, Kranj.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.BakovnikMiha">
                      <speaker>MIHA BAKOVNIK:</speaker>
                      <p>Tovariš predsednik, tovarišice in tovariši delegati! Skupina delegatov za Zbor združenega dela iz Kranja zastavlja vprašanje, ali so v predlogu za izdajo zakona o varnosti v urejenih kopališčih zajeta tudi urejena kopališča v šolah, v vrtcih, v domovih za ostarele, organizacijah združenega dela, ki so izključno namenjena omenjenemu krogu ljudi, to je šolarjem, otrokom v vrtcih, starostnikom v domovih in zaposlenim v organizacijah združenega dela. Če je odgovor na vprašanje negativen, skupina delegatov meni, da bi bilo potrebno o teh vprašanjih oziroma o teh vrstah kopališč spregovoriti ob kakšnem drugem zakonu, lahko pa tudi ob tem zakonu v posebnem poglavju. Menimo, da tudi ta vrsta kopališč zahteva vso potrebno urejenost, podobno kot jo načrtujemo za urejena javna kopališča. Hvala lepa.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Hvala lepa. Še kdo želi razpravljati? (Ne.) Pisno je oddala razpravo skupina delegatov 28. okoliša, gospodarsko področje, Trbovlje. Prosim predstavnika Izvršnega sveta Skupščine SR Slovenije za pojasnilo.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.BračkoBranko">
                      <speaker>BRANKO BRAČKO:</speaker>
                      <p>Tovariši delegati! Podrobneje bomo opredelili v 2. tezi, kaj so to urejena kopališča, da ne bi bilo potem kakšnih nejasnosti. Ta pripomba je sprejemljiva.</p>
                      <p>Glede frekvence smo menili, da gre za kapaciteto, ko jo kopališče lahko doseže ne glede na število oseb, ki se dejansko nahajajo v kopališču. Če je kapaciteta kopališča takšna, mora kopališče zagotoviti tudi zdravnika.</p>
@@ -960,7 +962,7 @@
                      <p>Enako velja tudi za legitimiranje tujcev, ki se bodo morali izkazati s potnim listom, ki ga morajo imeti pri sebi.</p>
                      <p>Glede drugih kopališč, na primer v šolah, vrtcih in domovih, moram reči, da smo ob pripravah tez mislili na vsa urejena kopališča, torej tudi kopališča v hotelih, v šolah in domovih. Morda so glede tega te teze res nekoliko preskope in niso dovolj razdelane, zato bi bilo dobro, da bi te stvari do osnutka še temeljiteje obdelali in pripombe upoštevali. Hvala.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Hvala lepa. Želi še kdo razpravljati? (Nihče.) Če ne zaključujem razpravo in zboru predlagam, da sprejme naslednji sklep:</p>
                   <pb/>
@@ -974,7 +976,7 @@
                      <p>Predlagatelj vseh predloženih aktov je Komisija za volitve, imenovanja in administrativne zadeve, ki je predložila tudi predlog odloka o ustanovitvi, delovnem področju in sestavi Komisije Skupščine SR Slovenije za spremljanje izvajanja zakona o združenem delu in predlog odloka o izvolitvi predsednikov, podpredsednikov in članov komisije Skupščine SR Slovenije.</p>
                      <p>Komisija Skupščine SR Slovenije za volitve, imenovanja in administrativne zadeve je za svojega predstavnika določila Ivana Godca, predsednika te komisije, ki bo imel uvodno besedo k tej in naslednji točki dnevnega reda.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.GodecIvan">
                      <speaker>IVAN GODEC:</speaker>
                      <p>Tovarišice in tovariši delegati! Kadrovske priprave na sestavo delovnih teles Skupščine SR Slovenije so bile sestavni del vseh kadrovskih dejavnosti v pripravah na volitve 1986. Na konstitutivnih sejah zborov Skupščine SR Slovenije so bili že izvoljeni predsednik Skupščine SR Slovenije, oba podpredsednika Skupščine SR Slovenije, predsedniki zborov Skupščine SR Slovenije in predsednik, podpredsednika in člani Izvršnega sveta Skupščine SR Slovenije.</p>
                      <p>Komisija Skupščine SR Slovenije za volitve, imenovanja in administrativne zadeve je pripravila še predloge za sestavo Komisije Skupščine SR Slovenije za volitve, imenovanja in administrativne zadeve, Zakonodajno-pravne komisije Skupščine SR<pb/> Slovenije, Skupine delegatov vseh zborov Skupščine SR Slovenije za spremljanje uresničevanja planskih aktov, Skupine delegatov vseh zborov Skupščine SR Slovenije za spremljanje in proučevanje aktov iz pristojnosti zborov Skupščine SFR Jugoslavije, predlog za generalnega sekretarja in namestnika generalnega sekretarja Skupščine SR Slovenije ter predlog za sekretarje zborov Skupščine SR Slovenije.</p>
@@ -995,7 +997,7 @@
                      <p>V imenu Komisije predlagam, da izvolite komisije, skupine delegatov in odbore zbora.</p>
                   </sp>
                   <pb/>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Hvala lepa, tovariš Godec. Ker moramo o vsaki kandidatni listi oziroma aktu glasovati posebej, bomo tudi razpravo opravili ločeno.</p>
                      <p>Prehajamo na razpravo o predlogu odloka o ustanovitvi, delovnem področju in sestavi Komisije Skupščine SR Slovenije za spremljanje izvajanja zakona o združenem delu.</p>
@@ -1099,7 +1101,7 @@
                      <p>Da bi izboljšali pogoje za delo delegatov, skupin delegatov in delo zborov, nameravamo v prihodnje organizirati pogostejše pogovore s skupinami delegatov in občinskimi skupščinami zlasti v zvezi s programiranjem dela Skupščine SR Slovenije in njenih zborov ter vsemi problemi in odprtimi vprašanji, ki se bodo pojavljala pri našem delu. Hkrati pa vas prosim za razumevanje, če bo v prvem obdobju tega mandata prihajalo do določenih težav, ki so pogojene z daljšim premorom dela zborov zaradi njihovega konstituiranja, ustanavljanja in novim imenovanjem vseh delovnih teles Skupščine, zborov in podobno.</p>
                      <p>Danes smo prejeli pobudo, da se uvrsti v periodični načrt analiza solidarnostnih sistemov sprejetih v samoupravnih interesnih skupnostih za obdobje 1986-1990. Prosim predstavnika Izvršnega sveta Skupščine SR Slovenije, tovariša Samarja za mnenje o tem predlogu.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.SamarMilivoj">
                      <speaker>MILIVOJ SAMAR:</speaker>
                      <p>Tovariš predsednik, tovarišice in tovariši delegati ! Delegatsko pobudo Izvršni svet Skupščine SR Slovenije sprejema. Ob tem pa želimo ugotoviti oziroma predlagati naslednje.</p>
                      <p>Ob pripravi samoupravnih sporazumov o temeljih plana v samoupravnih interesnih skupnostih družbenih dejavnosti je tekla tudi razprava o sistemu solidarnosti, ki jih ti samoupravni sporazumi dejansko spreminjajo. Sporazumi so v obravnavi oziroma v sprejemanju in bodo po samoupravni poti tudi sprejeti. S tem tudi takšni sistemi solidarnosti.</p>
@@ -1108,15 +1110,15 @@
                   <pb/>
                      <p>Zato Izvršni svet Skupščine SR Slovenije pobudo sprejema s predlogom, da se uvrsti v program dela za leto 1987, ne pa v tretje trimesečje tega leta.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Skupina delegatov za gospodarsko področje Tržič - 15. okoliš je predlagala, da se v periodični delovni načrt vključi analiza učinkov nove devizne zakonodaje na vseh področjih v SR Sloveniji.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.SamarMilivoj">
                      <speaker>MILIVOJ SAMAR:</speaker>
                      <p>Predlagamo, da se tudi pri tej pobudi dogovorimo, da jo realiziramo v letu 1987. Če pa gre samo za pregled, ga lahko posredujemo delegatom ob obravnavi jesenske analize gospodarskih gibanj, ki služi za pripravo resolucije za leto 1987.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Hvala. Ste delegati zadovoljni s to obrazložitvijo? (Da.) Hvala lepa. Dobili smo še dve delegatski pobudi skupine delegatov za gospodarsko področje, 38. okoliš, Ravne na Koroškem v zvezi z gradivi, na katere sem v uvodu že odgovoril. Skupina delegatov za prosvetno-kulturno področje, 2. okoliš, Ljubljana-Šiška pa se strinja, da se obravnava o preobrazbi usmerjenega izobraževanja premakne na kasnejše obdobje.</p>
                      <p>Ima še kdo kakšen predlog v zvezi s periodičnim načrtom? (Ne.) S tem zaključujem razpravo in predlagam zboru, da sprejme naslednji sklep:</p>
@@ -1135,7 +1137,7 @@
                      <p>Za današnjo sejo ste prejeli delegatsko vprašanje skupine delegatov za kmetijsko področje, 4. okoliš, Postojna, glede odgovornosti uvoza plesnive semenske koruze.</p>
                      <p>Na delegatsko vprašanje bo odgovoril Bojan Turk, namestnik predsednika Republiškega komiteja za kmetijstvo, gozdarstvo in prehrano.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.TurkBojan">
                      <speaker>BOJAN TURK:</speaker>
                      <p>Tovariš predsednik, tovarišice in tovariši delegati! Na delegatsko vprašanje skupine delegatov za kmetijsko področje, 4. okoliš, Postojna, glede odgovornosti za uvoz plesnive semenske koruze, Izvršni svet Skupščine SR Slovenije meni, da bi morali to vprašanje postaviti v Zvezni skupščini. Predvsem zaradi tega, ker gre za zadeve, ki so v pristojnosti zveznih upravnih organov. Glede na pojasnila, ki smo jih prejeli od Zveznega komiteja za kmetijstvo pa lahko damo naslednji odgovor.</p>
                      <p>Z odločbo Zveznega izvršnega sveta z dne 12.2.1986 je bil odobren uvoz 7.000 ton semena hibridne koruze. Iz ZDA je bilo uvoženo 2.746 ton, od tega je 2.307 ton uvozila delovna organizacija Hibrid iz Beograda in to z oznako ZPSC - 704 Split, 439 ton pa delovna organizacija Astra iz Zagreba, z oznako BC 66-61.</p>
@@ -1156,13 +1158,13 @@
                      <p>5. Dodelovalci semena, če so seme dali v promet brez laboratorijskih izvidov o zdravstvenem stanju.</p>
                      <p>Zato je Zvezni izvršni svet zadolžil Zvezni komite za kmetijstvo, da čimprej ugotovi, ali je celoten izvoz semena koruze, njegovo deklariranje, dajanje v promet, ugotavljanje kvalitete in zdravstvenega stanja potekalo v skladu z veljavnimi predpisi ter da prične postopek ugotovitve odgovornosti vseh organizacij in posameznikov, ki so pri tem uvozu in dajanju semena v promet sodelovali. Prav tako je Zvezni izvrši svet zadolžil Zvezni komite za kmetijstvo, da preko sredstev javnega obveščanja obvesti javnost o dejanskem stanju v zvezi s tem uvozom, sprejetimi ukrepi in morebitnimi posledicami. Hvala.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Hvala lepa. Želi kdo razpravljati o tej informaciji? (Ne.) Je skupina delegatov iz Postojne zadovoljna z odgovorom? (Da.) Odgovor bo objavljen tudi v skupščinskem Poročevalcu.</p>
                      <p>Naslednje delegatsko vprašanje skupine delegatov za gospodarsko področje, 42. okoliša, Maribor Tezno v zvezi z osnutkom zakona o predčasni upokojitvi delavcev v zvezni upravi ter dodatna opredelitev skupine delegatov iz Tržiča o tem vprašanju.</p>
                      <p>Na to delegatsko vprašanje bo odgovoril Janez Zajc, član Izvršnega sveta Skupščine SR Slovenije in republiški sekretar za pravosodje in upravo. Prosim, tovariš Zajc.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.ZajcJanez">
                      <speaker>JANEZ ZAJC:</speaker>
                      <p>Skupina delegatov za gospodarsko področje 42. okoliša, Maribor-Tezno v Zboru združenega dela SR Slovenije je postavila naslednje delegatsko vprašanje.</p>
                      <p>"Kakšno stališče bo zavzel Zbor združenega dela Skupščine SR Slovenije do osnutka zakona o predčasni upokojitvi delavcev v zvezni upravi. Nameravana upokojitev 1400 delavcev, ki imajo komaj 25 let delovne dobe, prejemali pa naj bi polno pokojnino, absolutno ni sprejemljiva. Argumente predlagateljev zakona, češ da je pomladitev zvezne uprave nujna, ni mogoče sprejeti. Tudi v številnih gospodarskih organizacijah združenega dela in družbenih dejavnostih so potrebne pomladitve, kadrovske osvežitve, pa nihče ne pomisli, da bi sedaj zaposlenim podarjali delovno dobo in jih upokojili s pokojnino enaki tisti, ki bi jo dobili, če bi delali 4 0 oziroma 35 let. Morajo si najti drugo zaposlitev. Če so ljudje iz zvezne uprave tako veliko prispevali k razvoju naše družbe, so pa še mladi, jim je potrebno omogočiti, da svoje znanje in izkušnje uporabijo na drugih delovnih mestih. Če pa zanje razen v zvezni upravi nikjer ni dela, potem tisto, kar dobro so delali doslej, preprosto ne more biti res. Vsekakor pa je res nekaj drugega. Ce bo zakon sprejet, bodo delavci v SFR Jugoslaviji v neenakopravnem položaju. Tisti, ki bodo na slabšem, bodo morali prispevati denar za darilo tistim, ki bodo na boljšem. "</p>
@@ -1177,7 +1179,7 @@
                      <p>Iz navedenih razlogov se je Izvršni svet Skupščine SR Slovenije zavzel za to, da bi ukrep upokojitve pred izpolnitvijo pogojev za starostno pokojnino predstavljal le izjemo, ki bi bila posebej utemeljena s službenimi potrebami, upoštevaje naravo dejavnosti in da bi morali poiskati različne druge možnosti, da bi delavci z delom, ki so ga sposobni opravljati dosegli pogoje za starostno upokojitev - na primer razporeditev k drugim delom in nalogam, ki jih bodo sposobni opravljati v okviru zvezne uprave ali izven nje.</p>
                      <p>Po mnenju Izvršnega sveta Skupščine SR Slovenije je usmeritev Zveznega izvršnega sveta za temeljito kadrovsko prenovo zvezne uprave in za angažiranje najbolj strokovnih in kreativnih kadrov pravilna. Vendar pa meni, da je potrebno reševanje te problematike predhodno temeljito proučiti tako z vidika finančnih obveznosti, kakor tudi kadrovskih možnosti, zlasti pa z vidika enakopravnega položaja delavcev v zveznih organih z drugimi delavci.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Hvala lepa. Želi v zvezi s tem odgovorom kdo razpravljati ali kaj vprašati? (Nihče.) Odgovor bo objavljen v skupščinskem Poročevalcu.</p>
                      <p>Za današnjo sejo so predložili delegatska vprašanja oziroma pobude skupina delegatov za gospodarsko področje, 14. okoliš, Radovljica v zvezi z izgradnjo čelne akumulacije na reki Savi v Radovljici, skupina delegatov za gospodarsko področje, 37. okoliš, Radlje ob Dravi v zvezi z izplačili izvoznih spodbud, skupina delegatov za gospodarsko področje, 38. okoliš, Maribor-Pobrežje v zvezi z obrambo proti toči, delegatsko vprašanje, 42. okoliš, Maribor-Tezno v zvezi s predelovalno industrijo in proizvodnjo Železarne Zenice so bolj komercialne stvari. Vprašanje bomo sicer posredovali pristojnemu organu, menim pa, da morate tudi delegatska vprašanja nekoliko selekcionirati v sami delegatski bazi.</p>
@@ -1185,12 +1187,12 @@
                      <p>Prejeli smo delegatsko pobudo skupine delegatov za gospodarsko področje, 38. okoliš, Maribor-Pobrežje v zvezi s prirejo za mleko in pobudo Kočevje, Logatec, Škofja Loka, Idrija, Postojna, Cerknica, Ilirska Bistrica, Vrhnika in Ljubljana Vič-Rudnik.</p>
                      <p>K razpravi se je prijavil Maks Meško, kmetijsko področje, 6. okoliš, Ormož. Prosim.</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.MeškoMaks">
                      <speaker>MAKS MEŠKO:</speaker>
                      <p>Tovarišice in tovariši delegati ! Predlagam, da se sprejme zakon, po katerem bi bili občani, ki nimajo dela oziroma so pripravljeni kot nezaposleni na Zavodu za zaposlovanje in prejemajo določeno mesečno nadomestilo za nezaposlenost, prisiljeni to nadomestilo odslužiti s svojim delom. Na deželi je ostalo malo ljudi, tako da komaj zmoremo tekoča dela na kmetijah. Ti ljudje, ki so prijavljeni na zavodu bi lahko čistili obstoječe cestne jarke občinskih cest, ki so povečini zamuljeni, čistili bi lahko tudi jarke na travnikih, kjer voda v ozkih dolinicah zastaja, zaradi česar je trava manj kvalitetna. Delo se naj normira in določi cena delovne ure.</p>
                      <p>Če bo predlog sprejet, bosta zadovoljna oba. Nezaposlen občan bo zvišal svoj mesečni prejemek, kmet pa si bo tako lahko zvišal svoj mesečni dohodek zaradi kvalitetnejše krme. Tudi kmet bi prispeval svoj delež v denarju za to delo s čimer bo rešena zamočvirjenost v ozkih dolinah, kjer hidromelioracije zaenkrat ne pridejo v poštev. Brezposelni ljudje se nam, ki delamo od zore do mraka, smejejo, češ, jaz nič ne delam pa dobim svoj denar, zato jih je treba na podlagi zakona prisiliti, da bodo odslužili vsaj tisto nadomestilo, ki ga dobijo. Hvala lepa. (Ploskanje.)</p>
                   </sp>
-                  <sp>
+                  <sp who="#sp.DvojmočValentin">
                      <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
                      <p>Hvala lepa. Želi še kdo dati kakšno pobudo ali zastaviti delegatsko vprašanje? (Ne.) Če ne, vas obveščam, da bomo delegatska vprašanja in pobude posredovali pristojnim organom v proučitev. S tem zaključujem to točko dnevnega reda.</p>
                      <p>Obveščam vas, da smo pri točkah, kjer smo sprejemali skupne in končne odločitve, usklajeni z Zborom občin in Družbenopolitičnim zborom.</p>
@@ -1199,7 +1201,7 @@
                   <stage>(Seja je bila končana 28. maja 1986 ob 15.10 uri.)</stage>
                </div>
             </div>
-         </div>
+         
       </body>
    </text>
 </TEI>
