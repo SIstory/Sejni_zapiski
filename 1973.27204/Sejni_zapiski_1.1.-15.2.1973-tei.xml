@@ -326,7 +326,7 @@
                   </div>
                </div>
                <div ana="#PAR.DnevRed">
-                  <div n="1">
+                  <div ana="#PAR.TDR" n="1">
                      <sp who="#sp.GoslarMiran">
                         <p>Prehajamo na 1. točko dnevnega reda, to je na odobritev zapisnika 51.
                            seje republiškega zbora.</p>
@@ -340,7 +340,7 @@
                            >prekinjena ob 9.10</time> in se je <time from="09:55:00"
                            xml:id="stage.t.3">nadaljevala ob 9.55</time>.)</stage>
                   </div>
-                  <div n="2">
+                  <div ana="#PAR.TDR" n="2">
                      <sp who="#sp.GoslarMiran">
                         <speaker>Predsednik Miran Goslar:</speaker>
                         <p>Nadaljujemo s sejo republiškega zbora.</p>
@@ -1021,7 +1021,7 @@
                            >prekinjena ob 11.15</time> in se je <time from="11:30:00"
                            xml:id="stage.t.5">nadaljevala ob 11.30</time>.)</stage>
                   </div>
-                  <div n="4">
+                  <div ana="#PAR.TDR" n="4">
                      <sp who="#sp.GoslarMiran">
                         <speaker>Predsednik Miran Goslar:</speaker>
                         <p>Že prej sem omenil, da bomo preskočili 3. točko dnevnega reda. Nanjo se
@@ -1601,7 +1601,7 @@
                            >prekinjena ob 12.45</time> in se je <time from="13:35:00"
                            xml:id="stage.t.7">nadaljevala ob 13.35</time>.)</stage>
                   </div>
-                  <div n="3">
+                  <div ana="#PAR.TDR" n="3">
                      <sp who="#sp.GoslarMiran">
                         <speaker>Predsednik Miran Goslar:</speaker>
                         <p>Tovarišice in tovariši poslanci! Obveščen sem, da je zasedanje odborov še
@@ -2372,7 +2372,7 @@
                         <p>Sklep je sprejet.</p>
                      </sp>
                   </div>
-                  <div n="4">
+                  <div ana="#PAR.TDR" n="4">
                      <sp who="#sp.GoslarMiran">
                         <p>Nadaljujemo s 4. točko dnevnega reda z razpravo o predlogu zakona o davku
                            iz dohodka temeljnih organizacij združenega dela v SR Sloveniji. Besedo
@@ -2445,7 +2445,7 @@
                            združenega dela sprejet.</p>
                      </sp>
                   </div>
-                  <div n="5">
+                  <div ana="#PAR.TDR" n="5">
                      <sp who="#sp.GoslarMiran">
                         <p>5. točka dnevnega reda je predlog zakona o spremembah in dopolnitvah
                            zakona o davkih občanov.</p>
@@ -2489,7 +2489,7 @@
                            občanov sprejet.</p>
                      </sp>
                   </div>
-                  <div n="6">
+                  <div ana="#PAR.TDR" n="6">
                      <sp who="#sp.GoslarMiran">
                         <p>Prehajamo na 6. točko dnevnega reda, to je na predlog zakona o spremembah
                            in dopolnitvah zakona o uvedbi in stopnjah republiških davkov in
@@ -2553,7 +2553,7 @@
                         <p>Zakon o spremembah in dopolnitvah zakona o davkih občanov je sprejet.</p>
                      </sp>
                   </div>
-                  <div n="7">
+                  <div ana="#PAR.TDR" n="7">
                      <sp who="#sp.GoslarMiran">
                         <p>Prehajamo na 7. točko dnevnega reda, to je na predlog zakona o obdavčitvi
                            tujih oseb.</p>
@@ -2802,7 +2802,7 @@
                            >prekinjena ob 15.30</time> in se je <time from="15:45:00"
                            xml:id="stage.t.9">nadaljevala ob 15.45</time>.)</stage>
                   </div>
-                  <div n="8">
+                  <div ana="#PAR.TDR" n="8">
                      <sp who="#sp.StropnikLojzka">
                         <speaker>Predsedujoča Lojzka Stropnik:</speaker>
                         <p>Nadaljujemo z delom.</p>
@@ -2902,7 +2902,7 @@
                            (Nihče.) Zakon o samoprispevku je sprejet.</p>
                      </sp>
                   </div>
-                  <div n="9">
+                  <div ana="#PAR.TDR" n="9">
                      <sp who="#sp.StropnikLojzka">
                         <p>Prehajamo na 9. točko dnevnega reda, to je na predlog zakona o službi
                            družbenega knjigovodstva.</p>
@@ -3011,7 +3011,7 @@
                         <p>Zakon o službi družbenega knjigovodstva je sprejet.</p>
                      </sp>
                   </div>
-                  <div n="10">
+                  <div ana="#PAR.TDR" n="10">
                      <sp who="#sp.StropnikLojzka">
                         <p>10. točka dnevnega reda je predlog zakona o narodni banki Socialistične
                            republike Slovenije, ki ga je skupščini predložil izvršni svet.</p>
@@ -3042,7 +3042,7 @@
                         <pb n="50" xml:id="pb.50"/>
                      </sp>
                   </div>
-                  <div n="11">
+                  <div ana="#PAR.TDR" n="11">
                      <sp who="#sp.StropnikLojzka">
                         <p>11. točka dnevnega reda je predlog zakona o obračunavanju amortizacije v
                            letu 1972 v elektrogospodarskih organizacijah združenega dela, ki
@@ -3107,7 +3107,7 @@
                         <p>Sklep je sprejet.</p>
                      </sp>
                   </div>
-                  <div n="12">
+                  <div ana="#PAR.TDR" n="12">
                      <sp who="#sp.StropnikLojzka">
                         <p>Prehajamo na 12. točko dnevnega reda, to je na predlog zakona o
                            spremembah in dopolnitvah zakona o skladih skupnih rezerv in o uporabi
@@ -3123,7 +3123,7 @@
                            uporabi njihovih sredstev je sprejet.</p>
                      </sp>
                   </div>
-                  <div n="13">
+                  <div ana="#PAR.TDR" n="13">
                      <sp who="#sp.StropnikLojzka">
                         <p>13. točka dnevnega reda je predlog, da da skupščina Socialistične
                            republike Slovenije soglasje za ratifikacijo programa
@@ -3142,7 +3142,7 @@
                            Odlok o soglasju je sprejet.</p>
                      </sp>
                   </div>
-                  <div n="14">
+                  <div ana="#PAR.TDR" n="14">
                      <sp who="#sp.StropnikLojzka">
                         <p>14. točka dnevnega reda je predlog odloka o spremembi odloka o določitvi
                            števila sodnikov pri vrhovnem sodišču Socialistične republike Slovenije
@@ -3155,7 +3155,7 @@
                         <p>Odlok o spremembi odloka o določitvi števila sodnikov je sprejet.</p>
                      </sp>
                   </div>
-                  <div n="15">
+                  <div ana="#PAR.TDR" n="15">
                      <sp who="#sp.StropnikLojzka">
                         <p>15. točka dnevnega reda so poslanska vprašanja.</p>
                         <p>Na poslansko vprašanje Rada Pušenjaka bo odgovoril namestnik republiškega
@@ -3224,7 +3224,7 @@
                            kršenja začrtane politike.</p>
                      </sp>
                   </div>
-                  <div n="16">
+                  <div ana="#PAR.TDR" n="16">
                      <sp who="#sp.StropnikLojzka">
                         <speaker>Predsedujoča Lojzka Stropnik:</speaker>
                         <p>Nekateri tovariši so predlagali, da bi šli na točko volitve in
@@ -3297,7 +3297,7 @@
                            je bila izvoljena Marija Stanič.</p>
                      </sp>
                   </div>
-                  <div n="15">
+                  <div ana="#PAR.TDR" n="15">
                      <sp who="#sp.StropnikLojzka">
                         <p>S tem je ta točka dnevnega reda izčrpana in prehajamo na 15. točko
                            dnevnega reda, na poslanska vprašanja.</p>
@@ -3663,14 +3663,14 @@
                   </div>
                </div>
                <div ana="#PAR.DnevRed">
-                  <div n="1">
+                  <div ana="#PAR.TDR" n="1">
                      <sp who="#sp.GoslarMiran">
                         <p>1. točka dnevnega reda je odobritev zapisnika 52. seje. Ima kdo kako
                            pripombo k zapisniku? (Ne javi se nihče.) Ker nihče, lahko ugotovim, da
                            je zapisnik odobren.</p>
                      </sp>
                   </div>
-                  <div n="2">
+                  <div ana="#PAR.TDR" n="2">
                      <sp who="#sp.GoslarMiran">
                         <p>2. točka dnevnega reda so poslanska vprašanja.</p>
                         <p>Predstavnik izvršnega sveta Vlado Gorišek odgovarja poslancu Štefanu
@@ -4453,7 +4453,7 @@
                            reda izčrpana.</p>
                      </sp>
                   </div>
-                  <div n="3">
+                  <div ana="#PAR.TDR" n="3">
                      <sp who="#sp.GoslarMiran">
                         <p>3. točka dnevnega reda je osnutek ustavnega zakona o podaljšanju mandata
                            zveznih poslancev.</p>
@@ -4509,7 +4509,7 @@
                            nadaljnjem delu.</p>
                      </sp>
                   </div>
-                  <div n="4">
+                  <div ana="#PAR.TDR" n="4">
                      <sp who="#sp.GoslarMiran">
                         <p>4. točka dnevnega reda je predlog sklepov in priporočil o ukrepih za
                            izboljšanje varnosti v cestnem prometu.</p>
@@ -4955,7 +4955,7 @@
                            zakonov?</p>
                      </sp>
                   </div>
-                  <div n="5">
+                  <div ana="#PAR.TDR" n="5">
                      <sp who="#sp.GoslarMiran">
                         <speaker>Predsednik Miran Goslar:</speaker>
                         <p>Mislim, da lahko združimo razpravo o 4. in 5. točki dnevnega reda. K
@@ -5344,7 +5344,7 @@
                            varstva pred požarom sprejet.</p>
                      </sp>
                   </div>
-                  <div n="6">
+                  <div ana="#PAR.TDR" n="6">
                      <sp who="#sp.StropnikLojzka">
                         <p>Prehajamo na 6. točko dnevnega reda, to je na predlog zakona o
                            pomilostitvi, ki ga je skupščini SR Slovenije predložil izvršni svet.</p>
@@ -5372,7 +5372,7 @@
                         <p>Zakon je sprejet.</p>
                      </sp>
                   </div>
-                  <div n="7">
+                  <div ana="#PAR.TDR" n="7">
                      <sp who="#sp.StropnikLojzka">
                         <p>Prehajamo na 7. točko dnevnega reda, to je na predlog zakona o
                            prekrških.</p>
@@ -5569,7 +5569,7 @@
                         <p>Ugotavljam, da je zakon soglasno sprejet.</p>
                      </sp>
                   </div>
-                  <div n="8">
+                  <div ana="#PAR.TDR" n="8">
                      <sp who="#sp.StropnikLojzka">
                         <p>Prehajamo na 8. točko dnevnega reda, to je na predlog zakona o obveznem
                            urejanju pripravništva in o sprejemanju pripravnikov v organizacijah
@@ -5602,7 +5602,7 @@
                            sklepčnosti, zato prosim, da ne odhajate.</p>
                      </sp>
                   </div>
-                  <div n="9">
+                  <div ana="#PAR.TDR" n="9">
                      <sp who="#sp.StropnikLojzka">
                         <p>Prehajamo na 9. točko dnevnega reda, to je na predlog zakona o javnem
                            obveščanju.</p>
@@ -5808,7 +5808,7 @@
                         <p>Zakon je sprejet.</p>
                      </sp>
                   </div>
-                  <div n="10">
+                  <div ana="#PAR.TDR" n="10">
                      <sp who="#sp.StropnikLojzka">
                         <p>Prehajamo na 10. točko dnevnega reda, to je na predlog zakona o sanitarni
                            inšpekciji.</p>
@@ -5946,7 +5946,7 @@
                         <p>Zakon je sprejet.</p>
                      </sp>
                   </div>
-                  <div n="11">
+                  <div ana="#PAR.TDR" n="11">
                      <sp who="#sp.StropnikLojzka">
                         <p>Prehajamo na 11. točko dnevnega reda, to je na predlog zakona o zavodu SR
                            Slovenije za zdravstveno varstvo.</p>
@@ -5971,7 +5971,7 @@
                         <p>Zakon je sprejet.</p>
                      </sp>
                   </div>
-                  <div n="12">
+                  <div ana="#PAR.TDR" n="12">
                      <sp who="#sp.StropnikLojzka">
                         <p>Prehajamo na 12. točko dnevnega reda, to je na predlog zakona o
                            spremembah in dopolnitvah zakona o usposabljanju otrok in mladostnikov z
@@ -6074,7 +6074,7 @@
                         <p>Zakon je sprejet.</p>
                      </sp>
                   </div>
-                  <div n="13">
+                  <div ana="#PAR.TDR" n="13">
                      <sp who="#sp.StropnikLojzka">
                         <p>Prehajamo na 13. točko dnevnega reda, to je na predlog, da skupščina SR
                            Slovenije da soglasje za ratifikacijo protokola o VII. zasedanju in
@@ -6097,7 +6097,7 @@
                            (Nihče.) Se je kdo vzdržal? (1 poslanec.)</p>
                      </sp>
                   </div>
-                  <div n="14">
+                  <div ana="#PAR.TDR" n="14">
                      <sp who="#sp.StropnikLojzka">
                         <p>Prehajamo na 14. točko dnevnega reda, to je na predlog, da da skupščina
                            SR Slovenije soglasje za ratifikacijo VI. programa kulturnega sodelovanja
@@ -6117,7 +6117,7 @@
                            (Nihče.) Se je kdo vzdržal? (1 poslanec.)</p>
                      </sp>
                   </div>
-                  <div n="15">
+                  <div ana="#PAR.TDR" n="15">
                      <sp who="#sp.StropnikLojzka">
                         <p>Prehajamo na 15. točko dnevnega reda, to je na predlog, da skupščina SR
                            Slovenije da soglasje za ratifikacijo programa kulturnega sodelovanja med
@@ -6137,7 +6137,7 @@
                            vzdržal? (Nihče.)</p>
                      </sp>
                   </div>
-                  <div n="16">
+                  <div ana="#PAR.TDR" n="16">
                      <sp who="#sp.StropnikLojzka">
                         <p>Prehajamo na 16. točko dnevnega reda, to je na volitve in imenovanja.</p>
                         <p>V obravnavi je predlog odloka o razrešitvi predsednika okrožnega
@@ -6282,7 +6282,7 @@
                   </div>
                </div>
                <div ana="#PAR.DnevRed">
-                  <div n="1">
+                  <div ana="#PAR.TDR" n="1">
                      <sp who="#sp.BoleTone">
                         <p>Prehajam na 1. točko dnevnega reda, to je na odobritev zapisnika 48. seje
                            gospodarskega zbora. Zapisnik ste prejeli skupaj z gradivom za današnjo
@@ -6291,7 +6291,7 @@
                            sprejet.</p>
                      </sp>
                   </div>
-                  <div n="2">
+                  <div ana="#PAR.TDR" n="2">
                      <sp who="#sp.BoleTone">
                         <p>Prehajam na 2. točko dnevnega reda, to je na poslanska vprašanja.</p>
                         <p>Obveščam zbor, da je izvršni svet ponovno prosil za odložitev odgovora na
@@ -6556,7 +6556,7 @@
                            Ugotavljam, da nihče.</p>
                      </sp>
                   </div>
-                  <div n="3">
+                  <div ana="#PAR.TDR" n="3">
                      <sp who="#sp.BoleTone">
                         <p>Prehajam na 3. točko dnevnega reda, to je na obravnavo predloga
                            družbenega plana razvoja SR Slovenije v letih 1971—1975.</p>
@@ -7062,7 +7062,7 @@
                            pismeno.</p>
                      </sp>
                   </div>
-                  <div n="4">
+                  <div ana="#PAR.TDR" n="4">
                      <sp who="#sp.BoleTone">
                         <p>Zaključujem 3. točko dnevnega reda in prehajam na 4. točko dnevnega reda,
                            to je na obravnavo predloga zakona o davku iz dohodka temeljnih
@@ -8070,7 +8070,7 @@
                            zbora? (Ne.) Kolikor ne, zaključujem razpravo.</p>
                      </sp>
                   </div>
-                  <div n="5">
+                  <div ana="#PAR.TDR" n="5">
                      <sp who="#sp.BoleTone">
                         <p>Prehajam na 5. točko dnevnega reda, to je na obravnavo predloga zakona o
                            spremembah in dopolnitvah zakona o uvedbi in stopnjah republiških davkov
@@ -8132,7 +8132,7 @@
                         <p>Ugotavljam, da je zakon z večino glasov sprejet.</p>
                      </sp>
                   </div>
-                  <div n="6">
+                  <div ana="#PAR.TDR" n="6">
                      <sp who="#sp.BoleTone">
                         <p>Prehajamo na 6. točko dnevnega reda, to je na obravnavo predloga zakona o
                            narodni banki Slovenije.</p>
@@ -8244,7 +8244,7 @@
                         <p>Ugotavljam, da je predlog zakona z večino glasov sprejet.</p>
                      </sp>
                   </div>
-                  <div n="7">
+                  <div ana="#PAR.TDR" n="7">
                      <sp who="#sp.BoleTone">
                         <p>Prehajam na 7. točko dnevnega reda, to je na obravnavo predloga zakona o
                            obračunavanju amortizacije v letu 1972 v elektrogospodarskih
@@ -8411,7 +8411,7 @@
                            zakona z večino glasov sprejet.</p>
                      </sp>
                   </div>
-                  <div n="8">
+                  <div ana="#PAR.TDR" n="8">
                      <sp who="#sp.BoleTone">
                         <p>Prehajamo na 8. točko dnevnega reda, to je na obravnavo predloga zakona o
                            dopolnitvi zakona o skladih skupnih rezerv in o uporabi njihovih
@@ -8453,7 +8453,7 @@
                         <p>Zakon je z večino glasov sprejet.</p>
                      </sp>
                   </div>
-                  <div n="9">
+                  <div ana="#PAR.TDR" n="9">
                      <sp who="#sp.BoleTone">
                         <p>Prehajamo na 9. točko dnevnega reda, to je na obravnavo odstopa poslanca
                            Ivana Kudra od mandata poslanca gospodarskega zbora.</p>
@@ -8477,7 +8477,7 @@
                            poslanski mandat.</p>
                      </sp>
                   </div>
-                  <div n="10">
+                  <div ana="#PAR.TDR" n="10">
                      <sp who="#sp.BoleTone">
                         <p>Prehajam na 10. točko dnevnega reda, to je na obravnavo predloga odloka o
                            izvolitvi člana komisije skupščine SR Slovenije za družbeno
@@ -8578,7 +8578,7 @@
                   </div>
                </div>
                <div ana="#PAR.DnevRed">
-                  <div n="1">
+                  <div ana="#PAR.TDR" n="1">
                      <sp who="#sp.PoljanšekMiloš">
                         <p>Prehajamo na 1. točko dnevnega reda, to je na odobritev zapisnika 40.
                            seje zbora.</p>
@@ -8588,7 +8588,7 @@
                            brez pripomb in dopolnitev.</p>
                      </sp>
                   </div>
-                  <div n="2">
+                  <div ana="#PAR.TDR" n="2">
                      <sp who="#sp.PoljanšekMiloš">
                         <p>Prehajamo na 2. točko dnevnega reda, to je na poslanska vprašanja.</p>
                         <p>Poslanec Leo Fusilli je na zadnji seji zbora ustno zastavil poslansko
@@ -8872,7 +8872,7 @@
                            točko dnevnega reda.</p>
                      </sp>
                   </div>
-                  <div n="3">
+                  <div ana="#PAR.TDR" n="3">
                      <sp who="#sp.PoljanšekMiloš">
                         <p>Prehajamo na 3. točko dnevnega reda, to je na osnutek sklepov in stališč
                            o idejni usmerjenosti vzgoje in izobraževanja.</p>
@@ -9914,7 +9914,7 @@
                         <p>Ugotavljam, da je sklep soglasno sprejet.</p>
                      </sp>
                   </div>
-                  <div n="4">
+                  <div ana="#PAR.TDR" n="4">
                      <sp who="#sp.PoljanšekMiloš">
                         <p>Prehajamo na 4. točko dnevnega reda, to je na razpravo o racionalizaciji
                            investicij na področju vzgoje in izobraževanja.</p>
@@ -10015,7 +10015,7 @@
                            bomo posredovali tistim odborom, ki bodo pripravili skupen dokument.</p>
                      </sp>
                   </div>
-                  <div n="5">
+                  <div ana="#PAR.TDR" n="5">
                      <sp who="#sp.PoljanšekMiloš">
                         <p>Prehajamo na 5. točko dnevnega reda, to je na predlog zakona o
                            telesno-kulturnih skupnostih.</p>
@@ -10147,7 +10147,7 @@
                            skupnostih.</p>
                      </sp>
                   </div>
-                  <div n="6">
+                  <div ana="#PAR.TDR" n="6">
                      <sp who="#sp.PoljanšekMiloš">
                         <p>Prehajamo na 6. točko dnevnega reda, to je na predlog za ratifikacijo
                            programa prosvetnega in kulturnega sodelovanja med SFRJ in Kraljevino
@@ -10215,7 +10215,7 @@
                         <p>Ugotavljam, da smo soglasno sprejeli predlog odloka o soglasju.</p>
                      </sp>
                   </div>
-                  <div n="7">
+                  <div ana="#PAR.TDR" n="7">
                      <sp who="#sp.PoljanšekMiloš">
                         <p>Prehajamo na zadnjo, to je 7. točko dnevnega reda, to je na predlog
                            odloka o razrešitvi in imenovanju predstavnika Socialistične republike
@@ -10314,7 +10314,7 @@
                   </div>
                </div>
                <div ana="#PAR.DnevRed">
-                  <div n="1">
+                  <div ana="#PAR.TDR" n="1">
                      <sp who="#sp.KorenSrečko">
                         <p>Prehajamo na 1. točko dnevnega reda, to je na odobritev zapisnika 40.
                            seje zbora. Zapisnik ste prejeli z drugim gradivom za današnjo sejo.</p>
@@ -10323,7 +10323,7 @@
                            sprejel.</p>
                      </sp>
                   </div>
-                  <div n="2">
+                  <div ana="#PAR.TDR" n="2">
                      <sp who="#sp.KorenSrečko">
                         <p>Prehajamo na 2. točko dnevnega reda, to so poslanska vprašanja.</p>
                         <p>Na vprašanje poslanca dr. Mihe Likarja, ki ga je postavil na 38. seji
@@ -10948,7 +10948,7 @@
                            ni, zaključujem 2. točko dnevnega reda.</p>
                      </sp>
                   </div>
-                  <div n="3">
+                  <div ana="#PAR.TDR" n="3">
                      <sp who="#sp.KorenSrečko">
                         <p>Prehajamo na 3. točko dnevnega reda, to je na poročilo izvajanja politike
                            družbenoekonomskega razvoja v letu 1972 na področju socialnega in
@@ -11078,7 +11078,7 @@
                            varstvo.</p>
                      </sp>
                   </div>
-                  <div n="4">
+                  <div ana="#PAR.TDR" n="4">
                      <sp who="#sp.KorenSrečko">
                         <p>Prehajamo na 4. točko dnevnega reda, to je na predlog politike na
                            področju družbenega varstva otrok v SR Sloveniji v letu 1973 ter
@@ -11421,7 +11421,7 @@
                   </div>
                </div>
                <div ana="#PAR.DnevRed">
-                  <div n="1">
+                  <div ana="#PAR.TDR" n="1">
                      <sp who="#sp.BoleTone">
                         <p>Začenjam z dnevnim redom in vabim prisotne k razpravi.</p>
                         <p>Najprej moramo odobriti, zapisnik 24. seje enotnega zbora delovnih
@@ -11430,7 +11430,7 @@
                         <p>Ugotavljam, da pripomb ni in da je zapisnik sprejet.</p>
                      </sp>
                   </div>
-                  <div n="2">
+                  <div ana="#PAR.TDR" n="2">
                      <sp who="#sp.BoleTone">
                         <p>Prekinjam sejo enotnega zbora, da pridejo v dvorano še poslanci
                            republiškega zbora, s katerim bomo na skupni seji obeh zborov poslušali
@@ -11846,7 +11846,7 @@
                            >končana ob 9.45</time>, seja enotnega zbora pa se je <time
                            from="09:47:00" xml:id="stage.t.27">nadaljevala ob 9.47</time>.)</stage>
                   </div>
-                  <div n="2">
+                  <div ana="#PAR.TDR" n="2">
                      <sp who="#sp.BoleTone">
                         <speaker>Predsedujoči Tone Bole:</speaker>
                         <p>Tovarišice in tovariši poslanci! Predlagam, da nadaljujemo z delom.</p>
@@ -12247,7 +12247,7 @@
                         <p>O izidu glasovanja bom obvestil predsednika republiškega zbora.</p>
                      </sp>
                   </div>
-                  <div n="3">
+                  <div ana="#PAR.TDR" n="3">
                      <sp who="#sp.BoleTone">
                         <p>Prehajam na 3. točko dnevnega reda, to je na obravnavo predloga zakona o
                            davku iz dohodka temeljnih organizacij združenega dela v SR Sloveniji, ki
@@ -12573,7 +12573,7 @@
                         <p>Tovarišica Žlebnikova, se strinjate s takšnim načinom dela? (Da.)</p>
                      </sp>
                   </div>
-                  <div n="4">
+                  <div ana="#PAR.TDR" n="4">
                      <sp who="#sp.BoleTone">
                         <p>Prehajam na 4. točko dnevnega reda, to je na obravnavo predloga zakona o
                            spremembah in dopolnitvah zakona o davkih občanov.</p>
@@ -12688,7 +12688,7 @@
                            občanov sprejet z večino glasov.</p>
                      </sp>
                   </div>
-                  <div n="5">
+                  <div ana="#PAR.TDR" n="5">
                      <sp who="#sp.BoleTone">
                         <p>Prehajam na 5. točko dnevnega reda, to je na predlog zakona o obdavčitvi
                            tujih oseb.</p>
@@ -12752,7 +12752,7 @@
                         <p>O izidu glasovanja bom obvestil predsednika republiškega zbora.</p>
                      </sp>
                   </div>
-                  <div n="6">
+                  <div ana="#PAR.TDR" n="6">
                      <sp who="#sp.BoleTone">
                         <p>Prehajamo na 6. točko dnevnega reda, to je na obravnavo predloga zakona o
                            službi družbenega knjigovodstva v Socialistični republiki Sloveniji, ki
@@ -12800,7 +12800,7 @@
                            k 63. členu zavzela stališče začasna komisija našega zbora.</p>
                      </sp>
                   </div>
-                  <div n="7">
+                  <div ana="#PAR.TDR" n="7">
                      <sp who="#sp.BoleTone">
                         <p>Prehajamo na 7. točko dnevnega reda, to je na obravnavo predloga zakona o
                            samoprispevku, ki ga je skupščini poslal izvršni svet.</p>
@@ -13047,7 +13047,7 @@
                            >prekinjena ob 12.10</time> in se je <time from="13:40:00"
                            xml:id="stage.t.29">nadaljevala ob 13.40</time>.)</stage>
                   </div>
-                  <div n="3">
+                  <div ana="#PAR.TDR" n="3">
                      <sp who="#sp.BoleTone">
                         <speaker>Predsedujoči Tone Bole:</speaker>
                         <p>Tovarišice in tovariši! Predlagam, da nadaljujemo z delom, in sicer, da
@@ -13259,7 +13259,7 @@
                         <p>O tem bom obvestil predsednika republiškega zbora.</p>
                      </sp>
                   </div>
-                  <div n="6">
+                  <div ana="#PAR.TDR" n="6">
                      <sp who="#sp.BoleTone">
                         <p>Prehajamo nazaj k 6. točki dnevnega reda, to je k zakonu o službi
                            družbenega knjigovodstva. Prosim predstavnika začasne komisije enotnega
@@ -13319,7 +13319,7 @@
                         <p>Ugotavljam, da je zakon z večino glasov sprejet.</p>
                      </sp>
                   </div>
-                  <div n="7">
+                  <div ana="#PAR.TDR" n="7">
                      <sp who="#sp.BoleTone">
                         <p>Sedaj nam je ostala še 7. točka dnevnega reda, to je predlog zakona o
                            samoprispevku, ki ga je skupščini predložil izvršni svet. Prosim
@@ -13383,7 +13383,7 @@
                         <p>Zakon o samoprispevku je z večino glasov sprejet.</p>
                      </sp>
                   </div>
-                  <div n="8">
+                  <div ana="#PAR.TDR" n="8">
                      <sp who="#sp.BoleTone">
                         <p>Prehajamo k 8. točki dnevnega reda, to je na obravnavo osnutka poročila
                            komisije republiškega zbora in prosvetno-kulturnega zbora za proučitev
@@ -14292,7 +14292,7 @@
                   </div>
                </div>
                <div ana="#PAR.DnevRed">
-                  <div n="1">
+                  <div ana="#PAR.TDR" n="1">
                      <sp who="#sp.KrvinaZdravko">
                         <p>Prehajamo k obravnavi 1. točke dnevnega reda, to je k predlogu družbenega
                            plana razvoja Socialistične republike Slovenije v letih 1971—1975, ki ga
@@ -16642,7 +16642,7 @@
                   </div>
                </div>
                <div ana="#PAR.DnevRed">
-                  <div n="1">
+                  <div ana="#PAR.TDR" n="1">
                      <sp who="#sp.KrvinaZdravko">
                         <p>Prehajamo na obravnavo 1. točke dnevnega reda, to je na osnutek sklepov
                            in stališč o idejni usmerjenosti vzgoje in izobraževanja, ki ga je<pb
@@ -17379,7 +17379,7 @@
                         <p>S tem nam je zagotovljeno, da lahko nemoteno delamo dalje.</p>
                      </sp>
                   </div>
-                  <div n="2">
+                  <div ana="#PAR.TDR" n="2">
                      <sp who="#sp.KrvinaZdravko">
                         <p>Prehajamo na obravnavo 2. točke dnevnega reda, to je predloga zakona o
                            spremembah in dopolnitvah zakona o usposabljanju otrok in mladostnikov z
@@ -17873,7 +17873,7 @@
                            (Nihče.) Predlog je torej soglasno sprejet.</p>
                      </sp>
                   </div>
-                  <div n="3">
+                  <div ana="#PAR.TDR" n="3">
                      <sp who="#sp.KrvinaZdravko">
                         <p>Prehajamo na obravnavo 3. točke dnevnega reda, to je na predlog za izdajo
                            zakona o dopolnitvi zakona o republiškem prispevku od sredstev skupne

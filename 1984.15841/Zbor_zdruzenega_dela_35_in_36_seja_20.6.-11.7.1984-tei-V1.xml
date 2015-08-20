@@ -199,7 +199,7 @@
         <body>
             <pb n="1"/>
             <div ana="#PAR.ZbZdruDel">
-                <p>ZBOR ZDRUŽENEGA DELA</p>
+                <head>ZBOR ZDRUŽENEGA DELA</head>
                 <div ana="#PAR.Seja" n="35" corresp="#sistory.15842">
                     <head>35. SEJA</head>
                     <docDate when="1984-06-20">(20. junija 1984)</docDate>
