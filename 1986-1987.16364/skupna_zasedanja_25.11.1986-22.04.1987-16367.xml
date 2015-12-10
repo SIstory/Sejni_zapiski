@@ -1,0 +1,1111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="slv">
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="slv" type="main" level="m">Sejni zapisi Skupščine Socialistične
+               republike Slovenije za 10. sklic (1986-1990), št. zvezka 130</title>
+            <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (25. november 1986)</title>
+            <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (24. december 1986)</title>
+            <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (18. februar 1987)</title>
+            <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (18. marec 1987)</title>
+            <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (22. april 1987)</title>
+            <title xml:lang="slv" type="desc">Elektronska izdaja</title>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <resp>Validacija meta-podatkov.</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marta Rendla</persName>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <idno type="URN">http://www.sistory.si/SISTORY:ID:16364</idno>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:16364</pubPlace>
+            <pubPlace>https://github.com/SIstory/Sejni_zapiski</pubPlace>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
+            </availability>
+            <date when="2015-12-10+01:00">10. 12. 2015</date>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic xml:id="sistory.16365">
+                  <idno>SISTORY:ID:16365#page=4</idno>
+                  <title xml:lang="slv" type="main" level="a">Skupno zasedanje (25. november
+                     1986)</title>
+                  <title xml:lang="slv" type="sub" level="a">Sejni zapisi Skupščine Socialistične
+                     republike Slovenije za 10. sklic (1986-1990), št. zvezka 130</title>
+                  <textLang xml:lang="slv" mainLang="slv">slovenski</textLang>
+                  <textLang xml:lang="eng" mainLang="slv">Slovenian</textLang>
+               </analytic>
+               <analytic xml:id="sistory.16366">
+                  <idno>SISTORY:ID:16366#page=20</idno>
+                  <title xml:lang="slv" type="main" level="a">Skupno zasedanje (24. december
+                     1986)</title>
+                  <title xml:lang="slv" type="sub" level="a">Sejni zapisi Skupščine Socialistične
+                     republike Slovenije za 10. sklic (1986-1990), št. zvezka 130</title>
+                  <textLang xml:lang="slv" mainLang="slv">slovenski</textLang>
+                  <textLang xml:lang="eng" mainLang="slv">Slovenian</textLang>
+               </analytic>
+               <analytic xml:id="sistory.16367">
+                  <idno>SISTORY:ID:16367#page=38</idno>
+                  <title xml:lang="slv" type="main" level="a">Skupno zasedanje (18. februar
+                     1987)</title>
+                  <title xml:lang="slv" type="sub" level="a">Sejni zapisi Skupščine Socialistične
+                     republike Slovenije za 10. sklic (1986-1990), št. zvezka 130</title>
+                  <textLang xml:lang="slv" mainLang="slv">slovenski</textLang>
+                  <textLang xml:lang="eng" mainLang="slv">Slovenian</textLang>
+               </analytic>
+               <analytic xml:id="sistory.16368">
+                  <idno>SISTORY:ID:16368#page=59</idno>
+                  <title xml:lang="slv" type="main" level="a">Skupno zasedanje (18. marec
+                     1987)</title>
+                  <title xml:lang="slv" type="sub" level="a">Sejni zapisi Skupščine Socialistične
+                     republike Slovenije za 10. sklic (1986-1990), št. zvezka 130</title>
+                  <textLang xml:lang="slv" mainLang="slv">slovenski</textLang>
+                  <textLang xml:lang="eng" mainLang="slv">Slovenian</textLang>
+               </analytic>
+               <analytic xml:id="sistory.16369">
+                  <idno>SISTORY:ID:16369#page=104</idno>
+                  <title xml:lang="slv" type="main" level="a">Skupno zasedanje (22. april
+                     1987)</title>
+                  <title xml:lang="slv" type="sub" level="a">Sejni zapisi Skupščine Socialistične
+                     republike Slovenije za 10. sklic (1986-1990), št. zvezka 130</title>
+                  <textLang xml:lang="slv" mainLang="slv">slovenski</textLang>
+                  <textLang xml:lang="eng" mainLang="slv">Slovenian</textLang>
+               </analytic>
+               <monogr xml:id="sistory.16364">
+                  <title xml:lang="slv" type="main" level="m">Sejni zapisi Skupščine Socialistične
+                     republike Slovenije za 10. sklic (1986-1990), št. zvezka 130</title>
+                  <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (25. november
+                     1986)</title>
+                  <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (24. december
+                     1986)</title>
+                  <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (18. februar
+                     1987)</title>
+                  <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (18. marec
+                     1987)</title>
+                  <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (22. april
+                     1987)</title>
+                  <imprint>
+                     <biblScope unit="volume">zvezka 130</biblScope>
+                     <publisher>Skupščina Socialistične republike Slovenije</publisher>
+                     <date when="1987">1987</date>
+                  </imprint>
+               </monogr>
+               <series>
+                  <title>Sejni zapisi Skupščine Socialistične republike Slovenije</title>
+               </series>
+            </biblStruct>
+            <biblFull corresp="#sistory.16364">
+               <titleStmt>
+                  <title xml:lang="slv" type="main" level="m">Sejni zapisi Skupščine Socialistične
+                     republike Slovenije za 10. sklic (1986-1990), št. zvezka 130</title>
+                  <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (25. november
+                     1986)</title>
+                  <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (24. december
+                     1986)</title>
+                  <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (18. februar
+                     1987)</title>
+                  <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (18. marec
+                     1987)</title>
+                  <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (22. april
+                     1987)</title>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher>Državni zbor Republike Slovenije</publisher>
+                  <date when="1987">1987</date>
+                  <availability status="free">
+                     <licence target="http://creativecommons.org/publicdomain/mark/1.0/"
+                        xml:lang="slv">Avtorske pravice so potekle, delo je v javni
+                        domeni.</licence>
+                     <licence target="http://creativecommons.org/publicdomain/mark/1.0/"
+                        xml:lang="eng">Public Domain Mark 1.0</licence>
+                  </availability>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>XML na portalu Zgodovina Slovenije - SIstory narejen v okviru izvajanja
+               infrastrukturnega programa Inštituta za novejšo zgodovino</p>
+         </projectDesc>
+         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../taxonomy.xml"/>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="slv" xml:lang="slv">slovenski</language>
+            <language ident="slv" xml:lang="eng">Slovenian</language>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <list>
+                  <item xml:lang="slv">predstavniška telesa</item>
+                  <item xml:lang="slv">stenografski zapisniki</item>
+                  <item xml:lang="slv">Socialistična republika Slovenija</item>
+                  <item xml:lang="slv">družbeno samoupravljanje</item>
+                  <item xml:lang="eng">representative bodies</item>
+                  <item xml:lang="eng">stenographical minutes</item>
+                  <item xml:lang="eng">Socialist Republic of Slovenia</item>
+                  <item xml:lang="eng">social self-management</item>
+                  <item xml:lang="eng">session</item>
+                  <item xml:lang="eng">term</item>
+                  <item xml:lang="eng">resumption of session</item>
+                  <item xml:lang="eng">joint session</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2015-12-10+01:00">
+            <name>Andrej Pančur</name>: kodiranje<list>
+               <item>//front//*</item>
+               <item>//div/@ana</item>
+               <item>//sp/@who</item>
+               <item>//stage</item>
+               <item>//head</item>
+               <item>//castList</item>
+               <item>//docDate</item>
+            </list>
+         </change>
+         <change when="2015-12-10+01:00">
+            <name>Andrej Pančur</name>: izvoz in preverjanje metapodatkov.</change>
+         <change when="2015-12-10+01:00">
+            <name>Andrej Pančur</name>: konverzija docx2tei </change>
+         <change when="2015-12-10+01:00">
+            <name>Andrej Pančur</name>: označil Header1 in TEI stil (tei:sp) za docx2tei
+            konverzijo</change>
+         <change notAfter="2015-12-10+01:00">
+            <name>Marta Rendla</name>: pregled in poprava OCR v DOCX</change>
+      </revisionDesc>
+   </teiHeader>
+   <text corresp="#sistory.16367">
+      <front>
+         <docTitle>
+            <titlePart>SKUPŠČINA SOCIALISTIČNE REPUBLIKE SLOVENIJE</titlePart>
+            <titlePart>ZBOR ZDRUŽENEGA DELA, ZBOR OBČIN IN DRUŽBENOPOLITIČNI ZBOR</titlePart>
+            <titlePart>Sejni zapiski</titlePart>
+            <titlePart>Skupno zasedanje - 18. februar 1987</titlePart>
+         </docTitle>
+         <docImprint>
+            <publisher>Dokumentacijsko-knjižnični oddelek</publisher>
+            <publisher>Pododdelek sejnih zapiskov</publisher>
+            <pubPlace>Ljubljana</pubPlace>
+            <date>2001</date>
+         </docImprint>
+         <div type="contents">
+            <head>VSEBINA</head>
+            <list rend="simple">
+               <head>SKUPŠČINA SOCIALISTIČNE REPUBLIKE SLOVENIJE<lb/>SKUPNO ZASEDANJE ZBORA
+                  ZDRUŽENEGA DELA, ZBORA OBČIN IN DRUŽBENOPOLITIČNEGA ZBORA</head>
+               <head>(18. februar 1987)</head>
+               <item>
+                  <list rend="ordered">
+                     <head>DNEVNI RED : STRAN</head>
+                     <item n="1">Uvodna obrazložitev k informaciji Izvršnega sveta Skupščine SR
+                        Slovenije o ukrepih in nalogah, ki izhajajo iz sprejetih planskih aktov za
+                        leto 1987, in drugih aktov <ref>1</ref>
+                        <list rend="simple">
+                           <head>GOVORNIK:</head>
+                           <item>Milivoj Samar <ref>1</ref>
+                           </item>
+                        </list>
+                     </item>
+                     <item n="2">Uvodna obrazložitev k predlogu zakona o prispevku iz dohodka
+                        temeljnih organizacij združenega dela za sanacijo izgub organizacij
+                        združenega dela elektrogospodarstva in premogovništva, nastalih v letu 1986
+                           <ref>10</ref>
+                        <list rend="simple">
+                           <head>GOVORNIK:</head>
+                           <item>Janez Bohorič <ref>10</ref>
+                           </item>
+                        </list>
+                     </item>
+                     <item>3.Seznam govornikov II/1</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div type="speakers">
+            <head>SEZNAM GOVORNIKOV</head>
+            <head>SKUPŠČINA SOCIALISTIČNE REPUBLIKE SLOVENIJE<lb/>SKUPNO ZASEDANJE ZBORA ZDRUŽENEGA
+               DELA, ZBORA OBČIN IN DRUŽBENOPOLITIČNEGA ZBORA (18. februar 1987)</head>
+            <castList>
+               <head>GOVORNIKA: STRAN</head>
+               <castItem>
+                  <actor xml:id="sp.BohoričJanez">Bohorič Janez</actor>
+                  <ref>10</ref>
+               </castItem>
+               <castItem>
+                  <actor xml:id="sp.SamarMilivoj">Samar Milivoj</actor>
+                  <ref>1</ref>
+               </castItem>
+            </castList>
+         </div>
+      </front>
+      <body>
+         <div ana="#PAR.ZbZdruDel #PAR.ZbObc #PAR.DruzPolZb">
+            <head>SKUPŠČINA SOCIALISTIČNE REPUBLIKE SLOVENIJE</head>
+            <head>SKUPNO ZASEDANJE ZBORA ZDRUŽENEGA DELA, ZBORA OBČIN IN DRUŽBENOPOLITIČNEGA
+               ZBORA</head>
+            <div ana="#PAR.Zasedanje">
+               <docDate>(18. februar 1987)</docDate>
+               <castList>
+                  <castItem>
+                     <roleDesc>Predsedoval</roleDesc>: <actor xml:id="sp.SteržajMiro">Miro
+                        Steržaj</actor>, <role>podpredsednik Zbora občin</role>
+                  </castItem>
+               </castList>
+               <stage>Začetek zasedanja ob 09.30 uri.</stage>
+               <div ana="#PAR.DnevRed">
+                  <div>
+                     <sp who="#sp.SteržajMiro">
+                        <speaker>PREDSEDUJOČI MIRO STERŽAJ:</speaker>
+                        <p>Tovarišice in tovariši delegati! Dovolite mi, da kot podpredsednik Zbora
+                           občin, v odsotnosti predsednika zbora, Vlada Beznika, pričnem in vodim
+                           skupno zasedanje Zbora združenega dela, Zbora občin in
+                           Družbenopolitičnega zbora Skupščine SR Slovenije.</p>
+                        <p>Na skupnem zasedanju bomo poslušali <title>uvodno obrazložitev k
+                              informaciji Izvršnega sveta Skupščine SR Slovenije o ukrepih in
+                              nalogah, ki izhajajo iz sprejetih planskih aktov za leto 1987, in
+                              drugih aktov</title>, ki jo bo dal tovariš Milivoj Samar, član
+                           Izvršnega sveta in predsednik Republiškega komiteja za družbeno
+                           planiranje. Poslušali bomo tudi <title>uvodno obrazložitev k predlogu
+                              zakona o prispevku iz dohodka temeljnih organizacij združenega dela za
+                              sanacijo izgub organizacij združenega dela elektrogospodarstva in
+                              premogovništva, nastalih v letu 1986</title>, ki jo bo dal tovariš
+                           Janez Bohorič, podpredsednik Izvršnega sveta Skupščine SR Slovenije.</p>
+                        <p>Besedo ima tovariš Milivoj Samar, član Izvršnega sveta in predsednik
+                           Republiškega komiteja za družbeno planiranje.</p>
+                     </sp>
+                     <sp who="#sp.SamarMilivoj">
+                        <speaker>MILIVOJ SAMAR:</speaker>
+                        <p>Tovarišice in tovariši delegati! Na klop ste dobili obširnejšo različico
+                           informacije Izvršnega sveta o tekočih gospodarskih gibanjih in nalogah na
+                           začetku leta, ki vam jo bom v skrajšani obliki posredoval.</p>
+                        <p>Poglavitne značilnosti gospodarskih gibanj ob koncu lanskega in na pragu
+                           letošnjega leta, ki opredeljujejo tudi pogoje za uresničevanje ciljev
+                           letošnje resolucije, so zmerna gospodarska aktivnost, zmanjševanje
+                           zunanjetrgovinske menjave, zlasti izvoza na konvertibilno področje,
+                           umirjanje investicijske aktivnosti, Pospešena rast osebnih dohodkov,
+                           sredstev skupne in splošne Porabe ter visoka inflacija, kljub zadrževanju
+                           rasti cen z administrativnim ukrepanjem.</p>
+                        <p>Dosedaj znani podatki za leto 1986 kažejo, da smo leto zaključili v
+                           okviru predvidevanj, ki so bila osnova za pripravo resolucije za leto
+                           1987. Nekoliko nad pričakovanji so gibanja sredstev za osebne dohodke,
+                           skupno in splošno porabo. Njihovo usklajenost z dohodkom bo moč presoditi
+                           ob analizi zaključnih računov za 1987. leto.</p>
+                        <p>Dosežki na področju menjave s tujino, zlasti še na konvertibilnih
+                           tržiščih in pritiski zadržanih cen v drugi polovici leta 1986,
+                           zmanjšujejo v startu možnosti za realizacijo resolucijskih ciljev in
+                           nalog. Delno velja to tudi za gibanje na Področju osebnih dohodkov v
+                           gospodarstvu, katerih dosežena decembrska raven ne more biti osnova za
+                           delitveno politiko v 1987. letu, kot tudi ne v celoti osnova za določitev
+                           obsega sredstev skupne porabe za 1986. leto. Presežke sredstev za skupno
+                           in splošno porabo je treba upoštevati pri financiranju družbenih
+                           dejavnosti in splošne porabe v 1987. letu. _</p>
+                        <p>Z resolucijo je bilo v federaciji - kot tudi v republiki - doseženo
+                           soglasje, da mora biti skupna ekonomska politika v letu 1987 usmerjena
+                           predvsem v spodbujanje tržno zanimive proizvodnje in konvertibilnega
+                           izvoza, v ukrepe, ki bodo organizacije združenega dela spodbujali za
+                           večanje produktivnosti dela in za učinkovitejše gospodarjenje ter v
+                           odpravljanje vzrokov inflacije.</p>
+                        <p>Sprejeta je bila krepitev poslovne samostojnosti organizacij združenega
+                           dela ter vzpostavljanje takšnih sistemskih pogojev, oblik in metod
+                           usmerjanja ter usklajevanja tokov družbenoekonomskega razvoja, ki bodo
+                           zagotavljali uporabo ekonomskih kriterijev in tržnih meril pri izvajanju
+                           razvojne in tekoče ekonomske politike ter omogočale izkazovanje realnih
+                           ekonomskih kategorij, pomembnih za reprodukcijo samoupravnih
+                           družbenoekonomskih odnosov.</p>
+                        <p>Izbor težiščnih nalog in usmeritev za skupno ekonomsko politiko v 1987.
+                           letu je usmerjen v stabilizacijo gospodarstva, ob rasti izvoza na
+                           konvertibilni trg in proizvodnje ter ustvarjanje pogojev za uravnoteženi
+                           razvoj v nadaljnjih letih, z uvajanjem realnih cen proizvodnih faktorjev,
+                           odpravo na tak način odkritih žarišč inflacije in produktivnejšo,
+                           kreativnejšo uporabo teh faktorjev, vključno s produktivnim
+                           zaposlovanjem.</p>
+                        <p>Gibanje gospodarstva v prvem mesecu 1987. leta in prve prognoze za 1987.
+                           leto odpirajo vprašanje, ali je sprejeti in nedodelani instrumentarij
+                           ekonomske politike ustrezen in zadosten za doseganje resolucijskih
+                           ciljev.</p>
+                        <p>Zvezna, predvsem pa republiška resolucija predvidevata za leto 1987 dokaj
+                           ambiciozne cilje pri povečanju izvoza blaga in storitev na konvertibilno
+                           področje, še posebej, če upoštevamo, da so bili v blagovni menjavi
+                           Jugoslavije in Slovenije s tujino v preteklem letu doseženi slabši
+                           rezultati, kot so bili načrtovani, pa tudi ocenjeni v času sprejemanja
+                           resolucij. Letošnji rezultati in razmere v proizvajalnih organizacijah
+                           glede oskrbe in rednega plačevanja v tujino resno opozarjajo na vse tiste
+                           nedorečenosti, na katere je Izvršni svet Skupščine SR Slovenije opozarjal
+                           že med preteklim letom.</p>
+                        <p>Nespodbudni rezultati na področju ekonomskih odnosov s tujino kažejo, da
+                           niso bile uresničene nekatere bistvene predpostavke v sistemu deviznega
+                           poslovanja, ki bi zagotovile zadostno spodbudo organizacij združenega
+                           dela in bank za ustvarjanje večjega izvoza in deviznega priliva. Izvršni
+                           svet Skupščine SR Slovenije se dnevno srečuje s konkretnimi primeri, ko
+                           organizacije združenega dela resno opozarjajo, da zaradi neustrezno
+                           rešenega vprašanja izračunavanja najnujnejših plačil v tujino grozi
+                           ustavitev proizvodnje in s tem zmanjšanje izvoza na konvertibilno
+                           področje. Gre za organizacije združenega dela, ki so Pomembni izvozniki
+                           na konvertibilno področje - kot na primer: Iskra, Gorenje, Alpina, Unior
+                           Zreče, Eta Cerkno in druge, kot tudi za organizacije združenega dela, ki
+                           v reprodukcijski povezavi prispevajo k izvozu na konvertibilno področje
+                           in za organizacije, katerih proizvodnja je nujna za osnovno oskrbo
+                           prebivalstva in kmetijstva. V nekaterih primerih gre za
+                           najmanjše<pb/>zneske plačil v tujino, ki pa imajo velike negativne
+                           materialne posledice za proizvodnjo in izvoz.</p>
+                        <p>Prav tako je treba opozoriti, da je del naše proizvodnje predrag in
+                           premalo kakovosten, da bi bil sposoben brez velikih dodatnih spodbud
+                           enakopravno tekmovati na konvertibilnem trgu, še posebej, če lahko takšno
+                           proizvodnjo v celoti proda na domačem nezahtevnem trgu. Tega ne more
+                           reševati samo devizni tečaj, če hkrati in z vso odločnostjo ne uredimo
+                           tudi drugih vprašanj, ki vplivajo na učinkovitost gospodarjenja.</p>
+                        <p>Kritične ocene glede naše gospodarske uspešnosti na mednarodnih trgih
+                           zahtevajo tudi, da se na ravni federacije čimprej konkretizirajo in
+                           operacionalizirajo določene naloge, ki so opredeljene v veljavnih zakonih
+                           in resoluciji za letošnje leto. Gre za način usklajevanja uvoznih pravic
+                           z možnostmi plačevanja v tujino, za izvrševanje plačil v tujino v
+                           odvisnosti od ustvarjenega deviznega priliva, za odnos med konvertibilnim
+                           in klirinškim tečajem ter za izenačitev spodbud za izvoz turističnih in
+                           luških storitev z izvozom blaga, za izračun družbeno priznanih uvoznih
+                           potreb, usmerjanje tujih kreditov v proizvodnjo, namenjeno izvozu na
+                           konvertibilno področje, za uvoz opreme za modernizacijo izvozne
+                           proizvodnje ter za potrebe raziskovalne dejavnosti, za financiranje
+                           dogovorjenih projektov gospodarske infrastrukture, za uvoz in plačevanje
+                           uvoza za potrebe družbenih dejavnosti, vzpostavitev ustreznega sistema
+                           evidenc za izkoriščanje uvoznih pravic in ustvarjenega deviznega priliva
+                           in odliva Po subjektih, kot tudi vzpostavitev spodbudnejših pogojev za
+                           krepitev obmejnega gospodarskega sodelovanja in sodelovanja v okviru
+                           Alpe-Jadran. Navedene naloge bi lahko še dopolnjevali, upoštevajoč
+                           resnost razmer in stanja. Vsako nepravočasno ukrepanje teh in drugih
+                           področij ima lahko v dosedanji zaostreni gospodarski situaciji
+                           nepopravljive posledice za razvoj v tem in v naslednjih letih pa tudi za
+                           ugled Jugoslavije v svetu.</p>
+                        <p>Načelna protiinflacijska naravnanost zvezne resolucije ni dovolj prisotna
+                           v konkretnih opredelitvah na področjih trga in politike cen. Tako je na
+                           primer naloga o odpravljanju disparitet cen opredeljena presplošno, zato
+                           so razlage o ciljih in načinih njene izvedbe zelo različne in celo
+                           nasprotujoče. Bilo je mnogo dodatnih pojasnjevanj glede opredelitev
+                           politike stanarin, saj zvezna resolucija predvideva rast stanarin v
+                           skladu z rastjo osebnih dohodkov, z republiško resolucijo pa smo
+                           predvideli hitrejše spremembe in približevanje ekonomskim stanarinam.
+                           Vendar menimo, da se kljub različnim opredelitvam usmeritve medsebojno ne
+                           izključujejo. V uresničevanju politike cen se Izvršni svet zavzema, da v
+                           večji meri uveljavimo samostojno oblikovanje cen. Pri tem bomo tudi v
+                           bodoče zahtevali odgovornost nosilcev oblikovanja cen in družbene
+                           kontrole cen. Ukrepe neposredne kontrole bomo predlagali povsod tam, kjer
+                           bomo ocenili, da gibanja niso v skladu s tako usmeritvijo. Ponovno
+                           poudarjamo, da inflacije pri tem ne moremo obvladovati z
+                           administrativnimi ukrepi na področju cen, temveč je treba njena žarišča
+                           odpraviti s pravimi ekonomskimi posegi.</p>
+                        <p>Realnejša ocena tržnih pogojev in možnosti prodaje, postaja življenjska
+                           nuja za nadaljnji obstoj posameznih organizacij združenega dela.
+                           Samostojno oblikovanje cen pomeni tudi<pb/>prevzemanje rizika in
+                           odgovornosti za položaj na trgu z vsemi posledicami za položaj delovnih
+                           kolektivov. V letu 1987 je poleg programa oblikovanja strateških
+                           blagovnih rezerv potrebno uresničiti tudi skupno dogovorjeni program
+                           tržnih blagovnih rezerv nekaterih osnovnih prehrambenih proizvodov. Za
+                           realizacijo tega programa so že v teku aktivnosti.</p>
+                        <p>V skladu s sprejetim zakonom o pospeševanju proizvodnje hrane in
+                           zagotavljanju nemotene preskrbe je predvidena ustanovitev samoupravnih
+                           interesnih skupnosti v občinah in republiki. Spremembe v obračunskem
+                           sistemu zahtevajo tudi na tem področju prilagoditev virov za združevanje
+                           sredstev in eventualne dopolnitve zakona. Tak način urejanja pospeševanja
+                           proizvodnje hrane in blagovnih rezerv za nemoteno preskrbo prebivalstva
+                           zahteva, da tudi v sedanjih pogojih najdemo ustrezne rešitve.</p>
+                        <p>S politiko realno pozitivne in gibljive obrestne mere in drugimi ukrepi
+                           ekonomske in razvojne politike moramo zagotoviti splošno spodbudne pogoje
+                           za varčevanje in povečati zaupanje v stabilnost dinarja. Ukrepi denarne
+                           in posojilne politike morajo biti naravnani tako, da bodo organizacije
+                           združenega dela vedno bolj same in z drugimi organizacijami združenega
+                           dela, s katerimi se povezujejo v pridobivanju skupnega prihodka in
+                           dohodka, zagotavljale sredstva za zagotavljanje in razširjanje
+                           reprodukcije. Pomemben pogoj za to bo zagotovitev realne amortizacije in
+                           uveljavitev sistema revalorizacije poslovnih sredstev.</p>
+                        <p>Obrestne mere, ki so bile uveljavljene v januarju, po naši oceni
+                           odstopajo od realno pozitivnih obrestnih mer tudi zaradi izjemnega
+                           razhajanja med cenami pri proizvajalcih, ki predstavljajo osnovo za
+                           oblikovanje obrestnih mer, in maloprodajnih cen, ki se v svetu
+                           uporabljajo kot kriteriji za ugotavljanje stopnje inflacije. Izvršni svet
+                           ocenjuje, da bi z odločnejšo politiko realno pozitivne obrestne mere in
+                           ob ustrezni denarni posojilni politiki, ki mora dosledno upoštevati
+                           skupno opredeljene usmeritve in omejitve ter zaostriti finančno
+                           disciplino, lahko bistveno omejili nagibe k inflacijskemu trošenju
+                           sredstev gospodarstva, družbenih dejavnosti in prebivalstva. Takšna
+                           politika bi nedvomno imela izjemno ugodne protiinflacijske učinke.</p>
+                        <p>Z dosledno uveljavitvijo sprejetih ukrepov na področju obračunskega in
+                           finančnega sistema moramo predvsem zagotoviti ekonomsko in finančno
+                           utrditev poslovno uspešnih organizacij združenega dela, vzpostaviti red
+                           in odgovornost v poslovanju, bistveno zmanjšati nepokrite obveznosti in
+                           terjatve ter izboljšati likvidnost. Novi obračunski sistem teži v svojih
+                           temeljnih določilih za tem, da se odpravijo razlike med nominalno in
+                           realno yelikostjo posameznih ekonomskih kategorij, predvsem pa želi
+                           čimbolj omejiti možnosti pridobivanja in delitvi dohodka, ki ne temelji
+                           na družbenokoristnem delu - potrjenem na trgu.</p>
+                        <p>Odpraviti skuša tiste slabosti našega ekonomskega sistema, ki so pomemben
+                           dejavnik splošne učinkovitosti in nestabilnosti gospodarstva. Z uvedbo
+                           novega obračunskega sistema, bodo imele največje materialno-finančne
+                           učinke sprejete spremembe na<pb/>področju revalorizacije sredstev, s
+                           katerimi se uvaja tako imenovani model revalorizacije materialnega
+                           premoženja.</p>
+                        <p>Ocenjujemo, da bodo učinki teh novih določil, vsaj v prvih obračunskih
+                           obdobjih letos, povzročili precejšnje zmanjšanje razpoložljivega dohodka.
+                           Kolikšni bodo učinki teh sprememb v celoletnih bilancah za leto 1987 pri
+                           posameznih organizacijah združenega dela, bo na eni strani odvisno
+                           predvsem od tega, kakšna bo v letošnjem letu dinamika rasti cen, ki
+                           opredeljujejo revalorizacijske količnike, po drugi strani pa od tega,
+                           kako se bo gospodarstvo uspelo s stvarnimi premiki v kakovosti
+                           gospodarjenja in poslovanja prilagoditi zaostrenim pogojem ugotavljanja
+                           in razporejanja celotnega prihodka in dohodka po tem zakonu.</p>
+                        <p>V informaciji Izvršnega sveta, ki ste jo delegati Prejeli, so prikazane
+                           rešitve v zveznih sistemskih zakonih, sprejetih v decembru 1986. leta,
+                           smeri potrebnih prilagajanj republiških predpisov, planskih aktov ter
+                           drugih samoupravnih splošnih aktov v samoupravnih interesnih skupnostih
+                           in organizacijah združenega dela.</p>
+                        <p>Spremembe obračunskega sistema vplivajo tudi na zadovoljevanje skupnih
+                           potreb. Ponekod bodo spremenjeni viri in osnove za združevanje sredstev,
+                           ponekod pa bodo tudi precej zmanjšani viri. Zato bodo, kot je bilo
+                           predvideno z republiško resolucijo, potrebna prilagajanja stopenj,
+                           potrebni bodo novi izračuni solidarnostnih bilanc, pa tudi novi izračuni
+                           vrednosti Programov.</p>
+                        <p>Spremenjenim materialnim možnostim v posamezni občini ali posamezni
+                           interesni skupnosti bo treba prilagoditi tudi samoupravno interesno
+                           organiziranost na posameznih področjih. Ponovno bo treba preveriti obseg
+                           in vsebino nalog, ki naj jih urejajo uporabniki in izvajalci v posameznih
+                           skupnostih. Sprememba obračunskega sistema je lahko dobrodošel povod za
+                           poglobljeno razpravo o pravem in najprimernejšem načinu zadovoljevanja
+                           skupnih potreb.</p>
+                        <p>Nekatere spremembe, ki jih je družba planirala, so lahko s spremembami
+                           obračunskega sistema tudi podprte. Ne bi pa smeli dopustiti, da bi zaradi
+                           obračunskega sistema bilo onemogočeno izvajanje prednostnih nalog in da
+                           bi bil moten usklajen razvoj teh dejavnosti.</p>
+                        <p>Izvršni svet proučuje v sodelovanju s samoupravnimi interesnimi
+                           skupnostmi družbenih dejavnosti potrebne spremembe v republiški
+                           zakonodaji, pa tudi v samoupravnih sporazumih o temeljih plana, ki jo
+                           narekuje spremenjena logika razporejanja dohodka in svobodne menjave.
+                           Niso še znani vsi elementi za spreminjanje organiziranosti in sporazumov
+                           o temeljih planov, ker so potrebni dogovori republik in pokrajin.
+                           Zahteva, da se novi sistem uveljavi s 1.7.1987, bo zato narekovala
+                           pripravo in sprejem republiških zakonov po hitrih postopkih in tudi
+                           interventno financiranje za obdobje, ko postopki spreminjanja
+                           samoupravnih sporazumov ne bodo zaključeni.</p>
+                        <p>Pred končno odločitvijo o dopolnjevanju zakonov in planskih dokumentov bo
+                           treba dobiti poročilo Zveznega izvršnega sveta Skupščine SFRJ, ko se bodo
+                           razdelale določbe obračunskega Zakona, ki naj bi začeli veljati s 1.
+                           julijem.</p>
+                        <pb/>
+                        <p>Z zakonom o sanaciji so zaostreni tudi kriteriji za likvidnost. Zato
+                           morajo organizacije združenega dela skrbno pretehtati plačilno sposobnost
+                           svojih poslovnih partnerjev ter uveljaviti učinkovite ukrepe za
+                           zagotavljanje svoje likvidnosti.</p>
+                        <p>Intenzivirati moramo procese, da organizacije združenega dela z
+                           naslonitvijo na lastne sile, na obstoječe materialne Potenciale ter na
+                           znanje, ustvarjalnost in iniciativnost delavcev izboljšajo ekonomsko in
+                           finančno uspešnost gospodarjenja. Krepi se zavest o nujnem varčevanju z
+                           energijo in materiali. Spoznana je potreba po prodornejšem trženju, dvigu
+                           kakovosti proizvodov, Po trajnejšem proizvodnem in poslovnem povezovanju,
+                           pa tudi po učinkovitejši samoupravni in delovni organiziranosti. Prisotno
+                           je Prizadevanje nekaterih organizacij združenega dela in raziskovalnih
+                           organizacij za vključevanje v mednarodno raziskovalne objekte na
+                           trajnejših in dolgoročnih osnovah. Kot uspeh lahko štejemo tudi to, da
+                           smo še vedno v nestabilnih gospodarskih razmerah uredili nekaj večjih
+                           žarišč izgub, da v teh organizacijah oblikujejo nove tehnološko in tržno
+                           zanimivejše programe ter postopno utrjujejo svoje finančno stanje.</p>
+                        <p>V zvezi z osebnimi dohodki ugotavljamo, da so v nekaterih organizacijah
+                           združenega dela ob koncu lanskega in v začetku letošnjega leta povečali
+                           osebne dohodke, ki niso temeljili na doseženih rezultatih gospodarjenja,
+                           delno tudi zaradi pričakovanih zaostritev v politiki delitve osebnih
+                           dohodkov. S stališči Koordinacijskega odbora za spremljanje družbenega
+                           dogovora o dohodku v SFR Jugoslaviji so bila razjasnjena vprašanj a glede
+                           politike razporejanja dohodka in delitve osebnih dohodkov, po katerih
+                           zvezna resolucija za letošnje leto ne pomeni zamrznitev osebnih dohodkov,
+                           temveč le zahteva dopolnitev družbenih dogovorov in samoupravnih
+                           sporazumov ter njihovo dosledno izvajanje.</p>
+                        <p>V skladu s temi temeljnimi usmeritvami je Koordinacijski odbor družbenega
+                           dogovora o dohodku že pripravil predlog sprememb in dopolnitev družbenega
+                           dogovora, ki ga bo Skupščina obravnavala na prihodnjem zasedanju. Prav
+                           tako je pripravljen tudi osnutek sprememb in dopolnitev družbenega
+                           dogovora v naši republiki. Odbor udeležencev družbenega dogovora v SR
+                           Sloveniji Pa je tudi že pripravil predlog skupnih izhodišč ter usmeritev
+                           za Uresničevanje usmeritev letošnje resolucije.</p>
+                        <p>Povečanje osebnih dohodkov v zadnjih dveh mesecih Preteklega leta je,
+                           vsaj po dosedanjih ocenah, preseglo raven razpoložljivega dohodka, zato
+                           je bila napravljena analiza izplačil osebnih dohodkov v teh mesecih.
+                           Izvršnim svetom skupščin občin in sindikalnim svetom je bilo predlagano,
+                           da preverijo Ustreznost razporejanja osebnih dohodkov v ugotovljenih
+                           organizacijah. V primeru preseganja povečanja osebnih dohodkov prek
+                           Usmeritev resolucije za preteklo leto je treba doseči uskladitev osebnih
+                           dohodkov z doseženimi rezultati. Če tega v organizacijah združenega dela
+                           ne bi storili, je treba pripraviti predlog ukrepov družbenega
+                           varstva.</p>
+                        <p>Po predhodnih podatkih je bilo v januarju 1987 za samoupravne interesne
+                           skupnosti družbenih dejavnosti združenih 53 milijard dinarjev, kar je za
+                           156,9% več kot v lanskem januarju. Glede na decembrski priliv sredstev pa
+                           se januarski priliv<pb/>sredstev zmanjšuje za približno 20%. V primerjavi
+                           s povprečnim prilivom sredstev v zadnjem kvartalu je januarski priliv
+                           sredstev manjši za okoli 5%.</p>
+                        <p>Po določilih zvezne resolucije bi bila sredstva za samoupravne interesne
+                           skupnosti družbenih dejavnosti v prvem kvartalu letošnjega leta enaka kot
+                           v zadnjem kvartalu leta 1986. Na podlagi januarskih podatkov ocenjujemo,
+                           da bo priliv sredstev v prvem kvartalu nekaj večji od priliva v zadnjem
+                           kvartalu in bo prihajalo do manjših presežkov.</p>
+                        <p>Z republiško resolucijo za leto 1987 pa je bilo opredeljeno, da bodo pri
+                           vrednotenju elementov za vrednost programov, storitev ali dejavnosti
+                           upoštevana določila dogovora o temeljih družbenega plana za obdobje 1986
+                           - 1990. Opredeljeno je bilo tudi izhodišče, da se v decembru 1986 uskladi
+                           raven osebnih dohodkov v družbenih dejavnostih z ravnjo osebnih dohodkov
+                           v gospodarstvu. Ocenjujemo, da je bila decembrska raven osebnih dohodkov
+                           in z njo ovrednoteni programi tako visoka zato, ker so osebni dohodki v
+                           družbenih dejavnostih sledili previsokim osebnim dohodkov v gospodarstvu.
+                           Če bi prišli v leto 1987 s prenosom take ravni osebnih dohodkov, bi bili
+                           v neskladju z zvezno resolucijo, ki govori o prenosu kvartalne ravni.</p>
+                        <p>Po predhodnih podatkih za januar je masa izplačil osebnih dohodkov v
+                           januarju nižja od decembrske in zato decembrska izplačila osebnih
+                           dohodkov kot izhodišče za vrednotenje programov samoupravnih interesnih
+                           skupnosti družbenih dejavnosti niso primerni. Januarja masa osebnih
+                           dohodkov v gospodarstvu se giblje okoli povprečne mase iz zadnjega
+                           kvartala lanskega leta, zato je smotrno, da v družbenih dejavnostih kot
+                           izhodišče za oblikovanje cen v prvem kvartalu uporabimo prenos osebnih
+                           dohodkov iz zadnjega kvartala.</p>
+                        <p>Ocenjujemo, da bo prenos osebnih dohodkov kot odnos povprečnih osebnih
+                           dohodkov v zadnjem kvartalu v primerjavi s celoletnimi povprečnimi
+                           osebnimi dohodki znašal v družbenih dejavnostih 44%, v gospodarstvu 3 9%
+                           in za združeno delo v celoti 40%. Upoštevanje teh elementov pri
+                           vrednotenju programov samoupravnih interesnih skupnosti družbenih
+                           dejavnosti ob prenosu materialnih stroškov v višini 32% pomeni, da bi
+                           bila vrednost programa v prvem kvartalu okoli 164 milijard dinarjev, v
+                           celem letu - ocenjena na takšen način - pa 656 milijard, kar bi bilo za
+                           39,4% več kot masa v letu 1986 (ob resoluciji je ta ocena znašala 36,5%).
+                           Po informacijah so posamezne samoupravne interesne skupnosti družbenih
+                           dejavnosti že upoštevale prenos decembrskih osebnih dohodkov v celoti in
+                           bo treba to upoštevati pri nadaljnjem usklajevanju cen programov.</p>
+                        <p>Med nalogami za 1987. leto so tudi še nekatera razvojna vprašanja, ki jih
+                           bo treba razrešiti. V pripravi so opredelitve strategij nastopa
+                           organizacij združenega dela na posameznih regionalnih tržiščih. V
+                           pripravi in sprejemanju so strategije Uresničevanja posameznih ciljev iz
+                           dolgoročnega programa gospodarske stabilizacije in dolgoročnega plana
+                           Jugoslavije na področju tehnološkega razvoja, razvoja energetike, prometa
+                           in zvez, kmetijstva, kot tudi posamezni skupni razvojni programi. Vse to
+                           bo zahtevalo ponovno presojo srednjeročnih planskih dokumentov, </p>
+                        <p>ob spreminjanju gospodarskega sistema pa tudi presojo smeri in okvirov
+                           ukrepov ekonomske politike.</p>
+                        <p>Družbeni plan SFR Jugoslavije za obdobje 1986 - 1990 in resolucija za
+                           leto 1987 predvidevata sprejem skupnega programa izgradnje avtomobilske
+                           ceste Bratstvo in enotnost z dinamiko del in načinom zagotavljanja
+                           sredstev iz domačih virov in zunanjih kreditov. Z odlokom Zveznega
+                           izvršnega sveta, s katerim se zagotavljajo namenska sredstva za izgradnjo
+                           te avtoceste v višini 7 dinarjev iz maloprodajne cene pogonskih goriv,
+                           naj bi bila zagotovljena domača sredstva kot osnova za postavitev cilja,
+                           da bomo v republiki Sloveniji celoten potek avtoceste končali v letu
+                           1991.</p>
+                        <p>Zgoraj omenjena zahteva in predvideno dokončanje Karavanškega predora
+                           leta 1991 nalagajo pospešeno ukrepanje na področju gradnje ceste Bratstva
+                           in enotnosti tudi v Sloveniji. Dolgoročni plan Slovenije predvideva
+                           izgradnjo te ceste v celotni Potezi, vendar po posameznih etapah.
+                           Družbeni plan za obdobje 1986 - 1990 v naši republiki opredeljuje gradnjo
+                           najbolj kritičnih cestnih odsekov na tej cesti in cest po Osimskih
+                           sporazumih, prilagojeno dejanskim materialnim možnostim. Cestni odseki,
+                           opredeljeni v Dogovoru o temeljih družbenega plana predstavljajo le
+                           minimum, ki ga bo treba v tem obdobju realizirati. Eventualni širši
+                           program pa bo realiziran v odvisnosti od razpoložljivih sredstev.</p>
+                        <p>V samoupravnem sporazumu o temeljih plana Skupnosti za ceste Slovenije je
+                           že predvidena priprava tehnične dokumentacije tudi za odsek Ljubljana -
+                           Bregana, kar pomeni, da so priprave tehnične dokumentacije v finančnem
+                           pogledu pokrite, ni pa še zaključena uskladitev v prostoru, ki jo morajo
+                           s svojimi planskimi akti izvesti občine. V družbenih planih občin, skozi
+                           katere naj bi potekala ta avtocesta, še niso sprejeti elementi, ki bi
+                           omogočili pričetek gradnje, zato je treba na osnovi prostorskih elementov
+                           Samoupravne interesne skupnosti za ceste v ustreznih občinah takoj
+                           pričeti postopek za dopolnitev plana. Na osnovi znanih ekonomskih
+                           elementov pa bo Izvršni svet predlagal tudi dopolnitev srednjeročnega
+                           plana Slovenije.</p>
+                        <p>Glede financiranja gradnje cest po obstoječih planskih dokumentih naj še
+                           dodam, da so razgovori z misijo Mednarodne banke za obnovo in razvoj v
+                           zvezi s končnim pregledom dokumentacije za dvanajsto posojilo v zaključni
+                           fazi. Z izpolnitvijo še nekaterih formalnih zahtev v zvezi z
+                           dokumentacijo s strani republiških samoupravnih interesnih skupnosti za
+                           ceste, ki so opravljeni že v teku teh pogovorov, so dani pogoji za podpis
+                           te Pogodbe v prvem tednu marca. Sredstva dvanajstega posojila pa bodo
+                           tako postala operativna mesec dni po podpisu te pogodbe, predvidoma v
+                           aprilu.</p>
+                        <p>Drugo takšno dopolnjevanje predstavlja srednjeročni plan Posebne
+                           interesne skupnosti za elektrogospodarstvo in premogovništvo SR
+                           Slovenije, saj se v letu 1986 ta ni izvajal s potrebno dinamiko izgradnje
+                           objektov, ker niso bila pravočasno rešena vsa vprašanja projektiranja,
+                           lokacije in zašite okolja. V preverjanju je strategija SR Slovenije na
+                           področju energetike, zlasti še z vidika ekologije. V Jugoslaviji pa je v
+                           pripravi<pb/>program izgradnje energetskih objektov do leta 2000. Tudi to
+                           bo zahtevalo dopolnjevanje planskih aktov v tem letu.</p>
+                        <p>Tovarišice in tovariši delegati! Gospodarska gibanja v preteklem in v
+                           začetku letošnjega leta opozarjajo, da dograjujemo in oblikujemo
+                           sistemske rešitve in ekonomsko politiko v zelo zapletenih razmerah.
+                           Nadaljevanje neugodnih gospodarskih gibanj iz prejšnjih let, visoka
+                           inflacija, ki zamegljuje realne odnose v gospodarjenju ter spodkopava
+                           preusmeritev organizacij združenega dela na povečan konvertibilni izvoz
+                           in devizni priliv, z vso ostrino opozarjajo, da smo dosegli tisto raven
+                           gospodarske in družbene razvitosti, ki terja prehod na intenzivnejši in s
+                           tem na kakovostnejši razvoj.</p>
+                        <p>Izvršni svet ocenjuje, da mora biti v ospredju ekonomske in razvojne
+                           politike predvsem vse to, kar bo dosledno in postopno vodilo k
+                           uresničevanju načel realne ekonomije in uveljavljanju realnega
+                           vrednotenja proizvodnih činiteljev, ter ofenzivna izvozna politika, ki
+                           mora biti podprta s takšnimi ukrepi ekonomske politike, s katerimi bomo
+                           ponovno uveljavili večjo samostojnost, odgovornost, interes izvoznikov in
+                           poslovnega bančništva za izvoz na konvertibilno področje, izvoznim
+                           potrebam prilagojen uvoz materiala in opreme ter plačevanja v tujino.</p>
+                        <p>Odločneje se moramo spopasti z inercijo ekstenzivnega razvoja, ki se še
+                           ohranja v mnogih organizacijah združenega dela. Probleme, s katerimi se
+                           srečujemo, naj vsakdo razrešuje predvsem v svojem okolju z večjo
+                           naslonitvijo na lastne sile ter s krepitvijo odgovornosti samoupravno
+                           združenih delavcev za lasten in skupen razvoj. To naj velja tako za
+                           procese preusmerjanja proizvodnje in sanacijo organizacij združenega dela
+                           in poslovnih sistemov, kot za krepitev tržnega položaja organizacij
+                           združenega dela na notranjem in zunanjih trgih. Ukrepi družbenopolitičnih
+                           skupnosti na vseh ravneh, zlasti v republikah in pokrajinah ter na ravni
+                           federacije pa naj bodo v skladu z njihovo pristojnostjo in odgovornostjo
+                           usmerjeni predvsem na zagotavljanje tistih sistemskih in drugih pogojev,
+                           ki bodo prispevali k uresničevanju resolucijskih ciljev za 1987. leto in
+                           razvojnih ciljev tega srednjeročnega obdobja.</p>
+                        <p>Zato da bi se obrnili negativni trendi na začetku letošnjega leta, ki se
+                           kažejo zlasti na dveh pomembnih področjih - to je na področju ekonomskih
+                           odnosov s tujino in pri obvladovanju inflacije - Zvezni izvršni svet prav
+                           v teh dneh Pripravlja dodatne ukrepe za pospeševanje izvoza, za
+                           uravnoteženje plačilne bilance in obvladovanje inflacijskih
+                           pritiskov.</p>
+                        <p>Izvršni svet Skupščine SR Slovenije bo takoj, ko bo podrobneje seznanjen
+                           z vsebino ukrepov, svoja stališča do njih sprejel in jih posredoval
+                           delegatom zborov zvezne skupščine, saj je predvideno, da bo zvezna
+                           skupščina o tem razpravljala in odločala že na zasedanju 26. februarja.
+                           Hvala.</p>
+                     </sp>
+                  </div>
+                  <div>
+                     <sp who="#sp.SteržajMiro">
+                        <speaker>PREDSEDUJOČI MIRO STERŽAJ:</speaker>
+                        <p>Tovarišu Samarju se zahvaljujem za dano uvodno obrazložitev in dajem
+                           besedo tovarišu Janezu Bohoriču, podpredsedniku Izvršnega sveta SR
+                           Slovenije.</p>
+                     </sp>
+                     <pb/>
+                     <sp who="#sp.BohoričJanez">
+                        <speaker>JANEZ BOHORIČ:</speaker>
+                        <p>Tovarišice in tovariši delegati. Decembrska razprava v Skupščini SR
+                           Slovenije je prikazala vso resnost družbenoekonomskega položaja, v
+                           katerem se je znašlo elektrogospodarstvo v letu 1986. Ne glede na to, da
+                           je bila ocenjena izguba v višini 39,8 milijard dinarjev, je Izvršni svet
+                           Skupščine SR Slovenije zavzel stališča, da je sistemu elektrogospodarstva
+                           in premogovništva potrebno zagotoviti z zakonom le 19,3 milijarde
+                           dinarjev, kar bi skupaj z ukrepi, sprejetimi v Posebni samoupravni
+                           interesni skupnosti za elektrogospodarstvo in premogovništvo, omogočilo v
+                           sistemu poslovno leto zaključiti brez nekrite izgube.</p>
+                        <p>Izvršni svet je zato predlagal Skupščini v sprejem zakon za zagotovitev
+                           teh sredstev, ki pa ni bil sprejet. Hkrati je Izvršni svet s predlaganimi
+                           ugotovitvami in sklepi, ki jih je Skupščina sprejela 24.12.1986, pokazal
+                           na žarišče problemov, zaradi katerih je prišlo do takšnega zapletenega in
+                           brez intervencij , žal, nerešljivega položaja. Nakazal je tudi nujno
+                           potrebne materialne, organizacijske in druge rešitve, ki morajo v sistemu
+                           elektrogospodarstva in premogovništva pomagati iz kriznega stanja. Na
+                           osnovi sklepov Skupščine je Izvršni svet sprejel operativni program
+                           ukrepov za ureditev stanja. O tem, kako se uresničuje, vas bom v
+                           nadaljevanju na kratko obvestil.</p>
+                        <p>V začetku letošnjega februarja je elektrogospodarstvo in premogovništvo
+                           ponovno ocenilo pričakovane rezultate Poslovanja za leto 1986 in
+                           ugotovilo, da bo skupna izguba za leto 1986 znašala 35,9 milijarde
+                           dinarjev, od tega v sozdu Elektrogospodarstva 9,1 milijarde dinarjev, v
+                           sozdu REK Franc Leskovšek Luka 14,1 milijardo dinarjev in v sozdu REK
+                           Edvard Kardelj 12,7 milijarde dinarjev.</p>
+                        <p>S prispevkom na podlagi zakona, ki ga danes predlagamo v sprejem, in ki
+                           smo vam ga posredovali skupaj z obrazložitvijo, operativnim programom
+                           ukrepov, obširnejšo informacijo o okoliščinah, v katerih zakon
+                           predlagamo, ter s pismom Zveznega izvršnega sveta v zvezi s problematiko
+                           cen, bi bilo elektrogospodarstvu in premogovništvu zagotovljenih 19,3
+                           milijarde dinarjev, s čimer bo pokrit le del izgube. Preostalo izgubo, ki
+                           bo dokončno znana ob zaključnem računu za leto 1986, pa bodo pokrile
+                           organizacije združenega dela elektrogospodarstva in premogovništva z
+                           notranjimi ukrepi, ki temeljijo na razmejitvi amortizacije, na
+                           neoblikovanju poslovnega sklada, na uporabi rezervnih skladov in na
+                           učinkih prevrednotenja zalog.</p>
+                        <p>Izvršni svet je ob pripravi novega predloga zakona seveda upošteval mnoge
+                           zahteve delegatov iz predhodnih razprav. Tako predlaga, da uporabniki
+                           električne energije plačajo prispevek v štirih obrokih od 5. marca do 15.
+                           maja 1987. Tudi o tej dinamiki plačil so se v razpravi pojavili
+                           pomisleki, češ, da naj bi se marec razbremenil vsaj enega obroka. Izvršni
+                           svet Skupščine SR Slovenije je proučil to pobudo, saj se je zavedal
+                           dejstva, da ob plačilu prvega obroka tega prispevka organizacijam
+                           združenega dela zapadejo tudi nekatere druge obveznosti, ki so jih v
+                           skladu s predpisi dolžne poravnati ob oddaji zaključnega računa za leto
+                           1986. Ob tem pa ugotavlja, da pobude ne kaže sprejeti, ker je
+                           likvidnostni položaj v elektrogospodarstvu in premogovništvu kritičen,
+                           njegovo začasno<pb/>reševanje s kratkoročnimi kreditnimi viri za sprotno
+                           plačevanje najnujnejših potreb tekoče reprodukcije, zlasti osebnih
+                           dohodkov, pa stanje še poslabšuje in ustvarja dodatne stroške.</p>
+                        <p>Upoštevajoč razpravo v Skupščini SR Slovenije in omejitve v zveznih
+                           predpisih, na katere smo s pismom opozorili Zvezni izvršni svet, je
+                           Izvršni svet opustil prispevek iz osebnih dohodkov kot vira za pokrivanje
+                           izgube. Zaradi tega in zaradi spremenjene osnove, je Izvršni svet
+                           predlagal prispevek iz dohodka v višini 18,8% od neto fakturiranega
+                           zneska za električno energijo v letu 1986, kar kljub opustitvi prispevka
+                           iz osebnih dohodkov zadostuje za zagotovitev 19,3 milijarde dinarjev, saj
+                           se predloženi prispevek nanaša na dvanajst mesečni obračun električne
+                           energije in ne na enajstmesečni, ki je bil osnova za decembrski predlog
+                           zakona.</p>
+                        <p>Izvršni svet Skupščine SR Slovenije je proučil tudi možnost delne oziroma
+                           celotne oprostitve plačila prispevka za pokrivanje izgub v
+                           elektrogospodarstvu Slovenije izvoznim organizacijam združenega dela, kar
+                           so predlagala nekatera splošna združenja, podprli pa delegati iz
+                           nekaterih občin. Ugotovil je, da teh pobud ni mogoče sprejeti, saj bi
+                           moral potem dodatno obremeniti ostale organizacije združenega dela.
+                           Zavedamo se težavnega položaja izvoznikov, menimo pa, da predlagano
+                           reševanje problema izvoznikov s prerazdelitvijo prispevka za
+                           elektrogospodarstvo ni ustrezna rešitev. Pomenila bi odstop od
+                           ekonomskega pritiska na zniževanje porabe električne energije na enoto
+                           proizvoda in s tem tudi od pravih naporov za usposobitev za izvoz na
+                           ekonomski osnovi. Bila pa bi tudi v nasprotju s stališčem Skupščine SR
+                           Slovenije, da mora biti prispevek za pokrivanje izgub sorazmeren z
+                           uporabo električne energije v letu 1986.</p>
+                        <p>Upoštevajoč to načelo, Izvršni svet tudi ne more sprejeti pobude Zveze
+                           obrtnih združenj, ki je predlagala, da bi se obrtniki, kot tista skupina
+                           porabnikov električne energije, ki Plačuje električno energijo po
+                           najvišji tarifi, pri pokrivanju izgube obravnavali drugače. Dejstvo, da
+                           nekateri uporabniki plačujejo po tarifi višjo ceno od njenih proizvodnih
+                           stroškov, drugi pa nižjo, je predmet razprav in odločanja o spremembi
+                           tarifnega sistema, ki je v teku. Pri pokrivanju izgub za leto 1986 pa, ob
+                           upoštevanju sprejetih usmeritev, tovrstnih pobud ni mogoče vgraditi v
+                           zakon.</p>
+                        <p>Tudi ponavljajočih se pobud, da bi sredstva za pokrivanje izgub
+                           zagotavljali skozi materialne stroške, ne moremo sprejeti, saj kot smo že
+                           večkrat pojasnili, veljavna zakonodaja te možnosti ne daje. Pač pa
+                           ponovno poudarjamo, da bo prispevek odbitna postavka od osnove za davek
+                           iz dohodka pri vseh zavezancih, s čimer pri obrtnikih praktično dobi
+                           značaj materialnega stroška. Prav tako zakon o ugotavljanju in
+                           razporejanju celotnega Prihodka in dohodka onemogoča možnost pokrivanja
+                           izgub iz dohodka, ki je bil ustvarjen v letu 1986, kar so tudi predlagali
+                           iz nekaterih sredin.</p>
+                        <p>Kmetje, ki se jim davek odmerja od katastrskega dohodka, po predlogu
+                           zakona niso zavezanci za prispevek. Prispevek za Pokrivanje izgub bodo po
+                           tem zakonu plačali samo tisti kmetje, ki se jim ugotavlja dejanski
+                           dohodek. Tudi pri njih pa bo prispevek odbitna postavka od davčne
+                           osnove.</p>
+                        <pb/>
+                        <p>V tej uvodni besedi seveda, ne more odgovoriti na vse pripombe, stališča
+                           in predloge, ki so bili dani v razpravi o predlogu zakona. Zato sem se
+                           omejil le na najpogostejše in na tiste, ki so terjale spremembo
+                           predloženega zakona. Izvršni svet pa je temeljito proučil vse izražene
+                           predloge, pripombe, zahteve in mnenja. Nanje je Republiški komite za
+                           energetiko pisno odgovoril vsem delegacijam.</p>
+                        <p>Izvršni svet je obvestil Skupščino SR Slovenije o položaju, s katerim se
+                           dnevno srečuje pri razreševanju likvidnostnih problemov v vseh
+                           organizacijah združenega dela elektrogospodarstva in premogovništva, o
+                           udeležbi stroška za energijo v celotnem prihodku slovenske industrije in
+                           po posameznih panogah, o že pripravljenem predlogu za izdelavo analize o
+                           racionalni rabi energije, o že obstoječih ugodnostih, ko gre za
+                           investicije varčevanja z energijo, ter o tem, da bodo pri izbiri
+                           programov razvoja elektrogospodarstva in premogovništva v SR Sloveniji
+                           upoštevani tudi zaključki problemske konference Socialistične zveze
+                           delovnega ljudstva o ekologiji, energiji in varčevanju.</p>
+                        <p>Razen tega je Izvršni svet ob dosedanji razpravi o zakonu o pokrivanju
+                           izgub v elektrogospodarstvu in premogovništvu odgovoril na vrsto
+                           vprašanj, ki se niso nanašala neposredno na Predlagani zakon, zadevala pa
+                           so področje energetike. To je storil v obsegu in kakovosti, ki je bila
+                           mogoča brez tehtnejše proučitve in strokovnih ekspertiz. Priprava
+                           odgovorov na ostala vprašanja pa je sprejel kot obvezo v svojem
+                           operativnem načrtu za uresničitev stališč, sklepov in usmeritev
+                           Skupščine.</p>
+                        <p>Dosedanja razprava o predlogu zakona v delegatskih sredinah je podprla
+                           sprejem zakona, pri tem pa opozorila, da se je treba zavzemati za
+                           uveljavitev ekonomskih cen električne energije in premoga, da je
+                           sanacijski program potrebno dosledno izvajati, da je potrebno posebno
+                           pozornost posvetiti racionalni rabi energije in tarifnemu sistemu za
+                           prodajo električne energije, dana je bila podpora doslednemu izvajanju
+                           operativnega načrta za odstranitev vzrokov za nastalo stanje. Dane so
+                           bile zahteve za zagotovitev trajnega vira financiranja razlik med
+                           dejanskimi stroški slovenskega energetskega gospodarstva in ceno
+                           energije. Izraženo je bilo mnenje, da predlog zakona pomeni pozitiven
+                           premik z ozirom na decembrski predlog, predvsem zaradi tega, ker bodo
+                           uporabniki plačali prispevek iz tekočega dohodka v letu 1987 in v več
+                           obrokih. Podana je bila ocena, da je rast cen električne energije v letu
+                           1986 dobra osnova za gospodarjenje organizacij združenega dela
+                           elektrogospodarstva v letu 1987 in da predstavlja osnovo za postopen
+                           prehod k ekonomskim cenam električne energije. Opozorjeno je bilo, da je
+                           pri opredeljevanju tarifne politike treba izhajati iz nacionalnega
+                           gospodarskega interesa ter pospeševati razvoj tistih proizvodnih
+                           programov, za katere sodimo, da so dolgoročno perspektivni, s čimer bi
+                           tudi tarifna politika postala pomemben vzvod prestrukturiranja
+                           slovenskega gospodarstva. Vsi ti predlogi so ali pa še bodo upoštevani
+                           Pri realizaciji nalog iz operativnega načrta.</p>
+                        <p>Izvršni svet Skupščine SR Slovenije pa že sedaj tudi spremlja proizvodnjo
+                           tistih proizvodov, ki imajo visoko specifično porabo energije, in pomaga
+                           pri razreševanju njihove problematike. Zavzema se za ustrezno cenovno
+                           politiko pri določanju<pb/>cen energetsko zahtevnih proizvodov, na primer
+                           karbida in ferolegur, zavzema se za takšno njihovo nadaljnjo predelavo,
+                           ki bo omogočala ustreznejše ovrednotenje porabljene energije, na primer
+                           Pri aluminiju in jeklu, kot tudi za zmanjšanje specifične porabe energije
+                           pri njihovi proizvodnji, to je usmerjena rekonstrukcija in modernizacija
+                           nekaterih obratov. Ob upoštevanju dolgoročne razvojne politike pa bo
+                           pomagal tudi pri prestrukturiranju energetsko prezahtevne
+                           proizvodnje.</p>
+                        <p>Tovarišice in tovariši delegati! Izvršni svet Skupščine SR Slovenije
+                           tekoče spremlja uresničevanje operativnega načrta za izvajanje ugotovitev
+                           in sklepov Skupščine SR Slovenije. Pri tem ugotavlja, da delo na nalogah
+                           intenzivno poteka, da so nekatere naloge že izvršene, druge pa v fazi
+                           izvrševanja v skladu s sprejetimi roki.</p>
+                        <p>Analize dosedanjih aktivnosti Izvršnega sveta Skupščine SR Slovenije in
+                           republiških upravnih organov pri urejanju področja elektrogospodarstva in
+                           premogovništva je pokazala, da je bila v srednjeročnem obdobju 1981 -
+                           1985 v zveznih planskih aktih politika cen na področju energetike
+                           opredeljena tako, da bi na njeni osnovi lahko vzpostavili ustreznejša
+                           razmerja med cenami Posameznih oblik energije ter trajneje usmerili
+                           porabnike v racionalnejšo porabo energije, ki bo bolj v skladu tudi z
+                           nujnimi spremembami v strukturi porabe energetskih virov. Tudi republiški
+                           planski akti iz istega obdobja so opredelili politiko cen energije tako,
+                           da bi omogočila poleg pokrivanja stroškov enostavne reprodukcije tudi del
+                           stroškov razširjene reprodukcije.</p>
+                        <p>Strategija dolgoročnega plana razvoja jugoslovanske energetike je tudi
+                           opredelila, da mora biti cena energije ekonomsko realna in da je treba z
+                           njo, prek pridobljenega dohodka, določati raven enostavne in razširjene
+                           reprodukcije v organizacijah združenega dela energetike.</p>
+                        <p>Opredelitve zvezne resolucije v tem obdobju, ki se nanašajo na politiko
+                           cen na področju energetike, pa so bile še skromnejše in splošnejše. To
+                           velja zlasti za prva tri leta preteklega srednjeročnega obdobja, kot tudi
+                           za dogovore o izvajanju politike cen, s katerimi se je v teh letih
+                           opredeljevala Politika cen. Izvršni svet dalje ugotavlja, da cene
+                           električne energije v tem obdobju niso sledile niti tem opredelitvam, na
+                           kar smo že večkrat opozarjali.</p>
+                        <p>V postopku sodelovanja ali usklajevanja, je Izvršni svet nasprotoval
+                           predlogom, ki so bili usmerjeni k izenačevanju cene električne energije
+                           in premoga v vseh republikah in pokrajinah. Vztrajal je, da se pri
+                           določanju cen upoštevajo različni pogoji pridobivanja električne energije
+                           in premoga in s tem tudi različni stroški enostavne reprodukcije po
+                           socialističnih republikah in avtonomnih pokrajinah. Opozarjal je, da bi
+                           vodenje Politike izenačitve cen povzročilo, da bi glede na naravne pogoje
+                           Pri pridobivanju energije nekatera elektrogospodarstva in premogovniki
+                           ustvarjali akumulacijo, drugim pa to ne bi zadoščalo niti za pokrivanje
+                           stroškov enostavne reprodukcije.</p>
+                        <p>Izvršni svet je o vsem tem tekoče obveščal tudi Skupščino SR Slovenije
+                           tako ob razpravah o planskih aktih, ob srejemanju resolucij, še posebej
+                           pa ob razpravah o samoupravnih interesnih skupnostih materialne
+                           proizvodnje in o<pb/>družbenoekonomskem položaju energetike, posebej še
+                           ob obeh decembrskih razpravah. Opozarjal je tudi na neprimernost in
+                           neučinkovitost obstoječe organiziranosti tako v samoupravnih interesnih
+                           skupnostih kot v sozdih ter na nedodelanost dohodkovnih odnosov
+                           sistema.</p>
+                        <p>Vse to je tudi privedlo do jasnih in konkretnih usmeritev Skupščine v
+                           spremembe, ki so v teku. Zato Izvršni svet ne more sprejeti tistih
+                           ugotovitev iz posameznih okolij, ki so se pojavile ob zadnjih razpravah,
+                           ki Izvršnemu svetu pripisujejo premalo aktivnosti za razreševanje stanja
+                           v elektrogospodarstvu in premogovništvu, saj je stanje tekoče spremljal,
+                           v skladu s svojimi pooblastili pa tudi ukrepal ali pa predlagal ukrepe
+                           pooblaščenim organom, Elektrogospodarstvu Slovenije, Posebni samoupravni
+                           interesni skupnosti za elektrogospodarstvo in premogovništvo SR
+                           Slovenije, Skupščini SR Slovenije, Zveznemu izvršnemu svetu, JUGEL-u in
+                           drugim.</p>
+                        <p>Prav tako, da bi ublažil posledice cenovne politike, je podprl odločitev
+                           Posebne interesne skupnosti za elektrogospodarstvo in premogovništvo o
+                           podaljšanju zimske tarife tudi v letno obdobje, spodbujal samoupravno
+                           interesno skupnost k sprejemu ukrepov ter nazadnje sam predlagal
+                           Skupščini sprejem zakona o določitvi obveznosti plačevanja prispevka za
+                           nemoteno obratovanje sistema elektrogospodarstva in premogovništva.
+                           Izvršni svet tudi pomaga pri reševanju težke likvidnostne situacije, ki
+                           se je zaradi poslovanja z izgubo pojavila v sistemu elektrogospodarstva
+                           in premogovništva. Za premostitev likvidnostnih težav v sistemu
+                           elektrogospodarstva in premogovništva so bila v letu 1986 prvič
+                           uporabljena tudi sredstva družbenopolitičnih skupnosti. Trenutno je v
+                           sistemu plasiranih 7,1 milijard dinarjev sredstev družbenopolitičnih
+                           skupnosti, z rokom vračila 31. marec 1987. Republiški sklad skupnih
+                           rezerv se je v sanacijo sistema elektrogospodarstva in premogovništva
+                           vključeval v obliki zagotavljanja sredstev rezerv za kritje izgub in z
+                           odobravanjem kreditov za osebne dohodke. V ta namen je v sistemu trenutno
+                           plasiranih 2,8 milijarde dinarjev, a se likvidnostne težave nadaljujejo
+                           tudi v letu 987, med drugim tudi zaradi odlaganja sprejemanja zakona o
+                           pokrivanju izgube. Tako je bilo treba za njihovo premoščanje in za osebne
+                           dohodke v SOZD-u REK Edvard Kardelj dodatno najeti kredite v višini 1,2
+                           milijarde dinarjev z obrestno mero 62%, za SOZD REK Franc Leskošek-Luka
+                           pa 1,34 milijarde dinarjev z obrestno mero 67%, kar bo še povečalo
+                           stroške poslovanja v letošnjem letu. Celotno stanje kratkoročnih kreditov
+                           v sistemu elektrogospodarstva in premogovništva pa znaša že 50 milijard
+                           dinarjev.</p>
+                        <p>Elektrogospodarstvo in premogovništvo je v skladu z operativnim načrtom
+                           pravočasno pripravilo program aktivnosti za učinkovito in uspešno
+                           poslovanje elektrogospodarstva in premogovništva Slovenije. O povzetku
+                           tega programa ste seznanjeni z gradivom, ki ga je posredovala SOZD
+                           Elektrogospodarstvo Slovenije. Izvršni svet Skupščine SR Slovenije je
+                           proučil program, ki je bistveno obsežnejši od povzetka, ki vam je na
+                           razpolago, in ugotovil, da bo elektrogospodarstvo in premogovništvo
+                           moralo svoj program še detajlneje razdelati in predlagati do 31. marca
+                           1987 na osnovi sklepov, ki jih je sprejela Skupščina SR Slovenije,
+                           v<pb/>nekaterih delih sanacijskega programa še konkretnejše ukrepe za
+                           sanacijo razmer.</p>
+                        <p>Izvršni svet Skupščine SR Slovenije se strinja z ugotovitvijo iz analize
+                           vzrokov težkega ekonomskega položaja sistema, da je sistem
+                           elektrogospodarstva in premogovništva kot tehnično-tehnološki sistem
+                           dobro deloval.</p>
+                        <p>Nadalje tudi drži, da v SR Sloveniji nasproti preostalim republikam
+                           obstoji določena specifika strukture rabe virov energije, ki je posledica
+                           razvojnih odločitev iz preteklih let. Struktura proizvodnih stroškov pa
+                           kaže, da ima slovensko elektrogospodarstvo in premogovništvo podcenjene
+                           stroške amortizacije in investicijskega vzdrževanja, da ne oblikuje
+                           skladov in da v oceni električne energije oziroma premoga ni deleža za
+                           razširjeno reprodukcijo. To neskladje v strukturi stroškov bo treba pri
+                           nadaljnjih razvojnih odločitvah dosledno upoštevati in voditi takšno
+                           politiko razvoja, ki bo v čimvečji možni meri odpravljala sedaj
+                           ugotovljena stroškovna neskladja.</p>
+                        <p>Analiza, po naši oceni, premalo kritično ocenjuje sedanje stanje
+                           dohodkovnih odnosov v sistemu elektrogospodarstva in premogovništva in iz
+                           tega razloga tudi ne ponuja novih rešitev. Skupna ocena je, da mora biti
+                           elektrogospodarstvo in premogovništvo enoten in tudi ekonomsko učinkovit
+                           sistem. Zato bo Izvršni svet Skupščine SR Slovenije z namenom, da doseže
+                           racionalizacijo poslovanja in večjo učinkovitost predlagal tudi spremembe
+                           organiziranosti sistema elektrogospodarstva in premogovništva ter
+                           ureditev dohodkovnih odnosov v njem, seveda ob enakopravnem sodelovanju
+                           delavcev tega sistema in drugih subjektov.</p>
+                        <p>Iz že opravljenih analiz sistema se vidi, da bo potrebno v prvi fazi s
+                           spremembami in dopolnitvami tarifnega sistema odpraviti nesorazmerja v
+                           odnosu cen med vsemi odjemnimi skupinami. V drugi fazi, ko bo na osnovi
+                           študij ugotovljen vpliv tarifnega sistema na letni in dnevni diagram
+                           obremenitev ter sezonski in dnevni odjem električne energije, pa bo treba
+                           upoštevati še te spremembe. Ker imajo stroški za porabljeno energijo
+                           različen vpliv na posamezne skupine porabnikov, bo pri tem, ob
+                           upoštevanju dolgoročne potrebne razvojne politike, treba proučiti
+                           možnosti postopnega uveljavljanja novih določil tarifnega sistema.</p>
+                        <p>Izvršni svet je Posebni samoupravni interesni skupnosti za
+                           elektrogospodarstvo in premogovništvo SR Slovenije tudi priporočil, da
+                           izpopolni in poenostavi način zaračunavanja plačil, še zlasti pri
+                           uporabnikih široke potrošnje, tako da bo lahko vsak uporabnik spremljal
+                           stroške za uporabljeno električno energijo in s tem vplival tudi na njeno
+                           racionalnejšo rabo.</p>
+                        <p>Družbeni pravobranilec samoupravljanja SR Slovenije je preveril
+                           samoupravne splošne akte o delitvi osebnih dohodkov v elektrogospodarstvu
+                           in premogovništvu ter opozoril na pretiran normativizem, ki bolj ustvarja
+                           nejasnost in zmedo v temeljnih organizacijah združenega dela, kot pa
+                           prispevka k samoupravnemu urejanju delitve sredstev za osebne dohodke.
+                           Poleg tega nekatere temeljne organizacije združenega dela sploh nimajo
+                           samoupravnih splošnih aktov, nekatere pa so sicer pristopile k
+                           posameznemu samoupravnemu sporazumu dejavnosti elektrogospodarstva
+                           ali<pb/>rudnikov, vendar pa svojih samoupravnih splošnih aktov niso
+                           uskladile s tem samoupravnim sporazumom. Vsekakor bo tu treba opredeliti
+                           odgovornost poslovodnih struktur za tako stanje.</p>
+                        <p>K nesamoupravnemu urejanju delitve sredstev za osebne dohodke pa je
+                           prispevala tudi premajhna odgovornost komisij za spremljanje izvajanja
+                           samoupravnih sporazumov elektrogospodarstva in premogovništva.</p>
+                        <p>Podatki o izplačanih osebnih dohodkih v organizacijah gospodarstva in
+                           premogovništva za vse leto 1986 kažejo, da se njihova rast v globalu
+                           sklada z ugotovljeno stopnjo rasti osebnih dohodkov v gospodarstvu. To
+                           velja tudi za organizacije s področja elektrogospodarstva, razen za
+                           Toplarno Ljubljana, kjer preseganje znaša 12 odstotkov. Organizacije s
+                           področja premogovništva pa so izplačale sredstva za osebne dohodke v
+                           nekoliko nižjem obsegu.</p>
+                        <p>Izplačana sredstva za osebne dohodke, so tako v Rudniku lignita Velenje
+                           kot v rudnikih rjavega premoga Slovenije za 2 odstotka nižja od
+                           dogovorjenega obsega.</p>
+                        <p>Republiška energetska skupnost je 29. januarja 1987 sprejela ovrednoteno
+                           energetsko bilanco SR Slovenije za leto 1987, Posebna samoupravna
+                           interesna skupnost za elektrogospodarstvo in premogovništvo pa ukrepe za
+                           razreševanje ekonomskega položaja elektrogospodarstva, premogovništva in
+                           uranove rude v letu 1987.</p>
+                        <p>Izvršni svet je proučil ovrednotenje energetske bilance in je posredoval
+                           mnenje k njej Skupščini, zato ugotovitev iz tega mnenja ne bom ponavljal.
+                           Pri tem je opozoril na nekatere vidike, ki jih bo v bodočem vrednotenju
+                           energetske bilance še potrebno upoštevati. V kolikor ne bo realizirana
+                           predvidena dinamika rasti cen, na katerih sloni ovrednotenje energetske
+                           bilance in ki je predpostavka za poslovanje brez izgub v letu 1987, bo
+                           Posebna samoupravna interesna skupnost za elektrogospodarstvo in
+                           premogovništvo predlaga Skupščini SR Slovenije že v prvem polletju
+                           sprejem ustreznih ukrepov.</p>
+                        <p>Republiška energetska skupnost in Posebna samoupravna interesna skupnost
+                           sta že sprejeli tudi spremembe in dopolnitve metodologije za izdelavo
+                           letne energetske bilance. Cilj sprejetih sprememb in dopolnitev je
+                           zagotovil izdelavo takšne energetske bilance, ki bo omogočala optimiranje
+                           obsega proizvodnje in dobave energetskih virov pri najmanjših skupnih
+                           stroških. Pri tem pa bo treba zagotoviti, da bo energetika postala ne
+                           samo servis za zagotavljanje proizvodnje, temveč tudi pomemben vzvod za
+                           njeno prestrukturiranje.</p>
+                        <p>Izhajajoč iz ocene stanja na področju energetike in analize zakona o
+                           energetskem gospodarstvu, Izvršni svet pripravlja rešitev za ureditev
+                           razmer k predlogu za izdajo zakona o spremembah in dopolnitvah zakona o
+                           energetskem gospodarstvu, ki ga bo predložil do konca meseca. Smeri
+                           sprememb bodo naslednje: obvezna naj bi bila le ustanovitev Republiške
+                           energetske skupnosti, v katero se bodo združevali uporabniki in izvajalci
+                           vseh vrst energije, ustanovitev posebnih in občinskih energetskih
+                           skupnosti pa naj bi bila prepuščena interesom uporabnikov in izvajalcev.
+                           Ker se bodo v Republiški energetski skupnosti uporabniki in izvajalci
+                           dogovarjali o energetsko najpomembnejših vprašanjih, kjer imajo lahko
+                           napačne odločitve v zvezi z razvojem<pb/>energetike, in s tem dolgoročne
+                           oskrbe z energijo, dolgoročne posledice, bo treba zagotoviti, da bodo te
+                           odločitve predhodno strokovno preverjene tudi v raziskovalno-znanstvenih
+                           institucijah. Enak pristop bo treba zagotoviti tudi v primerih
+                           ugotavljanja višine potrebnih sredstev za pokritje stroškov poslovanja za
+                           dogovorjeni program oskrbe z energijo.</p>
+                        <p>Izvršni svet ocenjuje, da bi v sistemu elektrogospodarstva in
+                           premogovništva med posameznimi subjekti morali vzpostaviti takšne
+                           dohodkovne odnose, ki bodo subjekte silili k ugotavljanju in zmanjševanju
+                           stroškov na enoto proizvoda. K učinkovitejšemu načinu razreševanja
+                           lastnih in prenešenih slabosti in s tem tudi k boljšemu delu in
+                           poslovanju tako v enostavni reprodukciji kot tudi pri načrtovanju
+                           razvoja, za kar je treba predvsem izdelati in spoštovati avtohtone,
+                           družbeno verificirane standarde in normative v vseh delih sistema.</p>
+                        <p>Tehnološki proces pridobivanja primarne energije, Proizvodnje električne
+                           energije, nabave premoga, distribucija električne energije ter njenega
+                           dispečiranja zahteva enoten sistem elektrogospodarstva in premogovništva
+                           učinkovito, čvrsto organizacijsko povezanost vseh organizacij združenega
+                           dela v sistemu z enotnim organizacijskim sistemom, ki bo v Republiški
+                           energetski skupnosti organiziranim uporabnikom zagotavljal vpogled in
+                           družbeni nadzor oblikovanja energetske bilance, cen, tekočega poslovanja,
+                           še zlasti pa nadzor izvajanja plana razvoja, razporejanja in
+                           gospodarjenja z dohodkom ter delitve osebnih dohodkov v skladu s
+                           sprejetimi družbenimi usmeritvami. Zato bo Izvršni svet predlagal
+                           spremembo organiziranosti sistema, ki bo tem zahtevam sledila.</p>
+                        <p>Na področju planiranja bo določena priprava in sprejem načrta varčevanja
+                           z vsemi viri energije, v katerem bodo opredeljene smeri in načini za
+                           doseganje racionalnega ravnanja z energijo in ocenjen učinek izvajanja
+                           teh aktivnosti.</p>
+                        <p>V zakonu bo predlagano predhodno soglasje Izvršnega sveta Skupščine SR
+                           Slovenije za imenovanje poslovodnih organov sestavljenih organizacij
+                           združenega dela in delovnih organizacij s področja energetskega
+                           gospodarstva. Posebni družbeni interes pri opravljanju dejavnosti oziroma
+                           zadev posebnega družbenega pomena se bo zagotavljal tudi s tem, da se
+                           bodo z zakonom določili kriteriji za imenovanje poslovodnih delavcev v
+                           takih organizacijah združenega dela.</p>
+                        <p>Poleg teh bistvenih posegov bodo v zakonu natančneje opredeljene
+                           pristojnosti republiških in občinskih inšpekcijskih organov ter pogoji za
+                           ustanovitev posebnih sodišč združenega dela.</p>
+                        <p>Tovarišice in tovariši delegati! V tej uvodni besedi sem bolj obširno
+                           spregovoril o tem, kako se uresničuje operativni načrt za izvajanje
+                           ugotovitev in sklepov Skupščine SR Slovenije z julijske in obeh
+                           decembrskih sej. To sem storil predvsem z namenom, da se prepričate o
+                           tem, kako se sklepi, stališča in Usmeritve Skupščine uresničujejo.
+                           Podrobno poročilo bomo v skladu z obvezo predložili Skupščini do 31.
+                           marca 1987, zato predlagam, da danes ne razpravljate o tem. Služi naj le
+                           kot širša osvetlitev načina in smeri razreševanja odprtih problemov ob
+                           sprejemanju odločitev o pokrivanju izgub v elektrogospodarstvu
+                           in<pb/>premogovništvu. Prepričan sem, da vam ta informacija, skupaj z že
+                           posredovanimi gradivi, zadostuje za zavestno in konstruktivno odločanje.
+                           Prepričan sem tudi, da boste sprejem zakona o prispevkih iz dohodka
+                           temeljnih organizacij združenega dela za sanacijo izgub organizacij
+                           združenega dela elektrogospodarstva in premogovništva, nastalih v letu
+                           1986, podprli, saj je tudi to eden izmed načrtovanih in potrebnih ukrepov
+                           za ureditev stanja na tem področju. Hvala lepa.</p>
+                     </sp>
+                     <sp who="#sp.SteržajMiro">
+                        <speaker>PREDSEDUJOČI MIRO STERŽAJ:</speaker>
+                        <p>Tovarišu Bohoriču se zahvaljujem za uvodno obrazložitev. S tem
+                           zaključujem skupno zasedanje vseh treh zborov. Zbori nadaljujejo z delom
+                           v svojih dvoranah.</p>
+                     </sp>
+                     <stage>(Zasedanje je bilo končano ob 10.25 uri.)</stage>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

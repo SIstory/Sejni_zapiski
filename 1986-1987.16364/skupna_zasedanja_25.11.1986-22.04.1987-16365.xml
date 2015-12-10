@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="slv">
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="slv" type="main" level="m">Sejni zapisi Skupščine Socialistične
+               republike Slovenije za 10. sklic (1986-1990), št. zvezka 130</title>
+            <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (25. november 1986)</title>
+            <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (24. december 1986)</title>
+            <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (18. februar 1987)</title>
+            <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (18. marec 1987)</title>
+            <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (22. april 1987)</title>
+            <title xml:lang="slv" type="desc">Elektronska izdaja</title>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <resp>Validacija meta-podatkov.</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marta Rendla</persName>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <idno type="URN">http://www.sistory.si/SISTORY:ID:16364</idno>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:16364</pubPlace>
+            <pubPlace>https://github.com/SIstory/Sejni_zapiski</pubPlace>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
+            </availability>
+            <date when="2015-12-10+01:00">10. 12. 2015</date>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic xml:id="sistory.16365">
+                  <idno>SISTORY:ID:16365#page=4</idno>
+                  <title xml:lang="slv" type="main" level="a">Skupno zasedanje (25. november
+                     1986)</title>
+                  <title xml:lang="slv" type="sub" level="a">Sejni zapisi Skupščine Socialistične
+                     republike Slovenije za 10. sklic (1986-1990), št. zvezka 130</title>
+                  <textLang xml:lang="slv" mainLang="slv">slovenski</textLang>
+                  <textLang xml:lang="eng" mainLang="slv">Slovenian</textLang>
+               </analytic>
+               <analytic xml:id="sistory.16366">
+                  <idno>SISTORY:ID:16366#page=20</idno>
+                  <title xml:lang="slv" type="main" level="a">Skupno zasedanje (24. december
+                     1986)</title>
+                  <title xml:lang="slv" type="sub" level="a">Sejni zapisi Skupščine Socialistične
+                     republike Slovenije za 10. sklic (1986-1990), št. zvezka 130</title>
+                  <textLang xml:lang="slv" mainLang="slv">slovenski</textLang>
+                  <textLang xml:lang="eng" mainLang="slv">Slovenian</textLang>
+               </analytic>
+               <analytic xml:id="sistory.16367">
+                  <idno>SISTORY:ID:16367#page=38</idno>
+                  <title xml:lang="slv" type="main" level="a">Skupno zasedanje (18. februar
+                     1987)</title>
+                  <title xml:lang="slv" type="sub" level="a">Sejni zapisi Skupščine Socialistične
+                     republike Slovenije za 10. sklic (1986-1990), št. zvezka 130</title>
+                  <textLang xml:lang="slv" mainLang="slv">slovenski</textLang>
+                  <textLang xml:lang="eng" mainLang="slv">Slovenian</textLang>
+               </analytic>
+               <analytic xml:id="sistory.16368">
+                  <idno>SISTORY:ID:16368#page=59</idno>
+                  <title xml:lang="slv" type="main" level="a">Skupno zasedanje (18. marec
+                     1987)</title>
+                  <title xml:lang="slv" type="sub" level="a">Sejni zapisi Skupščine Socialistične
+                     republike Slovenije za 10. sklic (1986-1990), št. zvezka 130</title>
+                  <textLang xml:lang="slv" mainLang="slv">slovenski</textLang>
+                  <textLang xml:lang="eng" mainLang="slv">Slovenian</textLang>
+               </analytic>
+               <analytic xml:id="sistory.16369">
+                  <idno>SISTORY:ID:16369#page=104</idno>
+                  <title xml:lang="slv" type="main" level="a">Skupno zasedanje (22. april
+                     1987)</title>
+                  <title xml:lang="slv" type="sub" level="a">Sejni zapisi Skupščine Socialistične
+                     republike Slovenije za 10. sklic (1986-1990), št. zvezka 130</title>
+                  <textLang xml:lang="slv" mainLang="slv">slovenski</textLang>
+                  <textLang xml:lang="eng" mainLang="slv">Slovenian</textLang>
+               </analytic>
+               <monogr xml:id="sistory.16364">
+                  <title xml:lang="slv" type="main" level="m">Sejni zapisi Skupščine Socialistične
+                     republike Slovenije za 10. sklic (1986-1990), št. zvezka 130</title>
+                  <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (25. november
+                     1986)</title>
+                  <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (24. december
+                     1986)</title>
+                  <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (18. februar
+                     1987)</title>
+                  <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (18. marec
+                     1987)</title>
+                  <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (22. april
+                     1987)</title>
+                  <imprint>
+                     <biblScope unit="volume">zvezka 130</biblScope>
+                     <publisher>Skupščina Socialistične republike Slovenije</publisher>
+                     <date when="1987">1987</date>
+                  </imprint>
+               </monogr>
+               <series>
+                  <title>Sejni zapisi Skupščine Socialistične republike Slovenije</title>
+               </series>
+            </biblStruct>
+            <biblFull corresp="#sistory.16364">
+               <titleStmt>
+                  <title xml:lang="slv" type="main" level="m">Sejni zapisi Skupščine Socialistične
+                     republike Slovenije za 10. sklic (1986-1990), št. zvezka 130</title>
+                  <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (25. november
+                     1986)</title>
+                  <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (24. december
+                     1986)</title>
+                  <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (18. februar
+                     1987)</title>
+                  <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (18. marec
+                     1987)</title>
+                  <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (22. april
+                     1987)</title>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher>Državni zbor Republike Slovenije</publisher>
+                  <date when="1987">1987</date>
+                  <availability status="free">
+                     <licence target="http://creativecommons.org/publicdomain/mark/1.0/"
+                        xml:lang="slv">Avtorske pravice so potekle, delo je v javni
+                        domeni.</licence>
+                     <licence target="http://creativecommons.org/publicdomain/mark/1.0/"
+                        xml:lang="eng">Public Domain Mark 1.0</licence>
+                  </availability>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>XML na portalu Zgodovina Slovenije - SIstory narejen v okviru izvajanja
+               infrastrukturnega programa Inštituta za novejšo zgodovino</p>
+         </projectDesc>
+         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../taxonomy.xml"/>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="slv" xml:lang="slv">slovenski</language>
+            <language ident="slv" xml:lang="eng">Slovenian</language>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <list>
+                  <item xml:lang="slv">predstavniška telesa</item>
+                  <item xml:lang="slv">stenografski zapisniki</item>
+                  <item xml:lang="slv">Socialistična republika Slovenija</item>
+                  <item xml:lang="slv">družbeno samoupravljanje</item>
+                  <item xml:lang="eng">representative bodies</item>
+                  <item xml:lang="eng">stenographical minutes</item>
+                  <item xml:lang="eng">Socialist Republic of Slovenia</item>
+                  <item xml:lang="eng">social self-management</item>
+                  <item xml:lang="eng">session</item>
+                  <item xml:lang="eng">term</item>
+                  <item xml:lang="eng">resumption of session</item>
+                  <item xml:lang="eng">joint session</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2015-12-10+01:00">
+            <name>Andrej Pančur</name>: kodiranje<list>
+               <item>//front//*</item>
+               <item>//div/@ana</item>
+               <item>//sp/@who</item>
+               <item>//stage</item>
+               <item>//head</item>
+               <item>//castList</item>
+               <item>//docDate</item>
+            </list>
+         </change>
+         <change when="2015-12-10+01:00">
+            <name>Andrej Pančur</name>: izvoz in preverjanje metapodatkov.</change>
+         <change when="2015-12-10+01:00">
+            <name>Andrej Pančur</name>: konverzija docx2tei </change>
+         <change when="2015-12-10+01:00">
+            <name>Andrej Pančur</name>: označil Header1 in TEI stil (tei:sp) za docx2tei
+            konverzijo</change>
+         <change notAfter="2015-12-10+01:00">
+            <name>Marta Rendla</name>: pregled in poprava OCR v DOCX</change>
+      </revisionDesc>
+   </teiHeader>
+   <text corresp="#sistory.16365">
+      <front>
+         <docTitle>
+            <titlePart>SKUPŠČINA SOCIALISTIČNE REPUBLIKE SLOVENIJE</titlePart>
+            <titlePart>ZBOR ZDRUŽENEGA DELA, ZBOR OBČIN IN DRUŽBENOPOLITIČNI ZBOR</titlePart>
+            <titlePart>Sejni zapiski</titlePart>
+            <titlePart>Skupno zasedanje - 25. november 1986</titlePart>
+         </docTitle>
+         <docImprint>
+            <publisher>Dokumentacijsko-knjižnični oddelek</publisher>
+            <publisher>Pododdelek sejnih zapiskov</publisher>
+            <pubPlace>Ljubljana</pubPlace>
+            <date>2001</date>
+         </docImprint>
+         <div type="contents">
+            <head>VSEBINA</head>
+            <list rend="simple">
+               <head>SKUPŠČINA SOCIALISTILČNE REPUBLIKE SLOVENIJE<lb/>SKUPNO ZASEDANJE ZBORA
+                  ZDRUŽENEGA DELA, ZBORA OBČIN IN DRUŽBENOPOLITIČNEGA ZBORA</head>
+               <head>(25. november 1986)</head>
+               <item>
+                  <list rend="ordered">
+                     <head>DNEVNI RED : STRAN</head>
+                     <item n="1">Ekspoze predsednika Izvršnega sveta Skupščine SR Slovenije k
+                        osnutkoma republiške in zvezne resolucije za leto 1987<list rend="simple">
+                           <head>GOVORNIK:</head>
+                           <item>Dušan Šinigoj <ref>1</ref></item>
+                        </list>
+                     </item>
+                     <item n="2">Seznam govornikov <ref>II/1</ref></item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div type="speakers">
+            <head>SEZNAM GOVORNIKOV</head>
+            <head>SKUPŠČINA SOCIALISTIČNE REPUBLIKE SLOVENIJE<lb/>SKUPNO ZASEDANJE ZBORA ZDRUŽENEGA
+               DELA, ZBORA OBČIN IN DRUŽBENOPOLITIČNEGA ZBORA (25. november 1986)</head>
+            <castList>
+               <head>GOVORNIK: STRAN</head>
+               <castItem>
+                  <actor xml:id="sp.ŠinigojDušan">Dušan Šinigoj</actor>
+                  <ref>1</ref>
+               </castItem>
+            </castList>
+         </div>
+      </front>
+      <body>
+         <div ana="#PAR.ZbZdruDel #PAR.ZbObc #PAR.DruzPolZb">
+            <head>SKUPŠČINA SOCIALISTIČNE REPUBLIKE SLOVENIJE</head>
+            <head>SKUPNO ZASEDANJE ZBORA ZDRUŽENEGA DELA, ZBORA OBČIN IN DRUŽBENOPOLITIČNEGA
+               ZBORA</head>
+            <div ana="#PAR.Zasedanje">
+               <docDate>(25. novembra 1986)</docDate>
+               <castList>
+                  <castItem>
+                     <roleDesc>Predsedoval</roleDesc>: <actor xml:id="sp.BeznikVlado">Vlado
+                        Beznik</actor>, <role>predsednik Zbora občin</role>
+                  </castItem>
+               </castList>
+               <stage>Začetek zasedanja ob 09.40 uri.</stage>
+               <div ana="#PAR.DnevRed">
+                  <div>
+                     <sp who="#sp.BeznikVlado">
+                        <speaker>PREDSEDUJOČI VLADO BEZNIK:</speaker>
+                        <p>Tovarišice in tovariši delegati! Pričenjam skupno zasedanje Zbora
+                           združenega dela, Zbora občin in Družbenopolitičnega zbora Skupščine SR
+                           Slovenije.</p>
+                        <p>Na skupnem zasedanju bomo poslušali <title>ekspoze predsednika Izvršnega
+                              sveta Skupščine SR Slovenije k osnutkoma republiške in zvezne
+                              resolucije za leto 1987</title>.</p>
+                        <p>Besedo ima tovariš Dušan Šinigoj, predsednik Izvršnega sveta Skupščine SR
+                           Slovenije!</p>
+                     </sp>
+                     <sp who="#sp.ŠinigojDušan">
+                        <speaker>DUŠAN ŠINIGOJ:</speaker>
+                        <p>Tovarišice in tovariši delegati! S pripravo letošnje resolucije smo imeli
+                           razmeroma več težav kot prejšnja leta. Prvič, niso nam bili še za leto
+                           1987 podrobneje poznani okviri in vsebina zveznih ukrepov, ki so
+                           prihajali postopoma v republiko in tudi k vam.</p>
+                        <p>Drugič. Gospodarska gibanja v Sloveniji in Jugoslaviji so bila med letom
+                           toliko protislovna, da so oteževala realno oceno položaja in možnosti, s
+                           katerimi naj bi prišlo slovensko gospodarstvo v prihodnje leto.</p>
+                        <p>Tretjič. Močno zaostrene razmere, zlasti zaradi neuresničevanja
+                           protiinflacijskega programa, so po splošnem spoznanju dosegle točko, ko
+                           tak nadaljnji razvoj nikakor ne bo več mogoč ali pa se bomo soočali s
+                           takšno razvojno krizo, da j e kasneje ne bomo več mogli obvladovati z
+                           običajnimi metodami ekonomske politike.</p>
+                        <p>Zato je bila priprava osnutka resolucije za leto 1987 še posebno zahtevna
+                           in odgovorna naloga. Že v družbenem planu SR Slovenije za celotno
+                           petletno obdobje, še bolj pa v letošnji resoluciji, smo si kot temeljno
+                           usmeritev zastavili naslonitev na lastne sile, na obstoječe materialne
+                           potenciale ter na znanje, ustvarjalnost, inovativnost in delavnost vseh
+                           naših delovnih ljudi. Poudarili smo pomen večje motiviranosti, kar pa ni
+                           povezano zgolj z učinkovitejšim sistemom materialnih spodbud in
+                           nagrajevanjem po delu in rezultatih, ampak morda še bolj z večjo
+                           samostojnostjo temeljnih gospodarskih subjektov, torej z večjo možnostjo
+                           odločanja in razpolaganja z rezultati, a tudi z večjo in bolj neposredno
+                           odgovornostjo za rezultate. Vse naše namere v tej smeri se žal niso
+                           uresničile.</p>
+                        <p>Nasprotno, soočamo se močno prenormiranostjo, saj se je na primer tudi
+                           letos z ukrepi ekonomske politike celo okrepilo administrativno poseganje
+                           v gospodarstvo, prostor za delovanje ekonomskih zakonitosti in za
+                           poslovnost se je tako na mnogih področjih še zožil. Tako politiko je
+                           pogojevala stihija dogajanja, zlasti na področju cen. Kljub temu pa
+                           menimo, da večina administrativnih ukrepov ni prispevala k odpravljanju
+                           resničnih in globljih vzrokov inflacije in gospodarske
+                           nestabilnosti,<pb/>temveč bolj k odlaganju odločnega spopada z njimi.
+                           Očitno je, da so ostala poglavitna žarišča inflacije nerazrešena, odprla
+                           pa so se celo nova, na primer s pokrivanjem odloženih terjatev do tujih
+                           iz primarne emisije.</p>
+                        <p>Upoštevaje vse to v Izvršnem svetu vendarle ocenjujemo, da ne kaže
+                           podcenjevati nekaterih rezultatov, ki jih je gospodarstvo doseglo v 10
+                           mesecih letošnjega leta in jih še pričakujemo do konca tega leta.
+                           Predvsem rast proizvodnje, ki se približuje načrtovani, prav tako
+                           delitvena razmerja, ki se bodo do konca leta približala sprejetim
+                           resolucijskim usmeritvam, kolikor bo gospodarstvo nadaljevalo s tako
+                           odgovornim obnašanjem pri delitvi dohodka, kot je to pokazalo v drugi
+                           polovici leta. Izboljšujeta se tudi ekonomičnost poslovanja in
+                           akumulativna sposobnost gospodarstva.</p>
+                        <p>Prvikrat po nekaj letih smo dosegli pozitiven zasuk v dinamiki
+                           gospodarskih investicij . V tem' vidimo prve znake tehnološke
+                           modernizacije in prestrukturiranja naše industrije. Letos se je v skladu
+                           s planskimi usmeritvami začenja nov investicijski ciklus na področju
+                           investicij v gospodarsko infrastrukturo in bazno industrijo, zato imajo v
+                           strukturi letos začetih gospodarskih investicij izjemno velik delež
+                           naložbe v infrastrukturo in v bazno industrijo. Za uspešno izrabo teh
+                           naložb bo potrebno v naslednjih letih pospešiti vlaganja v modernizacijo
+                           predelovalne industrije, zlasti na tistih področjih, ki pomenijo
+                           nadaljevanje prestrukturiranja po reprodukcijski verigi. Pozitivno je, da
+                           se investicije v letošnjem letu financirajo v pretežni meri okoli 80
+                           odstotkov s kvalitetnimi sredstvi, bodisi lastnimi, bodisi združenimi in
+                           le okoli 20% je bilo kreditov, od tega približno polovica tujih. Pa še
+                           pri tem je šlo večji del za kredite mednarodne finančne korporacije, za
+                           katere je znano, da se dobe le pod zaostrenimi kriteriji za ekonomsko
+                           preverjene projekte. Zaradi majhne razpoložljive lastne akumulacije, bomo
+                           morali tudi v bodoče pridobivati kredite v mednarodnih finančnih
+                           ustanovah in tuje partnerje za skupna vlaganja v Sloveniji.</p>
+                        <p>Glede dosežene gospodarske rasti smo sicer lahko zadovoljni, vendar se
+                           zavedamo, da je bila proizvodnja dosežena v razmerah izjemno visoke
+                           inflacije, ki si je našla kupca predvsem doma, namesto v izvozu in se
+                           tudi oskrbovala v veliki meri iz uvoza. Ta pa je bil zlasti v začetku
+                           leta izrazito kampanjski zaradi prehoda na nov devizni sistem. Poleg tega
+                           pa so se nekatere tuje dobave, kot je na primer nafta, pocenile.</p>
+                        <p>Nadalje, prav gotovo ni dobro, da je le približno tretjina izkazane
+                           proizvodne rasti slovenske industrije dosežena z dvigom produktivnosti,
+                           kar dve tretjini pa z dodatnim zaposlovanjem. Vse to pa bolj govori za
+                           oceno, da rast proizvodnje letos še ni v celoti rezultat
+                           prestrukturiranja in boljše izrabe kakovostnih dejavnikov. Skrb pa
+                           povzroča tudi dejstvo, da zaostajajo v rasti nekatere tradicionalne
+                           panoge slovenske industrije, kot so: črna metalurgija, industrija
+                           gradbenih materialov, kovinska, lesna in kemična pridelovalna industrija,
+                           proizvodnja tekstilne, preje in tkanin in še nekatere druge.</p>
+                        <p>Ugodne finančne rezultate žal zamegljuje visoka stopnja inflacije. Močno
+                           jih izkrivljajo tudi znane popačenosti, ki izhajajo iz veljavnega
+                           obračunskega sistema. Če pa upoštevamo še<pb/>podcenjeno amortizacijo,
+                           razmeroma cenjene kredite, nerealni devizni tečaj, uravnilovsko
+                           vrednotenje živega dela, pa tudi učinke medletnega administrativnega
+                           administriranja na področju cen, kot dejanski dohodki uspešnosti
+                           slovenskega gospodarstva, zelo nezanesljiva.</p>
+                        <p>Na določene kakovostne premike v gospodarjenju sklepamo bolj na podlagi
+                           posameznih znakov in opažanj. V organizacijah združenega dela se že krepi
+                           zavest o nujnem varčevanju z energijo in materiali, raste potreba po
+                           prodornejšem trženju, dvigu kakovosti proizvodov, po trajnejšem poslovnem
+                           in proizvodnem povezovanju, pa tudi po učinkovitejši samoupravni in
+                           delovni organiziranosti, po kadrovski in tehnološki opremljenosti.
+                           Skrbnejša je bila in bolj prožna postaja tudi finančna politika
+                           organizacij združenega dela.</p>
+                        <p>V izvršnem svetu ocenjujejo, da so ravno tovrstni kakovostni premiki
+                           obetavni in da so v njih že prihajajo do izraza znanje, ustvarjalnost,
+                           inovativnost in podjetnost. Spodbudne so tudi ugotovitve Gospodarske
+                           zbornice Slovenije, ki je pred kratkim napravila anketo v gospodarstvu.
+                           Po njenih ugotovitvah so organizacije združenega dela iz Slovenije že
+                           pripravile ali pripravljajo kar 521 projektov svoje tehnološke in
+                           programske preosnove. To lahko pomeni, da se je vendarle začela lomiti
+                           inercija, ki je doslej hromila inovativne procese v našem
+                           gospodarstvu.</p>
+                        <p>Gotovo je znaten uspeh, da smo v Sloveniji odpravili nekaj večjih
+                           kroničnih žarišč izgube. Tako se sedaj postopoma ureja položaj IMV Novo
+                           mesto, ker proizvodnja teče normalno in prav zdaj na novo oblikujejo
+                           svojo dolgoročno strategijo razvoja. Gorenje je prav tako saniralo
+                           poslovanje, zdaj uspešno izvaja svoje razvojne programe, pri tem pa se
+                           tesno povezuje z raziskovalnimi instituti. Hkrati se že začenjata
+                           razvojno povezovati in se dogovarjati o delitvi dela dva velika poslovna
+                           sistema, Iskra in Gorenje. Na dobri poti je tudi lendavska INA, ki je
+                           opremo iz opuščene investicije odprodala inozemskemu kupcu, zdaj prehaja
+                           na fermentacijske postopke in se tesno povezuje z domačo farmacevtsko
+                           industrijo, kar predstavlja tudi podlago za razvoj biotehnologije v
+                           večjem obsegu, taki in podobni procesi, ki se v večji ali manjši meri
+                           začenjajo marsikje, ne morejo kljub še vedno nestabilnim gospodarskim
+                           razmeram vlivati zaupanje in določeno mero optimizma pri ocenjevanju
+                           možnosti za razvoj v prihodnjem letu.</p>
+                        <p>Večja žarišča izgub, ki so nam še ostala ali so se pojavila na novo, so
+                           po svojem izvoru drugačnega, dejal bi lahko, tudi sistemskega značaja. Tu
+                           je predvsem elektrogospodarstvo, ki ga bremenijo na eni strani zaradi
+                           neugodnega reprogramiranja kreditov, nesorazmerno visoke obveznosti za
+                           nuklearno elektrarno Krško in novi stroški v letošnjem letu obratovanja
+                           rudnika urana Žirovski vrh. Na drugi strani pa tarifna problematika ne
+                           upošteva specifične tehnološke strukture in s tem pogojenih visokih
+                           proizvodnih stroškov slovenskega elektrosistema.</p>
+                        <p>Ob ocenjevanju polletnih rezultatov smo ocenili, da v elektrogospodarstvu
+                           ne bi bilo izgub, če bi uresničili predvideno dinamiko cen. V drugo
+                           skupino izgubarjev pa lahko uvrstimo organizacije združenega dela,
+                           katerih izguba je odraz <pb/> prepočasnega prilagajanja spremembam na
+                           svetovnem tržišču in odraz sprememb na področju ekonomskih odnosov s
+                           tujino. Ta dva velika kupa izgub nas čakata kot zahteven problem v
+                           naslednjem letu. Prav tako bo Izvršni svet do prihodnjega zasedanja
+                           Skupščine pripravil predlog za sanacijo izgub v elektrogospodarstvu,
+                           seveda v okvirih restriktivne politike.</p>
+                        <p>V osnutku resolucije smo nakazali tudi nujne ukrepe za rudnike v Idriji
+                           in Mežici. Podobno velja tudi za Žirovski vrh, čeprav tega v osnutku
+                           resolucije nismo izrecno napisali. Ekonomska situacija v rudniku živega
+                           srebra Idrija in v rudniku svinca Mežica je že dalj časa slaba, brez
+                           pravih izgledov za izboljšanje. Stopnja vsebnosti kovine v rudi je tako
+                           nizka, stroški eksploatacije pa tako visoki, da tudi poudarjeni strateški
+                           in narodnogospodarski vidik pridobivanja obeh kovin ne odtehtata visokih
+                           izdatkov, s katerimi bi morali obremeniti slovensko združeno delo.
+                           Ekološko dimenzija problema nas še dodatno spodbuja k čim hitrejšim
+                           posegom.</p>
+                        <p>Izvršni svet meni, da morajo občine kot temeljne družbenopolitične
+                           skupnosti, skupaj s prizadetimi organizacijami združenega dela in v
+                           sodelovanju z republiškimi upravnimi organi<lb/>in gospodarsko zbornico,
+                           pripraviti programe ukinjanja proizvodnje in zagotavljanja varnosti
+                           zaposlenih delavcev.</p>
+                        <p>Izvršni svet bo spremljal pripravo teh programov in po potrebi predlagal
+                           posebne ukrepe za njihovo uresničevanje.</p>
+                        <p>Letošnje resolucijske usmeritve ne uresničujemo na dveh najpomembnejših
+                           področjih, v ekonomskih odnosih s tujino ter pri obvladovanju inflacije.
+                           V 10 mesecih je slovensko združeno delo povečalo celotni izvoz le za 0,7
+                           %, na konvertibilno področje pa ga je celo zmanjšalo za 3,4%. V tem času
+                           je povečalo uvoz v celoti za 6,4%, s konvertibilnega območja pa kar za
+                           14,2%. Hkrati se je poslabšala tudi regionalna struktura, saj se je del
+                           izvoza preusmeril s konvertibilne na kliring. Vsi rezultati so v bistveni
+                           meri slabši od nalog, ki smo jih sprejeli z resolucijo. Pomenijo le 97%
+                           pokritje blagovnega izvoza z blagovnim uvozom, na konvertibilnem področju
+                           pa celo le 91%.</p>
+                        <p>Slovenija ima torej prvič po več letih primanjkljaj v blagovni menjavi s
+                           tujino. Med glavnimi razlogi za to so tečajna politika ter sprememba
+                           zunanjetrgovinskega in deviznega sistema. Moram reči, da je bilo v
+                           določeni meri take rezultate tudi pričakovati. Izvozniku kot slehernemu
+                           gospodarskemu subjektu je temeljni motiv gospodarjenja dohodek. Sedaj
+                           veljavni devizni režim je sicer zgrajen na predpostavki, da mora biti
+                           izvoz predvsem dinarsko-dohodkovno motiviran, vendar moram v tej zvezi
+                           povedati in ponovno poudariti, da sam devizni tečaj ne more in tudi ne bo
+                           mogel nikoli v celoti pokriti vseh tistih slabosti v gospodarstvu, ki so
+                           se ob spremembi deviznega režima pravzaprav šele do kraja razkrile.
+                           Pokazalo se je, da je del naše proizvodnje veliko predrag in premalo
+                           kakovosten, da bi bil sposoben brez velikih dodatnih spodbud enakopravno
+                           tekmovati na konvertibilnem trgu, še posebno, če lahko takšen, kot je, v
+                           celoti prodajo na manj zahtevnem domačem trgu ali v kliringu. Zato je
+                           potrebno z vso odločnostjo urediti temeljna vprašanja, ki vplivajo na
+                           učinkovitost gospodarjenja. Devizni tečaj in druge<pb/>sistemske
+                           spodbude, za katere se sicer odločno zavzemamo, so lahko le del teh
+                           celovitih prizadevanj.</p>
+                        <p>Mislim, da je treba v dobršnem delu našega gospodarstva in bank nujno
+                           povečati pripravljenost in tudi odgovornost, da sprejmejo izziv
+                           svetovnega trga v lastnem dolgoročnem interesu. To še posebej zaradi
+                           velikih mednarodnih zadolžitev, ki zapadejo v plačilo zlasti v letu 1988
+                           in naprej. Če ne bomo v letu, ki je pred nami, temeljito zgradili svoje
+                           dolgoročne izvozne strategije na temeljih preoblikovanja proizvodnih
+                           programov in uspešnega trženja, ne moremo pričakovati hitrejšega
+                           razvoja.</p>
+                        <p>V Jugoslaviji še vedno delujejo objektivni in seveda tudi subjektivni
+                           interesi, ki zavirajo hitrejši zasuk v smeri povečanega izvoza. To nam
+                           kaže celo vrsto problemov, ne samo v zvezi z uveljavljanjem uvoznih
+                           pravic, ampak tudi dilem, ki se postavljajo glede potrebnih sprememb
+                           deviznega sistema. Poseben problem za izvozno orientiranost slovensko
+                           gospodarstvo predstavlja neurejenost plačevanja obveznosti do tujine. V
+                           Ljubljanski združeni banki je bilo na dan 21. t. m. za 361 milijonov
+                           dolarjev zadržanih nalogov, od tega za približno 200 milijonov dolarjev
+                           iz tako imenovane druge prioritete, medtem ko za same deponente ni bilo
+                           možno poravnati nalog v vrednosti cca 60 milijonov dolarjev.</p>
+                        <p>Takšno stanje aktivne izvoznike in organizacije združenega dela,
+                           odgovorne za preskrbo prebivalstva z živili, zdravili in drugimi
+                           osnovnimi življenjskimi potrebščinami, postavlja v izredno težak položaj,
+                           pri tem pa se pretežni uvozniki, ne glede na rezultate v izvozu in njihov
+                           delež pri osnovni preskrbi prebivalstva, pojavljajo v bankah z zahtevami
+                           po deviznem pokritju njihovih priznanih reprodukcijskih potreb. Osnovni
+                           vzrok za zaostrene likvidnostne razmere poslovnih bank je predvsem v
+                           neusklajenih uvoznih pravicah z razpoložljivimi viri za plačevanje s
+                           tujino. To je možno zato, ker mehanizem določanja pravic ni vezan na
+                           možnosti plačevanja na posamezne kategorije subjektov, sam sistem nima
+                           vgrajenega mehanizma neposredne odgovornosti temeljnih subjektov
+                           gospodarjenja za večje vključevanje v mednarodno menjavo in predvsem za
+                           ustvarjanje deviznega priliva.</p>
+                        <p>Predlog Zveznega izvršnega sveta o dograjevanju devizne zakonodaje, ki je
+                           sedaj v postopku, po našem mnenju ne razrešuje temeljnih vzrokov za
+                           nastalo situacijo, zato ga ocenjujemo kot nezadostnega, saj v ničemer ne
+                           spreminja položaja temeljnih organizacij, temeljnih gospodarskih
+                           subjektov v pogledu večje samostojnosti in odgovornosti za izvozne
+                           rezultate ter ustvarjanje deviznega priliva. Izostane tudi odgovornost
+                           pooblaščanju bank za izvrševanje plačil v tujino v odvisnosti obsega
+                           plačilnega prometa s tujino in glede na ustvarjen devizni priliv
+                           organizacij združenega dela.</p>
+                        <p>Z večanjem pooblastil Zveznega izvršnega sveta in Narodne banke
+                           Jugoslavije pa se še nadalje zmanjšuje odgovornost organizacij združenega
+                           dela za izvozne rezultate, hkrati pa tudi republik in pokrajin za lasten
+                           in skupen razvoj. V takih okoliščinah bi bila prožnejša in bolj spodbudna
+                           tečajna politika še naj realnejši in naj učinkovitejši izhod za
+                           pospeševanje izvoza in zmanjševanje uvoza. Povečati izvoz in neto priliv
+                           je preprosto imperativ za vso Jugoslavijo in tudi bi imelo vsako
+                           odlašanje nepopravljive posledice.</p>
+                        <pb/>
+                        <p>Izvršni svet se tudi ne strinja s predlogom za uvedbo možnosti, da se za
+                           tujce, ki prihajajo v Jugoslavijo, uvede obvezna menjava valute v
+                           dinarje.</p>
+                        <p>Drugo področje, kjer ne uresničujemo resolucije, je področje cen. Zvezna
+                           politika je vso svojo pozornost in aktivnost: usmerila na administrativna
+                           urejanja cen in s tem skušala slediti programiranju mesečni inflaciji.
+                           Tak pristop pa kot je tokrat ponovno pokazala, ne more dati pravih sadov,
+                           saj se problema inflacije loteva pri končni posledici in ne pri vzrokih.
+                           V naših inflacijskih razmerah predstavlja obračunski sistem s fiktivnim,
+                           nerealnim dohodkom na prejšnjega obračunavanja predvidene stopnje
+                           inflacije v dohodek eno od žarišč inflacije. Preko avtomatizma davkov in
+                           prispevkov se ta neustvarjeni dohodek v naprej razporeja in deli.</p>
+                        <p>Spopad s takšnim načinom planiranja je zaradi tega nujen. Inflacijo
+                           povzroča tudi neodmerjena emisijska politika, z vsemi oblikami prikrite
+                           emisije ter z monetizacijo neizterjanih plačil iz tujine, seveda pa tudi
+                           visoke izgube. Zato nam tudi razrešitev iz zaostrene in zaostritev
+                           nadzora cen ne more pomagati pri izhodu iz inflacijskega vrtinca.
+                           Potrebna bodo povsem drugačne akcije in ukrepi, ki bodo zadušili sama
+                           žarišča inflacije. Predvsem je potrebno realno ovrednotiti produkcijske
+                           tvorce in prenehati z dosedanjo prakso vračunavanja napovedane inflacije
+                           v cene in neposredno v dohodek. Med predpisi, ki jih predlaga Zvezni
+                           izvršni svet, so tudi zakoni, ki urejajo nekatera od teh vprašanj. Zvezni
+                           izvršni svet predlaga, da se sprejmejo po hitrem postopku, tako da bi
+                           vstopili v veljavo že s 1.1.1987. Novi zakoni se nanašajo na ugotavljanje
+                           celotnega prihodka in dohodka, obračunavanje amortizacije družbenih
+                           sredstev; sanacijo in prenehanje organizacij združenega dela; spremembe
+                           zakona o SDK; temelje bančnega in kreditnega sistema. Ocenjujemo, da so
+                           temeljni pristopi in osnovni namen vseh navedenih predpisov ustrezni in
+                           naravnani k odpravljanju nekaterih žarišč inflacije. načelih jih tudi
+                           podpiramo. Kljub temu pa bi se morali pri nadaljnjem oblikovanju
+                           posameznih vprašanj v teh predpisih izogibati prenagljenih in nedorečenih
+                           rešitev zlasti v primerih, ko vse posledice niso do kraja proučene, pa
+                           naj se gre za materialne ali organizacijsko izvedbene. To terja tudi od
+                           nas, zlasti od stroke pa tudi od slovenskih delegatov v Zvezni skupščini
+                           kar se da ustvarjalno sodelovanje.</p>
+                        <p>Za nekatere predlagane rešitve pa ugotavljamo, da odstopajo od izhodišč,
+                           ki so sprejeta v ustavi in v Zakonu o združenem delu in jih zato ni
+                           mogoče sprejeti. Naj opozorim na naše najvažnejše pripombe: Zakon o
+                           celotnem prihodku in odhodku ima za cilj preprečiti nerealno prikazovanje
+                           odhodka v inflacijskih razmerah in onemogočiti porabo še neustvarjenega
+                           dohodka. Pri tem pa zakon uvaja nekatere nove dohodkovne kategorije
+                           oziroma nov način opredelitve nekaterih sedanjih in pri tem izhaja iz
+                           nekaterih tez za predvidene spremembe zakona o združenem delu, ki so še
+                           sporne. Menimo, da že iz tega razloga ne bi smeli prehitevati in uvajati
+                           sprememb v obračunskem sistemu, predno se ne dogradijo tudi spremembe
+                           zakona o združenem delu, saj bo sicer v praksi prehajalo do kolizij in
+                           zmede.</p>
+                        <pb/>
+                        <p>Ker je uveljavitev sprememb in dopolnitev zakona o združenem delu
+                           predvidena šele v septembru 1987, predlagamo, da se tudi celovit -
+                           poudarjam celovit - nov obračunski zakon sprejme šele takrat, uporabljati
+                           pa naj se začne šele s 1. januarjem 1988. Nujno pa je treba že sedaj v že
+                           obstoječi obračunski zakon vgraditi določbe o obvezni valorizaciji
+                           sredstev v skladu z inflacijo in tako zagotoviti realno ohranjanje
+                           družbenih sredstev in tudi realno izkazovanje ustvarjenega dohodka.</p>
+                        <p>Nato pa naj se v rednem postopku temeljito proučijo druge predlagane
+                           spremembe dohodkovnih kategorij po vsebinskih in materialnih posledicah.
+                           Predlagane spremembe imajo namreč daljnosežne posledice. Formiranje
+                           dohodka ima neposreden vpliv na oblikovanje družbenega proizvoda,
+                           družbenopolitičnih skupnosti, to pa vemo, tvori eno izmed osnov
+                           zagotavljanja gospodarske razvitosti ter za odmerjanje obveznosti
+                           posameznih družbenopolitičnih skupnosti za uresničevanje skupnih
+                           razvojnih ciljev.</p>
+                        <p>Ugotavljamo, da predlog za izdajo tega zakona opredeljuje osebni dohodek
+                           za tekoče delo, ki naj bi šel delavcu ne glede na rezultate dela in
+                           poslovanja in ga ločuje od osebnega dohodka na podlagi rezultatov dela
+                           temeljnih organizacij združenega dela in na podlagi minulega dela.
+                           Opredeljevanje osebnega dohodka delavca brez povezave z rezultati dela in
+                           poslovanja in izhodiščno razdvajanje osebnega dohodka na dva samostojna
+                           dela, od katerih je samo eden odvisen od rezultatov dela, je po mnenju
+                           Izvršnega sveta skupščine SR Slovenije v nasprotju z ustavno
+                           opredelitvijo osebnega dohodka kot celovite kategorije.</p>
+                        <p>Smatramo, da sklicevanje predlagatelja na stališče 24. seje Centralnega
+                           komiteja Zveze komunistov Jugoslavije ni utemeljeno, ker v teh stališčih
+                           ni podlage za opredeljevanje osebnega dohodka neodvisno od rezultatov
+                           dela. Predloženi zakon pa določa tudi vire in osnove za financiranje
+                           družbene dejavnosti in s tem v nasprotju z ustavo določenimi
+                           pristojnostmi zveznih organov posega v urejanje sistema prispevkov in
+                           svobodne menjave dela na področju družbenih dejavnosti.</p>
+                        <p>Zakon o amortizaciji sledi načelu, da mora obračunana amortizacija
+                           ugotavljati normalno nadomestitev iztrošenih sredstev tudi v pogojih
+                           inflacije. Ta namen, ki pa je po našem mnenju v predlaganih določbah
+                           izpeljan nedosledno, je treba vsekakor podpreti. Prav bi bilo, da se
+                           materialni učinki predlagane ureditve pred sprejemom zakona proučijo. Med
+                           drugim smo opozorili tudi na nesmiselnost sedanjega obračunavanja
+                           amortizacije za nekatere infrastrukturne objekte, na primer: ceste,
+                           mostove, tunele, kar naj bi z novim zakonom odpravili. Biološka
+                           reprodukcija gozdov pa naj bi še vnaprej, tako kot je že do sedaj, sodila
+                           v pristojnost republik in pokrajin, saj gre za specifičnosti, pristope in
+                           probleme, ki jih je treba reševati glede na specifičnost v posameznih
+                           republikah in pokrajinah.</p>
+                        <p>V Zakon o sanaciji prihaja v bistvu veliko pozitivnih novosti. V bodoče
+                           bo sanacija obvezna ne samo za izgubarje, ampak tudi za nelikvidne
+                           organizacije združenega dela. Večjo vlogo dobi sanator, ki je po novem
+                           tudi edini upravičen do sanacijskih kreditov pri poslovni banki. Banke
+                           naj bi po novem ne smele več nastopati neposredno kot sanator. Akontacije
+                           osebnih dohodkov za </p>
+                        <p>živo delo so v celoti urejene s tem zakonom, toda prav tako na način, ki
+                           ni skladen z zakonom o združenem delu.</p>
+                        <p>Do predlagane rešitve ima Izvršni svet naslednje pripombe. V sanacijskem
+                           postopku je premalo poudarjena vloga delovne organizacije pri
+                           odpravljanju vzrokov nelikvidnosti ali izgub temeljnih organizacij
+                           združenega dela v svojem sestavu, zlasti če zaradi tega svojega stanja
+                           tudi njim samim preti nelikvidnost ali izguba. Po našem mnenju naj bi bil
+                           v takem primeru obvezen sanacijski program za celotno organizacijo
+                           združenega dela ali sestavljeno organizacijo. Ne zdi se nam smotrna
+                           rešitev, da se poslovna banka ne more vključiti kot neposredni sanator,
+                           saj se s tem oži njena odgovornost in rizik za uspeh sanacije. Isto velja
+                           za samega saniranca, ki bi mu morali seveda ob potrebnih jamstvih
+                           omogočiti neposredno najetje sanacijskega kredita za uvedbo novih
+                           proizvodnih programov in za potrebno opremo. Nadalje opozarjamo na
+                           nesmotrnost določbe, v kateri bi morala biti pri organizacijah združenega
+                           dela posebnega družbenega pomena, kot so na primer: energetika,
+                           železniško gospodarstvo, izkazana letna izguba pokrita že do 20. junija
+                           tekočega leta.</p>
+                        <p>Zato naj bi to določbo spremenili, saj bi to lahko po nepotrebnem
+                           povzročilo previsoke obveznosti gospodarstva v relativno kratkem času.
+                           Interventne predpise naj bi sprejeli do 30. junija, sredstva pa zbirali
+                           do konca leta.</p>
+                        <p>K zakonu o spremembah bančnega in kreditnega sistema, ki na novo ureja
+                           postopke in roke za ustanavljanje bančnih organizacij, imamo dve glavni
+                           pripombi Predlagamo namreč, da se vsaj za eno leto podaljša rok, po
+                           katerem morajo banke uskladiti svoje ustanovne akte z novim zakonom, saj
+                           so te akte komaj še sprejele po sedanjem zakonu. Ne moremo se strinjati
+                           tudi s preširokimi pooblastili in vplivom, ki jih predvidene spremembe
+                           tega zakona dajejo Narodni banki Jugoslavije, saj to postavi posamezne
+                           ustanovitelje v neenakopraven položaj. Prav tako menimo, da ni podlage za
+                           pooblastilo družbenopolitičnim skupnostim in drugim družbenopravnim
+                           osebam, da bi lahko usmerjale sredstva poslovnih bank.</p>
+                        <p>Nadalje sodimo, da bi morali v sklepu sprememb bančnega in kreditnega
+                           sistema temeljito proučiti tudi položaj in vlogo narodne banke
+                           Jugoslavije. Dogajanje v zvezi z izvajanjem investicijske politike namreč
+                           opozarjajo na izjemno odgovornost pri tako pomembnem elementu gospodarske
+                           politike. Menimo, da je s spremembami zakona o Narodni banki Jugoslavije
+                           treba to banko vrniti v okvire ustavno določene funkcije. Jasno pa je
+                           treba opredeliti celoten sistem odgovornosti za izvajanje
+                           denarno-kreditne politike, upoštevajoč neposredno odgovornost Narodne
+                           banke Jugoslavije nasproti Skupščini SFR Jugoslavije.</p>
+                        <p>V sklop celovite finančne konsolidacije jugoslovanskega gospodarstva
+                           sodijo tudi predlogi Zveznega izvršnega sveta glede posebnih ukrepov za
+                           finančno sanacijo gospodarstev SR Črne gore, SR Makedonije in SAP Kosovo.
+                           Nobenega dvoma ni, da ta problem tako po velikosti kot svojem vplivu na
+                           ekonomsko stanje Jugoslavije terja hitro in učinkovito reševanje. Zato se
+                           kot republika in združeno delo nikakor ne moremo in ne smemo odreči
+                           svojega<pb/>sodelovanja pri njegovem razreševanju, saj je to v interesu
+                           celotnega združenega dela Jugoslavije.</p>
+                        <p>Vendar pa mislim, da bi bilo treba drugače pristopiti k razreševanju tega
+                           problema. Ponujena rešitev preko splošne socializacije izgub in nekritih
+                           obveznosti gospodarstva in bank ter republik in pokrajin ni sprejemljiva.
+                           Predlagamo reševanje v duhu načel, ki na splošno veljajo za sanacijo,
+                           vštevši rešitve, ki so predlagane za dopolnitev obstoječega zakona o
+                           sanaciji. To pomeni, da je treba tudi v gospodarstvih Črne gore,
+                           Makedonije in Kosova najprej identificirati posamezne subjekte, ki so
+                           nosilci izgub ali so nelikvidni, nato vsakega posebej analizirati in
+                           zahtevati sanacijske programe, potem pa v skladu s splošnimi načeli in pa
+                           v skladu s splošnimi načeli sanacijskega postopka postaviti sanatorje, s
+                           tem, da ima sanator pravice in odgovornosti za uresničitev sanacijskega
+                           programa. To praktično pomeni, da se vključijo v sanacijo ne samo s
+                           sredstvi, ampak tudi s svojim strokovnim potencialom, tehnološko pomočjo,
+                           trženjem in poslovnimi vezmi, ki jih imajo. Odnosi med sanatorjem in
+                           sanirancem pa je treba tudi dolgoročno postaviti na principe združenega
+                           dela in sredstev. Prepričani smo, da bi bil tak pristop resnično
+                           dolgoročen interesu posameznih gospodarskih subjektov iz teh republik in
+                           pokrajine Kosovo, s tem pa tudi v funkciji politike hitrejšega razvoja
+                           teh območij in Jugoslavije kot celote.</p>
+                        <p>Ne moremo tudi podpreti predlogov o reformi financiranja federacije.
+                           Zamisel o neposrednem napajanju zveznega proračuna iz temeljne naloge
+                           federacije, iz temeljnega prometnega davka, posega v sam ustavni koncept
+                           federacije, saj postavlja federacijo v nek zunanji položaj nasproti
+                           republikam in pokrajinam, s tem pa zanika ustavno načelo, da so prav
+                           republike in avtonomni pokrajini tiste, ki po ustavi prenašajo določen
+                           del na federacijo in jih preko nje skupno in enotno izvajajo in tudi
+                           zagotavljajo sredstva za ta namen. To pa se zagotavlja s kotizacijo, kot
+                           osnovnim virom zveznega proračuna.</p>
+                        <p>Republikam in pokrajinam pa mora biti prepuščeno, da zagotovijo sredstva
+                           za kotizacijo. Predlagamo, da Skupščina SR Slovenije ta stališča podpre
+                           in pooblasti delegacijo, da jih uveljavlja v postopku v zvezni
+                           skupščini.</p>
+                        <p>Poleg zveznih zakonov, ki sem jih naštel, je tudi Predlog za izdajo
+                           zakona o spremembah in dopolnitvah zakona o sistemu temeljih sistema
+                           družbenega planiranja in družbenem planu Jugoslavije z osnutkom zakona.
+                           Izvršni svet se bo do predloga opredelil jutri, tako da bodo delegati
+                           pravočasno dobili stališča do predlaganih sprememb.</p>
+                        <p>Tovarišice in tovariši delegati! Uresničevanje planskih ciljev, kot jih
+                           predlagamo v letošnji republiški resoluciji, bo v večji meri kot običajno
+                           odvisno od uveljavitve temeljnih izhodišč programa dolgoročne ekonomske
+                           stabilizacije in sklepov 13. kongresa Zveze komunistov Jugoslavije in 10.
+                           kongresa Zveze komunistov Slovenije, od prevlade zakonskih zakonitosti in
+                           tržnih meril ter od večje poslovne samostojnosti in odgovornosti delovne
+                           organizacije, ne samo kot osnovnega nosilca razvojnih in poslovnih
+                           odločitev, temveč tudi kot nosilca in tvorca celotnega našega družbenega
+                           sistema socialističnega samoupravljanja. Pri oblikovanju resolucije je
+                           bila to naša temeljna predpostavka.</p>
+                        <pb/>
+                        <p>Bolj kot sama stopnja rasti je v tem trenutku pomembno, da jo bomo
+                           dosegli na kakovostnih osnovah.</p>
+                        <p>Zato smo postavili izvoz in doseganje neto deviznega učinka na prvo
+                           mesto. Pravzaprav bo ravno ekonomsko uspešen izvoz osnovni pospeševalec
+                           gospodarske rasti in tisti končen pokazatelj, skozi katerega se bodo
+                           izrazili vsi ostali kakovostni procesi v našem gospodarstvu, še posebej,
+                           ker smo letos izgubili polet v prodoru na tuji konvertibilni trg.
+                           Tehnološko in organizacijsko posodabljanje, višja tehnološka stopnja
+                           proizvodnje, spodbujanje ustvarjalnega, inovativnega in strokovnega dela
+                           ter iniciative delavcev so pogoj za dosego tega cilja. Ocenjujemo, da bi
+                           ob sprostitvi vseh teh potencialov zmogli doseči 3,5% rast družbenega
+                           proizvoda, 2,2% prirasti produktivnosti, 6% vrednostno rast izvoza in 4%
+                           uvoza.</p>
+                        <p>Načrtujemo približno 100% pokritje uvoza blaga z izvozom blaga, na
+                           konvertibilno področje pa 95%. Fizičen obseg proizvodnje bi se povečal za
+                           2,6%, kar pa sploh ni lahka naloga, ker je treba računati tudi z
+                           opuščanjem nekaterih proizvodnih programov ter z uvajanjem novih bolj
+                           perspektivnih, zlasti pa tudi izvozno in dohodkovno bolj zanimivih. V
+                           kmetijstvu naj bi rast znašala 3%, ob boljši organizaciji proizvodnje in
+                           prometa s kmetijskimi pridelki ob nadaljnjem razvoju funkcije blagovnih
+                           rezerv ter politiki regresiranja. Hitrejšo rast 5% pričakujemo v drobnem
+                           gospodarstvu, pri tem računamo zlasti na prenos nekaterih delov sedanje
+                           industrijske proizvodnje v kooperaciji z manjšimi obrati, kar naj bi bilo
+                           zelo pomembna sestavina prestrukturirane industrije.</p>
+                        <p>Hitrejšo rast zasebnega sektorja bodo spodbudile tudi spremembe na
+                           področju davčnega sistema in davčne politike. V Izvršnem svetu smo
+                           prepričani, da moramo prav v smislu večje stimulacije za hitrejši razvoj
+                           tega področja že letos začeti s spremembami davčnega sistema in davčne
+                           politike. V ta namen smo predlagali spremembe in dopolnitve davčne
+                           zakonodaje in pristopili bomo k reorganizaciji uprav za družbene prihodke
+                           in inšpekcijskih služb.</p>
+                        <p>Na področju delitve bi nam planirana gibanja omogočila, da bi vse oblike
+                           končne porabe zadržale letošnji delež v dohodku. Upoštevati seveda
+                           moramo, da bo dohodek rastel nekoliko počasneje od družbenega proizvoda,
+                           ker se bo v skladu z napovedanimi ukrepi nekoliko okrepila amortizacija.
+                           Tako bi sredstva za osebne dohodke lahko realno porastla približno za
+                           2,5%, delež akumulacije pa naj bi ostal enak kot letos, to je 17%.</p>
+                        <p>Odnos med akumulacijo in osebnimi dohodki je bil še posebej predmet
+                           razprav in proučevanj ob pripravi resolucije. V času od priprave osnutka
+                           resolucije pa do danes smo opravili analizo tekočih gibanj na področju
+                           razporejanja dohodka ter Pripravili nekatera dopolnilna izhodišča za
+                           družbeno usmerjanje in razporejanje dohodka v letu 1987. S temi izhodišči
+                           bo potrebno dopolniti vse samoupravne sporazume, dejavnosti o
+                           razporejanju dohodka ter zagotoviti njihovo dosledno izvajanje.
+                           Zagotoviti moramo neposredno odvisnost osebnih dohodkov od dejansko
+                           doseženih rezultatov poslovanja, tako da bodo nadpovprečno uspešnost in
+                           nadpovprečne rezultate poslovanja spremljali tudi nadpovprečni osebni
+                           dohodki.</p>
+                        <pb/>
+                        <p>V organizacijah s podpovprečnimi rezultati pa bodo osebni dohodki
+                           ustrezno nižji. Z uveljavitvijo kategorije najnižjega osebnega dohodka pa
+                           je potrebno doseči, da organizacije združenega dela ne bodo izkazovale
+                           pozitivnih rezultatov poslovnega oziroma dohodka na račun osebnih
+                           dohodkov, ki ne zagotavljajo primerne eksistenčne ravni delavcev oziroma
+                           reprodukcijo njihove delovne sile.</p>
+                        <p>S takšnimi usmeritvami, ki bodo morale biti še bolj konkretno opredeljene
+                           tudi v besedilu predloga resolucije, moramo preseči še vedno prisotno
+                           avtomatično povečanje sredstev za osebne dohodke glede na rast
+                           življenjskih stroškov oziroma glede na povprečno rast sredstev za osebne
+                           dohodke. Le konkretni rezultati posamezne organizacije bodo utemeljitev
+                           za konkretne osebne dohodke delavcev v njej.</p>
+                        <p>V zvezi s politiko osebnih dohodkov v prihodnjem letu naj posebej
+                           poudarim, da je razprava v koordinacijskem odboru za uresničevanje
+                           družbenega dogovora na tem področju pripeljala do spoznanja, da enoto
+                           enostavnega dela kot novega prednostnega izhodišča za politiko
+                           oblikovanja sredstev za osebne dohodke v letu 1987 še ni mogoče
+                           uveljaviti. Potrebno pa je nadaljevati strokovno delo na tem področju,
+                           ter dati čim večji prispevek k iskanju graditve sistema v zakonu o
+                           združenem delu in drugih sistemskih aktih za samoupravno in ekonomsko
+                           učinkovitejše odnose pri oblikovanju in delitvi sredstev za osebne
+                           dohodke. Nikakor ne moremo več dovoliti, da se zmanjšuje akumulacija, ki
+                           edina delavcu zagotavlja dolgoročnejšo perspektivno možnost dela,
+                           ustvarjanja večjega dohodka in seveda tehnološkega razvoja. Zaradi tega
+                           je reafirmacija njegovega vpliva potrebna še posebej Pri skrbi za rast
+                           dohodka in pri odločanju o njegovem razporejanju.</p>
+                        <p>Uveljavljanje družbenoekonomskih odnosov na skoraj vseh Področjih
+                           družbenih dejavnosti in gospodarske infrastrukture je v zaostajanju. To
+                           se kaže pri sprejemanju samoupravnih sporazumov o temeljih planov
+                           samoupravnih interesnih skupnosti, materialne Proizvodnje in nekaterih
+                           pomembnih družbenih dejavnosti.</p>
+                        <p>Zaradi tega je moral Izvršni svet predlagati intervencijske zakone za
+                           zagotavljanje sredstev, ki bodo omogočila izvršitev plana na teh
+                           pomembnih področjih.</p>
+                        <p>Zvezna resolucija predvideva, da bosta skupna in splošna poraba rasti za
+                           10 odstotnih točk počasnejši od dohodka. V Sloveniji izhajajo iz
+                           uveljavljenega spoznanja, da pri družbenih dejavnostih in tudi pri
+                           splošni porabi ne gre za porabo, temveč tudi za naložbo v pomembne
+                           produktivnostne in razvojne dejavnike in ustvarjanje splošnih pogojev
+                           razvoja. Družbenim dejavnostim je treba omogočiti oblikovanje realne cene
+                           programov, ki so bili samoupravno in družbeno dogovorjeni. Materialne
+                           možnosti, ki jih ima združeno delo, je treba upoštevati, toda ne na račun
+                           pocenitev storitev, temveč že pri oblikovanju obsega Programov, nalog in
+                           pravic.</p>
+                        <p>Pri tem pa mislimo, da v letu 1987 ni mogoče širiti pravic. Za leto 1987
+                           tako predlagamo, da se uresničujejo s samoupravnimi sporazumi dogovorjeni
+                           programi, sredstva za njihovo izvedbo se lahko združijo in iz prispevnih
+                           stopenj, ki v globalu<pb/>tudi ni potrebe, da bi bile višje od prispevnih
+                           stopenj v letošnjem letu.</p>
+                        <p>Sproti bomo spremljali uresničevanje nalog glede na spremenjene razmere,
+                           tako glede učinkov novega obračunskega sistema, kot tudi drugih gibanj.
+                           Hkrati bomo tudi ukrepali z instrumenti, ki so predvideni v odnosih
+                           svobodne menjave dela in so bili sprejeti z dogovorom o temeljih
+                           družbenega plana. O tem bomo sproti obveščali Skupščino SR Slovenije.</p>
+                        <p>V zvezi z opredelitvijo okvirov vseh oblik porabe je pomemben pristop k
+                           brezinflacijskemu planiranju, to je, da v planskih bilancah in v letnih
+                           planskih aktih za leto 1987 ne bi anticipirali porabe dela inflacijske
+                           rasti dohodka. Ta pristop podpiramo, ne samo zato, ker bo onemogočil
+                           porabo še neustvarjenega dohodka, ampak predvsem zato, ker ne bo dodatno
+                           spodbujal k inflacijskim pričakovanjem, ne bo povzročal administrativnega
+                           programiranja cen, rasti cen in ne bo omogočal vkalkuliranja programirane
+                           inflacije pri samostojnem oblikovanju cen v organizacijah združenega dela
+                           na sploh.</p>
+                        <p>Tovarišice in tovariši delegati! Če primerjamo obe letošnji resoluciji,
+                           republiško in zvezno, lahko postavimo osnovno ugotovitev, da se glede
+                           deklariranih ciljev njihove definicije in prioritete v bistvu skoraj ne
+                           razlikujeta. V obeh resolucijah je na prvem mestu konvertibilni izvoz,
+                           doseganje kakovostne rasti, obvladanje inflacijskih žarišč. V obeh je
+                           napovedana odločna podpora predvsem tistim gospodarskim subjektom, ki so
+                           sposobnejši za prodore v novo kakovost gospodarjenja. To je pravzaprav
+                           zelo spodbuden ofenzivni premik v gledanju na Premagovanje krize in
+                           stagnacije.</p>
+                        <p>V Sloveniji dodajamo, da je v osnovnem tudi letnem zelo operativnem
+                           konceptu, ki nas mora motivirati in nam mora služiti kot vodilo vsega
+                           našega delovanja, poleg kakovostnejšega gospodarjenja, še ena pomembna
+                           poanta, to je kakovostnejše življenje. Tu ne gre samo za raven
+                           življenjskega standarda, razumljenega v ekonomskem smislu realnih osebnih
+                           dohodkov in drugih osebnih prejemkov, v ravni družbenega standarda ki jo
+                           uspemo zagotavljati v zdajšnjih ne lahkih gospodarskih razmerah. Gre tudi
+                           na primer za našo večjo urejenost, za smotrnejšo organiziranost, ki nas
+                           mora osvobajati čezmernega razsipanja časa in naših lastnih človeških
+                           potencialov in jih tako sproščati za ustvarjalnost. Gre Pa tudi za
+                           izboljšanje okolja, v katerem živimo, za gojitev kulturnih in duhovnih
+                           vrednot in gre za vsakodnevno graditev odnosov za višjo kakovost
+                           življenja.</p>
+                        <p>V prihodnjem letu bomo ob vseh ekonomskih zagatah in reševanju
+                           operativnih ekonomskih vprašanj namenjali vso pozornost uresničevanju z
+                           družbenim planom sprejetih in seveda z drugimi akti opredeljenih nalog v
+                           zvezi z uveljavljanjem posebnih ustavnih pravic italijanske in madžarske
+                           narodne skupnosti v SR Sloveniji.</p>
+                        <p>V resoluciji za leto 1987 gradimo vso strategijo in taktiko na tekmovanju
+                           in selekciji med samostojnimi gospodarskimi subjekti, pri čemer bo
+                           osnovno selekcijsko vlogo odigral trg v enakih pogojih gospodarjenja. Ta
+                           koncept, ki odgovarja samoupravnemu razreševanju problemov in ki
+                           reafirmira samoupravni družbenoekonomski položaj organizacij združenega
+                           dela, kot blagovnih<pb/>proizvajalcev, pa v številnih razdelavah zvezne
+                           resolucije ni prisoten. To velja ne samo za področje kontrole cen, ampak
+                           tudi pri opredeljevanju prednosti subjektov, ki jih nekdo po ne dovolj
+                           določenih kriterijih naprej spozna za perspektivne in jim zato prizna
+                           določene ugodnosti.</p>
+                        <p>Preveč je še zamisli o reševanju problemov s podružabljanjem izgub in
+                           prerazporejanju ustvarjenega dohodka. Take težnje so v osnovi v nasprotju
+                           z delovanjem ekonomskih zakonitosti, na katere se resolucija
+                           sklicuje.</p>
+                        <p>V nadaljnjem obravnavanju konkretnih rešitev, ki jih ponuja zvezna
+                           resolucija, bomo izhajali iz temeljnega načela, da je najboljša pomoč
+                           sposobnemu, če država s svojo regulativo ob določeni ekonomski politiki
+                           čim manj posega v njegovo gospodarjenje. Na ta način se bo njegova
+                           dejanska sposobnost in učinkovitost najlažje preverjala v praksi. To bo
+                           hkrati najboljši vzvod in motiv za aktiviranje znanja inovativnosti in
+                           sposobnosti. Pri tem pa je treba upoštevati veliko strukturno, kadrovsko
+                           in tehnično različnost posameznih subjektov, ki je nastala in nastajala v
+                           protislovjih dosedanjega razvoja, dostikrat mimo volje in odločitev
+                           posameznih kolektivov, ob neskladnostnem regionalnem razvoju v celotnem
+                           jugoslovanskem prostoru.</p>
+                        <p>Ta dejstva nas gotovo omejujejo pri izbiranju ekonomske politike
+                           Jugoslavije, vendar ne smejo privesti do odstopa od začrtane poti, ki
+                           mora v vsakem primeru voditi k dejanskemu uveljavljanju ekonomskih
+                           zakonitosti in tržnih meril, v večji odgovornosti in samostojnosti
+                           samoupravnih subjektov gospodarjenja, k postopnemu zaostrovanju ekonomske
+                           prisile in selekcijskih meril in vzvodov. Izbor ukrepov mora biti dobro
+                           zasnovan in skrbno odmerjen.</p>
+                        <p>V zavzemanju za konstruktivne ukrepe, ter v sooblikovanju najustreznejših
+                           rešitev, ki bodo čimbolj odgovarjale jugoslovanski realnosti, vidimo tudi
+                           na boljši način, da Socialistična republika Slovenija in združeno delo
+                           naše republike uresniči svojo ustavno dolžnost in pravico, skrbi za
+                           lasten razvoj ter za razvoj in stanje v jugoslovanski federalni
+                           skupnosti.</p>
+                        <p>Izvršni svet bo do priprave predloga resolucije skrbno Proučil vse
+                           predloge in pripombe, ki so bile dane na osnutek resolucije v širši
+                           slovenski razpravi v združenem delu, v zbornici, v družbenopolitičnih
+                           organizacijah in še posebej v Republiški konferenci Socialistične zveze
+                           in jih bo pri oblikovanju v največji možni meri upošteval. Hvala.</p>
+                     </sp>
+                     <sp who="#sp.BeznikVlado">
+                        <speaker>PREDSEDUJOČI VLADO BEZNIK:</speaker>
+                        <p>Zahvaljujem se tovarišu Šinigoju za podani ekspozeji.</p>
+                        <p>Obveščam delegate, da nadaljujemo takoj s sejami zborov v običajnih
+                           prostorih.</p>
+                        <p>Zaključujem skupno zasedanje.</p>
+                     </sp>
+                     <stage>(Skupno zasedanje je bilo končano ob 10.30 uri.)</stage>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

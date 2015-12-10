@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="slv">
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="slv" type="main" level="m">Sejni zapisi Skupščine Socialistične
+               republike Slovenije za 10. sklic (1986-1990), št. zvezka 130</title>
+            <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (25. november 1986)</title>
+            <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (24. december 1986)</title>
+            <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (18. februar 1987)</title>
+            <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (18. marec 1987)</title>
+            <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (22. april 1987)</title>
+            <title xml:lang="slv" type="desc">Elektronska izdaja</title>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <resp>Kodiranje TEI in računalniški zapis</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Andrej Pančur</persName>
+               <resp>Validacija meta-podatkov.</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Marta Rendla</persName>
+               <resp>Preverjanje in validacija OCR</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino, Zgodovina Slovenije - SIstory</publisher>
+            <idno type="URN">http://www.sistory.si/SISTORY:ID:16364</idno>
+            <pubPlace>http://www.sistory.si/SISTORY:ID:16364</pubPlace>
+            <pubPlace>https://github.com/SIstory/Sejni_zapiski</pubPlace>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by/4.0/"
+                     >Creative Commons Priznanje avtorstva 4.0 International licenco</ref>
+               </p>
+            </availability>
+            <date when="2015-12-10+01:00">10. 12. 2015</date>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic xml:id="sistory.16365">
+                  <idno>SISTORY:ID:16365#page=4</idno>
+                  <title xml:lang="slv" type="main" level="a">Skupno zasedanje (25. november
+                     1986)</title>
+                  <title xml:lang="slv" type="sub" level="a">Sejni zapisi Skupščine Socialistične
+                     republike Slovenije za 10. sklic (1986-1990), št. zvezka 130</title>
+                  <textLang xml:lang="slv" mainLang="slv">slovenski</textLang>
+                  <textLang xml:lang="eng" mainLang="slv">Slovenian</textLang>
+               </analytic>
+               <analytic xml:id="sistory.16366">
+                  <idno>SISTORY:ID:16366#page=20</idno>
+                  <title xml:lang="slv" type="main" level="a">Skupno zasedanje (24. december
+                     1986)</title>
+                  <title xml:lang="slv" type="sub" level="a">Sejni zapisi Skupščine Socialistične
+                     republike Slovenije za 10. sklic (1986-1990), št. zvezka 130</title>
+                  <textLang xml:lang="slv" mainLang="slv">slovenski</textLang>
+                  <textLang xml:lang="eng" mainLang="slv">Slovenian</textLang>
+               </analytic>
+               <analytic xml:id="sistory.16367">
+                  <idno>SISTORY:ID:16367#page=38</idno>
+                  <title xml:lang="slv" type="main" level="a">Skupno zasedanje (18. februar
+                     1987)</title>
+                  <title xml:lang="slv" type="sub" level="a">Sejni zapisi Skupščine Socialistične
+                     republike Slovenije za 10. sklic (1986-1990), št. zvezka 130</title>
+                  <textLang xml:lang="slv" mainLang="slv">slovenski</textLang>
+                  <textLang xml:lang="eng" mainLang="slv">Slovenian</textLang>
+               </analytic>
+               <analytic xml:id="sistory.16368">
+                  <idno>SISTORY:ID:16368#page=59</idno>
+                  <title xml:lang="slv" type="main" level="a">Skupno zasedanje (18. marec
+                     1987)</title>
+                  <title xml:lang="slv" type="sub" level="a">Sejni zapisi Skupščine Socialistične
+                     republike Slovenije za 10. sklic (1986-1990), št. zvezka 130</title>
+                  <textLang xml:lang="slv" mainLang="slv">slovenski</textLang>
+                  <textLang xml:lang="eng" mainLang="slv">Slovenian</textLang>
+               </analytic>
+               <analytic xml:id="sistory.16369">
+                  <idno>SISTORY:ID:16369#page=104</idno>
+                  <title xml:lang="slv" type="main" level="a">Skupno zasedanje (22. april
+                     1987)</title>
+                  <title xml:lang="slv" type="sub" level="a">Sejni zapisi Skupščine Socialistične
+                     republike Slovenije za 10. sklic (1986-1990), št. zvezka 130</title>
+                  <textLang xml:lang="slv" mainLang="slv">slovenski</textLang>
+                  <textLang xml:lang="eng" mainLang="slv">Slovenian</textLang>
+               </analytic>
+               <monogr xml:id="sistory.16364">
+                  <title xml:lang="slv" type="main" level="m">Sejni zapisi Skupščine Socialistične
+                     republike Slovenije za 10. sklic (1986-1990), št. zvezka 130</title>
+                  <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (25. november
+                     1986)</title>
+                  <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (24. december
+                     1986)</title>
+                  <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (18. februar
+                     1987)</title>
+                  <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (18. marec
+                     1987)</title>
+                  <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (22. april
+                     1987)</title>
+                  <imprint>
+                     <biblScope unit="volume">zvezka 130</biblScope>
+                     <publisher>Skupščina Socialistične republike Slovenije</publisher>
+                     <date when="1987">1987</date>
+                  </imprint>
+               </monogr>
+               <series>
+                  <title>Sejni zapisi Skupščine Socialistične republike Slovenije</title>
+               </series>
+            </biblStruct>
+            <biblFull corresp="#sistory.16364">
+               <titleStmt>
+                  <title xml:lang="slv" type="main" level="m">Sejni zapisi Skupščine Socialistične
+                     republike Slovenije za 10. sklic (1986-1990), št. zvezka 130</title>
+                  <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (25. november
+                     1986)</title>
+                  <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (24. december
+                     1986)</title>
+                  <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (18. februar
+                     1987)</title>
+                  <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (18. marec
+                     1987)</title>
+                  <title xml:lang="slv" type="sub" level="m">Skupno zasedanje, (22. april
+                     1987)</title>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher>Državni zbor Republike Slovenije</publisher>
+                  <date when="1987">1987</date>
+                  <availability status="free">
+                     <licence target="http://creativecommons.org/publicdomain/mark/1.0/"
+                        xml:lang="slv">Avtorske pravice so potekle, delo je v javni
+                        domeni.</licence>
+                     <licence target="http://creativecommons.org/publicdomain/mark/1.0/"
+                        xml:lang="eng">Public Domain Mark 1.0</licence>
+                  </availability>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>XML na portalu Zgodovina Slovenije - SIstory narejen v okviru izvajanja
+               infrastrukturnega programa Inštituta za novejšo zgodovino</p>
+         </projectDesc>
+         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../taxonomy.xml"/>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="slv" xml:lang="slv">slovenski</language>
+            <language ident="slv" xml:lang="eng">Slovenian</language>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <list>
+                  <item xml:lang="slv">predstavniška telesa</item>
+                  <item xml:lang="slv">stenografski zapisniki</item>
+                  <item xml:lang="slv">Socialistična republika Slovenija</item>
+                  <item xml:lang="slv">družbeno samoupravljanje</item>
+                  <item xml:lang="eng">representative bodies</item>
+                  <item xml:lang="eng">stenographical minutes</item>
+                  <item xml:lang="eng">Socialist Republic of Slovenia</item>
+                  <item xml:lang="eng">social self-management</item>
+                  <item xml:lang="eng">session</item>
+                  <item xml:lang="eng">term</item>
+                  <item xml:lang="eng">resumption of session</item>
+                  <item xml:lang="eng">joint session</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2015-12-10+01:00">
+            <name>Andrej Pančur</name>: kodiranje<list>
+               <item>//front//*</item>
+               <item>//div/@ana</item>
+               <item>//sp/@who</item>
+               <item>//stage</item>
+               <item>//head</item>
+               <item>//castList</item>
+               <item>//docDate</item>
+            </list>
+         </change>
+         <change when="2015-12-10+01:00">
+            <name>Andrej Pančur</name>: izvoz in preverjanje metapodatkov.</change>
+         <change when="2015-12-10+01:00">
+            <name>Andrej Pančur</name>: konverzija docx2tei </change>
+         <change when="2015-12-10+01:00">
+            <name>Andrej Pančur</name>: označil Header1 in TEI stil (tei:sp) za docx2tei
+            konverzijo</change>
+         <change notAfter="2015-12-10+01:00">
+            <name>Marta Rendla</name>: pregled in poprava OCR v DOCX</change>
+      </revisionDesc>
+   </teiHeader>
+   <text corresp="#sistory.16366">
+      <front>
+         <docTitle>
+            <titlePart>SKUPŠČINA SOCIALISTIČNE REPUBLIKE SLOVENIJE</titlePart>
+            <titlePart>ZBOR ZDRUŽENEGA DELA, ZBOR OBČIN IN DRUŽBENOPOLITIČNI ZBOR</titlePart>
+            <titlePart>Sejni zapiski</titlePart>
+            <titlePart>Skupno zasedanje - 24. december 1986</titlePart>
+         </docTitle>
+         <docImprint>
+            <publisher>Dokumentacijsko-knjižnični oddelek</publisher>
+            <publisher>Pododdelek sejnih zapiskov</publisher>
+            <pubPlace>Ljubljana</pubPlace>
+            <date>2001</date>
+         </docImprint>
+         <div type="contents">
+            <head>VSEBINA</head>
+            <list rend="simple">
+               <head>SKUPŠČINA SOCIALISTIČNE REPUBLIKE SLOVENIJE<lb/>SKUPNO ZASEDANJE<lb/>ZBORA
+                  ZDRUŽENEGA DELA, ZBORA OBČIN IN DRUŽBENOPOLITIČNEGA ZBORA</head>
+               <head>(24. december 1986)</head>
+               <item>
+                  <list rend="ordered">
+                     <head>dnevni red : stran</head>
+                     <item n="1">Uvodna beseda k predlogu resolucije o politiki uresničevanja
+                        družbenega plana Socialistične republike Slovenije za obdobje 1986-1990 v
+                        letu 1987 <ref>1</ref>
+                        <list rend="simple">
+                           <head>GOVORNIK:</head>
+                           <item>Milivoj Samar <ref>1</ref>
+                           </item>
+                        </list>
+                     </item>
+                     <item n="2">Poročilo delegacije Skupščine SR Slovenije v Zboru republik in
+                        pokrajin Skupščine SFR Jugoslavije <ref>6</ref>
+                        <list rend="simple">
+                           <head>GOVORNIK:</head>
+                           <item>Martin Mlinar <ref>6</ref>
+                           </item>
+                        </list>
+                     </item>
+                     <item n="3">Seznam govornikov <ref>II/1</ref>
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div type="speakers">
+            <head>SEZNAM GOVORNIKOV</head>
+            <head>SKUPŠČINA SOCIALISTIČNE REPUBLIKE SLOVENIJE<lb/>SKUPNO ZASEDANJE ZBORA ZDRUŽENEGA
+               DELA, ZBORA OBČIN IN DRUŽBENOPOLITIČNEGA ZBORA (24. december 1986)</head>
+            <castList>
+               <head>GOVORNIKA: STRAN</head>
+               <castItem>
+                  <actor xml:id="sp.MlinarMartin">Mlinar Martin</actor>
+                  <ref>6</ref>
+               </castItem>
+               <castItem>
+                  <actor xml:id="sp.SamarMilivoj">Samar Milivoj</actor>
+                  <ref>1</ref>
+               </castItem>
+            </castList>
+         </div>
+      </front>
+      <body>
+         <div ana="#PAR.ZbZdruDel #PAR.ZbObc #PAR.DruzPolZb">
+            <head>SKUPŠČINA SOCIALISTIČNE REPUBLIKE SLOVENIJE</head>
+            <head>SKUPNO ZASEDANJE ZBORA ZDRUŽENEGA DELA, ZBORA OBČIN IN DRUŽBENOPOLITIČNEGA
+               ZBORA</head>
+            <div ana="#PAR.Zasedanje">
+               <docDate>(24. decembra 1986)</docDate>
+               <castList>
+                  <castItem>
+                     <roleDesc>Predsedoval</roleDesc>: <actor xml:id="sp.DvojmočValentin">Valentin
+                        Dvojmoč</actor>, <role>predsednik Zbora združenega dela</role>
+                  </castItem>
+               </castList>
+               <stage>Zasedanje se je pričelo ob 09.30 uri.</stage>
+               <div ana="#PAR.DnevRed">
+                  <div>
+                     <sp who="#sp.DvojmočValentin">
+                        <speaker>PREDSEDUJOČI VALENTIN DVOJMOČ:</speaker>
+                        <p>Tovarišice in tovariši delegati, pričenjam skupno zasedanje Zbora
+                           združenega dela, Zbora občin in Družbenopolitičnega zbora. Uvodno besedo
+                           k <title>predlogu Resolucije o politiki uresničevanja družbenega plana
+                              Socialistične republike Slovenije za obdobje 1986 - 1990 v letu
+                              1987</title> bo podal tovariš Milivoj Samar, član Izvršnega sveta
+                           Skupščine SR Slovenije in predsednik Republiškega komiteja za družbeno
+                           planiranje. Prosim, tovariš Samar.</p>
+                     </sp>
+                     <sp who="#sp.SamarMilivoj">
+                        <speaker>MILIVOJ SAMAR:</speaker>
+                        <p>Tovariš predsedujoči, tovarišice in tovariši delegati! V skladu s sklepom
+                           Skupščine ob obravnavi osnutka resolucije je Izvršni svet pripravil
+                           predlog resolucije in vam ga posredoval skupaj s stališči do predlogov in
+                           pripomb, Podanih v razpravi ob osnutku resolucije. Pri oblikovanju
+                           predloga smo proučili rezultate devetmesečnega poslovanja, v Zavodu SR
+                           Slovenije za družbeno planiranje, pa so bile izdelane nove ocene
+                           gospodarskih gibanj v letu 1986 kot tudi bilance sredstev za 1987.
+                           leto.</p>
+                        <p>Ocene poslovanja, rezultatov in razporejanje dohodka in vrednotenje
+                           programov, nalog in dejavnosti izven gospodarstva za leto 1987 so v
+                           skladu s pristopom, vsebovanim v zvezni resoluciji za prihodnje leto,
+                           izdelane v cenah iz decembra 1986 in torej upošteva ta ocena le ocenjen
+                           prenos cen iz decembra v prihodnje leto. Na tej osnovi so vam bili
+                           posredovani globalni bilančni izračuni za leto 1987, ki predstavljajo
+                           analitično dokumentacijsko podlago oziroma kvantitativno opredelitev
+                           osnovnih nalog razvoja SR Slovenije v prihodnjem letu, vsebovanih v III.
+                           poglavju predloga resolucije.</p>
+                        <p>Poleg teh splošnih bilanc sredstev ste prejeli na klop tudi predlog vseh
+                           predvidenih obveznosti po virih, osnovah in stopnjah za posamezne
+                           obveznosti, kot jih za leto 1987 predvidevajo posamezni nosilci
+                           aktivnosti, ki združujejo sredstva iz dohodka, čistega dohodka in pa
+                           osebnih dohodkov. Pri oblikovanju Predloga resolucije nam je osnovno
+                           vodilo predstavljal sklep Skupščine, ki je potrdila pristop k oblikovanju
+                           resolucije, kot tudi sprejela ekspoze Izvršnega sveta ob obravnavi tega
+                           osnutka. Do posameznih pobud, ki jih nismo povzeli v predlog resolucije,
+                           vam je Izvršni svet posredoval pisno svoja stališča in jih ne
+                           ponavljam.</p>
+                        <p>Na zasedanju zborov Skupščine 17.12. nas je delegacija v Zboru republik
+                           in pokrajin Skupščine SFR Jugoslavije seznanila s potekom usklajevanja
+                           zvezne resolucije, spremljajočih<pb/>dokumentov in tudi zakonov, ki
+                           pomenijo dograjevanje gospodarskega sistema in s tem oblikovanje pogojev
+                           v letu 1987. Bistvena je pri tem ugotovitev, da usklajevanje ni
+                           zaključeno na dveh najpomembnejših segmentih, na področju ekonomskih
+                           odnosov s tujino in na področju ekonomsko-finančne učvrstitve
+                           gospodarstva bank. Prav tako v Zveznem zboru Skupščine še poteka
+                           oblikovanje in usklajevanje zlasti pomembnih zakonov, ki zadevajo
+                           obračunski sistem, uvajanje realnih ekonomskih kategorij v poslovanju in
+                           oblikovanje pravil ravnanja ob nerentabilnem poslovanju organizacij
+                           združenega dela.</p>
+                        <p>Pri dosedanjem dopolnjevanju zvezne resolucije je Zvezni izvršni svet
+                           predložil nove kvantifikacije materialnih okvirov za 1987. leto, ki so
+                           nižje od prvotnih, po njegovih trditvah pa realnejše in med seboj bolj
+                           usklajene. Pri tem, po našem mnenju, še ni dovolj izostrena opredelitev
+                           za večji izvoz na konvertibilno področje, ki naj zagotovi več deviz v
+                           letih 1987 in 1988 in hitrejše vključevanje na ta tržišča ter reševanje
+                           razvojnih vprašanj.</p>
+                        <p>Prav tako niso dorečene usmeritve za odpravo inflacijskih žarišč
+                           inflatornega financiranja, ostaja se le pri linearnem zniževanju skupne
+                           in splošne porabe po republikah in Pokrajinah, neoperacionaliziran je
+                           tudi pristop načrtovanja odnosov v razporejanju dohodka oziroma vseh
+                           oblik porabe brez anticipirane inflacije. Menimo, da na osnovi do sedaj
+                           usklajenih določb zvezne resolucije niso možne dopolnitve predloga
+                           republiške resolucije.</p>
+                        <p>Ne glede na omenjene ugotovitve Izvršni svet meni, da je danes možno in
+                           potrebno sprejeti slovensko resolucijo, hkrati Pa ugotoviti potrebo po
+                           njenem dopolnjevanju v letu 1987, upoštevaje usmeritve družbenega plana
+                           in spremembe v gospodarskem sistemu. Zavedamo se vpliva pogojev
+                           poslovanja, ki izhajajo iz skupne ekonomske politike, ki bo opredeljena v
+                           zvezni resoluciji in spremljajočih aktih, kot tudi sprememb v pogojih, ki
+                           jih bo Prineslo dograjevanje gospodarskega sistema. Vendar v predlogu
+                           resolucije ostajamo pri usmeritvah in kvantifikacijah iz osnutka kot
+                           tisti orientaciji, od katere ni mogoče odstopiti, če naj realiziramo
+                           razvojne cilje tega srednjeročnega plana.</p>
+                        <p>Pri tem smo prepričani, da bo tudi v celotni Jugoslaviji dozorelo
+                           predvsem spoznanje, da je nujno povečanje vključevanja v izvoz na
+                           konvertibilno tržišče in s tem v svetovni razvoj, kot tudi o nujnosti
+                           hitrejšega uvajanja realnih ekonomskih kategorij, spoštovanja ekonomskih
+                           zakonitosti in Poslovnega obnašanja po tržnih merilih ter tudi večji
+                           naslonitvi na lastne sile.</p>
+                        <p>Zvezna resolucija se v svojem uvodnem delu sicer opredeljuje za takšno
+                           izvajanje dolgoročnega programa gospodarske stabilizacije. Zlasti glede
+                           izvozne usmeritve ne bi smelo biti več dilem, saj tu razvojnih alternativ
+                           praktično ni. Če to ne bo v celoti vgrajeno v zvezno resolucijo in
+                           podprto tudi z ukrepi ekonomske politike ob sami resoluciji, bo življenje
+                           in razvoj zahtevalo to najkasneje v sredini prihodnjega leta. Zato v
+                           Predlogu resolucije vztrajamo pri ofenzivnem pristopu h konvertibilnemu
+                           izvozu in na tej osnovi povečani proizvodnji, kar zahteva hkrati hitrejše
+                           prestrukturiranje proizvodnih programov,<pb/>odpravljanje žarišč izgub,
+                           pospešeno dokončanje začetih investicij, gospodarsko rast na osnovi
+                           kvalitetnih dejavnikov z vključevanjem več znanja pa tudi masovne
+                           inovativne dejavnosti. Vse to pa hkrati zahteva tudi spopad z žarišči
+                           inflacije v Jugoslaviji ter prilagajanje domače končne potrošnje zahtevam
+                           povečanja izvoza na konvertibilno področje.</p>
+                        <p>Oblikovanje družbenega proizvoda oziroma ocena rasti dohodka in proporci
+                           njegovega razporejanja ostajajo približno isti kot v osnutku. V predlogu
+                           pregledno podajamo politiko oblikovanja sredstev za porabo v republiki
+                           Sloveniji v 1987. letu, pri čemer ostajamo pri temeljni opredelitvi, da
+                           posamezne oblike porabe zadržimo približno v obsegu leta 1986, da pa iz
+                           prirasta družbenega proizvoda oziroma dohodka zagotovimo več sredstev za
+                           krepitev materialne osnove združenega dela, da zagotovimo realizacijo
+                           programov družbenih dejavnosti, ki krepijo kakovostne razvojne
+                           dejavnosti, in hkrati ohranimo doseženo uskladitev osebnih dohodkov
+                           gospodarstva in negospodarstva. Iz tega sledijo različne stopnje rasti in
+                           tudi zaostajanje porabniških agregatov z izjemo sredstev za pokojninsko
+                           in invalidsko zavarovanje za porast dohodka.</p>
+                        <p>Večja bo realna rast dohodka, večja bo tudi razbremenitev gospodarstva v
+                           tem prirastu in več bo realnih sredstev za razpolago prestrukturiranja
+                           gospodarstva. V primeru bistvenih sprememb v obsegu razpoložljivih
+                           sredstev za porabo v Sloveniji, ki bi jih povzročile spremembe v
+                           obračunskem sistemu in ukrepi za ekonomsko finančno učvrstitev
+                           gospodarstva in bank, bo potrebno posamezne določbe resolucije
+                           prilagoditi novim razmeram. Pri tem bomo vztrajali na približevanju v
+                           resoluciji opredeljenim razmeram. V ta namen bo potrebno razdelati tako
+                           neinflacijski pristop pri oblikovanju sredstev za financiranje vseh oblik
+                           končne porabe, načine tekočega prilagajanja vrednotenja programov in
+                           aktivnosti v družbene dejavnosti in uporabnih dejavnostih, kot tudi
+                           dograditi družbeni dogovor o skupnih osnovah in merilih za razporejanje
+                           dohodka, institut naj nižjega osebnega dohodka pa tudi proučiti enoto
+                           enostavnega dela kot analitsko-planski pripomoček, zlasti še v pogojih,
+                           ko bo večji del dohodka potrebno nameniti ekonomsko finančni
+                           konsolidaciji in ko bo ob relativno tanjših sredstvih vendar treba
+                           zagotoviti stimuliranje boljšega in inovativnejšega dela.</p>
+                        <p>Pregled napovedanih in objavljenih stopenj prispevkov, davkov in drugih
+                           obveznosti, ki jih bo gospodarstvo v prihodnjem letu pokrivalo iz dohodka
+                           in iz čistega dohodka, delavci pa iz osebnih dohodkov, kaže, da ob
+                           objavljenih prispevnih stopnjah v družbenih dejavnostih v globalu ne bo
+                           prišlo do večjih obremenitev. Nove prispevne stopnje, pri katerih je
+                           osnova bruto osebni dohodek, so za 0,46% točke večje od tistih, ki so
+                           veljale v obdobju januar - november, hkrati pa za 0,066% točk manjše od
+                           tistih, ki so veljale v obdobju junij - november.</p>
+                        <p>V teku leta bodo samoupravne interesne skupnosti prilagajale prilive in
+                           prispevne stopnje z resolucijo opredeljenim razmeram v porabi. Zato tudi
+                           ni resoluciji očitati, da prispevne stopnje spreminja v prevladujoč ali
+                           celo ključni planski instrument. Med letom bo potrebno dodatno
+                           usklajevanje odnosov med samoupravnimi interesnimi skupnostmi glede
+                           na<pb/>različnost priznanj gibanj materialnih stroškov, osebnih dohodkov
+                           in socialnih prejemkov.</p>
+                        <p>Zagotoviti bo potrebno tekoče prilagajanje porabe in tako pogosto
+                           usklajevanje z realnimi gibanji, da bo možno izključiti poračune. Tak
+                           pristop v družbenih dejavnostih in proračunski porabi pa bo izvedljiv, če
+                           se bodo oblikovala sredstva za osebne dohodke v gospodarstvu dosledno na
+                           podlagi doseženih rezultatov. Sočasno pa bo treba zmanjšati oziroma
+                           odpravljati tudi druga žarišča inflacije, predvsem na kreditno-monetarnem
+                           področju. Vse te aktivnosti in ukrepi skupaj bi lahko tako pripeljali do
+                           pojemajoče stopnje inflacije v prihodnjem letu.</p>
+                        <p>Izvršni svet Skupščine SR Slovenije je že ob predložitvi predloga
+                           republiškega proračuna za leto 1987 napovedal dopolnilni predlog o
+                           proračunu, ker v času predlaganja predloga proračuna Skupščini SR
+                           Slovenije še niso bili znani rezultati usklajevanja sistema financiranja
+                           federacije in s tem povezanega proračuna federacije za leto 1987. Glede
+                           na to, da so bili v postopku usklajevanja sprejeta stališča Skupščine SR
+                           Slovenije glede financiranja federacije v delu, ki zadeva prispevek
+                           republik in pokrajin zveznemu proračunu in je Skupščina SR Slovenije na
+                           prejšnjem zasedanju tudi soglašala z dopolnilnima predlogoma Zveznega
+                           izvršnega sveta k navedenim zakonskim osnutkom, je dana podlaga za
+                           dopolnitev republiškega proračuna za leto 1987.</p>
+                        <p>Obseg republiškega proračuna se povečuje za znesek prispevka republike
+                           zveznemu proračunu za leto 1987 in znaša 67.570 mio dinarjev. Glede na
+                           znano obveznost Slovenije do federacije izvršni svet skupščine v
+                           dopolnilnem predlogu podaja tudi bilanco prihodkov proračuna SR Slovenije
+                           za leto 1987. Bilanca prihodkov temelji na obstoječih davčnih virih, s
+                           tem da se ne predlaga podaljšanja veljavnosti davka iz dohodka temeljnih
+                           organizacij po posebni stopnji.</p>
+                        <p>Izvršni svet ocenjuje, da bo možno odhodke republiškega proračuna v
+                           skupni višini okoli 181 mlrd dinarjev pokriti iz uveljavljenih davčnih
+                           virov.</p>
+                        <p>Upoštevajoč prilive prihodkov republiškega proračuna za leto 1986, ki se
+                           gibljejo v skladu z gospodarskimi gibanji, ki presegajo predvidena
+                           gibanja, Izvršni svet Skupščine SR Slovenije predlaga znižanje stopenj
+                           davka po posebni stopnji iz dohodka temeljnih organizacij združenega dela
+                           in delovnih skupnosti z enega odstotka na 0,3% za leto 1986. Predlagano
+                           znižanje predstavlja po naši oceni razbremenitev gospodarstva v Sloveniji
+                           v višini okoli 8 mlrd dinarjev.</p>
+                        <p>Tovarišice in tovariši delegati! V razpravah o predlogu resolucije so
+                           bile podane nekatere pripombe v delovnih telesih zborov in skupščine ter
+                           posredovani posamezni amandmaji. Proučili smo tako dodatne pobude kot
+                           amandmaje in izoblikovali amandmaje Izvršnega sveta, v katerih smo
+                           prevzeli dane pobude in amandmaje, in te ste danes prejeli na klop, pri
+                           tem gre za dobro polovico redakcijskih dopolnitev, ki povečujejo jasnost
+                           in dorečenost resolucije, polovica pa jih dopolnjuje vsebino
+                           resolucije.</p>
+                        <p>Poleg amandmajev, ki jih Izvršni svet ne prevzema, ste prejeli tudi
+                           trinajst takšnih, za katere v Izvršnem svetu menimo, da ne sodijo v
+                           resolucijo. V večini primerov gre za ponovitev<pb/>zahtev ob obravnavi
+                           osnutka oziroma za predloge, ki niso bili sprejeti že ob usklajevanju
+                           srednjeročnih planskih dokumentov.</p>
+                        <p>Gre za infrastrukturne oblike na področju cestnega gospodarstva, ki ob
+                           zoženih materialnih možnostih v tem srednjeročju niso bili vneseni v
+                           spisek prioritet. Pojavljajo se kot reagiranje na uvrstitev ceste
+                           Bratstva in enotnosti v jugoslovansko prioriteto v družbenem planu
+                           Jugoslavije in zvezni resoluciji, kjer se predvideva oblikovanje skupnega
+                           razvojnega programa. Ta bo zahteval zagotovitev dodatnih sredstev, vendar
+                           ne iz obstoječih samoupravnih sporazumov o temeljih plana cestnega
+                           gospodarstva, temveč na osnovi interesnega združevanja oziroma v okviru
+                           skupnega jugoslovanskega razvojnega programa.</p>
+                        <p>Pri tem prvi izračuni kažejo, da je združevanje sredstev na ekonomskem
+                           interesu možno ob gostoti prometa na tej cesti, ki ga bo omogočila zlasti
+                           izgradnja karavanškega predora.</p>
+                        <p>Vprašanje solidarnosti in izenačevanja stopenj obremenitve gospodarstva
+                           za zagotovljene programe v družbenih dejavnostih je bilo prav tako
+                           ponovljeno v predlogu resolucije.</p>
+                        <p>Izvršni svet meni, da je aktivnosti potrebno speljati v samoupravnih
+                           interesnih skupnostih in vključno s pobudo za dopolnjevanje samoupravnih
+                           sporazumov v temeljih planov, kjer je to potrebno, ni pa moč tega
+                           opraviti z resolucijo.</p>
+                        <p>Glede amandmajev, ki se nanašajo na upoštevanje izvoza kot kriterija za
+                           razporejanje dohodka in delitev osebnih odhodkov je Izvršni svet mnenja,
+                           da jih v resolucijski tekst ni mogoče sprejeti, saj je resolucija
+                           naravnana na zagotavljanje takšnih pogojev gospodarjenja, tečaj,
+                           stimulacije, kreditiranje izvoza, ki naj bi izvoznikom na konvertibilno
+                           tržišče zagotovili dohodkovno motiviranost. Potrebno pa bo spremljati,
+                           kako se ta politika uresničuje in po potrebi med letom prek odbora
+                           družbenega dogovora o skupnih osnovah in merilih za samoupravno urejanje
+                           odnosov pri razporejanju in delitvi dohodka zagotoviti izvoznikom na
+                           konvertibilno področje primeren položaj v delitvi.</p>
+                        <p>Izvršni svet Skupščine je proučil tudi osnutek energetske bilance SR
+                           Slovenije in ugotovil, da ni pripravljen v skladu s 30. členom zakona o
+                           energetskem gospodarstvu. Zato je republiški energetski skupnosti
+                           predlagal, da jo pripravi v skladu z zakonom, s posebnim poudarkom na
+                           ustreznem ovrednotenju bilance, ki bo omogočila tako izvajalcem kot
+                           uporabnikom ustrezno planiranje za 1987. leto.</p>
+                        <p>Republiška energetska skupnost je včeraj ob obravnavi predloga energetske
+                           bilance sprejela pripombe Izvršnega sveta in se obvezala, da bo tako
+                           dopolnjeno bilanco predložila Skupščini SR Slovenije do konca
+                           januarja.</p>
+                        <p>Tovarišice in tovariši! Izvršni svet predlaga, da predlog resolucije
+                           sprejmete. Hkrati se obvezuje, da bo po sprejemu zvezne resolucije in
+                           spremljajočih aktov ter po sprejetju dopolnitev sistemskih zakonov
+                           analiziral vse pogoje poslovanja, na tej osnovi noveliral bilančne okvire
+                           za leto 1987 ter predlagal dodatne ukrepe za izpolnitev ključnih nalog iz
+                           te resolucije za uresničitev planskih ciljev. Hvala.</p>
+                     </sp>
+                  </div>
+                  <div>
+                     <sp ana="#sp.DvojmočValentin">
+                        <speaker>PREDSEUDJOČI VALENTIN DVOJMOČ:</speaker>
+                        <p>Zahvaljujem se tovarišu Samarju za podano uvodno besedo. <title>Poročilo
+                              delegacije Skupščine SR <pb/>Slovenije v Zboru republik in pokrajin
+                              Skupščine SFR Jugoslavije</title> bo podal tovariš Martin Mlinar,
+                           vodja delegacije. Prosim, tovariš Mlinar!</p>
+                     </sp>
+                     <sp who="#sp.MlinarMartin">
+                        <speaker>MARTIN MLINAR:</speaker>
+                        <p>Tovarišice in tovariši delegati! Delegacija Skupščina SR Slovenije z
+                           današnjim poročilom seznanja zbore z drugim krogom usklajevanja
+                           resolucije družbenoekonomskega razvoja za leto 1987 in spremljajočih
+                           aktov ter zakonov.</p>
+                        <p>Delegacija Skupščine SR Slovenije, kakor tudi druge delegacije, ki so v
+                           tem drugem krogu pristopile k usklajevanju, so normalno izhajale iz
+                           svojih opredelitev, ki so jih dobile pri dajanju poročil ob prvem krogu
+                           usklajevanja. Tako je ravnala tudi naša delegacija. Pri tem je bila
+                           delegacija Skupščine SR Slovenije v stalnem kontaktu z vodstvom Skupščine
+                           SR Slovenije in tudi z Izvršnim svetom.</p>
+                        <p>Delegacija je v svojem poročilu 17.decembra 1986 izpostavila probleme, ki
+                           so kot ključni po njeni presoji ostali odprti pri sami resoluciji in
+                           katerim bo posvetila posebna pozornost. Ti so bili politika tečaja
+                           dinarja, izvozne spodbude, uvoz odpreme, politika obrestnih mer in
+                           kreiranje denarne mase, Politika osebnih dohodkov in skupne in splošne
+                           porabe.</p>
+                        <p>Tudi v tem prvem delu skupnega usklajevanja so nekatera od teh vprašanj
+                           ostala še nedorečena ali nerazčiščena. Mislimo, da moramo pri vsakem
+                           posebej nekaj reči in podati naše mišljenje za nadaljnje delo. Politika
+                           osebnih dohodkov: večino delegacij ni zadovoljna s predloženim besedilom
+                           te točke k resoluciji, ki ga je predložil Zvezni izvršni svet. Pripombe
+                           so različne, od takih, da bi to otežkočalo zaposlovanje v organizacijah
+                           združenega dela, do takih, da opredelitve na tem področju v resoluciji ne
+                           potrebujemo.</p>
+                        <p>Kljub številnim pripombam pa je prevladalo mišljenje, da je opredelitev
+                           do resolucije o tem vprašanju potrebna. Zvezni izvršni svet je v toku
+                           usklajevanja prišel z dopolnitvijo svojega že priloženega besedila, s
+                           katerim opredeljuje način izračunavanja produktivnosti dela v
+                           organizacijah združenega dela. Tekst tega dopolnilnega predloga se glasi:
+                           Pri izračunavanju produktivnosti v organizacijah združenega dela se bo
+                           imelo v vidu realno rast dohodka po zaposlenem. Taki dopolnitvi naša
+                           delegacija ni nasprotovala. Predlagala pa je še svojo formulacijo
+                           dopolnila, dopolnitve predloženega osnovnega teksta in to: Republike in
+                           pokrajini morajo v svojih planskih aktih in z dopolnitvami družbenih
+                           dogovorov zagotoviti, da se poboljša razmerje med osebnimi dohodki in
+                           skupno porabo ter akumulacijo z rezervami v korist akumulacije in
+                           rezerv.</p>
+                        <p>Republiške in pokrajinske skupščine naj spremembo razmerja med osebnimi
+                           dohodki in akumulacijo konkretizirajo v svojih planskih aktih ter
+                           zagotovijo, da to store tudi vsi gospodarski in drugi družbeni subjekti v
+                           svojih planih. Dokler tega ne store, ostanejo osebni dohodki na ravni
+                           izplačanih osebnih dohodkov iz zadnjega trimesečja iz leta 1986, če so
+                           bili v skladu z družbenim dogovorom in zakonom. Drugače se mora njihov
+                           obseg za prvo trimesečje leta 1987 uskladiti z opredelitvami družbenega
+                           dogovora zakona.</p>
+                        <pb/>
+                        <p>Osebni dohodki v prvem kvartalu leta 1987 se lahko povečujejo do ravni
+                           produktivnosti dela. Osebni dohodki izven gospodarstva naj sledijo
+                           osebnim dohodkom v gospodarstvu.</p>
+                        <p>Zvezni izvršni svet bo jutri, do jutri pripravil novo dopolnjeno besedilo
+                           te podtočke, na katerem se bo nadaljevalo usklajevanje.</p>
+                        <p>Splošna in skupna poraba. Tu je še naprej odprta vrsta vprašanj in je
+                           pravzaprav cela podtočka še neusklajena. Zvezni izvršni svet je prišel z
+                           nekaterimi dopolnitvami že predloženega besedila in to v smeri
+                           razjasnjevanja načina izračunavanja obsega sredstev iz zadnjega kvartala
+                           tekočega leta in načina revalorizacije teh sredstev.</p>
+                        <p>Delegacija sodi, da je predloženi pristop sprejemljiv in ga bo v
+                           nadaljevanju usklajevanja podprla. Zelo odprto pa je vprašanje višine, to
+                           je predloženih 10% zaostajanja teh dveh vrst porabe z rastjo dohodka, in
+                           pa številom izjem.</p>
+                        <p>Zveni izvršni svet močno vztraja na svojem predlogu, z njim pa se
+                           strinjajo tudi nekatere druge delegacije. Naša in še nekatere druge
+                           delegacije se s tem predlogom ne strinjajo. V nadaljevanju usklajevanja
+                           bo delegacija še vztrajala na stališčih in jih poizkusila tudi
+                           uveljaviti.</p>
+                        <p>Politika obrestnih mer in kreiranje denarne mase. Odbor za
+                           kreditno-monetarni sistem v celoti vztraja na svoji oceni, da je stopnja
+                           restriktivnosti kreiranja denarne mase, opredeljena v resoluciji,
+                           prevelika. Zvezni izvršni svet se s tem ne strinja. Da bi presegli
+                           sedanje stanje, je naša delegacija predlagala, naj Narodna banka
+                           Jugoslavije do danes prenese analizo neregularnih denarnih tokov. Na tej
+                           osnovi naj se Zvezni izvršni svet in Narodna banka Jugoslavije zavežeta,
+                           da v prvem kvartalu leta 1987 iz analize ugotovljenih neregularnih tokov
+                           le-te odpravita.</p>
+                        <p>Pri politiki obrestnih mer je ostalo nerazrešeno še vprašanje uporabe cen
+                           ali cen industrijskih izdelkov ali maloprodajnih cen kot osnove za
+                           izračunavanje višine stopnje, eskontne stopnje. Prav tako je odprto tudi
+                           vprašanje dela revalorizacije kreditov in časa njegove uveljavitve.
+                           Nerazrešeno je tudi vprašanje načina zbiranja sredstev za jugoslovansko
+                           banko za kreditiranje izvoza opreme in investicijskih del. Gre za
+                           vprašanje, ali naj se sredstva zagotove z dogovorom republik in pokrajin
+                           ali s samoupravnimi sporazumi. Mi se zavzemamo za drugo, vendar nas
+                           drugi, razen delegacije Vojvodine, ne podpirajo.</p>
+                        <p>Delegacija bo v nadaljevanju usklajevanja še uveljavljala pripombe in
+                           iskala rešitve, ki bi odgovarjale vsebini pripomb naše skupščine.</p>
+                        <p>Ekonomski odnosi s tujino, politika tečaja in izvozne spodbude. V tem
+                           delu, ko bom govoril, bom opredeljeval stališče delegacije tudi do
+                           projekcije plačilne bilance, kjer je to z nekaterimi deli teksta
+                           resolucije med seboj čvrsto povezano.</p>
+                        <p>Zvezni izvršni svet še naprej vztraja na dosedanjem Predlogu, po katerem
+                           se bo tečaj dinarja tekoče prilagajal razlikam v stopnji inflacije pri
+                           nas v primerjavi z inflacijo v državah, glavnih zunanjetrgovinskih
+                           partnerjev Jugoslavije in da bosta druga dva zakonska kriterija
+                           uporabljena glede na morebitna odstopnja v uresničevanju planiranih
+                           ciljev na področju ekonomskih odnosov s tujino, za kar pa ni potrebno
+                           sprejemati posebnih<pb/>opredelitev v resoluciji. Takšno stališče
+                           sprejemajo tudi vse druge delegacije, pri čemer je delegacija Sabora
+                           Hrvaške predlagala še, da bi Zbor republik in pokrajin sprejel poseben
+                           sklep, da bo Zvezni izvršni svet poslal Skupščini SFRJ posebno
+                           informacijo o uresničevanju politike ekonomskih odnosov s tujino na
+                           začetku leta 1987 po podatkih za prvo trimesečje in na tej podlagi
+                           predlagal morebitne spremembe ukrepov ekonomske politike.</p>
+                        <p>Zvezni izvršni svet je pripravljen sprejeti takšno obveznost, ne pa tudi
+                           hkrati, da bo poročal o rezultatih uporabe sistema ekonomskih odnosov s
+                           tujino, ker smatra, da je s sedanjimi spremembami in dopolnitvami zakona
+                           o deviznem poslovanju predlagal vse tiste spremembe, ki so po njegovi
+                           oceni v tem trenutku potrebne.</p>
+                        <p>Delegacija predlaga, da sicer še vztraja na naših predlogih glede
+                           opredelitve politike tečaja, vendar z možnostjo, da se doseže uskladitev
+                           na tem, da bo v resoluciji ali s posebnim sklepom določeno, da bo Narodna
+                           banka Jugoslavije mesečno poročala o izvrševanju politike realnega tečaja
+                           uresničevanja planiranih ciljev projekcije plačilne bilance ter o stanju
+                           na deviznem trgu, kar bo omogočalo tekoče ugotavljanje doslednosti
+                           izvajanja politike realnega tečaja.</p>
+                        <p>Glede opredelitve politike izvoznih stimulacij je Zvezni izvršni svet,
+                           kot tudi večina delegacij, sprejel naš predlog, da se bo v letu 1987
+                           spodbujal zlasti izvoz proizvodov visoke stopnje obdelave in storitev,
+                           večje stopnje sestavljenosti z večjimi neto deviznimi učinki. Prav tako
+                           je izjavil, da bo povečanje izvozne stimulacije za dodelavne posle in za
+                           turizem, za turizem je tudi predlagal ustrezno dopolnitev besedila
+                           resolucije. Ne sprejema pa našega predloga, da bo izvoz storitev v celoti
+                           izenačil s stimulacijami za izvoz proizvodov visoke stopnje obdelave in
+                           da se izvoz luških storitev izenači s stimulacijami za pomorski
+                           promet.</p>
+                        <p>Delegacija predlaga, da se opredelitve sprejmejo ob ustreznih zagotovilih
+                           Zveznega izvršnega sveta, da bodo uresničene rešitve glede povečanja
+                           izvoznih stimulacij za posamezne storitve.</p>
+                        <p>Uvoz opreme. Zvezni izvršni svet je predlagal, da se poveča uvoz opreme
+                           na podlagi ustvarjenega izvoza od prvotnih 7% na 9%, in sprejel tudi naš
+                           predlog, da se bo v letu 1987 omogočil uvoz na podlagi lizinga tudi za
+                           znanstvenoraziskovalne organizacije združenega dela, ne pa samo za
+                           proizvodnjo za izvoz. Ne sprejema pa, enako tudi druge delegacije,
+                           predloga, da bi uvoz opreme na podlagi blagovnih kreditov bremenil
+                           pravice do uvoza in Plačila uvoza opreme organizacij združenega dela le v
+                           višini od Plačila teh kreditov, ne pa v celotni vrednosti fizičnega
+                           uvoza.</p>
+                        <p>Pri projekciji plačilne bilance je Zvezni izvršni svet v zadnjih
+                           stališčih na pripombe Sobranja Makedonije in Skupščine SAP Kosovo
+                           predlagal, da se predvidi v projekciji poseben obseg deviz za uvoz opreme
+                           za realizacijo vseh projektov, ki se financirajo iz sklada federacije za
+                           kreditiranje hitrejšega razvoja gospodarsko manj razvitih republik in SAP
+                           Kosovo, in sicer z devizami po osnovi 132. člena zakona o deviznem
+                           poslovanju, ki so sicer namenjene za zagotavljanje uvoznih potreb
+                           republik in pokrajin ter federacije, kot družbenopolitičnih
+                           skupnosti.</p>
+                        <pb/>
+                        <p>Nekatere delegacije: Vojvodina, Srbija, Hrvaška in Slovenija menijo, da
+                           ta člen ne more biti podlaga za takšno rešitev, saj gre v tem primeru za
+                           poskus ustvarjanja posebnih pravic uvoza opreme izven sicer za vse druge
+                           organizacije združenega dela določenih kriterijev za uvoz opreme na
+                           podlagi amortizacije in ustvarjenega izvoza.</p>
+                        <p>Delegacija meni, da je predlog Zveznega izvršnega sveta nesprejemljiv,
+                           saj ni v skladu z novim zakonom o deviznem poslovanju. Poleg tega pa bi
+                           po izjavi Narodne banke Jugoslavije morali za celoten tako opredeljen
+                           znesek obseg takšnih posebnih namenskih pravic uvoza opreme zmanjšati
+                           obseg uvoza pri vseh drugih organizacijah združenega dela pri projekciji
+                           plačilne bilance.</p>
+                        <p>Uvoz opreme za realizacijo teh projektov je potrebno po naši sodbi
+                           urejati na enakih osnovah, kot za vse druge projekte. Poleg tega pa še na
+                           podlagi novo predvidenih možnosti združevanja pravic do uvoza opreme za
+                           skupne izvozne programe ter na podlagi sporazumov o prerazporejanju
+                           pravic uvoza opreme, ki jih organizacije združenega dela lahko sklenejo v
+                           skladu z deviznim zakonom v Gospodarski zbornici Jugoslavije.</p>
+                        <p>Delovanje deviznega trga. Zvezni izvršni svet in večina delegacij, razen
+                           Sabora Hrvatske, ne sprejemajo naših predlogov, da se v resoluciji
+                           izrecno opredeli prednost izvoznikov za plačevanje nalogov v tujino glede
+                           na njihov priliv, ker meni, da to ni potrebno glede na spremembe zakona o
+                           deviznem poslovanju, ki so v teku, ter glede na spremembe podzakonskih
+                           aktov, ki naj bi bile sprejete v Zveznem izvršnem svetu in Narodni banki
+                           Jugoslavije za učinkovitejše delovanje deviznega trga.</p>
+                        <p>Tovariš predsednik, to, kar bo sedaj naprej čital, ima značaj strogo
+                           zaupno.</p>
+                        <p>V projekciji plačilne bilance je Zvezni izvršni svet v zvezi s tem
+                           predlagal, da se predvidi obvezen prenos deviz izračunov poslovnih bank
+                           na Narodno banko Jugoslavije v letu 1987 v skupnem znesku 395 milijonov
+                           dolarjev, od tega 100 milijonov dolarjev za povečanje deviznih rezerv
+                           Narodne banke Jugoslavije in 295 milijonov dolarjev za zagotavljanje
+                           anuitet tujih posojil, ki jih odplačuje Narodna banka Jugoslavije.</p>
+                        <p>Ob tem ni predvideno izločanje deviz za intervencije Narodne banke
+                           Jugoslavije za anuitete, ki jih sicer odplačujejo pooblaščene banke.
+                           Sprejem takšne obveznosti pomeni, po dosedanjih ocenah, povprečno 7%
+                           sprotno izločanje deviz iz računov Pooblaščenih bank na račun Narodne
+                           banke Jugoslavije, pri čemer je Narodna banka Jugoslavije izjavila, da bi
+                           takšno obveznost aktivirali le v primeru, kadar ostali priliv Narodne
+                           banke Jugoslavije ne bi zadoščal za pokrivanje njenih obveznosti.</p>
+                        <p>Delegacija predlaga, da se sprejme predlagani obseg Prenosa deviz
+                           pooblaščenih bank na Narodno banko Jugoslavije kot zgornji limit in da se
+                           obseg tega izločanja med letom zmanjša, če bodo ostali prilivi Narodne
+                           banke Jugoslavije večji od planiranih.</p>
+                        <p>Problemi klirinške menjave. Tudi ta del je strogo zaupne narave. Glede na
+                           rezultate nejavnih pogovorov jugoslovanske delegacije v Sovjetski zvezi,
+                           na podlagi katerih bo še do konca leta 1986 povečan uvoz nekaterih
+                           surovin in nafte v</p>
+                        <pb/>
+                        <p>Jugoslavijo, in glede na to, da se bodo v januarju 1987 nadaljevali
+                           pogovori v obsegu menjave med SFR Jugoslavijo in Sovjetsko zvezo za leto
+                           1987, bo Zvezni izvršni svet po opravljenih pogovorih predložil posebno
+                           informacijo Skupščini SFR Jugoslavije s programov odpravljanja sedanjega
+                           našega visokega Pozitivnega salda v tej menjavi.</p>
+                        <p>Ta pozitivni saldo zaradi načina financiranja za klirinške menjave iz
+                           primarne emisije, deloma pa tudi uvoza v tej menjavi, v pomembni meri
+                           vpliva na notranjo nestabilnost odnosno na inflacijo še posebej, ker je
+                           Zvezni izvršni svet predlagal, da se v letu 1987 razširi uporaba primarne
+                           emisije ne le za izvoz, temveč tudi za uvoz in reesportne posle iz
+                           kliringa, kar po oceni delegacije ni sprejemljivo. Delegacija ocenjuje,
+                           da v tem trenutku ni mogoče v celoti sprejeti drugačnih konkretnejših
+                           opredelitev glede klirinške menjave, zlasti z zmanjšanjem njenega
+                           Pozitivnega salda, dokler ne bodo znani rezultati omenjenih pogovorov in
+                           zato ni smiselno vztrajati na vseh naših pripombah glede ukrepov za
+                           odpravljanje sedanjega stanja na tem področju.</p>
+                        <p>To, kar bom sedaj naprej bral, pa ni več strogo zaupno.</p>
+                        <p>To, kar sem sedaj povedal, so glavna neusklajena vprašanja na vsebino
+                           resolucije in posameznih delov plačilne bilance. Gre še za dosti drugih
+                           neusklajenih točk resolucije in to na raznih področjih. Vendar ne za
+                           takšne, da bi v naši sodbi bilo potrebno v tem poročilu se do njih
+                           podrobneje opredeljevati.</p>
+                        <p>Delegacija bo, razume se, tudi v nadaljevanju usklajevanja in iskanja
+                           rešitev za uskladitev še teh odprtih vprašanj izhajala iz pooblastil, ki
+                           jih je dala Skupščina SR Slovenije, in bo uveljavljala njena
+                           stališča.</p>
+                        <p>Dovolite mi, da v nadaljevanju obvestim zbore o stanju pri usklajevanju
+                           nekaterih zakonov in drugih aktov s področja Zbora republik in
+                           pokrajin.</p>
+                        <p>Zakon o financiranju federacije in zvezni proračun. Naša delegacije je
+                           uspela uveljaviti vse bistvene pripombe slovenske skupščine na oba akta.
+                           Zvezni izvršni svet je na tej osnovi pripravil nove predloge omenjenih
+                           aktov. Vse delegacije so Podprle predlog Zveznega izvršnega sveta, razen
+                           delegacija Socialistične avtonomne pokrajine Kosovo, ki nima pooblastila
+                           svoje skupščine za nadaljevanje usklajevanja, ker v predlogu Zveznega
+                           izvršnega sveta njihovi predlogi niso odgovarjajoče Upoštevani.</p>
+                        <p>Usklajevanje je v tem trenutku prekinjeno in se čaka na nove opredelitve
+                           Skupščine SAP Kosovo.</p>
+                        <p>Enako stanje je pri aktih, ki urejajo področje regresiranja umetnih
+                           gnojil in zaščitnih sredstev ter regresiranje obresti za kmetijsko
+                           proizvodnjo. Pri teh aktih ima delegacija SAP Kosovo pooblastilo, vendar
+                           sodi, da njihovi predlogi niso odgovarjajoče upoštevani in zato ne more
+                           brez konzultacije v skupščini dati soglasje na predložene akte. Usklajen
+                           je zakon o namenski proizvodnji v SR Srbiji izven avtonomnih pokrajin,
+                           kjer so naša stališča uveljavljena tudi za tisto, da se ta sredstva
+                           vračajo v sklad za pospeševanje izvoza. Usklajen je tudi zakon o
+                           Ugotavljanju sredstev za intervencijo v gospodarstvu, gre za vprašanje
+                           izvoznih spodbud in vprašanje financiranja predstavništev Gospodarske
+                           zbornice Jugoslavije.</p>
+                        <pb/>
+                        <p>Odlok o kreditno denarni politiki. Odlok še ni usklajen, saj pri njem
+                           ostajajo odprta vprašanja kot pri resoluciji. O njih sem že govoril pri
+                           resoluciji. Poleg teh pa so še odprta naslednja vprašanja:</p>
+                        <p>- koriščenje primarne emisije za kreditiranje uvoza s klirinškega
+                           področja;</p>
+                        <p>- vprašanje dinarskih sredstev za koriščenje kreditov Mednarodne banke za
+                           obnovo in razvoj, predlog je, da naj gredo ta sredstva izven limitov
+                           bančnih plasmajev. Zvezni izvršni svet se do tega predloga še ni
+                           opredelil;</p>
+                        <p>- kreditiranje izgradnje 30.000 stanovanj, gre za predlog SR Srbije, da
+                           naj se sredstva za kreditiranje izgradnje stanovanj, gre za izgradnjo
+                           stanovanj za trg, ne upoštevajo v okvir limitov v bančnih plasmajih.
+                           Zvezni izvršni svet se tudi do tega predloga še ni opredelil. Delegacija
+                           meni, da se predlog izvršnega sveta za koriščenje primarne emisije za
+                           uvoz kliringa ne bi mogel podpreti. Delegacija pa podpira predlog za
+                           elemitiranje plasmajev za koriščenje kreditov v Mednarodni banki za
+                           obnovo in razvoj.</p>
+                        <p>Način tretiranja kreditov za izgradnjo 30.000 stanovanj za trg pa bi
+                           delegacija ob, še nekaterih vprašanjih verjetno podprla.</p>
+                        <p>Zakon o Narodni banki Jugoslavije. Zakon še ni usklajen. Naša delegacija
+                           je uveljavila vse bistvene pripombe naše skupščine. Posebno pomembne so
+                           tiste, ki urejajo način financiranja narodnih bank republik in pokrajin
+                           in uporabe obvezne rezerve kot regulatorja kreiranja denarne mase.</p>
+                        <p>Način financiranja narodnih bank republik in pokrajin ostaja isti kot
+                           doslej. Viški iz naslova obresti na kredite za selektivne namene pa naj
+                           se uporabijo za financiranje materialnih rezerv, regresiranje obresti za
+                           kmetijsko proizvodnjo, pospeševanje izvoza, kar naj republike in
+                           pokrajini uredita glede na svojo zakonodajo. Za tako rešitev bo Zbor
+                           republik in pokrajin sprejel priporočilo republiških in pokrajinskih
+                           skupščin.</p>
+                        <p>Uporaba obvezne rezerve kot regulatorja obsega denarne mase naj bi bila v
+                           naslednjem. Če poslovne banke imajo sredstva in splošni limit plasmaja
+                           ovira, da sredstva plasirajo, lahko sredstva plasirajo nad določenim
+                           limitom, vendar morajo na ta sredstva računati tudi obvezno rezervo. Kot
+                           primer, če je, recimo, limit, povečanje 5% plasmajev, banka pa ima
+                           sredstva, da to lahko poveča, recimo do 10, potem se na razliko med 5 in
+                           10 obračuna obvezna rezerva. Neusklajeno je vprašanje konsenza.
+                           Delegacije Hrvaške in Vojvodine ter Kosova nimajo pooblastil svojih
+                           skupščin, da se konsenzus odpravi kot način odločanja v Svetu guvernerjev
+                           Narodne banke Jugoslavije. Delegacije mislijo, da je treba konsenz
+                           ohraniti za zaključni račun Narodne banke Jugoslavije, finančni načrt in
+                           določanje eskontne stopnje.</p>
+                        <p>Do teh vprašanj se bodo opredeljevale njihove skupščine na sejah v tem
+                           tednu.</p>
+                        <p> Zakon o cenah. Ta zakon še ni usklajen, ker so odprta še nekatera
+                           pomembna vprašanja. Zvezni izvršni svet je sprejel naš predlog, ki se
+                           glasi, da mora Zvezni izvršni svet v določenem času dati soglasje na
+                           elemente za oblikovanje cen v gospodarski<pb/>infrastrukturi, če pa tega
+                           ne stori, mora takoj obvestiti skupščino o razlogih in načinu delovanja
+                           naprej.</p>
+                        <p>Nerazčiščeno je vprašanje odkupovanja dogovorjene in pogodbeno sklenjene
+                           kmetijske proizvodnje po zaščitnih cenah. Prav tako ostaja odprto
+                           vprašanje dopolnitve obstoječega zakona in njenega 13. člena, ki pa
+                           pomeni, da morajo poslovodni delavci v pripravi za predloge svojim
+                           samoupravnim organom pripraviti širšo analizo stanja v organizacijah
+                           združenega dela, kot so, recimo, višina zalog takih proizvodov, hitrost
+                           obračanja kapitala, primerjava cen teh proizvodov s cenami v svetu in še
+                           nekatere druge stvari. Naša delegacija bo še naprej vztrajala na
+                           pripombah skupščine in ravnala v skladu s pooblastilom, ki ga ima s sej
+                           zborov 25. novembra 1986.</p>
+                        <p>Spremembe in dopolnitve zakona o deviznem poslovanju. V drugem krogu
+                           usklajevanja sprememb in dopolnitev zakona o deviznem poslovanju so bila
+                           usklajena določila, ki se nanašajo na Pogoje za podaljšanje roka vnosa
+                           deviz v primeru prodaje na kredit in prodaje blaga in storitev iz
+                           carinskih con. V zvezi s sedanjimi problemi pravočasnega vnosa deviz je
+                           bil sprejet sklep, da mora Narodna banka Jugoslavije takoj uskladiti
+                           odlok, s katerim se določajo kriteriji za podaljšanje roka vnosa deviz
+                           glede na pogoje za plasma posameznih vrst blaga na tujih trgih z
+                           zakonskimi določili.</p>
+                        <p>Sprejet je bil naš predlog, da mora pooblaščena banka pozvati
+                           organizacije združenega dela ali druge družbeno-pravne osebe, da polože
+                           dinarsko protivrednost naloga za plačilo v tujino dva dni pred dejansko
+                           izvršitvijo naloga. S tem se odpravljajo vzroki za dosedanjo neustrezno
+                           prakso, ko so ob pogojih stalne uporabe 110. člena zakona o deviznem
+                           poslovanju ležala neobrestovana velika sredstva organizacij združenega
+                           dela na računih poslovnih bank. Usklajena je bila dopolnitev, ki omogoča,
+                           da se družbeno priznane reprodukcijske potrebe organizacij združenega
+                           dela z daljšim ciklusom proizvodnje od enega leta določajo po triletnem
+                           povprečju uvoza in izvoza, s tem da bo kriterije za ugotavljanje takšnih
+                           vrst proizvodnje določila Gospodarska zbornica Jugoslavije.</p>
+                        <p>Usklajeno je bilo dopolnilo glede načina povečevanja in zmanjševanja
+                           družbeno priznanih reprodukcijskih potreb v primeru povečanja ali
+                           zmanjšanja izvoza v tekočem letu v primerjavi z izvozom v prejšnjem letu
+                           in to tako, da bo korekcija pri aktivnih izvoznikih vedno odstotna,
+                           relativna. Pri tako imenovanih pasivcih pa povečanje izvoza relativno,
+                           zmanjšanje pa v absolutnem znesku.</p>
+                        <p>Usklajena je dopolnitev zakona, ki omogoča združevanje pravic do uvoza in
+                           plačila uvozne opreme za skupne izvozne Programe, kakor tudi na podlagi
+                           sporazumov sklenjenih v Gospodarski zbornici Jugoslavije po 122. členu
+                           zakona o deviznem poslovanju med organizacijami združenega dela, ki so
+                           povezane v skupni Proizvodnji za izvoz. Sprejeto je bilo dopolnilo, da se
+                           evidentirajo transportnim organizacijam združenega dela, ko je opravljen
+                           izvoz, tudi opravljene transportne storitve za domače naročnike na tujih
+                           relacijah, kar je pomembno za vse te organizacije združenega dela zaradi
+                           določanja statusa aktivca pri prednostnem poravnavanju nalogov v
+                           tujino.</p>
+                        <pb/>
+                        <p>Glede neusklajenih določil pa je položaj naslednji: obvezna menjava deviz
+                           na meji za tuje državljane. Zvezni izvršni svet je najavil možnost, da bi
+                           predlog za ureditev tega vprašanja v tem zakonu umaknil in da bi
+                           predlagal ustrezno enako dopolnitev v menjalniškem zakonu.</p>
+                        <p>Delegacija Sabora SR Hrvaške je ob podpori naše delegacije zadržala
+                           rezervo, dokler ne bomo seznanjeni s končnim stališčem Zveznega izvršnega
+                           sveta. Pogoji za poslovanje z devizami na deviznih računih pri domačih
+                           bankah, tako imenovani člen 100: glede na stališče Zakonodajno-pravne
+                           komisije Zvezni izvršni svet ne more dobiti pooblastila, da sam določa
+                           materialne pogoje organizacijam združenega dela glede držanja deviz na
+                           deviznih računih, temveč le natančnejše pogoje na podlagi meril, ki so
+                           bila določena v samem zakonu. Zato bo Zvezni izvršni svet pripravil
+                           dopolnilni predlog v tej smeri, pri čemer so bili tudi z naše strani dani
+                           nekateri predlogi glede opredelitve takšnih meril, usklajena pa je že
+                           bila odopolnitev, da se devize s teh računov nakazujejo v tujino sprotno
+                           oziroma da imajo enako prednost kot plačevanje fiksnih in garantiranih
+                           obveznosti, kar bo odpravilo številne probleme v tem poslovanju iz
+                           letošnjega leta.</p>
+                        <p>Delovanje deviznega trga in večja samostojnost bank pri poravnavanju
+                           nalogov v tujino. Zvezni izvršni svet in vse druge delegacije, razen naše
+                           in Hrvaške, vztrajajo na stališču, da niso potrebne dopolnitve 110. člena
+                           zakona o deviznem poslovanju, s katerimi bi že po zakonu omogočili bankam
+                           poravnavanje dela nalog za plačilo v tujino izven prednostnega vrstnega
+                           reda. Zvezni izvršni svet je najavil, da bodo v teh dneh v Zveznem
+                           izvršnem svetu in v Svetu guvernerjev Narodne banke Jugoslavije
+                           obravnavani predlogi sprememb podzakonskih aktov, ki bi v določeni meri
+                           poenostavili izvajanje nalogov za plačila v tujino in omogočili delno
+                           samostojnost bank, vendar ne more prevzeti obveznosti, da bodo ti akti
+                           sprejeti že do konca postopka usklajevanja sprememb in dopolnitev tega
+                           zakona, kar bi omogočilo oceno, da je na ta način vsaj do določene mere
+                           smiselno realiziran cilj predlagane dopolnitve 110. člena zakona.</p>
+                        <p>Delegacija Skupščine SR Srbije je predlagala, da se v zakonu omeji
+                           veljavnost 110. člena zakona na največ skupno 90 dni, potem pa mora
+                           Zvezni izvršni svet sprejeti v skladu z določitvami zakona o deviznem
+                           poslovanju najprej dodatne ukrepe za povečanje izvoza, tečaj za izvozne
+                           spodbude, potem pa tudi za zmanjševanje uvoza. Delegacija predlaga, da se
+                           kot možen izhod za uskladitev sprejme takšen predlog delegacije SR
+                           Srbije, ki pa seveda ne pomeni v celoti uresničitve namenov, ki jih je
+                           predlagala naša delegacija.</p>
+                        <p>Pogoji za uvoz v okviru obmejne menjave in sejemskih kompenzacijskih
+                           poslov. Zvezni izvršni svet in vse druge delegacije, razen delegacije SR
+                           Srbije, sprejemajo naše predloge za dopolnitev zakona. To je, da se uvoz
+                           v okviru obmejne menjave in sejemskih kompenzacijskih poslov opravlja v
+                           višini doseženega izvoza in v okviru predpisanih režimov oziroma oblik
+                           uvoza. Delegacija meni, da so naši predlogi dovolj argumentirani in da je
+                           potrebno na njih vztrajati z morebitnimi dopolnitvami, ki ne bi v osnovi
+                           menjale smisel predlaganih sprememb.</p>
+                        <pb/>
+                        <p>Glede na vse to delegacija predlaga, da jo pooblastite za uskladitev
+                           sprememb in dopolnitev zakona o deviznem poslovanju v skladu z določili
+                           300. člena drugega odstavka ustave SFRJ, s tem da se sprejme na Zboru
+                           republik in pokrajin sklep o tem, da bo Zvezni izvršni svet poročal po
+                           prvem trimesečju o rezultatih uresničevanja začrtane politike ciljev na
+                           področju ekonomskih odnosov s tujino, kar bo omogočilo tudi oceno
+                           učinkovitosti delovanja sistema ekonomskih odnosov s tujino. Predlog
+                           sklepa bodo prebrali predsedniki zborov na ločenih sejah, kot sem
+                           obveščen.</p>
+                        <p>Nekaj še o dosedanjem delu na usklajevanju dogovorov. Družbeni dogovor o
+                           združevanju sredstev fonda federacije za razvoj manj razvitih republik in
+                           SAP Kosovo. Dogovor še ni usklajen, vendar je v zaključni fazi. Naša
+                           delegacija je do sedaj uveljavila vse pripombe naše skupščine, razen ene.
+                           Usklajevanje se nadaljuje v petek dopoldan. Pričakovati je, da bo prišlo
+                           do uskladitve.</p>
+                        <p>Dogovor o pospeševanju razvoja SAP Kosova. Dogovor še ni usklajen, naša
+                           delegacija uveljavlja pripombe naše skupščine. Usklajevanje se bo
+                           nadaljevalo, ko bo delegacija SAP Kosovo dobila od svoje skupščine
+                           nadaljnje usmeritve za svoje delo.</p>
+                        <p>Odlok o kriterijih za ugotavljanje stopnje razvitosti republik in
+                           pokrajin in uporabe mejnih vrednosti. Tu se stanje od našega poročanja v
+                           skupščini 17.decembra 1986 ni spremenilo, saj se je usklajevanje pričelo
+                           danes.</p>
+                        <p>Tovarišice in tovariši delegati! Predlagam, da zbori sprejmejo
+                           informacijo delegacije o delovanju usklajevanja, potrdijo njeno delo in
+                           sprejmejo njene predloge za nadaljnje delo.</p>
+                        <p>Potem pa moram zbore skupščine SR Slovenije obvestiti še o naslednjem:
+                           delegacijo je presenetilo in istočasno razočaralo obvestilo javnosti seje
+                           Predsedstva Socialistične zveze delovnega ljudstva, ki je bila objavljena
+                           v včerajšnjem Delu. Ocene, ki jih je predsedstvo dalo o delu delegatov v
+                           Skupščini SFRJ, uporabljam vsebino obvestila v Delu, se nam zde
+                           neosnovane, sploh pa ne vemo, iz kakšnih argumentiranih dejstev izhajajo.
+                           Posebno nas vse to preseneča, ker je delegacija pred tednom dni delegatom
+                           slovenske skupščine predložila detajlno pismeno poročilo in ustno
+                           obrazložitev stanja, na katere zbori niso imeli pripomb. Ker je v
+                           Družbenopolitičnem zboru tudi delegacija Republiške konference SZDL in se
+                           je s poročilom strinjala, nas Preseneča, da je predsedstvo te
+                           organizacije prišlo do drugačnega zaključka, in to takrat, ko se je drugi
+                           krog usklajevanja šele začel. Vse te ocene izhajajo iz vsebine članka v
+                           Delu. Takšen način gotovo ne prispeva k ustvarjanju vzdušja za nadaljnji
+                           konstruktivni dialog, lahko da vpliva tudi na oblikovanje javnega mnenja
+                           v smeri nezaupanja v delo izvoljenih delegatov. S tem se delegacija v
+                           Zboru republik in pokrajin ne more strinjati. Vedno Pa smo pripravljeni,
+                           da poleg detajlnega poročila zborom Skupščine SR Slovenije o delu
+                           delegacije to podamo tudi vsaki družbenopolitični organizaciji. Če bo
+                           predsedstvo Republiške konference Socialistične zveze delavnega ljudstva
+                           to želelo, smo to pripravljeni storiti že v januarju. Vsakršen drugačen
+                           pristop ne<pb/>mobilizira delegate za delo, temveč ustvarja zmedo in rodi
+                           nezaupanje. Hvala.</p>
+                     </sp>
+                     <sp who="#sp.DvojmočValentin">
+                        <speaker>PREDSEDNIK VALENTIN DVOJMOČ:</speaker>
+                        <p>Zahvaljujem se tovarišu Mlinarju, za podano poročilo. Poročevalce
+                           sredstev javnega obveščanja pa prosim, da ne poročajo o tistem delu
+                           poročila, ki je strogo zaupnega značaja v smislu 436. člena poslovnika,
+                           oziroma da poročajo samo o tistem, kar jim bo posredoval naš sekretariat
+                           za informacije.</p>
+                        <p>S tem zaključujem skupno zasedanje vseh treh zborov. Zbori nadaljujejo
+                           delo na ločenih sejah, kot običajno. Hvala.</p>
+                     </sp>
+                     <stage>(Skupno zasedanje je bilo končano ob 10.25 uri.)</stage>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
