@@ -135,7 +135,7 @@
             <name>Marta Rendla</name>: pregled in poprava OCR v DOCX</change>
       </revisionDesc>
    </teiHeader>
-   <text>
+   <text corresp="#sistory.16040">
       <front>
          <docTitle>
             <titlePart>ZBOR ZDRUŽENEGA DELA SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE</titlePart>
@@ -727,7 +727,7 @@
       <body>
          <div ana="#PAR.ZbZdruDel">
             <head>ZBOR ZDRUŽENEGA DELA SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE</head>
-            <div ana="#PAR.Seja" n="8">
+            <div ana="#PAR.Seja" n="8" corresp="#sistory.16041">
                <head>8. Seja</head>
                <docDate>(25. november 1986)</docDate>
                <castList>
@@ -1248,8 +1248,7 @@
                            proizvajalcev in ne cen na drobno; opredelitev, da se v prvem polletju
                            odpravijo disparitete med cenami (in to administrativno) in odpravljanje
                            disparitet prek večjega delovanja trga, zato je vsa ta neskladja Pri
-                           sprejemanju konkretnih aktov in do predloga resolucije treba<anchor
-                              xml:id="bookmark1"/> odpraviti.</p>
+                           sprejemanju konkretnih aktov in do predloga resolucije treba odpraviti.</p>
                         <p>Seveda pa od povsod prihajajo opozorila, da po eni strani resolucija ne
                            more biti dokument, v katerem bi bil program zakonodajnih sprememb, še
                            posebno, če gre pri tem za vsebinske spremembe sistemskih zakonov in v

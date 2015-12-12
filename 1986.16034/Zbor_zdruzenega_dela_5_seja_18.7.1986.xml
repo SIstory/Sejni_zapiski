@@ -135,7 +135,7 @@
             <name>Marta Rendla</name>: pregled in poprava OCR v DOCX</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:lang="sl">
+   <text corresp="#sistory.16034">
       <front>
          <docTitle>
             <titlePart>ZBOR ZDRUŽENEGA DELA SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE</titlePart>
@@ -604,7 +604,7 @@
       <body>
          <div ana="#PAR.ZbZdruDel">
             <head>ZBOR ZDRUŽENEGA DELA SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE</head>
-            <div ana="#PAR.Seja" n="5">
+            <div ana="#PAR.Seja" n="5" corresp="#sistory.16035">
                <head>5. seja</head>
                <docDate>(18. julija 1986)</docDate>
                <castList>

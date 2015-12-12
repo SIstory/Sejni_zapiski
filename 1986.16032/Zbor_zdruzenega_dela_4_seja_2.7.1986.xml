@@ -43,7 +43,7 @@
                   <textLang xml:lang="slv" mainLang="slv">slovenski</textLang>
                   <textLang xml:lang="eng" mainLang="slv">Slovenian</textLang>
                </analytic>
-               <monogr>
+               <monogr xml:id="sistory.16032">
                   <title xml:lang="slv" type="main" level="m">Sejni zapisi Skupščine Socialistične
                      republike Slovenije za 10. sklic (1986-1990), št. zvezka 3</title>
                   <title xml:lang="slv" type="sub" level="m">Zbor združenega dela, 4. seja (2. julij
@@ -127,7 +127,7 @@
             <name>Marta Rendla</name>: pregled in poprava OCR</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:lang="sl">
+   <text corresp="#sistory.16032">
       <front>
          <docTitle>
             <titlePart>ZBOR ZDRUŽENEGA DELA SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE</titlePart>
@@ -569,7 +569,7 @@
       <body>
          <div ana="#PAR.ZbZdruDel">
             <head>ZBOR ZDRUŽENEGA DELA SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE</head>
-            <div ana="#PAR.Seja">
+            <div ana="#PAR.Seja" n="4" corresp="#sistory.16033">
                <head>4. seja</head>
                <docDate>(2. julij 1986)</docDate>
                <castList>

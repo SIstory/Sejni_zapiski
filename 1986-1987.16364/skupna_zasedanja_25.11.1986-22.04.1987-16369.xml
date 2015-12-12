@@ -190,7 +190,7 @@
             <name>Marta Rendla</name>: pregled in poprava OCR v DOCX</change>
       </revisionDesc>
    </teiHeader>
-   <text corresp="#sistory.16369">
+   <text corresp="#sistory.16364">
       <front>
          <docTitle>
             <titlePart>SKUPŠČINA SOCIALISTIČNE REPUBLIKE SLOVENIJE</titlePart>
@@ -259,7 +259,7 @@
             <head>SKUPŠČINA SOCIALISTIČNE REPUBLIKE SLOVENIJE</head>
             <head>SKUPNO ZASEDANJE ZBORA ZDRUŽENEGA DELA, ZBORA OBČIN IN DRUŽBENOPOLITIČNEGA
                ZBORA</head>
-            <div ana="#PAR.Zasedanje">
+            <div ana="#PAR.Zasedanje" corresp="#sistory.16369">
                <docDate>(22. april 1987)</docDate>
                <castList>
                   <castItem>

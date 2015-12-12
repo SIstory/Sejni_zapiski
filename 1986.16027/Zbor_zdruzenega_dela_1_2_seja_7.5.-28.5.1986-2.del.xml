@@ -53,7 +53,7 @@
                   <title xml:lang="slv" type="sub" level="m">Zbor združenega dela, 2. seja (28. maj
                      1986)</title>
                   <imprint>
-                     <biblScope type="vol">zvezka 1</biblScope>
+                     <biblScope unit="volume">zvezka 1</biblScope>
                      <publisher>Skupščina Socialistične republike Slovenije</publisher>
                      <date when="1986">1986</date>
                   </imprint>
@@ -146,7 +146,7 @@
             <name>Marta Rendla</name>: pregled in poprava OCR v DOCX</change>
       </revisionDesc>
    </teiHeader>
-   <text corresp="#sistory.16029">
+   <text corresp="#sistory.16027">
       <front>
          <docTitle>
             <titlePart>ZBOR ZDRUŽENEGA DELA SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE</titlePart>
@@ -337,7 +337,7 @@
          <pb/>
          <div ana="#PAR.ZbZdruDel">
             <head>ZBOR ZDRUŽENEGA DELA SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE</head>
-            <div ana="#PAR.Seja">
+            <div ana="#PAR.Seja" n="2" corresp="#sistory.16029">
                <head>2. seja</head>
                <docDate when="1986-05-28">(28. maj 1986)</docDate>
                <castList>
