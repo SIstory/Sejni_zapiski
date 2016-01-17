@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sid.16143">
     <teiHeader xml:lang="slv">
         <fileDesc>
             <titleStmt>
@@ -31,7 +31,8 @@
                     <licence>http://creativecommons.org/licenses/by/4.0/</licence>
                     <p>To delo je ponujeno pod <ref
                             target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
-                            Priznanje avtorstva 4.0 International licenco</ref></p>
+                            Priznanje avtorstva 4.0 International licenco</ref>
+                    </p>
                 </availability>
                 <date when="2014-12-22+01:00">22. 12. 2014</date>
             </publicationStmt>
@@ -89,7 +90,8 @@
                     infrastrukturnega programa Inštituta za novejšo zgodovino</p>
             </projectDesc>
             <!-- Vključena classDecl/taxonomy -->
-            <xi:include href="../taxonomy.xml"/>
+            <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../taxonomy.xml"/>
         </encodingDesc>
         <profileDesc>
             <langUsage>
@@ -116,6 +118,14 @@
             </textClass>
         </profileDesc>
         <revisionDesc>
+            <change when="2016-01-17+01:00">
+                <name>Andrej Pančur</name>: kodiranje <list>
+                    <item>//stage[@type='time']</item>
+                    <item>//p/stage</item>
+                    <item>//docDate</item>
+                    <item>//timeline</item>
+                </list>
+            </change>
             <change from="2014-12-22" to="2014-12-23">
                 <name>Andrej Pančur</name>: <list>
                     <item>//front//*</item>
@@ -162,37 +172,51 @@
                                 vprašanja ter poročilo te komisije <ref target="#pb.1">1</ref>
                                 <list type="simple">
                                     <head>GOVORNIKI:</head>
-                                    <item>Feliks Peter <ref target="#pb.2">2</ref></item>
-                                    <item>Matija Kavtičnik <ref target="#pb.2">2</ref></item>
-                                    <item>Franc Žigman <ref target="#pb.2">2</ref></item>
+                                    <item>Feliks Peter <ref target="#pb.2">2</ref>
+                                    </item>
+                                    <item>Matija Kavtičnik <ref target="#pb.2">2</ref>
+                                    </item>
+                                    <item>Franc Žigman <ref target="#pb.2">2</ref>
+                                    </item>
                                 </list>
                             </item>
-                            <item n="2">Določitev dnevnega reda <ref target="#pb.3">3</ref></item>
+                            <item n="2">Določitev dnevnega reda <ref target="#pb.3">3</ref>
+                            </item>
                         </list>
                     </item>
                     <item>DNEVNI RED: <list type="ordered">
                             <item n="1">Odobritev zapisnika 2. seje zbora (1. točka dnevnega reda)
-                                    <ref target="#pb.5">5</ref></item>
+                                    <ref target="#pb.5">5</ref>
+                            </item>
                             <item n="2">Poročilo o varnostnih razmerah in drugih notranjih zadevah
                                 ter delu organov za notranje zadeve v letu 1985 (2. točka dnevnega
                                 reda) <ref target="#pb.6">6</ref>
                                 <list type="simple">
                                     <head>GOVORNIKI:</head>
-                                    <item>Janez Medvešček <ref target="#pb.6">6</ref></item>
-                                    <item>Peter Jančan <ref target="#pb.7">7</ref></item>
-                                    <item>Franc Albreht <ref target="#pb.8">8</ref></item>
-                                    <item>Janez Kovačič <ref target="#pb.9">9</ref></item>
-                                    <item>Drago Justin <ref target="#pb.10">10</ref></item>
-                                    <item>Maks Skušek <ref target="#pb.11">11</ref></item>
-                                    <item>Stane Božič <ref target="#pb.11">11</ref></item>
-                                    <item>Stane Iglič <ref target="#pb.12">12</ref></item>
+                                    <item>Janez Medvešček <ref target="#pb.6">6</ref>
+                                    </item>
+                                    <item>Peter Jančan <ref target="#pb.7">7</ref>
+                                    </item>
+                                    <item>Franc Albreht <ref target="#pb.8">8</ref>
+                                    </item>
+                                    <item>Janez Kovačič <ref target="#pb.9">9</ref>
+                                    </item>
+                                    <item>Drago Justin <ref target="#pb.10">10</ref>
+                                    </item>
+                                    <item>Maks Skušek <ref target="#pb.11">11</ref>
+                                    </item>
+                                    <item>Stane Božič <ref target="#pb.11">11</ref>
+                                    </item>
+                                    <item>Stane Iglič <ref target="#pb.12">12</ref>
+                                    </item>
                                 </list>
                             </item>
                             <item n="3">Predlog zakona o nepravdnem postopku (4. točka dnevnega
                                 reda) <ref target="#pb.15">15</ref>
                                 <list type="simple">
                                     <head>GOVORNIK:</head>
-                                    <item>Janez Breznik <ref target="#pb.15">15</ref></item>
+                                    <item>Janez Breznik <ref target="#pb.15">15</ref>
+                                    </item>
                                 </list>
                             </item>
                             <item n="4">Predlog za izdajo zakona o ukrepih za pospeševanje
@@ -203,57 +227,84 @@
                                     <head>GOVORNIKI:</head>
                                     <item>Milan Kneževič</item>
                                     <pb n="I/2" xml:id="pb.I.2"/>
-                                    <item>Feliks Peter <ref target="#pb.21">21</ref></item>
-                                    <item>Ivanka Komprej <ref target="#pb.22">22</ref></item>
-                                    <item>Emilija Šuman <ref target="#pb.23">23</ref></item>
-                                    <item>dr. Oskar Fritz <ref target="#pb.24">24</ref></item>
-                                    <item>Gorazd Žmavc <ref target="#pb.25">25</ref></item>
-                                    <item>Drago Justin <ref target="#pb.26">26</ref></item>
-                                    <item>Stane Božič <ref target="#pb.27">27</ref></item>
-                                    <item>Edvard Perhavec <ref target="#pb.28">28</ref></item>
-                                    <item>Zoran Lešnik <ref target="#pb.31">31</ref></item>
-                                    <item>Boris Završnik <ref target="#pb.33">33</ref></item>
-                                    <item>Janez Kocijančič <ref target="#pb.33">33</ref></item>
-                                    <item>Danica Železnikar <ref target="#pb.35">35</ref></item>
-                                    <item>Milan Kneževič <ref target="#pb.36">36</ref></item>
+                                    <item>Feliks Peter <ref target="#pb.21">21</ref>
+                                    </item>
+                                    <item>Ivanka Komprej <ref target="#pb.22">22</ref>
+                                    </item>
+                                    <item>Emilija Šuman <ref target="#pb.23">23</ref>
+                                    </item>
+                                    <item>dr. Oskar Fritz <ref target="#pb.24">24</ref>
+                                    </item>
+                                    <item>Gorazd Žmavc <ref target="#pb.25">25</ref>
+                                    </item>
+                                    <item>Drago Justin <ref target="#pb.26">26</ref>
+                                    </item>
+                                    <item>Stane Božič <ref target="#pb.27">27</ref>
+                                    </item>
+                                    <item>Edvard Perhavec <ref target="#pb.28">28</ref>
+                                    </item>
+                                    <item>Zoran Lešnik <ref target="#pb.31">31</ref>
+                                    </item>
+                                    <item>Boris Završnik <ref target="#pb.33">33</ref>
+                                    </item>
+                                    <item>Janez Kocijančič <ref target="#pb.33">33</ref>
+                                    </item>
+                                    <item>Danica Železnikar <ref target="#pb.35">35</ref>
+                                    </item>
+                                    <item>Milan Kneževič <ref target="#pb.36">36</ref>
+                                    </item>
                                 </list>
                             </item>
                             <item n="5">Predlog zakona o spremembah in dopolnitvah zakona o osnovni
                                 šoli (3. točka dnevnega reda) <ref target="#pb.38">38</ref>
                                 <list type="simple">
                                     <head>GOVORNIKA:</head>
-                                    <item>Boštjan Zgonc <ref target="#pb.38">38</ref></item>
-                                    <item>Alojz Husjak <ref target="#pb.39">39</ref></item>
+                                    <item>Boštjan Zgonc <ref target="#pb.38">38</ref>
+                                    </item>
+                                    <item>Alojz Husjak <ref target="#pb.39">39</ref>
+                                    </item>
                                 </list>
                             </item>
                             <item n="6">Predlog za izdajo o varstvu prebivalcev pred nalezljivimi
                                 boleznimi (6. točka dnevnega reda) <ref target="#pb.40">40</ref>
                                 <list type="simple">
                                     <head>GOVORNIKI:</head>
-                                    <item>dr. Dinko Leskovšek <ref target="#pb.40">40</ref></item>
-                                    <item>Franc Albreht <ref target="#pb.41">41</ref></item>
-                                    <item>Ivanka Komprej <ref target="#pb.41">41</ref></item>
+                                    <item>dr. Dinko Leskovšek <ref target="#pb.40">40</ref>
+                                    </item>
+                                    <item>Franc Albreht <ref target="#pb.41">41</ref>
+                                    </item>
+                                    <item>Ivanka Komprej <ref target="#pb.41">41</ref>
+                                    </item>
                                 </list>
                             </item>
                             <item n="7">Osnutek zakona o zagotovitvi sredstev za prispevek SFR
                                 Jugoslavije k svetovnemu programu hrane (WFP) za leto 1985 in 1986
-                                (7. točka dnevnega reda) <ref target="#pb.42">42</ref></item>
+                                (7. točka dnevnega reda) <ref target="#pb.42">42</ref>
+                            </item>
                             <item n="8">Osnutek zakona o prenehanju veljavnosti zakona o zagotovitvi
                                 sredstev za financiranje graditve "Spomenika zmage" (8. točka
-                                dnevnega reda) <ref target="#pb.43">43</ref></item>
+                                dnevnega reda) <ref target="#pb.43">43</ref>
+                            </item>
                             <item n="9">Predlog družbenega dogovora o zagotavljanju sredstev za
                                 graditev in ureditev spominskega obeležja "Sremska fronta" (9. točka
                                 dnevnega reda) <ref target="#pb.43">43</ref>
                                 <list type="simple">
                                     <head>GOVORNIKI:</head>
-                                    <item>Primož Hainz <ref target="#pb.44">44</ref></item>
-                                    <item>Franc Albreht <ref target="#pb.46">46</ref></item>
-                                    <item>Valentin Lovrenčič <ref target="#pb.46">46</ref></item>
-                                    <item>Franjo Marošek <ref target="#pb.46">46</ref></item>
-                                    <item>Ivanka Komprej <ref target="#pb.47">47</ref></item>
-                                    <item>Dušanka Kotnik <ref target="#pb.47">47</ref></item>
-                                    <item>Primož Hainz <ref target="#pb.48">48</ref><pb n="I/3"
-                                            xml:id="pb.I.3"/></item>
+                                    <item>Primož Hainz <ref target="#pb.44">44</ref>
+                                    </item>
+                                    <item>Franc Albreht <ref target="#pb.46">46</ref>
+                                    </item>
+                                    <item>Valentin Lovrenčič <ref target="#pb.46">46</ref>
+                                    </item>
+                                    <item>Franjo Marošek <ref target="#pb.46">46</ref>
+                                    </item>
+                                    <item>Ivanka Komprej <ref target="#pb.47">47</ref>
+                                    </item>
+                                    <item>Dušanka Kotnik <ref target="#pb.47">47</ref>
+                                    </item>
+                                    <item>Primož Hainz <ref target="#pb.48">48</ref>
+                                        <pb n="I/3" xml:id="pb.I.3"/>
+                                    </item>
                                 </list>
                             </item>
                             <item n="10">Predlog zakona o spremembah in dopolnitvah zakona o osnovni
@@ -261,10 +312,14 @@
                                     >48</ref>
                                 <list type="simple">
                                     <head>GOVORNIKI:</head>
-                                    <item>Boštjan Zgonc <ref target="#pb.48">48</ref></item>
-                                    <item>Janez Kocijančič <ref target="#pb.49">49</ref></item>
-                                    <item>Peter Šubic <ref target="#pb.49">49</ref></item>
-                                    <item>Vlado Barabaš <ref target="#pb.49">49</ref></item>
+                                    <item>Boštjan Zgonc <ref target="#pb.48">48</ref>
+                                    </item>
+                                    <item>Janez Kocijančič <ref target="#pb.49">49</ref>
+                                    </item>
+                                    <item>Peter Šubic <ref target="#pb.49">49</ref>
+                                    </item>
+                                    <item>Vlado Barabaš <ref target="#pb.49">49</ref>
+                                    </item>
                                 </list>
                             </item>
                             <item n="11">Osnutek odloka o valorizaciji sredstev, ki so jih vplačale
@@ -273,9 +328,12 @@
                                 1979 (10. točka dnevnega reda) <ref target="#pb.50">50</ref>
                                 <list type="simple">
                                     <head>GOVORNIKI:</head>
-                                    <item>dr. Jože Kunič <ref target="#pb.50">50</ref></item>
-                                    <item>Drago Justin <ref target="#pb.52">52</ref></item>
-                                    <item>Branka Jurak <ref target="#pb.52">52</ref></item>
+                                    <item>dr. Jože Kunič <ref target="#pb.50">50</ref>
+                                    </item>
+                                    <item>Drago Justin <ref target="#pb.52">52</ref>
+                                    </item>
+                                    <item>Branka Jurak <ref target="#pb.52">52</ref>
+                                    </item>
                                 </list>
                             </item>
                             <item n="12">Osnutek odloka o obveznostih republik in avtonomnih
@@ -285,9 +343,12 @@
                                     >52</ref>
                                 <list type="simple">
                                     <head>GOVORNIKI:</head>
-                                    <item>Dušanka Kotnik <ref target="#pb.53">53</ref></item>
-                                    <item>Pavle Leban <ref target="#pb.53">53</ref></item>
-                                    <item>dr. Jože Kunič <ref target="#pb.53">53</ref></item>
+                                    <item>Dušanka Kotnik <ref target="#pb.53">53</ref>
+                                    </item>
+                                    <item>Pavle Leban <ref target="#pb.53">53</ref>
+                                    </item>
+                                    <item>dr. Jože Kunič <ref target="#pb.53">53</ref>
+                                    </item>
                                 </list>
                             </item>
                             <item n="13">Predlog zakona o spremembah in dopolnitvah zakona o osnovni
@@ -295,24 +356,31 @@
                                     >54</ref>
                                 <list type="simple">
                                     <head>GOVORNIKI:</head>
-                                    <item>Vilijem Veršaj <ref target="#pb.54">54</ref></item>
-                                    <item>Boštjan Zgonc <ref target="#pb.55">55</ref></item>
-                                    <item>Tone Jerovšek <ref target="#pb.55">55</ref></item>
-                                    <item>Stane Ferfilar <ref target="#pb.55">55</ref></item>
-                                    <item>Stane Božič <ref target="#pb.56">56</ref></item>
-                                    <item>Borut Plavšak <ref target="#pb.56">56</ref></item>
+                                    <item>Vilijem Veršaj <ref target="#pb.54">54</ref>
+                                    </item>
+                                    <item>Boštjan Zgonc <ref target="#pb.55">55</ref>
+                                    </item>
+                                    <item>Tone Jerovšek <ref target="#pb.55">55</ref>
+                                    </item>
+                                    <item>Stane Ferfilar <ref target="#pb.55">55</ref>
+                                    </item>
+                                    <item>Stane Božič <ref target="#pb.56">56</ref>
+                                    </item>
+                                    <item>Borut Plavšak <ref target="#pb.56">56</ref>
+                                    </item>
                                 </list>
                             </item>
                             <item n="14">Osnutek odloka o zmanjševanju obveznosti republik in
                                 avtonomnih pokrajin za leto 1986, določenih z zakonom o sredstvih za
                                 odpravo posledic katastrofalnega potresa, ki je prizadel območje SR
                                 Črne gore v letu 1979 (12. točka dnevnega reda) <ref target="#pb.57"
-                                    >57</ref><pb n="I/4" xml:id="pb.I.4"/>
+                                    >57</ref>
+                                <pb n="I/4" xml:id="pb.I.4"/>
                             </item>
                             <item n="15">Predlog zakona o ratifikaciji pogodbe med SFR Jugoslavijo
                                 in LR Madžarsko o izogibanju dvojnemu obdavčevanju dohodka in
-                                premoženja (13. točka dnevnega reda) <ref target="#pb.57"
-                                >57</ref></item>
+                                premoženja (13. točka dnevnega reda) <ref target="#pb.57">57</ref>
+                            </item>
                             <item n="16">Predlog za soglasje za kandidaturo Judo zveze Jugoslavije
                                 za organizacijo evropskega prvenstva Evrope za člane in članice za
                                 leto 1986 v Novem Sadu (14. točka dnevnega reda) <ref
@@ -322,17 +390,26 @@
                                 reda) <ref target="#pb.58">58</ref>
                                 <list type="simple">
                                     <head>GOVORNIKI:</head>
-                                    <item>Milan Kneževič <ref target="#pb.59">59</ref></item>
-                                    <item>Pavel Kunc <ref target="#pb.61">61</ref></item>
-                                    <item>Miro Steržaj <ref target="#pb.62">62</ref></item>
-                                    <item>Franjo Marošek <ref target="#pb.62">62</ref></item>
-                                    <item>Franc Albreht <ref target="#pb.63">63</ref></item>
-                                    <item>Tomaž Zalokar <ref target="#pb.67">67</ref></item>
-                                    <item>Janja Domitrovič <ref target="#pb.68">68</ref></item>
-                                    <item>Drago Šulek <ref target="#pb.68">68</ref></item>
+                                    <item>Milan Kneževič <ref target="#pb.59">59</ref>
+                                    </item>
+                                    <item>Pavel Kunc <ref target="#pb.61">61</ref>
+                                    </item>
+                                    <item>Miro Steržaj <ref target="#pb.62">62</ref>
+                                    </item>
+                                    <item>Franjo Marošek <ref target="#pb.62">62</ref>
+                                    </item>
+                                    <item>Franc Albreht <ref target="#pb.63">63</ref>
+                                    </item>
+                                    <item>Tomaž Zalokar <ref target="#pb.67">67</ref>
+                                    </item>
+                                    <item>Janja Domitrovič <ref target="#pb.68">68</ref>
+                                    </item>
+                                    <item>Drago Šulek <ref target="#pb.68">68</ref>
+                                    </item>
                                 </list>
                             </item>
-                            <item n="18">Seznam govornikov <ref target="#pb.II.1">II/1</ref></item>
+                            <item n="18">Seznam govornikov <ref target="#pb.II.1">II/1</ref>
+                            </item>
                         </list>
                     </item>
                 </list>
@@ -344,99 +421,185 @@
                     <head>ZBOR OBČIN SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE</head>
                     <head>(3. seja - 18. junij 1986)</head>
                     <head>GOVORNIKI</head>
-                    <castItem><actor xml:id="sp.AlbrehtFranc">Albreht Franc</actor>
+                    <castItem>
+                        <actor xml:id="sp.AlbrehtFranc">Albreht Franc</actor>
                         <ref target="#pb.8">8</ref>, <ref target="#pb.41">41</ref>, <ref
-                            target="#pb.46">46</ref>, <ref target="#pb.63">63</ref></castItem>
-                    <castItem><actor xml:id="sp.BarabašVlado">Barabaš Vlado</actor>
-                        <ref target="#pb.4">4</ref>, <ref target="#pb.9">9</ref></castItem>
-                    <castItem><actor xml:id="sp.BožičStane">Božič Stane</actor>
+                            target="#pb.46">46</ref>, <ref target="#pb.63">63</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.BarabašVlado">Barabaš Vlado</actor>
+                        <ref target="#pb.4">4</ref>, <ref target="#pb.9">9</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.BožičStane">Božič Stane</actor>
                         <ref target="#pb.11">11</ref>, <ref target="#pb.27">27</ref>, <ref
-                            target="#pb.56">56</ref></castItem>
-                    <castItem><actor xml:id="sp.BreznikJanez">Breznik Janez</actor>
-                        <ref target="#pb.15">15</ref></castItem>
-                    <castItem><actor xml:id="sp.DomitrovičJanja">Domitrovič Janja</actor>
-                        <ref target="#pb.68">68</ref></castItem>
-                    <castItem><actor xml:id="sp.FerfilaStane">Ferfila Stane</actor>
-                        <ref target="#pb.55">55</ref></castItem>
-                    <castItem><actor xml:id="sp.FritzOskar">Fritz dr. Oskar</actor>
-                        <ref target="#pb.24">24</ref></castItem>
-                    <castItem><actor xml:id="sp.HainzPrimož">Hainz Primož</actor>
-                        <ref target="#pb.44">44</ref>, <ref target="#pb.48">48</ref></castItem>
-                    <castItem><actor xml:id="sp.HusjakAlojz">Husjak Alojz</actor>
-                        <ref target="#pb.39">39</ref></castItem>
-                    <castItem><actor xml:id="sp.IgličStane">Iglič Stane</actor>
-                        <ref target="#pb.12">12</ref></castItem>
-                    <castItem><actor xml:id="sp.JančanPeter">Jančan Peter</actor>
-                        <ref target="#pb.7">7</ref></castItem>
-                    <castItem><actor xml:id="sp.JerovšekTone">Jerovšek Tone</actor>
-                        <ref target="#pb.55">55</ref></castItem>
-                    <castItem><actor xml:id="sp.JurakBranka">Jurak Branka</actor>
-                        <ref target="#pb.52">52</ref></castItem>
-                    <castItem><actor xml:id="sp.JustinDrago">Justin Drago</actor>
+                            target="#pb.56">56</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.BreznikJanez">Breznik Janez</actor>
+                        <ref target="#pb.15">15</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.DomitrovičJanja">Domitrovič Janja</actor>
+                        <ref target="#pb.68">68</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.FerfilaStane">Ferfila Stane</actor>
+                        <ref target="#pb.55">55</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.FritzOskar">Fritz dr. Oskar</actor>
+                        <ref target="#pb.24">24</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.HainzPrimož">Hainz Primož</actor>
+                        <ref target="#pb.44">44</ref>, <ref target="#pb.48">48</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.HusjakAlojz">Husjak Alojz</actor>
+                        <ref target="#pb.39">39</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.IgličStane">Iglič Stane</actor>
+                        <ref target="#pb.12">12</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.JančanPeter">Jančan Peter</actor>
+                        <ref target="#pb.7">7</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.JerovšekTone">Jerovšek Tone</actor>
+                        <ref target="#pb.55">55</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.JurakBranka">Jurak Branka</actor>
+                        <ref target="#pb.52">52</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.JustinDrago">Justin Drago</actor>
                         <ref target="#pb.10">10</ref>, <ref target="#pb.26">26</ref>, <ref
-                            target="#pb.52">52</ref></castItem>
-                    <castItem><actor xml:id="sp.KavtičnikMatija">Kavtičnik Matija</actor>
-                        <ref target="#pb.2">2</ref></castItem>
-                    <castItem><actor xml:id="sp.KocijančičJanez">Kocijančič Janez</actor>
-                        <ref target="#pb.33">33</ref>, <ref target="#pb.49">49</ref></castItem>
-                    <castItem><actor xml:id="sp.KomprejIvanka">Komprej Ivanka</actor>
-                        <ref target="#pb.22">22</ref>, <ref target="#pb.41">41</ref>, <ref
-                            target="#pb.47">47</ref></castItem>
-                    <castItem><actor xml:id="sp.KotnikDušanka">Kotnik Dušanka</actor>
-                        <ref target="#pb.47">47</ref>, <ref target="#pb.53">53</ref></castItem>
-                    <castItem><actor xml:id="sp.KovačičJanez">Kovačič Janez</actor>
-                        <ref target="#pb.9">9</ref></castItem>
-                    <castItem><actor xml:id="sp.KneževičMilan">Kneževič Milan</actor>
-                        <ref target="#pb.17">17</ref>, <ref target="#pb.36">36</ref>, <ref
-                            target="#pb.59">59</ref></castItem>
-                    <castItem><actor xml:id="sp.KuncPavel">Kunc Pavel</actor>
-                        <ref target="#pb.61">61</ref></castItem>
-                    <castItem><actor xml:id="sp.KuničJože">Kunič dr. Jože</actor>
-                        <ref target="#pb.50">50</ref>, <ref target="#pb.53">53</ref></castItem>
-                    <castItem><actor xml:id="sp.LavrenčičValentin">Lavrenčič Valentin</actor>
-                        <ref target="#pb.46">46</ref></castItem>
-                    <castItem><actor xml:id="sp.LebanPavle">Leban Pavle</actor>
-                        <ref target="#pb.53">53</ref></castItem>
-                    <castItem><actor xml:id="sp.LeskovšekDinko">Leskovšek dr. Dinko</actor>
-                        <ref target="#pb.40">40</ref></castItem>
-                    <castItem><actor xml:id="sp.LešnikZoran">Lešnik Zoran</actor>
-                        <ref target="#pb.31">31</ref></castItem>
-                    <castItem><actor xml:id="sp.MarošekFranjo">Marošek Franjo</actor>
-                        <ref target="#pb.46">46</ref>, <ref target="#pb.62">62</ref></castItem>
-                    <castItem><actor xml:id="sp.MedveščekJanez">Medvešček Janez</actor>
-                        <ref target="#pb.6">6</ref></castItem>
-                    <castItem><actor xml:id="sp.PerhavecEdvard">Perhavec Edvard</actor>
+                            target="#pb.52">52</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.KavtičnikMatija">Kavtičnik Matija</actor>
                         <ref target="#pb.2">2</ref>
-                        <ref target="#pb.8">8</ref></castItem>
-                    <castItem><actor xml:id="sp.PetekFeliks">Petek Feliks</actor>
-                        <ref target="#pb.2">2</ref>, <ref target="#pb.21">21</ref></castItem>
-                    <castItem><actor xml:id="sp.PlavšakBorut">Plavšak Borut</actor>
-                        <ref target="#pb.56">56</ref></castItem>
-                    <castItem><actor xml:id="sp.SkušekMaks">Skušek Maks</actor>
-                        <ref target="#pb.11">11</ref></castItem>
-                    <castItem><actor xml:id="sp.SteržajMiro">Steržaj Miro</actor>
-                        <ref target="#pb.62">62</ref></castItem>
-                    <castItem><actor xml:id="sp.ŠubicPeter">Šubic Peter</actor>
-                        <ref target="#pb.49">49</ref></castItem>
-                    <castItem><actor xml:id="sp.ŠulekDrago">Šulek Drago</actor>
-                        <ref target="#pb.68">68</ref></castItem>
-                    <castItem><actor xml:id="sp.ŠumanEmilija">Šuman Emilija</actor>
-                        <ref target="#pb.23">23</ref></castItem>
-                    <castItem><actor xml:id="sp.VeršajVilijem">Veršaj Vilijem</actor>
-                        <ref target="#pb.54">54</ref></castItem>
-                    <castItem><actor xml:id="sp.ZalokarTomaž">Zalokar Tomaž</actor>
-                        <ref target="#pb.67">67</ref></castItem>
-                    <castItem><actor xml:id="sp.ZavršnikBoris">Završnik Boris</actor>
-                        <ref target="#pb.33">33</ref></castItem>
-                    <castItem><actor xml:id="sp.ZgoncBoštjan">Zgonc Boštjan</actor>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.KocijančičJanez">Kocijančič Janez</actor>
+                        <ref target="#pb.33">33</ref>, <ref target="#pb.49">49</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.KomprejIvanka">Komprej Ivanka</actor>
+                        <ref target="#pb.22">22</ref>, <ref target="#pb.41">41</ref>, <ref
+                            target="#pb.47">47</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.KotnikDušanka">Kotnik Dušanka</actor>
+                        <ref target="#pb.47">47</ref>, <ref target="#pb.53">53</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.KovačičJanez">Kovačič Janez</actor>
+                        <ref target="#pb.9">9</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.KneževičMilan">Kneževič Milan</actor>
+                        <ref target="#pb.17">17</ref>, <ref target="#pb.36">36</ref>, <ref
+                            target="#pb.59">59</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.KuncPavel">Kunc Pavel</actor>
+                        <ref target="#pb.61">61</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.KuničJože">Kunič dr. Jože</actor>
+                        <ref target="#pb.50">50</ref>, <ref target="#pb.53">53</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.LavrenčičValentin">Lavrenčič Valentin</actor>
+                        <ref target="#pb.46">46</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.LebanPavle">Leban Pavle</actor>
+                        <ref target="#pb.53">53</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.LeskovšekDinko">Leskovšek dr. Dinko</actor>
+                        <ref target="#pb.40">40</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.LešnikZoran">Lešnik Zoran</actor>
+                        <ref target="#pb.31">31</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.MarošekFranjo">Marošek Franjo</actor>
+                        <ref target="#pb.46">46</ref>, <ref target="#pb.62">62</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.MedveščekJanez">Medvešček Janez</actor>
+                        <ref target="#pb.6">6</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.PerhavecEdvard">Perhavec Edvard</actor>
+                        <ref target="#pb.2">2</ref>
+                        <ref target="#pb.8">8</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.PetekFeliks">Petek Feliks</actor>
+                        <ref target="#pb.2">2</ref>, <ref target="#pb.21">21</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.PlavšakBorut">Plavšak Borut</actor>
+                        <ref target="#pb.56">56</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.SkušekMaks">Skušek Maks</actor>
+                        <ref target="#pb.11">11</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.SteržajMiro">Steržaj Miro</actor>
+                        <ref target="#pb.62">62</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.ŠubicPeter">Šubic Peter</actor>
+                        <ref target="#pb.49">49</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.ŠulekDrago">Šulek Drago</actor>
+                        <ref target="#pb.68">68</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.ŠumanEmilija">Šuman Emilija</actor>
+                        <ref target="#pb.23">23</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.VeršajVilijem">Veršaj Vilijem</actor>
+                        <ref target="#pb.54">54</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.ZalokarTomaž">Zalokar Tomaž</actor>
+                        <ref target="#pb.67">67</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.ZavršnikBoris">Završnik Boris</actor>
+                        <ref target="#pb.33">33</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.ZgoncBoštjan">Zgonc Boštjan</actor>
                         <ref target="#pb.38">38</ref>, <ref target="#pb.48">48</ref>, <ref
-                            target="#pb.55">55</ref></castItem>
-                    <castItem><actor xml:id="sp.ŽeleznikarDanica">Železnikar Danica</actor>
-                        <ref target="#pb.35">35</ref></castItem>
-                    <castItem><actor xml:id="sp.ŽigmanFranc">Žigman Franc</actor>
-                        <ref target="#pb.2">2</ref></castItem>
-                    <castItem><actor xml:id="sp.ŽmavcGorazd">Žmavc Gorazd</actor>
-                        <ref target="#pb.25">25</ref></castItem>
+                            target="#pb.55">55</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.ŽeleznikarDanica">Železnikar Danica</actor>
+                        <ref target="#pb.35">35</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.ŽigmanFranc">Žigman Franc</actor>
+                        <ref target="#pb.2">2</ref>
+                    </castItem>
+                    <castItem>
+                        <actor xml:id="sp.ŽmavcGorazd">Žmavc Gorazd</actor>
+                        <ref target="#pb.25">25</ref>
+                    </castItem>
                 </castList>
                 <pb n="1" xml:id="pb.1"/>
             </div>
@@ -447,24 +610,25 @@
                 <div ana="#PAR.Seja" n="3" corresp="#sistory.16144">
                     <head>3. seja</head>
                     <docDate when="1986-06-18">(18. junij 1986)</docDate>
-                    <timeline origin="#TL.1" unit="min">
+                    <timeline origin="#TL.1" unit="s">
                         <when synch="#stage.t.1" xml:id="TL.1" absolute="1986-06-18T09:00:00"/>
                         <when synch="#stage.t.2" since="#TL.1" absolute="1986-06-18T09:25:00"
-                            interval="25"/>
+                            interval="1500"/>
                         <when synch="#stage.t.3" xml:id="TL.2" absolute="1986-06-18T10:35:00"/>
                         <when synch="#stage.t.4" since="#TL.2" absolute="1986-06-18T12:30:00"
-                            interval="115"/>
+                            interval="6900"/>
                         <when synch="#stage.t.5" xml:id="TL.3" absolute="1986-06-18T13:05:00"/>
                         <when synch="#stage.t.6" since="#TL.3" absolute="1986-06-18T15:55:00"
-                            interval="110"/>
+                            interval="10200"/>
                     </timeline>
                     <castList>
-                        <castItem><roleDesc>Sejo je vodil</roleDesc>
+                        <castItem>
+                            <roleDesc>Sejo je vodil</roleDesc>
                             <actor xml:id="sp.BeznikVlado">Vlado Beznik</actor>, <role>predsednik
                                 Zbora občin</role>.</castItem>
                     </castList>
-                    <stage type="time">Seja se je <time from="09:00:00" xml:id="stage.t.1">pričela
-                            ob 9.00 uri</time>.</stage>
+                    <stage type="time">Seja se je <time from="1986-06-18T09:00:00"
+                            xml:id="stage.t.1">pričela ob 9.00 uri</time>.</stage>
                     <sp who="#sp.BeznikVlado">
                         <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                         <p>Tovarišice in tovariši delegati! Pričenjam 3. sejo Zbora občin Skupščine
@@ -481,10 +645,12 @@
                                     Feliksa Petka, delegat občine Gornja Radgona za predsednika,
                                     Miho Pangerca, delegat iz občine Grosuplje in Janeza Medveščka,
                                     delegat iz občine Hrastnik za člana.</p>
-                                <p>Ali kdo temu predlogu nasprotuje? (Ne.) Če ne, prosim, da o
-                                    predlogu glasujemo.</p>
-                                <p>Kdo je za? (Vsi delegati.) Je kdo proti? (Nihče.) Se je kdo
-                                    vzdržal? (Nihče.)</p>
+                                <p>Ali kdo temu predlogu nasprotuje? <stage>(Ne.)</stage> Če ne,
+                                    prosim, da o predlogu glasujemo.</p>
+                                <p>Kdo je za? <stage>(Vsi delegati.)</stage> Je kdo proti?
+                                        <stage>(Nihče.)</stage> Se je kdo vzdržal?
+                                        <stage>(Nihče.)</stage>
+                                </p>
                                 <pb n="2" xml:id="pb.2"/>
                                 <p>Ugotavljam, da so bili v Komisijo za verifikacijo pooblastil in
                                     imunitetna vprašanja za 3. sejo našega zbora izvoljeni: Feliks
@@ -543,8 +709,8 @@
                             </sp>
                             <sp who="#sp.BeznikVlado">
                                 <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
-                                <p>Hvala. Prehajamo na razpravo o poročilu. Želi kdo besedo? (Da.)
-                                    Prosim, predstavnik iz Dravograda.</p>
+                                <p>Hvala. Prehajamo na razpravo o poročilu. Želi kdo besedo?
+                                        <stage>(Da.)</stage> Prosim, predstavnik iz Dravograda.</p>
                             </sp>
                             <sp who="#sp.KavtičnikMatija">
                                 <speaker>MATIJA KAVTIČNIK (iz klopi):</speaker>
@@ -563,14 +729,17 @@
                             </sp>
                             <sp who="#sp.BeznikVlado">
                                 <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
-                                <p>Torej je prisoten samo en delegat. (Da.) Hvala.</p>
-                                <p>Še kdo želi razpravljati? (Ne.) Če ne, dajem na glasovanje
-                                    poročilo komisije. O poročilu bomo glasovali v celoti, ker ni
-                                    primera, da bi bilo pooblastilo kakega delegata sporno.
-                                    Predlagam, da glasujemo o poročilu skupaj s pojasnili, ki so
-                                    bila dana v razpravi.</p>
-                                <p>Kdo je za? (Vsi delegati.) Je kdo proti? (Nihče.) Se je kdo
-                                    vzdržal? (Nihče.)</p>
+                                <p>Torej je prisoten samo en delegat. <stage>(Da.)</stage>
+                                    Hvala.</p>
+                                <p>Še kdo želi razpravljati? <stage>(Ne.)</stage> Če ne, dajem na
+                                    glasovanje poročilo komisije. O poročilu bomo glasovali v
+                                    celoti, ker ni primera, da bi bilo pooblastilo kakega delegata
+                                    sporno. Predlagam, da glasujemo o poročilu skupaj s pojasnili,
+                                    ki so bila dana v razpravi.</p>
+                                <p>Kdo je za? <stage>(Vsi delegati.)</stage> Je kdo proti?
+                                        <stage>(Nihče.)</stage> Se je kdo vzdržal?
+                                        <stage>(Nihče.)</stage>
+                                </p>
                                 <p>Ugotavljam, da je zbor soglasno potrdil poročilo Komisije za
                                     verifikacijo pooblastil in imunitetna vprašanja z dopolnili in s
                                     tem verificiral pooblastila delegatov za 3. sejo Zbora
@@ -632,11 +801,13 @@
                                         Jugoslavijo in LR Madžarsko o izogibanju dvojnemu
                                         obdavčevanju dohodka in premoženja.</item>
                                 </list>
-                                <p>Želi o predlaganih razširitvah kdo razpravljati? (Ne želi.) Če
-                                    ne, dajem na glasovanje predlog, da dnevni red današnje seje
-                                    razširimo z omenjenimi akti.</p>
-                                <p>Kdo je za tak predlog? (Vsi delegati.) Je kdo proti? (Nihče.) Se
-                                    je kdo vzdržal? (Nihče.)</p>
+                                <p>Želi o predlaganih razširitvah kdo razpravljati? <stage>(Ne
+                                        želi.)</stage> Če ne, dajem na glasovanje predlog, da dnevni
+                                    red današnje seje razširimo z omenjenimi akti.</p>
+                                <p>Kdo je za tak predlog? <stage>(Vsi delegati.)</stage> Je kdo
+                                    proti? <stage>(Nihče.)</stage> Se je kdo vzdržal?
+                                        <stage>(Nihče.)</stage>
+                                </p>
                                 <p>Ugotavljam, da je zbor soglasno sprejel predlog za razširitev
                                     dnevnega reda.<pb n="4" xml:id="pb.4"/>
                                 </p>
@@ -653,8 +824,9 @@
                                     obravnavo in sprejemom predloga zakona o tem opraviti temeljito
                                     razpravo v okviru Socialistične zveze delovnega ljudstva.</p>
                                 <p>Ta predlog Izvršnega sveta Skupščine SR Slovenije ste dobili na
-                                    klop. Želi o predlogu kdo razpravljati? (Ne želi.) Če ne,
-                                    predlagam zboru, da sprejme naslednji sklep:</p>
+                                    klop. Želi o predlogu kdo razpravljati? <stage>(Ne
+                                        želi.)</stage> Če ne, predlagam zboru, da sprejme naslednji
+                                    sklep:</p>
                                 <list type="ordered">
                                     <item n="1">Obravnava in sklepanje o predlogu zakona o stečaju
                                         nad obratovalnicami samostojnih obrtnikov se odloži.</item>
@@ -662,8 +834,10 @@
                                         prouči vsa odprta vprašanja v zvezi s predlogom zakona in ga
                                         ponovno predloži v obravnavo zborom Skupščine.</item>
                                 </list>
-                                <p>Kdo je za tak sklep? (Vsi delegati.) Je kdo proti? (Nihče.) Se je
-                                    kdo vzdržal? (Nihče.)</p>
+                                <p>Kdo je za tak sklep? <stage>(Vsi delegati.)</stage> Je kdo proti?
+                                        <stage>(Nihče.)</stage> Se je kdo vzdržal?
+                                        <stage>(Nihče.)</stage>
+                                </p>
                                 <p>Ugotavljam, da je zbor soglasno sprejel predlagani sklep.</p>
                                 <p>Ker Komisija za volitve, imenovanja in administrativne zadeve ni
                                     predložila zboru nobenega odloka o volitvah oziroma imenovanjih,
@@ -715,10 +889,12 @@
                                         člane in članice za leto 1986 v Novem sadu,</item>
                                     <item n="15">pobude, predlogi in vprašanja delegatov.</item>
                                 </list>
-                                <p>Želi kdo o predlaganem dnevnem redu razpravljati? (Ne želi.) Če
-                                    ne, potem prosim, da o njem glasujemo.</p>
-                                <p>Kdo je za tak dnevni red? (Vsi delegati.) Je kdo proti? (Nihče.)
-                                    Se je kdo vzdržal? (Nihče.)</p>
+                                <p>Želi kdo o predlaganem dnevnem redu razpravljati? <stage>(Ne
+                                        želi.)</stage> Če ne, potem prosim, da o njem glasujemo.</p>
+                                <p>Kdo je za tak dnevni red? <stage>(Vsi delegati.)</stage> Je kdo
+                                    proti? <stage>(Nihče.)</stage> Se je kdo vzdržal?
+                                        <stage>(Nihče.)</stage>
+                                </p>
                                 <p>Ugotavljam, da je zbor soglasno sprejel predlagani dnevni red.
                                     Predlog dnevnega reda ste prejeli danes tudi na klop.</p>
                                 <p>Preden preidemo na obravnavo posameznih točk dnevnega reda, vas
@@ -743,22 +919,25 @@
                     <div ana="#PAR.DnevRed">
                         <div ana="#PAR.TDR" n="1">
                             <sp who="#sp.BeznikVlado">
-                                <p>Prehajamo na 1. TOČKO DNEVNEGA REDA - ODOBRITEV ZAPISNIKA 2. SEJE
-                                    ZBORA.</p>
+                                <p>Prehajamo na <title>1. TOČKO DNEVNEGA REDA - ODOBRITEV ZAPISNIKA
+                                        2. SEJE ZBORA</title>.</p>
                                 <p>Osnutek zapisnika 2. seje ste prejeli. Vprašujem, ali ima kdo k
-                                    zapisniku 2. seje kakšno pripombo ali popravek. (Nihče.) Če ne,
-                                    predlagam, da o odobritvi zapisnika glasujemo.</p>
-                                <p>Kdo je za? (Vsi delegati.) Je kdo proti? (Nihče.) Se je kdo
-                                    vzdržal? (Nihče.)</p>
+                                    zapisniku 2. seje kakšno pripombo ali popravek.
+                                        <stage>(Nihče.)</stage> Če ne, predlagam, da o odobritvi
+                                    zapisnika glasujemo.</p>
+                                <p>Kdo je za? <stage>(Vsi delegati.)</stage> Je kdo proti?
+                                        <stage>(Nihče.)</stage> Se je kdo vzdržal?
+                                        <stage>(Nihče.)</stage>
+                                </p>
                                 <p>Ugotavljam, da je zbor soglasno odobril zapisnik 2. seje.</p>
                                 <p>Sedaj vas prosim, da odidemo skupaj v veliko dvorano v prvem
                                     nadstropju, kjer bomo opravili skupno zasedanje. Prekinjam sejo
                                     Zbora občin.</p>
                             </sp>
-                            <stage type="time">(Seja zbora je bila <time to="09:25:00"
+                            <stage type="time">(Seja zbora je bila <time to="1986-06-18T09:25:00"
                                     xml:id="stage.t.2">prekinjena ob 9.25 uri</time> in se je <time
-                                    from="10:35:00" xml:id="stage.t.3">nadaljevala ob 10.35
-                                    uri</time>.)</stage>
+                                    from="1986-06-18T10:35:00" xml:id="stage.t.3">nadaljevala ob
+                                    10.35 uri</time>.)</stage>
                             <sp who="#sp.BeznikVlado">
                                 <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                                 <p>Tovarišice in tovariši delegati! Nadaljujemo sejo zbora.<pb n="6"
@@ -776,12 +955,12 @@
                         </div>
                         <div ana="#PAR.TDR" n="2">
                             <sp who="#sp.BeznikVlado">
-                                <p>Prehajamo na 2. TOČKO DNEVNEGA REDA - POROČILO O VARNOSTNIH
-                                    RAZMERAH IN DRUGIH NOTRANJIH ZADEVAH TER DELU ORGANOV ZA
-                                    NOTRANJE ZADEVE V LETU 1985. Poročilo je Skupščini predložil v
-                                    obravnavo Izvršni svet Skupščine SR Slovenije in za svojega
-                                    predstavnika določil Doreta Dovečarja, namestnika republiškega
-                                    sekretarja za notranje zadeve.</p>
+                                <p>Prehajamo na <title>2. TOČKO DNEVNEGA REDA - POROČILO O
+                                        VARNOSTNIH RAZMERAH IN DRUGIH NOTRANJIH ZADEVAH TER DELU
+                                        ORGANOV ZA NOTRANJE ZADEVE V LETU 1985</title>. Poročilo je
+                                    Skupščini predložil v obravnavo Izvršni svet Skupščine SR
+                                    Slovenije in za svojega predstavnika določil Doreta Dovečarja,
+                                    namestnika republiškega sekretarja za notranje zadeve.</p>
                                 <p>Uvodno besedo smo poslušali na skupnem zasedanju. Poročilo je
                                     objavljeno v Poročevalcu št. 15; danes na klop pa ste prejeli
                                     usmeritve in stališča Predsedstva Republiške konference SZDL
@@ -791,7 +970,7 @@
                                     Komisija za mednarodne odnose in Skupina delegatov vseh zborov
                                     za splošno ljudsko obrambo in družbeno samozaščito.</p>
                                 <p>Zboru so vsi pisno poročali. Vprašujem poročevalce, če želijo
-                                    besedo? (Ne želijo.) Pričenjam razpravo.</p>
+                                    besedo? <stage>(Ne želijo.)</stage> Pričenjam razpravo.</p>
                                 <p>Besedo ima tovariš Janez Medvešček, delegat iz občine
                                     Hrastnik.</p>
                             </sp>
@@ -1275,8 +1454,10 @@
                                     reda izčrpali. Oddali pa so pisne pripombe delegati iz občin
                                     Lendava, Maribor-Tabor in Laško.</p>
                                 <p>Sprašujem, tovarišice in tovariši delegati, če želi še kdo
-                                    besedo? (Ne javi se nihče.) Potem sprašujem predstavnika
-                                    predlagatelja, če želi besedo? (Ne želi.)</p>
+                                    besedo? <stage>(Ne javi se nihče.)</stage> Potem sprašujem
+                                    predstavnika predlagatelja, če želi besedo? <stage>(Ne
+                                        želi.)</stage>
+                                </p>
                                 <p>Zaključujem razpravo in predlagam zboru, da sprejmemo naslednji
                                     sklep:</p>
                                 <list type="ordered">
@@ -1324,27 +1505,33 @@
                                             sprejem zborom.</p>
                                     </item>
                                 </list>
-                                <p>Želi kdo o predlogu teh sklepov razpravljati? (Ne želi.)</p>
+                                <p>Želi kdo o predlogu teh sklepov razpravljati? <stage>(Ne
+                                        želi.)</stage>
+                                </p>
                                 <p>Če ne, potem dajem predlog sklepa na glasovanje.</p>
-                                <p>Kdo je za? (65 delegatov.) Je kdo proti? (Nihče.) Se je kdo
-                                    vzdržal? (Nihče.)</p>
+                                <p>Kdo je za? <stage>(65 delegatov.)</stage> Je kdo proti?
+                                        <stage>(Nihče.)</stage> Se je kdo vzdržal?
+                                        <stage>(Nihče.)</stage>
+                                </p>
                                 <p>Ugotavljam, da je zbor soglasno sprejel predlagani sklep.</p>
                                 <p>Tovarišice in tovariši delegati! Predvideno je, da bi ob 12.00
                                     uri imeli odmor zato predlagam, da nadaljujemo sejo. Ker se
                                     sedaj razčiščujejo nekatere stvari na Zboru združenega dela in
                                     ker ni predstavnika predlagatelja, predlagam, da nadaljujemo s
-                                    4. točko dnevnega reda. Se s tem strinjate? (Da.)</p>
+                                    4. točko dnevnega reda. Se s tem strinjate? <stage>(Da.)</stage>
+                                </p>
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="4">
                             <sp who="#sp.BeznikVlado">
-                                <p>Prehajamo na 4. TOČKO DNEVNEGA REDA - PREDLOG ZAKONA O NEPRAVDNEM
-                                    POSTOPKU. Predlog zakona je Skupščini SR Slovenije predložil v
-                                    obravnavo Izvršni svet Skupščine SR Slovenije in za svojega
-                                    predstavnika določil tovariša Janeza Breznika, pomočnika
-                                    republiškega sekretarja za pravosodje in upravo.</p>
-                                <p>Vprašujem predsednika predlagatelja, če želi besedo? (Da.)
-                                    Prosim.</p>
+                                <p>Prehajamo na <title>4. TOČKO DNEVNEGA REDA - PREDLOG ZAKONA O
+                                        NEPRAVDNEM POSTOPKU</title>. Predlog zakona je Skupščini SR
+                                    Slovenije predložil v obravnavo Izvršni svet Skupščine SR
+                                    Slovenije in za svojega predstavnika določil tovariša Janeza
+                                    Breznika, pomočnika republiškega sekretarja za pravosodje in
+                                    upravo.</p>
+                                <p>Vprašujem predsednika predlagatelja, če želi besedo?
+                                        <stage>(Da.)</stage> Prosim.</p>
                             </sp>
                             <sp who="#sp.BreznikJanez">
                                 <speaker>JANEZ BREZNIK:</speaker>
@@ -1441,12 +1628,15 @@
                                     sistem, Komisija za pravosodje in Zakonodajno-pravna
                                     komisija.</p>
                                 <p>Zboru so telesa pisno poročala. Sprašujem poročevalce, če želi
-                                    kdo besedo? (Ne javi se nihče.)</p>
+                                    kdo besedo? <stage>(Ne javi se nihče.)</stage>
+                                </p>
                                 <p>Danes obravnava predlog zakona tudi Družbenopolitični zbor v
                                     skladu s 74. členom poslovnika Skupščine in nas bo o svojih
                                     stališčih tudi obvestil.</p>
                                 <p>Pričenjam razpravo. Ugotavljam, da prijavljenih za razpravo ni.
-                                    Sprašujem, če želi kdo besedo? (Ne javi se nihče.)</p>
+                                    Sprašujem, če želi kdo besedo? <stage>(Ne javi se
+                                        nihče.)</stage>
+                                </p>
                                 <p>Sekretar zbora me pravkar obvešča, da Družbenopolitični zbor še
                                     ni obravnaval te točke dnevnega reda. Zato moramo dotlej, dokler
                                     ne dobimo stališča Družbenopolitičnega zbora, sklepanje o zakonu
@@ -1457,18 +1647,19 @@
                         </div>
                         <div ana="#PAR.TDR" n="5">
                             <sp who="#sp.BeznikVlado">
-                                <p>Prehajamo na 5. TOČKO DNEVNEGA REDA - PREDLOG ZA IZDAJO ZAKONA O
-                                    UKREPIH ZA POSPEŠEVANJE PROIZVODNJE HRANE IN ZAGOTAVLJANJE
-                                    OSNOVNE PRESKRBE TER O SAMOUPRAVNI INTERESNI ORGANIZIRANOSTI NA
-                                    TEH PODROČJIH. Predlog za izdajo zakona je Skupščini SR
-                                    Slovenije predložil v obravnavo Izvršni svet Skupščine SR
-                                    Slovenije in za svojega predstavnika določil Milana Kneževiča,
-                                    člana Izvršnega sveta Skupščine SR Slovenije in predsednika
-                                    Republiškega komiteja za kmetijstvo, gozdarstvo in prehrano ter
-                                    Metko Oderlap, namestnico predsednika Republiškega komiteja za
-                                    tržišče in splošne gospodarske zadeve.</p>
-                                <p>Sprašujem, če želita besedo? (Da.) Besedo ima tovariš Milan
-                                    Kneževič.</p>
+                                <p>Prehajamo na <title>5. TOČKO DNEVNEGA REDA - PREDLOG ZA IZDAJO
+                                        ZAKONA O UKREPIH ZA POSPEŠEVANJE PROIZVODNJE HRANE IN
+                                        ZAGOTAVLJANJE OSNOVNE PRESKRBE TER O SAMOUPRAVNI INTERESNI
+                                        ORGANIZIRANOSTI NA TEH PODROČJIH</title>. Predlog za izdajo
+                                    zakona je Skupščini SR Slovenije predložil v obravnavo Izvršni
+                                    svet Skupščine SR Slovenije in za svojega predstavnika določil
+                                    Milana Kneževiča, člana Izvršnega sveta Skupščine SR Slovenije
+                                    in predsednika Republiškega komiteja za kmetijstvo, gozdarstvo
+                                    in prehrano ter Metko Oderlap, namestnico predsednika
+                                    Republiškega komiteja za tržišče in splošne gospodarske
+                                    zadeve.</p>
+                                <p>Sprašujem, če želita besedo? <stage>(Da.)</stage> Besedo ima
+                                    tovariš Milan Kneževič.</p>
                             </sp>
                             <sp who="#sp.KneževičMilan">
                                 <speaker>MILAN KNEŽEVIČ:</speaker>
@@ -1681,8 +1872,9 @@
                                 <p>Zboru so vsa telesa pisno poročala, razen Odbora za
                                     družbenopolitični sistem, ki k predloženemu aktu ni imel
                                     pripomb.</p>
-                                <p>Sprašujem poročevalce delovnih teles, če želi kdo besedo? (Ne
-                                    želi.)</p>
+                                <p>Sprašujem poročevalce delovnih teles, če želi kdo besedo?
+                                        <stage>(Ne želi.)</stage>
+                                </p>
                                 <p>Pričenjam razpravo. Ugotavljam, da imamo sedem prijavljenih
                                     razpravljavcev. Besedo ima Feliks Petek, delegat iz občine
                                     Gornja Radgona.</p>
@@ -2263,9 +2455,10 @@
                                     odmor ter bi po njem nadaljevali z razpravo k tej točki dnevnega
                                     reda.</p>
                             </sp>
-                            <stage type="time">(Seja je bila <time to="12:30:00" xml:id="stage.t.4"
-                                    >prekinjena ob 12.30 uri</time> in se je <time from="13:05:00"
-                                    xml:id="stage.t.5">nadaljevala ob 13.05 uri</time>.)</stage>
+                            <stage type="time">(Seja je bila <time to="1986-06-18T12:30:00"
+                                    xml:id="stage.t.4">prekinjena ob 12.30 uri</time> in se je <time
+                                    from="1986-06-18T13:05:00" xml:id="stage.t.5">nadaljevala ob
+                                    13.05 uri</time>.)</stage>
                             <sp who="#sp.BeznikVlado">
                                 <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                                 <p>Nadaljujemo z razpravo k 5. točki dnevnega reda. Besedo ima Zoran
@@ -2404,8 +2597,8 @@
                             <sp who="#sp.BeznikVlado">
                                 <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                                 <p>Hvala. Lista prijavljenih kandidatov je s tem izčrpana. Želi še
-                                    kdo razpravljati? (Da.) Besedo ima Janez Kocijančič, delegat
-                                    Mesta Ljubljane. Prosim.</p>
+                                    kdo razpravljati? <stage>(Da.)</stage> Besedo ima Janez
+                                    Kocijančič, delegat Mesta Ljubljane. Prosim.</p>
                             </sp>
                             <sp who="#sp.KocijančičJanez">
                                 <speaker>JANEZ KOCIJANČIČ:</speaker>
@@ -2544,8 +2737,9 @@
                             </sp>
                             <sp who="#sp.BeznikVlado">
                                 <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
-                                <p>Hvala. Želi še kdo razpravljati? (Da.) Besedo ima Milan Kneževič,
-                                    predstavnik Izvršnega sveta Skupščine SR Slovenije. Prosim.</p>
+                                <p>Hvala. Želi še kdo razpravljati? <stage>(Da.)</stage> Besedo ima
+                                    Milan Kneževič, predstavnik Izvršnega sveta Skupščine SR
+                                    Slovenije. Prosim.</p>
                             </sp>
                             <sp who="#sp.KneževičMilan">
                                 <speaker>MILAN KNEŽEVIČ:</speaker>
@@ -2620,8 +2814,10 @@
                                 <p>Hvala. S tem bi zaključil razpravo in predlagam, da preidemo na
                                     glasovanje o sklepu, ki ste ga v zvezi s to točko dnevnega reda
                                     dobili na klop.</p>
-                                <p>Kdo je za predlagani sklep? (64 delegatov.) Je kdo proti? (1
-                                    delegat.) Se je kdo vzdržal? (Nihče.)</p>
+                                <p>Kdo je za predlagani sklep? <stage>(64 delegatov.)</stage> Je kdo
+                                    proti? <stage>(1 delegat.)</stage> Se je kdo vzdržal?
+                                        <stage>(Nihče.)</stage>
+                                </p>
                                 <p>Ugotavljam, da je zbor z večino glasov sprejel predlagani
                                     sklep.</p>
                                 <p>Tovarišice in tovariši delegati! Predlagam, da dokončamo 4. točko
@@ -2631,24 +2827,29 @@
                                     do tega opredelil in zavzel stališče, da podpira predlog zakona.
                                     Tako lahko sedaj tudi naš zbor zaključi to točko dnevnega reda.
                                     Sprašujem še enkrat, ali želi še kdo razpravljati k tej točki
-                                    dnevnega reda? (Nihče.)</p>
+                                    dnevnega reda? <stage>(Nihče.)</stage>
+                                </p>
                                 <p>Če ne, potem zaključujem razpravo in prehajamo na glasovanje.
                                     Najprej bomo glasovali o amandmajih Zakonodajno-pravne komisije,
                                     ki so razvidni iz njenega poročila z dne 11.6.1986, in sicer k
                                     45., 55., 79. in 96. členu predloga zakona.</p>
                                 <p>Sprašujem poročevalce ostalih delovnih teles ali s temi amandmaji
-                                    soglašajo? (Da.) Tudi Izvršni svet Skupščine SR Slovenije je
-                                    zbor pisno obvestil, da s temi amandmaji soglaša. Ker z<pb
-                                        n="38"/> amandmaji soglaša Izvršni svet Skupščine SR
+                                    soglašajo? <stage>(Da.)</stage> Tudi Izvršni svet Skupščine SR
+                                    Slovenije je zbor pisno obvestil, da s temi amandmaji soglaša.
+                                    Ker z<pb n="38"/> amandmaji soglaša Izvršni svet Skupščine SR
                                     Slovenije in delovna telesa predlagam, da o vseh amandmajih
                                     glasujemo skupaj.</p>
-                                <p>Kdo je za amandmaje? (65 delegatov.) Je kdo proti? (Nihče.) Se je
-                                    kdo vzdržal? (Nihče.)</p>
+                                <p>Kdo je za amandmaje? <stage>(65 delegatov.)</stage> Je kdo proti?
+                                        <stage>(Nihče.)</stage> Se je kdo vzdržal?
+                                        <stage>(Nihče.)</stage>
+                                </p>
                                 <p>Ugotavljam, da je zbor amandmaje Zakonodajno-pravne komisije
                                     soglasno sprejel.</p>
                                 <p>Na glasovanje dajem še predlog zakona v celoti.</p>
-                                <p>Kdo je za? (65 delegatov.) Je kdo proti? (Nihče.) Se je kdo
-                                    vzdržal? (Nihče.)</p>
+                                <p>Kdo je za? <stage>(65 delegatov.)</stage> Je kdo proti?
+                                        <stage>(Nihče.)</stage> Se je kdo vzdržal?
+                                        <stage>(Nihče.)</stage>
+                                </p>
                                 <p>Ugotavljam, da je zbor soglasno sprejel predlog zakona. Hkrati
                                     ugotavljam, da je zbor sprejel predlog zakona v skladu s
                                     stališči Družbenopolitičnega zbora. S tem zaključujem 4. točko
@@ -2661,13 +2862,14 @@
                         </div>
                         <div ana="#PAR.TDR" n="3">
                             <sp who="#sp.BeznikVlado">
-                                <p>Prehajamo torej na 3. TOČKO DNEVNEGA REDA - PREDLOG ZAKONA O
-                                    SPREMEMBAH IN DOPOLNITVAH ZAKONA O SPREMEMBAH IN DOPOLNITVAH
-                                    ZAKONA O OSNOVNI ŠOLI. Predlog zakona je Skupščini predložil v
-                                    obravnavo Izvršni svet Skupščine SR Slovenije in za svojega
-                                    predstavnika določil Boštjana Zgonca, namestnika predsednika
-                                    Republiškega komiteja za vzgojo, izobraževanje ter telesno
-                                    kulturo, ki bo imel tudi uvodno besedo. Prosim.</p>
+                                <p>Prehajamo torej na <title>3. TOČKO DNEVNEGA REDA - PREDLOG ZAKONA
+                                        O SPREMEMBAH IN DOPOLNITVAH ZAKONA O SPREMEMBAH IN
+                                        DOPOLNITVAH ZAKONA O OSNOVNI ŠOLI</title>. Predlog zakona je
+                                    Skupščini predložil v obravnavo Izvršni svet Skupščine SR
+                                    Slovenije in za svojega predstavnika določil Boštjana Zgonca,
+                                    namestnika predsednika Republiškega komiteja za vzgojo,
+                                    izobraževanje ter telesno kulturo, ki bo imel tudi uvodno
+                                    besedo. Prosim.</p>
                             </sp>
                             <sp who="#sp.ZgoncBoštjan">
                                 <speaker>BOŠTJAN ZGONC:</speaker>
@@ -2726,8 +2928,9 @@
                                 <p>Predlog zakona so obravnavali Odbor za družbenopolitični sistem,
                                     Zakonodajno-pravna komisija in skupina delegatov vseh zborov
                                     Skupščine SR Slovenije za družbene dejavnosti, ki so zboru pisno
-                                    poročali. Sprašujem poročevalce, ali želijo besedo? (Ne
-                                    želijo.)</p>
+                                    poročali. Sprašujem poročevalce, ali želijo besedo? <stage>(Ne
+                                        želijo.)</stage>
+                                </p>
                                 <p>Pričenjam razpravo. K razpravi se je prijavil Alojz Husjak,
                                     delegat iz občine Ljutomer. Prosim.</p>
                             </sp>
@@ -2757,34 +2960,40 @@
                             </sp>
                             <sp who="#sp.BeznikVlado">
                                 <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
-                                <p>Hvala. Želi še kdo razpravljati? (Nihče.)<pb n="40"
-                                        xml:id="pb.40"/>
+                                <p>Hvala. Želi še kdo razpravljati? <stage>(Nihče.)</stage>
+                                    <pb n="40" xml:id="pb.40"/>
                                 </p>
                                 <p>Če ne želi nihče več razpravljati, zaključujem razpravo in
                                     prehajamo na glasovanje. Najprej bomo glasovali o amandmaju
                                     Izvršnega sveta Skupščine SR Slovenije, ki ste ga prejeli danes
                                     na klop, in sicer k 1. členu predloga zakona. Sprašujem
                                     poročevalce delovnih teles, če s tem amandmajem soglašajo?
-                                    (Da.)</p>
-                                <p>Kdo je za amandma? (62 delegatov.) Je kdo proti? (Nihče.) Se je
-                                    kdo vzdržal? (Nihče.)</p>
+                                        <stage>(Da.)</stage>
+                                </p>
+                                <p>Kdo je za amandma? <stage>(62 delegatov.)</stage> Je kdo proti?
+                                        <stage>(Nihče.)</stage> Se je kdo vzdržal?
+                                        <stage>(Nihče.)</stage>
+                                </p>
                                 <p>Ugotavljam, da je zbor soglasno sprejel amandma Izvršnega sveta
                                     Skupščine SR Slovenije.</p>
                                 <p>Prehajamo na glasovanje o predlogu zakona v celoti.</p>
-                                <p>Kdo je za? (63 delegatov.) Je kdo proti? (Nihče.) Se je kdo
-                                    vzdržal? (Nihče.)</p>
+                                <p>Kdo je za? <stage>(63 delegatov.)</stage> Je kdo proti?
+                                        <stage>(Nihče.)</stage> Se je kdo vzdržal?
+                                        <stage>(Nihče.)</stage>
+                                </p>
                                 <p>Ugotavljam, da je zbor soglasno sprejel predlog zakona.</p>
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="6">
                             <sp who="#sp.BeznikVlado">
-                                <p>Prehajamo na 6. TOČKO DNEVNEGA REDA - PREDLOG ZA IZDAJO ZAKONA O
-                                    VARSTVU PREBIVALSTVA PRED NALEZLJIVIMI BOLEZNIMI. Predlog za
-                                    izdajo zakona je Skupščini predložil v obravnavo Izvršni svet
-                                    Skupščine SR Slovenije in za svojega predstavnika določil dr.
-                                    Dinka Leskovška, člana Izvršnega sveta Skupščine SR Slovenije in
-                                    predsednika Republiškega komiteja za zdravstveno in socialno
-                                    varstvo, ki bo imel tudi uvodno besedo. Prosim.</p>
+                                <p>Prehajamo na <title>6. TOČKO DNEVNEGA REDA - PREDLOG ZA IZDAJO
+                                        ZAKONA O VARSTVU PREBIVALSTVA PRED NALEZLJIVIMI
+                                        BOLEZNIMI</title>. Predlog za izdajo zakona je Skupščini
+                                    predložil v obravnavo Izvršni svet Skupščine SR Slovenije in za
+                                    svojega predstavnika določil dr. Dinka Leskovška, člana
+                                    Izvršnega sveta Skupščine SR Slovenije in predsednika
+                                    Republiškega komiteja za zdravstveno in socialno varstvo, ki bo
+                                    imel tudi uvodno besedo. Prosim.</p>
                             </sp>
                             <sp who="#sp.LeskovšekDinko">
                                 <speaker>DR. DINKO LESKOVŠEK:</speaker>
@@ -2855,8 +3064,9 @@
                                     Skupščine SR Slovenije za družbene dejavnosti.</p>
                                 <p>Komisija in skupina delegatov sta pisno poročali. Poročilo imate
                                     na klopeh. Odbor pa k predloženemu aktu ni imel pripomb.
-                                    Sprašujem, če želijo poročevalci delovnih teles besedo? (Ne
-                                    želijo.)</p>
+                                    Sprašujem, če želijo poročevalci delovnih teles besedo?
+                                        <stage>(Ne želijo.)</stage>
+                                </p>
                                 <p>Pričenjam razpravo. Besedo ima Franc Albreht, delegat iz občine
                                     Tržič. Prosim.</p>
                             </sp>
@@ -2902,7 +3112,8 @@
                             </sp>
                             <sp who="#sp.BeznikVlado">
                                 <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
-                                <p>Hvala lepa. Želi še kdo razpravljati? (Nihče.)</p>
+                                <p>Hvala lepa. Želi še kdo razpravljati? <stage>(Nihče.)</stage>
+                                </p>
                                 <p>Ker ne želi nihče več razpravljati, zaključujem razpravo in
                                     predlagam zboru, da sprejme naslednji sklep:</p>
                                 <list type="ordered">
@@ -2910,8 +3121,8 @@
                                         nalezljivimi boleznimi se sprejme.</item>
                                     <item n="2">Osnutek zakona pripravi Izvršni svet Skupščine SR
                                         Slovenije.</item>
-                                    <item n="3">Pri pripravi osnutka zakona naj predlagatelj prouči in
-                                        ustrezno upošteva mnenja, predloge in pripombe delovnih
+                                    <item n="3">Pri pripravi osnutka zakona naj predlagatelj prouči
+                                        in ustrezno upošteva mnenja, predloge in pripombe delovnih
                                         teles, pripombe skupin delegatov in pripombe iz razprave
                                         delegatov na seji zbora.</item>
                                 </list>
@@ -2919,90 +3130,101 @@
                                     svoji vsebini bolj sodile v izvršilne predpise ter umestnost
                                     ponavljanja določb, ki jih vsebuje zvezni zakon, v republiškem
                                     zakonu.</p>
-                                <p>Želi kdo o predlogu sklepa razpravljati? (Nihče.) Ker ne želi
-                                    nihče o tem razpravljati, dajem predlog sklepa na
+                                <p>Želi kdo o predlogu sklepa razpravljati? <stage>(Nihče.)</stage>
+                                    Ker ne želi nihče o tem razpravljati, dajem predlog sklepa na
                                     glasovanje.</p>
-                                <p>Kdo je za? (66 delegatov.) Je kdo proti? (Nihče.) Se je kdo
-                                    vzdržal? (Nihče.)</p>
+                                <p>Kdo je za? <stage>(66 delegatov.)</stage> Je kdo proti?
+                                        <stage>(Nihče.)</stage> Se je kdo vzdržal?
+                                        <stage>(Nihče.)</stage>
+                                </p>
                                 <p>Ugotavljam, da je zbor soglasno sprejel predlagani sklep.</p>
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="7">
                             <sp who="#sp.BeznikVlado">
-                                <p>Prehajamo na 7. TOČKO DNEVNEGA REDA - OSNUTEK ZAKONA O
-                                    ZAGOTOVITVI SREDSTEV ZA PRISPEVEK SFR JUGOSLAVIJE K SVETOVNEMU
-                                    PROGRAMU HRANE (WFP ) ZA LETO 1985 IN 1986. Osnutek zakona je
-                                    predložil Skupščini v soglasje Zbor republik in pokrajin
-                                    Skupščine SFR Jugoslavije.</p>
+                                <p>Prehajamo na <title>7. TOČKO DNEVNEGA REDA - OSNUTEK ZAKONA O
+                                        ZAGOTOVITVI SREDSTEV ZA PRISPEVEK SFR JUGOSLAVIJE K
+                                        SVETOVNEMU PROGRAMU HRANE (WFP ) ZA LETO 1985 IN
+                                        1986</title>. Osnutek zakona je predložil Skupščini v
+                                    soglasje Zbor republik in pokrajin Skupščine SFR
+                                    Jugoslavije.</p>
                                 <p>Predstavnik delegacije Skupščine SR Slovenije v Zboru republik in
                                     pokrajin je Jože Sintič, član delegacije, predstavnik Izvršnega
                                     sveta Skupščine SR Slovenije pa dr. Jože Kunič, namestnik
                                     republiškega sekretarja za finance. Sprašujem predstavnika
                                     delegacije oziroma Izvršnega sveta Skupščine SR Slovenije ali
-                                    želita besedo? (Ne želita.)</p>
+                                    želita besedo? <stage>(Ne želita.)</stage>
+                                </p>
                                 <p>Osnutek zakona ste prejeli. Izvršni svet Skupščine SR Slovenije
                                     je zbor obvestil, da k osnutku zakona nima pripomb.</p>
                                 <p>Osnutek zakona sta obravnavala Odbor za finance in
                                     Zakonodajno-pravna komisija, ki k osnutku zakona nista imela
                                     pripomb, zato pisnih poročil niste prejeli in sprašujem
-                                    poročevalca odbora in komisije, ali želita besedo? (Ne
-                                        želita.)<pb n="43" xml:id="pb.43"/>
+                                    poročevalca odbora in komisije, ali želita besedo? <stage>(Ne
+                                        želita.)</stage>
+                                    <pb n="43" xml:id="pb.43"/>
                                 </p>
                                 <p>Pričenjam razpravo. Prijavljenih za to točko ni. Želi kdo
-                                    razpravljati? (Nihče.) Zaključujem razpravo in predlagam zboru,
-                                    da sprejme naslednji sklep:</p>
+                                    razpravljati? <stage>(Nihče.)</stage> Zaključujem razpravo in
+                                    predlagam zboru, da sprejme naslednji sklep:</p>
                                 <list type="ordered">
-                                    <item n="1">Skupščina SR Slovenije daje soglasje k osnutku zakona o
-                                        zagotovitvi sredstev za prispevek SFR Jugoslavije k
+                                    <item n="1">Skupščina SR Slovenije daje soglasje k osnutku
+                                        zakona o zagotovitvi sredstev za prispevek SFR Jugoslavije k
                                         svetovnemu programu hrane (WFP) za leti 1985 in 1986.</item>
                                     <item n="2">Skupščina SR Slovenije pooblašča svojo delegacijo v
                                         Zboru republik in pokrajin Skupščine SFR Jugoslavije, da po
                                         končanem usklajevanju da soglasje k predlogu zakona.</item>
                                 </list>
-                                <p>Kdo je za? (65 delegatov.) Je kdo proti? (Nihče.) Se je kdo
-                                    vzdržal? (Nihče.)</p>
+                                <p>Kdo je za? <stage>(65 delegatov.)</stage> Je kdo proti?
+                                        <stage>(Nihče.)</stage> Se je kdo vzdržal?
+                                        <stage>(Nihče.)</stage>
+                                </p>
                                 <p>Ugotavljam, da je zbor soglasno sprejel predlagani sklep.</p>
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="8">
                             <sp who="#sp.BeznikVlado">
-                                <p>Prehajamo na 8. TOČKO DNEVNEGA REDA - OSNUTEK ZAKONA O PRENEHANJU
-                                    VELJAVNOSTI ZAKONA O ZAGOTOVITVI SREDSTEV ZA FINANCIRANJE
-                                    GRADITVE "SPOMENIKA ZMAGE". Osnutek zakona je Skupščini
-                                    predložil v soglasje Zbor republik in pokrajin Skupščine SFR
-                                    Jugoslavije.</p>
+                                <p>Prehajamo na <title>8. TOČKO DNEVNEGA REDA - OSNUTEK ZAKONA O
+                                        PRENEHANJU VELJAVNOSTI ZAKONA O ZAGOTOVITVI SREDSTEV ZA
+                                        FINANCIRANJE GRADITVE "SPOMENIKA ZMAGE"</title>. Osnutek
+                                    zakona je Skupščini predložil v soglasje Zbor republik in
+                                    pokrajin Skupščine SFR Jugoslavije.</p>
                                 <p>Predstavnika delegacije in Izvršnega sveta Skupščine SR Slovenije
-                                    sta ista kot pri prejšnji točki. Želi kdo besedo? (Ne želi.
-                                    )</p>
+                                    sta ista kot pri prejšnji točki. Želi kdo besedo? <stage>(Ne
+                                        želi.)</stage>
+                                </p>
                                 <p>Osnutek zakona ste prejeli. Izvršni svet SR Slovenije nas je
                                     obvestil, da k osnutku zakona nima pripomb.</p>
                                 <p>Osnutek zakona sta obravnavala Odbor za finance in
                                     Zakonodajno-pravna komisija. Odbor je zboru pisno poročal,
                                     komisija pa k osnutku zakona ni imela pripomb.</p>
-                                <p>Želijo poročevalci besedo? (Ne želijo.)</p>
-                                <p>Pričenjam razpravo. Ali želi kdo besedo? (Ne.) Če ne želi nihče
-                                    razpravljati, zaključujem razpravo in predlagam zboru, da
-                                    sprejme naslednji sklep:</p>
+                                <p>Želijo poročevalci besedo? <stage>(Ne želijo.)</stage>
+                                </p>
+                                <p>Pričenjam razpravo. Ali želi kdo besedo? <stage>(Ne.)</stage> Če
+                                    ne želi nihče razpravljati, zaključujem razpravo in predlagam
+                                    zboru, da sprejme naslednji sklep:</p>
                                 <list type="ordered">
-                                    <item n="1">Skupščina SR Slovenije daje soglasje k osnutku zakona o
-                                        prenehanju veljavnosti zakona o zagotovitvi sredstev za
-                                        financiranje graditve "Spomenika zmage."</item>
+                                    <item n="1">Skupščina SR Slovenije daje soglasje k osnutku
+                                        zakona o prenehanju veljavnosti zakona o zagotovitvi
+                                        sredstev za financiranje graditve "Spomenika zmage."</item>
                                     <item n="2">Skupščina SR Slovenije pooblašča svojo delegacijo v
                                         Zboru republik in pokrajin Skupščine SFR Jugoslavije, da po
                                         končanem usklajevanju da soglasje k predlogu zakona.</item>
                                 </list>
-                                <p>Kdo je za? (66 delegatov.) Je kdo proti? (Nihče.) Se je kdo
-                                    vzdržal? (Nihče.)</p>
+                                <p>Kdo je za? <stage>(66 delegatov.)</stage> Je kdo proti?
+                                        <stage>(Nihče.)</stage> Se je kdo vzdržal?
+                                        <stage>(Nihče.)</stage>
+                                </p>
                                 <p>Ugotavljam, da je zbor soglasno sprejel predlagani sklep.</p>
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="9">
                             <sp who="#sp.BeznikVlado">
-                                <p>Prehajamo na 9. TOČKO DNEVNEGA REDA - PREDLOG DRUŽBENEGA DOGOVORA
-                                    O ZAGOTAVLJANJU SREDSTEV ZA GRADITEV IN UREDITEV SPOMINSKEGA
-                                    OBELEŽJA "SREMSKA FRONTA".Predlog družbenega dogovora je
-                                    predložila Skupščini v soglasje Zvezna konferenca SZDL
-                                    Slovenije.</p>
+                                <p>Prehajamo na <title>9. TOČKO DNEVNEGA REDA - PREDLOG DRUŽBENEGA
+                                        DOGOVORA O ZAGOTAVLJANJU SREDSTEV ZA GRADITEV IN UREDITEV
+                                        SPOMINSKEGA OBELEŽJA "SREMSKA FRONTA"</title>.Predlog
+                                    družbenega dogovora je predložila Skupščini v soglasje Zvezna
+                                    konferenca SZDL Slovenije.</p>
                                 <p>Predlog družbenega dogovora je naš zbor že obravnaval na seji 11.
                                     marca letošnjega leta, vendar ga, kljub temu, da je bilo
                                     predvideno, da se bodo predvidena finančna sredstva zagotovila z
@@ -3012,7 +3234,8 @@
                                     odbora Predsedstva RK SZDL Slovenije, predstavnik<pb n="44"
                                         xml:id="pb.44"/> Izvršnega sveta Skupščine SR Slovenije je
                                     dr. Jože Kunič, namestnik republiškega sekretarja za finance.
-                                    Sprašujem, ali želi kdo besedo? (Da.)</p>
+                                    Sprašujem, ali želi kdo besedo? <stage>(Da.)</stage>
+                                </p>
                                 <p>Besedo ima Primož Hainz. Prosim.</p>
                             </sp>
                             <sp who="#sp.HainzPrimož">
@@ -3109,7 +3332,8 @@
                                     Jugoslavije.</p>
                                 <p>Odbor in skupina delegatov sta pisno poročala, Zakonodajno-pravna
                                     komisija pa k predlogu družbenega dogovora ni imela pripomb.</p>
-                                <p>Želijo poročevalci delovnih teles besedo? (Ne.)</p>
+                                <p>Želijo poročevalci delovnih teles besedo? <stage>(Ne.)</stage>
+                                </p>
                                 <p>Prejeli ste tudi predlog stališč in predlogov
                                     Družbeno-političnega zbora, ki obravnava danes predlog
                                     družbenega dogovora v skladu z 86. členom poslovnika Skupščine
@@ -3257,8 +3481,8 @@
                             <sp who="#sp.BeznikVlado">
                                 <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                                 <p>Hvala. S tem smo izčrpali listo prijavljenih. Želi še kdo
-                                    razpravljati? (Da.) Besedo ima tovariš Primož Hainz, predstavnik
-                                    RK SZDL Slovenije.</p>
+                                    razpravljati? <stage>(Da.)</stage> Besedo ima tovariš Primož
+                                    Hainz, predstavnik RK SZDL Slovenije.</p>
                             </sp>
                             <sp who="#sp.HainzPrimož">
                                 <speaker>PRIMOŽ HAINZ:</speaker>
@@ -3286,11 +3510,13 @@
                             </sp>
                             <sp who="#sp.BeznikVlado">
                                 <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
-                                <p>Želi še kdo razpravljati? (Ne.) Če ne, zaključujem razpravo in
-                                    prehajamo na glasovanje o predlogu sklepa, ki ste ga
+                                <p>Želi še kdo razpravljati? <stage>(Ne.)</stage> Če ne, zaključujem
+                                    razpravo in prehajamo na glasovanje o predlogu sklepa, ki ste ga
                                     prejeli.</p>
-                                <p>Kdo je za? (49 delegatov.) Je kdo proti? (7 delegatov.) Se je kdo
-                                    vzdržal? (6 delegatov.)</p>
+                                <p>Kdo je za? <stage>(49 delegatov.)</stage> Je kdo proti? <stage>(7
+                                        delegatov.)</stage> Se je kdo vzdržal? <stage>(6
+                                        delegatov.)</stage>
+                                </p>
                                 <p>Ugotavljam, da je zbor z večino glasov sprejel predlagani
                                     sklep.</p>
                                 <p>Preden preidemo na 10. točko dnevnega reda, vas obveščam, da je
@@ -3311,8 +3537,8 @@
                                     o tem amandmaju vendar se z njim ni strinjal iz naslednjih
                                     razlogov:</p>
                                 <list type="ordered">
-                                    <item n="1">Že iz besedila zakona je razvidno, da gre tako ali tako
-                                        za posamezen oddelek.</item>
+                                    <item n="1">Že iz besedila zakona je razvidno, da gre tako ali
+                                        tako za posamezen oddelek.</item>
                                     <item n="2">Če bi se zgodilo, da bi tak oddelek bil 7. razred
                                         osnovne šole, ki bi se oblikoval namesto z 32 učenci s 33
                                         učenci, je povsem nesmiselno, da bi se v 8. razredu tak
@@ -3330,9 +3556,9 @@
                                 <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
                                 <p>Sedaj imamo situacijo, da je Zbor združenega dela amandma
                                     izglasoval. Slišali pa smo tudi stališče predlagatelja do tega
-                                    amandmaja. Želi kdo o tem razpravljati? (Da.) Besedo ima tovariš
-                                    Janez Kocijančič, poročevalec Odbora za družbenoekonomske odnose
-                                    in razvoj Zbora občin.</p>
+                                    amandmaja. Želi kdo o tem razpravljati? <stage>(Da.)</stage>
+                                    Besedo ima tovariš Janez Kocijančič, poročevalec Odbora za
+                                    družbenoekonomske odnose in razvoj Zbora občin.</p>
                             </sp>
                             <sp who="#sp.KocijančičJanez">
                                 <speaker>JANEZ KOCIJANČIČ (iz klopi):</speaker>
@@ -3388,26 +3614,27 @@
                             </sp>
                             <sp who="#sp.BeznikVlado">
                                 <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
-                                <p>Hvala lepa. Želi še kdo razpravljati? (Nihče.) Imam obvestilo o
-                                    tem, o čemer sedaj govorimo od predsednika Zbora združenega
-                                    dela. Predlagam, da dobimo amandma na klop in da potem
-                                    razpravljamo,tako kot je razpravljal Zbor združenega dela. Se s
-                                    tem strinjate? (Da.)</p>
+                                <p>Hvala lepa. Želi še kdo razpravljati? <stage>(Nihče.)</stage>
+                                    Imam obvestilo o tem, o čemer sedaj govorimo od predsednika
+                                    Zbora združenega dela. Predlagam, da dobimo amandma na klop in
+                                    da potem razpravljamo,tako kot je razpravljal Zbor združenega
+                                    dela. Se s tem strinjate? <stage>(Da.)</stage>
+                                </p>
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="10">
                             <sp who="#sp.BeznikVlado">
-                                <p>Prehajamo na 10. TOČKO DNEVNEGA REDA - OSNUTEK ODLOKA O
-                                    VALORIZACIJI SREDSTEV, KI SO JIH PLAČALE REPUBLIKE IN AVTONOMNI
-                                    POKRAJINI ZA LETO 1985 ZA ODPRAVO POSLEDIC KATASTROFALNEGA
-                                    POTRESA, KI JE PRIZADEL OBMOČJE SR ČRNE GORE V LETU 1979.
-                                    Osnutek odloka je Skupščini predložil v soglasje Zbor republik
-                                    in pokrajin Skupščine SFR Jugoslavije. Predstavnik naše
-                                    delegacije na zboru je Jože Sintič, član delegacije, predstavnik
-                                    Izvršnega sveta Skupščine SR Slovenije pa tovariš Jože Kunič,
-                                    namestnik republiškega sekretarja za finance. Želi kdo od
-                                    predstavnikov delegacije ali predlagatelja besedo? (Da.) Besedo
-                                    ima tovariš Jože Kunič.</p>
+                                <p>Prehajamo na <title>10. TOČKO DNEVNEGA REDA - OSNUTEK ODLOKA O
+                                        VALORIZACIJI SREDSTEV, KI SO JIH PLAČALE REPUBLIKE IN
+                                        AVTONOMNI POKRAJINI ZA LETO 1985 ZA ODPRAVO POSLEDIC
+                                        KATASTROFALNEGA POTRESA, KI JE PRIZADEL OBMOČJE SR ČRNE GORE
+                                        V LETU 1979</title>. Osnutek odloka je Skupščini predložil v
+                                    soglasje Zbor republik in pokrajin Skupščine SFR Jugoslavije.
+                                    Predstavnik naše delegacije na zboru je Jože Sintič, član
+                                    delegacije, predstavnik Izvršnega sveta Skupščine SR Slovenije
+                                    pa tovariš Jože Kunič, namestnik republiškega sekretarja za
+                                    finance. Želi kdo od predstavnikov delegacije ali predlagatelja
+                                    besedo? <stage>(Da.)</stage> Besedo ima tovariš Jože Kunič.</p>
                             </sp>
                             <sp who="#sp.KuničJože">
                                 <speaker>DR. JOŽE KUNIČ:</speaker>
@@ -3489,8 +3716,9 @@
                                     proučevanje aktov iz pristojnosti zborov Skupščine SFR
                                     Jugoslavije. Odbor in skupina delegatov so pisno poročali,
                                     Zakonodajno-pravna komisija pa k predloženemu aktu ni imela
-                                    pripomb. Želijo poročevalci delovnih teles besedo? (Ne.)<pb
-                                        n="52"/>
+                                    pripomb. Želijo poročevalci delovnih teles besedo?
+                                        <stage>(Ne.)</stage>
+                                    <pb n="52"/>
                                 </p>
                                 <p>Pričenjam razpravo. Ugotavljam, da je prijavljen en sam
                                     razpravljavec. Besedo ima tovariš Drago Justin, delegat iz
@@ -3513,8 +3741,9 @@
                             </sp>
                             <sp who="#sp.BeznikVlado">
                                 <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
-                                <p>Hvala lepa. Želi še kdo razpravljati? (Da.) Besedo ima tovarišica
-                                    Branka Jurak, delegatka iz občine Maribor-Rotovž.</p>
+                                <p>Hvala lepa. Želi še kdo razpravljati? <stage>(Da.)</stage> Besedo
+                                    ima tovarišica Branka Jurak, delegatka iz občine
+                                    Maribor-Rotovž.</p>
                             </sp>
                             <sp who="#sp.JurakBranka">
                                 <speaker>BRANKA JURAK:</speaker>
@@ -3537,26 +3766,30 @@
                             </sp>
                             <sp who="#sp.BeznikVlado">
                                 <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
-                                <p>Hvala lepa. Želi še kdo besedo? (Ne.) Ker ne želi nihče več
-                                    razpravljati, zaključujem razpravo in dajem na glasovanje
-                                    predlagani sklep. Sklep ste prejeli.</p>
-                                <p>Kdo je za? (53 delegatov.) Je kdo proti? (Nihče.) Se je kdo
-                                    vzdržal? (1 delegat.)</p>
+                                <p>Hvala lepa. Želi še kdo besedo? <stage>(Ne.)</stage> Ker ne želi
+                                    nihče več razpravljati, zaključujem razpravo in dajem na
+                                    glasovanje predlagani sklep. Sklep ste prejeli.</p>
+                                <p>Kdo je za? <stage>(53 delegatov.)</stage> Je kdo proti?
+                                        <stage>(Nihče.)</stage> Se je kdo vzdržal? <stage>(1
+                                        delegat.)</stage>
+                                </p>
                                 <p>Ugotavljam, da je zbor z večino glasov sprejel predlagani
                                     sklep.</p>
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="11">
                             <sp who="#sp.BeznikVlado">
-                                <p>Prehajamo na 11. TOČKO DNEVNEGA REDA - OSNUTEK ODLOKA O
-                                    OBVEZNOSTIH REPUBLIK IN AVTONOMNIH POKRAJIN ZA LETO 1986,
-                                    DOLOČENIH Z ZAKONOM O SREDSTVIH ZA ODPRAVO POSLEDIC
-                                    KATASTROFALNEGA POTRESA, KI JE PRIZADEL OBMOČJE SR ČRNE GORE V
-                                    LETU 1979. Osnutek odloka je predložil Skupščini v soglasje Zbor
-                                    republik in<pb n="53" xml:id="pb.53"/>pokrajin Skupščine SFR
-                                    Jugoslavije. Predstavnik naše delegacije je tovariš Jože Sintič,
-                                    predstavnik Izvršnega sveta Skupščine SR Slovenije pa tovariš
-                                    Jože Kunič. Želi kdo od njiju besedo? (Ne.)</p>
+                                <p>Prehajamo na <title>11. TOČKO DNEVNEGA REDA - OSNUTEK ODLOKA O
+                                        OBVEZNOSTIH REPUBLIK IN AVTONOMNIH POKRAJIN ZA LETO 1986,
+                                        DOLOČENIH Z ZAKONOM O SREDSTVIH ZA ODPRAVO POSLEDIC
+                                        KATASTROFALNEGA POTRESA, KI JE PRIZADEL OBMOČJE SR ČRNE GORE
+                                        V LETU 1979</title>. Osnutek odloka je predložil Skupščini v
+                                    soglasje Zbor republik in<pb n="53" xml:id="pb.53"/>pokrajin
+                                    Skupščine SFR Jugoslavije. Predstavnik naše delegacije je
+                                    tovariš Jože Sintič, predstavnik Izvršnega sveta Skupščine SR
+                                    Slovenije pa tovariš Jože Kunič. Želi kdo od njiju besedo?
+                                        <stage>(Ne.)</stage>
+                                </p>
                                 <p>Osnutek odloka ste prejeli. Prejeli ste pisno obvestilo Izvršnega
                                     sveta Skupščine SR Slovenije, da k osnutku odloka nima
                                     pripomb.</p>
@@ -3565,9 +3798,10 @@
                                     proučevanje aktov iz pristojnosti zborov Skupščine SFR
                                     Jugoslavije. Odbor in skupina delegatov so pisno poročali,
                                     komisija pa k osnutku odloka ni imela pripomb. Želi poročevalci
-                                    besedo? (Ne.)</p>
-                                <p>Pričenjam razpravo. Želi kdo razpravljati? (Da.) Besedo ima
-                                    Dušanka Kotnik, delegatka občine Slovenj Gradec.</p>
+                                    besedo? <stage>(Ne.)</stage>
+                                </p>
+                                <p>Pričenjam razpravo. Želi kdo razpravljati? <stage>(Da.)</stage>
+                                    Besedo ima Dušanka Kotnik, delegatka občine Slovenj Gradec.</p>
                             </sp>
                             <sp who="#sp.KotnikDušanka">
                                 <speaker>DUŠANKA KOTNIK:</speaker>
@@ -3583,8 +3817,8 @@
                             </sp>
                             <sp who="#sp.BeznikVlado">
                                 <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
-                                <p>Želi še kdo razpravljati? (Da.) Besedo ima Pavle Leban, delegat
-                                    mesta Maribor.</p>
+                                <p>Želi še kdo razpravljati? <stage>(Da.)</stage> Besedo ima Pavle
+                                    Leban, delegat mesta Maribor.</p>
                             </sp>
                             <sp who="#sp.LebanPavle">
                                 <speaker>PAVLE LEBAN:</speaker>
@@ -3598,9 +3832,9 @@
                             </sp>
                             <sp who="#sp.BeznikVlado">
                                 <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
-                                <p>Hvala lepa. Želi še kdo razpravljati? (Da.) Besedo ima
-                                    predstavnik Izvršnega sveta Skupščine SR Slovenije tovariš Jože
-                                    Kunič.</p>
+                                <p>Hvala lepa. Želi še kdo razpravljati? <stage>(Da.)</stage> Besedo
+                                    ima predstavnik Izvršnega sveta Skupščine SR Slovenije tovariš
+                                    Jože Kunič.</p>
                             </sp>
                             <sp who="#sp.KuničJože">
                                 <speaker>DR. JOŽE KUNIČ:</speaker>
@@ -3642,12 +3876,13 @@
                             </sp>
                             <sp who="#sp.BeznikVlado">
                                 <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
-                                <p>Hvala. Želi še kdo razpravljati? (Ne.) Če ne, potem zaključujem
-                                    razpravo in predlagam zboru, da sprejme naslednji sklep:</p>
+                                <p>Hvala. Želi še kdo razpravljati? <stage>(Ne.)</stage> Če ne,
+                                    potem zaključujem razpravo in predlagam zboru, da sprejme
+                                    naslednji sklep:</p>
                                 <list type="ordered">
-                                    <item n="1">Skupščina SR Slovenije daje soglasje k osnutku odloka o
-                                        obveznostih republik in avtonomnih pokrajin za leto 1986,
-                                        določenih z zakonom o sredstvih za odpravo posledic
+                                    <item n="1">Skupščina SR Slovenije daje soglasje k osnutku
+                                        odloka o obveznostih republik in avtonomnih pokrajin za leto
+                                        1986, določenih z zakonom o sredstvih za odpravo posledic
                                         katastrofalnega potresa, ki je prizadel območje SR Črne gore
                                         v letu 1979.</item>
                                     <item n="2">Skupščina SR Slovenije pooblašča svojo delegacijo v
@@ -3655,12 +3890,14 @@
                                         končanem postopku usklajevanja da soglasje k predlogu
                                         odloka.</item>
                                 </list>
-                                <p>Kdo je za ta sklep? (57 delegatov.) Je kdo proti? (Nihče.) Se je
-                                    kdo vzdržal? (Nihče.)</p>
+                                <p>Kdo je za ta sklep? <stage>(57 delegatov.)</stage> Je kdo proti?
+                                        <stage>(Nihče.)</stage> Se je kdo vzdržal?
+                                        <stage>(Nihče.)</stage>
+                                </p>
                                 <p>Ugotavljam, da je zbor sprejel predlagani sklep.</p>
-                                <p>Dobili ste PREDLOG AMANDMAJA, ki je bil predložen Zboru
-                                    združenega dela. Proceduralno je amandma vezan na 305. člen
-                                    našega poslovnika. Prosim, da amandma preberete.
+                                <p>Dobili ste <title>PREDLOG AMANDMAJA</title>, ki je bil predložen
+                                    Zboru združenega dela. Proceduralno je amandma vezan na 305.
+                                    člen našega poslovnika. Prosim, da amandma preberete.
                                     Zakonodajno-pravna komisija pa naj bi skladno s tem členom
                                     poslovnika pripravila svoje stališče, da bi lahko izvedli
                                     ustrezno razpravo oziroma se opredelili do predloga
@@ -3729,9 +3966,9 @@
                             </sp>
                             <sp who="#sp.BeznikVlado">
                                 <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
-                                <p>Hvala. Želi še kdo od predstavnikov delovnih teles besedo? (Ne.)
-                                    Pričenjam razpravo. Besedo ima Stane Ferfila, delegat občine
-                                    Cerknica.</p>
+                                <p>Hvala. Želi še kdo od predstavnikov delovnih teles besedo?
+                                        <stage>(Ne.)</stage> Pričenjam razpravo. Besedo ima Stane
+                                    Ferfila, delegat občine Cerknica.</p>
                             </sp>
                             <sp who="#sp.FerfilaStane">
                                 <speaker>STANE FERFILA:</speaker>
@@ -3803,34 +4040,38 @@
                                     Božiča ter predstavnika Zakonodajno-pravne komisije. Če se
                                     strinjate s tem predlogom, prosim, da to potrdite z dvigom
                                     rok.</p>
-                                <p>Kdo je za? (Vsi delegati.) Je kdo proti? (Nihče.) Se je kdo
-                                    vzdržal? (Nihče.)</p>
+                                <p>Kdo je za? <stage>(Vsi delegati.)</stage> Je kdo proti?
+                                        <stage>(Nihče.)</stage> Se je kdo vzdržal?
+                                        <stage>(Nihče.)</stage>
+                                </p>
                                 <p>Ugotavljam, da so bili v usklajevalno komisijo soglasno imenovani
                                     predlagani tovariši.</p>
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="12">
                             <sp who="#sp.BeznikVlado">
-                                <p>Prehajamo na 12. TOČKO DNEVNEGA REDA - OSNUTEK ODLOKA O
-                                    ZMANJŠANJU OBVEZNOSTI REPUBLIK IN AVTONOMNIH POKRAJIN ZA LETO
-                                    1986, DOLOČENIH Z ZAKONOM O SREDSTVIH ZA ODPRAVO POSLEDIC
-                                    KATASTROFALNEGA POTRESA, KI JE PRIZADEL OBMOČJE SR ČRNE GORE V
-                                        LETU<pb n="57" xml:id="pb.57"/> 1979. Osnutek odloka je
-                                    Skupščini predložil v soglasje Zbor republik in pokrajin
-                                    Skupščine SFR Jugoslavije. Predstavnik naše delegacije je
-                                    tovariš Jože Sintič, predstavnik Izvršnega sveta Skupščine SR
-                                    Slovenije pa tovariš Jože Kunič. Želi kdo od njiju besedo?
-                                    (Ne.)</p>
+                                <p>Prehajamo na <title>12. TOČKO DNEVNEGA REDA - OSNUTEK ODLOKA O
+                                        ZMANJŠANJU OBVEZNOSTI REPUBLIK IN AVTONOMNIH POKRAJIN ZA
+                                        LETO 1986, DOLOČENIH Z ZAKONOM O SREDSTVIH ZA ODPRAVO
+                                        POSLEDIC KATASTROFALNEGA POTRESA, KI JE PRIZADEL OBMOČJE SR
+                                        ČRNE GORE V LETU<pb n="57" xml:id="pb.57"/> 1979</title>.
+                                    Osnutek odloka je Skupščini predložil v soglasje Zbor republik
+                                    in pokrajin Skupščine SFR Jugoslavije. Predstavnik naše
+                                    delegacije je tovariš Jože Sintič, predstavnik Izvršnega sveta
+                                    Skupščine SR Slovenije pa tovariš Jože Kunič. Želi kdo od njiju
+                                    besedo? <stage>(Ne.)</stage>
+                                </p>
                                 <p>Osnutek odloka ste prejeli. Izvršni svet Skupščine SR Slovenije
                                     tudi k temu odloku nima pripomb. Osnutek odloka so obravnavali
                                     Odbor za finance, Zakonodajno-pravna komisija in Skupina
                                     delegatov vseh zborov za proučevanje aktov iz pristojnosti
                                     zborov Skupščine SFR Jugoslavije. Odbor in skupina sta pisno
                                     poročala, komisija pa k osnutku odloka ni imela pripomb. Želijo
-                                    poročevalci besedo? (Ne.)</p>
+                                    poročevalci besedo? <stage>(Ne.)</stage>
+                                </p>
                                 <p>Pričenjam razpravo. Prijavljenih delegatov za to točko dnevnega
-                                    reda ni. Želi kdo razpravljati? (Nihče.) Če ne, potem
-                                    zaključujem razpravo in predlagam, da sprejmete naslednji
+                                    reda ni. Želi kdo razpravljati? <stage>(Nihče.)</stage> Če ne,
+                                    potem zaključujem razpravo in predlagam, da sprejmete naslednji
                                     sklep:</p>
                                 <list type="simple">
                                     <item>Skupščina SR Slovenije daje soglasje k osnutku odloka o
@@ -3844,22 +4085,25 @@
                                         odloka.</item>
                                 </list>
                                 <p>Takšen predlog sklepa dajem na glasovanje.</p>
-                                <p>Kdo je za? (54 delegatov.) Je kdo proti? (Nihče.) Se je kdo
-                                    vzdržal? (Nihče.)</p>
+                                <p>Kdo je za? <stage>(54 delegatov.)</stage> Je kdo proti?
+                                        <stage>(Nihče.)</stage> Se je kdo vzdržal?
+                                        <stage>(Nihče.)</stage>
+                                </p>
                                 <p>Ugotavljam, da je predlagani sklep soglasno sprejet.</p>
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="13">
                             <sp who="#sp.BeznikVlado">
-                                <p>Prehajamo na 13. TOČKO DNEVNEGA REDA - PREDLOG ZAKONA O
-                                    RATIFIKACIJI POGODBE MED SFR JUGOSLAVIJO IN LJUDSKO REPUBLIKO
-                                    MADŽARSKO O IZOGIBANJU DVOJNEMU OBDAVČEVANJU DOHODKA IN
-                                    PREMOŽENJA. Predlog zakona je predložila Skupščini v soglasje
-                                    Skupščina SFR Jugoslavije. Predstavnik Izvršnega sveta Skupščine
-                                    SR Slovenije pri tej točki je Miha Vrhunec, namestnik
-                                    Republiškega komiteja za mednarodno sodelovanje. Želi
-                                    predstavnik Izvršnega sveta Skupščine SR Slovenije besedo?
-                                    (Ne.)</p>
+                                <p>Prehajamo na <title>13. TOČKO DNEVNEGA REDA - PREDLOG ZAKONA O
+                                        RATIFIKACIJI POGODBE MED SFR JUGOSLAVIJO IN LJUDSKO
+                                        REPUBLIKO MADŽARSKO O IZOGIBANJU DVOJNEMU OBDAVČEVANJU
+                                        DOHODKA IN PREMOŽENJA</title>. Predlog zakona je predložila
+                                    Skupščini v soglasje Skupščina SFR Jugoslavije. Predstavnik
+                                    Izvršnega sveta Skupščine SR Slovenije pri tej točki je Miha
+                                    Vrhunec, namestnik Republiškega komiteja za mednarodno
+                                    sodelovanje. Želi predstavnik Izvršnega sveta Skupščine SR
+                                    Slovenije besedo? <stage>(Ne.)</stage>
+                                </p>
                                 <p>Predlog zakona so prejeli vodje skupin za delegate, ki se
                                     udeležujejo današnje seje. Prav tako so vodje skupin prejeli
                                     predlog odloka o soglasju k predlogu zakona.</p>
@@ -3867,35 +4111,42 @@
                                     Predlog zakona so obravnavali Odbor za finance, Komisija za
                                     mednarodne odnose in Zakonodajno-pravna komisija, ki k predlogu
                                     zakona niso imeli pripomb, zato pisnih poročil niste prejeli.
-                                    Želijo poročevalci delovnih teles besedo? (Ne.)</p>
-                                <p>Pričenjam razpravo. Želi kdo razpravljati? (Nihče.) Če ne želi
-                                    nihče razpravljati, zaključujem razpravo in dajem na glasovanje
-                                    predlog odloka o soglasju k predlogu zakona.</p>
-                                <p>Kdo je za? (53 delegatov.) Je kdo proti? (Nihče.) Se je kdo
-                                    vzdržal? (Nihče.)</p>
+                                    Želijo poročevalci delovnih teles besedo? <stage>(Ne.)</stage>
+                                </p>
+                                <p>Pričenjam razpravo. Želi kdo razpravljati?
+                                        <stage>(Nihče.)</stage> Če ne želi nihče razpravljati,
+                                    zaključujem razpravo in dajem na glasovanje predlog odloka o
+                                    soglasju k predlogu zakona.</p>
+                                <p>Kdo je za? <stage>(53 delegatov.)</stage> Je kdo proti?
+                                        <stage>(Nihče.)</stage> Se je kdo vzdržal?
+                                        <stage>(Nihče.)</stage>
+                                </p>
                                 <p>Ugotavljam, da je zbor soglasno sprejel predlog odloka k predlogu
                                     zakona.</p>
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="14">
                             <sp who="#sp.BeznikVlado">
-                                <p>Prehajamo na 14. TOČKO DNEVNEGA REDA - PREDLOG ZA SOGLASJE ZA
-                                    KANDIDATURO JUDO ZVEZE JUGOSLAVIJE ZA ORGANIZACIJO<pb n="58"
-                                        xml:id="pb.58"/> EKIPNEGA PRVENSTVA EVROPE ZA ČLANE IN
-                                    ČLANICE ZA LETO 1986 V NOVEM SADU. Predlog je predložila Judo
-                                    zveza Jugoslavije. Predstavnik delegacije je tovariš Jože
-                                    Sintič, predstavnik Izvršnega sveta Skupščine SR Slovenije pa
-                                    Boštjan Zgonc, namestnik predsednika Republiškega komiteja za
-                                    vzgojo, izobraževanje ter telesno kulturo.</p>
+                                <p>Prehajamo na <title>14. TOČKO DNEVNEGA REDA - PREDLOG ZA SOGLASJE
+                                        ZA KANDIDATURO JUDO ZVEZE JUGOSLAVIJE ZA ORGANIZACIJO<pb
+                                            n="58" xml:id="pb.58"/> EKIPNEGA PRVENSTVA EVROPE ZA
+                                        ČLANE IN ČLANICE ZA LETO 1986 V NOVEM SADU</title>. Predlog
+                                    je predložila Judo zveza Jugoslavije. Predstavnik delegacije je
+                                    tovariš Jože Sintič, predstavnik Izvršnega sveta Skupščine SR
+                                    Slovenije pa Boštjan Zgonc, namestnik predsednika Republiškega
+                                    komiteja za vzgojo, izobraževanje ter telesno kulturo.</p>
                                 <p>Želi predstavnik Izvršnega sveta Skupščine SR Slovenije besedo?
-                                    (Ne.) Želi morda besedo predstavnik delegacije? (Ne.)</p>
+                                        <stage>(Ne.)</stage> Želi morda besedo predstavnik
+                                    delegacije? <stage>(Ne.)</stage>
+                                </p>
                                 <p>Predlog sta obravnavala Odbor za finance in Zakonodajno-pravna
                                     komisija. Odbor je pisno poročal. Komisija pa k predlogu nima
                                     pripomb.</p>
-                                <p>Želita poročevalca besedo? (Ne.) Pričenjam razpravo. Pisnih
-                                    prijav ni. Želi kdo razpravljati? (Ne.) Ker ne želi nihče
-                                    razpravljati, zaključujem razpravo in predlagam zboru, da
-                                    sprejme naslednji sklep:</p>
+                                <p>Želita poročevalca besedo? <stage>(Ne.)</stage> Pričenjam
+                                    razpravo. Pisnih prijav ni. Želi kdo razpravljati?
+                                        <stage>(Ne.)</stage> Ker ne želi nihče razpravljati,
+                                    zaključujem razpravo in predlagam zboru, da sprejme naslednji
+                                    sklep:</p>
                                 <list type="ordered">
                                     <item n="1">Zbor občin ugotavlja, da je elaborat o športni,
                                         ekonomski in družbenopolitični upravičenosti organiziranja
@@ -3912,25 +4163,30 @@
                                         organizator ekipnega prvenstva Evrope v judu za člane in
                                         članice v letu 1986.</item>
                                 </list>
-                                <p>Kdo je za tak sklep? (53 delegatov.) Je kdo proti? (Nihče.) Se je
-                                    kdo vzdržal? (1 delegat.)</p>
+                                <p>Kdo je za tak sklep? <stage>(53 delegatov.)</stage> Je kdo proti?
+                                        <stage>(Nihče.)</stage> Se je kdo vzdržal? <stage>(1
+                                        delegat.)</stage>
+                                </p>
                                 <p>Ugotavljam, da je zbor z večino glasov sprejel predlagani
                                     sklep.</p>
                             </sp>
                         </div>
                         <div ana="#PAR.TDR" n="15">
                             <sp who="#sp.BeznikVlado">
-                                <p>Prehajamo na 15. TOČKO DNEVNEGA REDA - POBUDE, PREDLOGI IN
-                                    VPRAŠANJA DELEGATOV. Kot ste bili uvodoma obveščeni, ste prejeli
-                                    danes na klop gradivo v zvezi z gradnjo Termoelektrarne Milje
-                                    pri Trstu in Plomin II v SR Hrvaški ter predlog ugotovitev in
-                                    sklepov, ki naj bi jih danes sprejeli.</p>
+                                <p>Prehajamo na <title>15. TOČKO DNEVNEGA REDA - POBUDE, PREDLOGI IN
+                                        VPRAŠANJA DELEGATOV</title>. Kot ste bili uvodoma obveščeni,
+                                    ste prejeli danes na klop gradivo v zvezi z gradnjo
+                                    Termoelektrarne Milje pri Trstu in Plomin II v SR Hrvaški ter
+                                    predlog ugotovitev in sklepov, ki naj bi jih danes sprejeli.</p>
                                 <p>Želi o omenjenem gradivu kdo razpravljati, predvsem pa o predlogu
-                                    ugotovitev in sklepov? (Nihče.) Če ne želi nihče razpravljati,
-                                    zaključujem razpravo in dajem na glasovanje predlog ugotovitev
-                                    in sklepov, ki ste jih prejeli danes na klop.</p>
-                                <p>Kdo je za? (54 delegatov.) Je kdo proti? (Nihče.) Se je kdo
-                                    vzdržal? (Nihče.)</p>
+                                    ugotovitev in sklepov? <stage>(Nihče.)</stage> Če ne želi nihče
+                                    razpravljati, zaključujem razpravo in dajem na glasovanje
+                                    predlog ugotovitev in sklepov, ki ste jih prejeli danes na
+                                    klop.</p>
+                                <p>Kdo je za? <stage>(54 delegatov.)</stage> Je kdo proti?
+                                        <stage>(Nihče.)</stage> Se je kdo vzdržal?
+                                        <stage>(Nihče.)</stage>
+                                </p>
                                 <p>Ugotavljam, da je zbor soglasno sprejel predlog ugotovitev in
                                     sklepov.</p>
                                 <p>Danes ste na klop prejeli tudi delegatsko vprašanje skupine
@@ -4234,21 +4490,22 @@
                                         rasti dohodka upošteva tudi rast cen in se usklajevanje
                                         izvede najkasneje v dveh mesecih po zaključku posameznega
                                         kvartala.</item>
-                                    <item n="5">Dogovorjeni obseg splošne porabe na ravni občin se mora
-                                        takoj povečati za znesek odstopljenih lastnih prihodkov
+                                    <item n="5">Dogovorjeni obseg splošne porabe na ravni občin se
+                                        mora takoj povečati za znesek odstopljenih lastnih prihodkov
                                         občinskih upravnih organov, ker lastni prihodki niso več
                                         prihodek proračuna in z njimi ni mogoče več kriti
                                         proračunskih izdatkov kot doslej. Z njimi pa smo v občini
                                         Tržič pokrivali manjkajoča sredstva za osebne dohodke, ki
                                         jih proračun ni mogel zagotoviti.</item>
-                                    <item n="6">V letu 1986 je v aneks k dogovoru o izvajanju politike
-                                        splošne porabe na ravni občin v SR Sloveniji potrebno vnesti
-                                        določilo, da so iz dogovorjenega obsega splošne porabe na
-                                        ravni občin izvzeti stroški volitev in stroški prostorskih
-                                        planskih aktov.<pb n="64" xml:id="pb.64"/>
+                                    <item n="6">V letu 1986 je v aneks k dogovoru o izvajanju
+                                        politike splošne porabe na ravni občin v SR Sloveniji
+                                        potrebno vnesti določilo, da so iz dogovorjenega obsega
+                                        splošne porabe na ravni občin izvzeti stroški volitev in
+                                        stroški prostorskih planskih aktov.<pb n="64" xml:id="pb.64"
+                                        />
                                     </item>
-                                    <item n="7">Realizirane presežke izvirnih proračunskih prihodkov v
-                                        letu 1985: občinski viri plus posebni republiški davek od
+                                    <item n="7">Realizirane presežke izvirnih proračunskih prihodkov
+                                        v letu 1985: občinski viri plus posebni republiški davek od
                                         prometa proizvodov in storitev, je potrebno takoj nameniti
                                         proračunom občin ter povečati dogovorjen obseg splošne
                                         porabe na ravni občin za leto 1985.</item>
@@ -4318,10 +4575,10 @@
                                 <p>V proračunu občine Tržič za leto 1986 so se v prvih štirih
                                     mesecih najbolj drastično izpostavili naslednji problemi:</p>
                                 <list type="ordered">
-                                    <item n="1">Pokrivanje stroškov volitev ob maksimalnem varčevanju
-                                        občinske volilne komisije pri pripravi in izvedbi splošnih
-                                        volitev v marcu 1986, celotni stroški bodo kljub vsemu
-                                        znašali okoli 5 milijonov dinarjev. Izvedba volitev je
+                                    <item n="1">Pokrivanje stroškov volitev ob maksimalnem
+                                        varčevanju občinske volilne komisije pri pripravi in izvedbi
+                                        splošnih volitev v marcu 1986, celotni stroški bodo kljub
+                                        vsemu znašali okoli 5 milijonov dinarjev. Izvedba volitev je
                                         finančno pokrita iz proračuna tako, da imajo ostali
                                         proračunski porabniki na voljo manj sredstev, kar pa
                                         posledično pomeni, da ne bodo dosegli resolucijske rasti
@@ -4466,8 +4723,8 @@
                                     Izvršnemu svetu Skupščine SR Slovenije. Pobudo Skupščini
                                     posredujemo z dodatnimi predlogi:</p>
                                 <list type="ordered">
-                                    <item n="1">Odpraviti je treba zaostajanje splošne porabe za rastjo
-                                        dohodka.</item>
+                                    <item n="1">Odpraviti je treba zaostajanje splošne porabe za
+                                        rastjo dohodka.</item>
                                     <item n="2">Oblikovati take kriterije za določitev obsega
                                         dogovorjene porabe za posamezno občino, ki bodo zagotovili
                                         izenačitev materialnega položaja delavcev upravnih organov
@@ -4475,8 +4732,8 @@
                                     <item n="3">Iz limitirane splošne porabe v letu 1986 izvzeti
                                         stroške volitev in stroške prostorskih planskih
                                         dokumentov.</item>
-                                    <item n="4">Omogočiti porabo presežkov proračunov realiziranih iz
-                                        lastnih virov, za sanacijo družbenoekonomskega položaja
+                                    <item n="4">Omogočiti porabo presežkov proračunov realiziranih
+                                        iz lastnih virov, za sanacijo družbenoekonomskega položaja
                                         delavcev državne uprave in za sanacijo osnovnih sredstev<pb
                                             n="68"/>proračunskih porabnikov oziroma za proračunske
                                         potrebe, ki jih kot najnujnejše ugotovijo pristojni občinski
@@ -4491,9 +4748,9 @@
                             </sp>
                             <sp who="#sp.BeznikVlado">
                                 <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
-                                <p>Hvala lepa. Želi še kdo zastaviti delegatsko vprašanje? (Da.)
-                                    Besedo ima Janja Domitrovič, delegatka iz občine
-                                    Ljubljana-Šiška.</p>
+                                <p>Hvala lepa. Želi še kdo zastaviti delegatsko vprašanje?
+                                        <stage>(Da.)</stage> Besedo ima Janja Domitrovič, delegatka
+                                    iz občine Ljubljana-Šiška.</p>
                             </sp>
                             <sp who="#sp.DomitrovičJanja">
                                 <speaker>JANJA DOMITROVIČ:</speaker>
@@ -4549,13 +4806,13 @@
                                         površine občine pod vodo in to edini ravninski del,<pb
                                             n="69"/>
                                     </item>
-                                    <item n="2">odlaganje pepela, ki je že nadpovprečno radioaktiven;
-                                        zaradi odlaganja pepela je voda, ki zaliva ugreznine
-                                        biološko mrtva,</item>
-                                    <item n="3">emisija prašnih delcev, zlasti pa žveplovega dioksida v
-                                        ozračje, ki kot veste ogroža ne samo naše občinske, ampak
-                                        vse slovenske gozdove. Gre za ogromne količine žveplovega
-                                        dioksida.</item>
+                                    <item n="2">odlaganje pepela, ki je že nadpovprečno
+                                        radioaktiven; zaradi odlaganja pepela je voda, ki zaliva
+                                        ugreznine biološko mrtva,</item>
+                                    <item n="3">emisija prašnih delcev, zlasti pa žveplovega
+                                        dioksida v ozračje, ki kot veste ogroža ne samo naše
+                                        občinske, ampak vse slovenske gozdove. Gre za ogromne
+                                        količine žveplovega dioksida.</item>
                                 </list>
                                 <p>Prav tako je Izvršni svet poudaril, da sta v svetu strokovno
                                     obdelana in tudi v uporabi samo dva načina trajnega odlaganja
@@ -4570,10 +4827,10 @@
                             </sp>
                             <sp who="#sp.BeznikVlado">
                                 <speaker>PREDSEDNIK VLADO BEZNIK:</speaker>
-                                <p>Hvala. Želi še kdo postaviti delegatsko vprašanje? (Nihče.) Če
-                                    ne, potem vas obveščam, da je zbor pri vseh točkah dnevnega
-                                    reda, kjer se sprejemajo končne odločitve skupaj z drugima
-                                    zboroma, usklajen.</p>
+                                <p>Hvala. Želi še kdo postaviti delegatsko vprašanje?
+                                        <stage>(Nihče.)</stage> Če ne, potem vas obveščam, da je
+                                    zbor pri vseh točkah dnevnega reda, kjer se sprejemajo končne
+                                    odločitve skupaj z drugima zboroma, usklajen.</p>
                                 <p>Zahvaljujem se vam za udeležbo na seji in za razpravo.
                                     Zaključujem 3. sejo Zbora občin.</p>
                             </sp>

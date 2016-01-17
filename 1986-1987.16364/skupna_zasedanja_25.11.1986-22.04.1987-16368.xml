@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sid.16368">
    <teiHeader xml:lang="slv">
       <fileDesc>
          <titleStmt>
@@ -141,6 +141,8 @@
             <p>XML na portalu Zgodovina Slovenije - SIstory narejen v okviru izvajanja
                infrastrukturnega programa Inštituta za novejšo zgodovino</p>
          </projectDesc>
+         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
+         <!-- Taxonomy za Sejne zapiske sej Skupščine Socialistične republike Slovenije, V-1.1, 2014-12-18, Andrej Pančur -->
          <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../taxonomy.xml"/>
       </encodingDesc>
       <profileDesc>
@@ -168,6 +170,14 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
+         <change when="2016-01-17+01:00">
+            <name>Andrej Pančur</name>: kodiranje <list>
+               <item>//stage[@type='time']</item>
+               <item>//p/stage</item>
+               <item>//docDate</item>
+               <item>//timeline</item>
+            </list>
+         </change>
          <change when="2015-12-10+01:00">
             <name>Andrej Pančur</name>: kodiranje<list>
                <item>//front//*</item>
@@ -331,14 +341,24 @@
             <head>SKUPNO ZASEDANJE ZBORA ZDRUŽENEGA DELA, ZBORA OBČIN IN DRUŽBENOPOLITIČNEGA ZBORA
                SKUPŠČINE SOCIALISTIČNE REPUBLIKE SLOVENIJE</head>
             <div ana="#PAR.Zasedanje" corresp="#sistory.16368">
-               <docDate>(18. marca 1987)</docDate>
+               <docDate when="1987-03-18">(18. marca 1987)</docDate>
+               <timeline origin="#TL.1" unit="s">
+                  <when synch="#stage.t.1" xml:id="TL.1" absolute="1987-03-18T09:30:00"/>
+                  <when synch="#stage.t.2" since="#TL.1" absolute="1987-03-18T12:00:00"
+                     interval="9000"/>
+                  <when synch="#stage.t.3" xml:id="TL.2" absolute="1987-03-18T12:40:00"/>
+                  <when synch="#stage.t.4" since="#TL.2" absolute="1987-03-18T12:50:00"
+                     interval="600"/>
+               </timeline>
                <castList>
                   <castItem>
                      <roleDesc>Predsedovala</roleDesc>: <actor xml:id="sp.ŠkerbecValerija">Valerija
                         Škerbec</actor>, <role>predsednica Družbenopolitičnega zbora</role>
                   </castItem>
                </castList>
-               <stage>Začetek zasedanja ob 09.30 uri.</stage>
+               <stage type="time">
+                  <time from="1987-03-18T09:30:00" xml:id="stage.t.1">Začetek zasedanja ob 09.30
+                     uri</time>.</stage>
                <div ana="#PAR.DnevRed">
                   <div>
                      <sp who="#sp.ŠkerbecValerija">
@@ -2249,8 +2269,10 @@
                            nadaljeval s svojim delom.</p>
                      </sp>
                      <pb/>
-                     <stage>(Skupno zasedanje je bilo prekinjeno ob 12.00 uri in se je nadaljevalo
-                        ob 12.40 uri.)</stage>
+                     <stage type="time">(Skupno zasedanje je bilo <time to="1987-03-18T12:00:00"
+                           xml:id="stage.t.2">prekinjeno ob 12.00 uri</time> in se je <time
+                           from="1987-03-18T12:40:00" xml:id="stage.t.3">nadaljevalo ob 12.40
+                           uri</time>.)</stage>
                      <sp who="#sp.ŠkerbecValerija">
                         <speaker>PREDSEDUJOČA VALERIJA ŠKERBEC:</speaker>
                         <p>Prosim tovariša Potrča, vodjo skupine, da poda poročilo skupine.</p>
@@ -2304,9 +2326,9 @@
                      </sp>
                      <sp who="#sp.ŠkerbecValerija">
                         <speaker>PREDSEDUJOČA VALERIJA ŠKERBEC:</speaker>
-                        <p>Hvala lepa, tovariš Potrč. Želi kdo razpravljati o teh predlogih? (Ne.)
-                           Ugotavljam, da ne želi nihče razpravljati, zato menim, da lahko preidemo
-                           na glasovanje.</p>
+                        <p>Hvala lepa, tovariš Potrč. Želi kdo razpravljati o teh predlogih?
+                              <stage>(Ne.)</stage> Ugotavljam, da ne želi nihče razpravljati, zato
+                           menim, da lahko preidemo na glasovanje.</p>
                         <p>Predsednik Zbora združenega dela me je obvestil, da je na seji Zbora
                            združenega dela prisotnih 142 delegatov, predsednik Zbora občin pa, da je
                            na seji zbora prisotnih 68 delegatov. Na seji Družbenopolitičnega zbora
@@ -2317,17 +2339,23 @@
                            Socialistične republike Slovenije k predlogu Predsedstva SFR Jugoslavije,
                            da se začne postopek za spremembo ustave SFR Jugoslavije. Prosim delegate
                            Zbora združenega dela, da glasujete.</p>
-                        <p>Kdor je za predlog odbora, naj prosim glasuje. (Vsi delegati dvignejo
-                           roko.) Je kdo proti? (Nihče.) Se je kdo vzdržal? (Nihče.)</p>
+                        <p>Kdor je za predlog odbora, naj prosim glasuje. <stage>(Vsi delegati
+                              dvignejo roko.)</stage> Je kdo proti? <stage>(Nihče.)</stage> Se je
+                           kdo vzdržal? <stage>(Nihče.)</stage>
+                        </p>
                         <p>Ugotavljam, da je Zbor združenega dela soglasno sprejel predlog
                            odloka.</p>
                         <p>Prosim delegate Zbora občin, da glasujete.</p>
-                        <p>Kdor je za, naj prosim, glasuje. (Vsi delegati dvignejo roke.) Je kdo
-                           proti? (Nihče.) Se je kdo vzdržal? (Nihče.)</p>
+                        <p>Kdor je za, naj prosim, glasuje. <stage>(Vsi delegati dvignejo
+                              roke.)</stage> Je kdo proti? <stage>(Nihče.)</stage> Se je kdo
+                           vzdržal? <stage>(Nihče.)</stage>
+                        </p>
                         <p>Ugotavljam, da je Zbor občin soglasno sprejel predlog odloka.</p>
                         <p>Prosim delegate Družbenopolitičnega zbora, da glasujemo. Kdor je za, naj
-                           prosim, glasuje. (Vsi delegati dvignejo roke.) Je kdo proti? (1 delegat.)
-                           Se je kdo vzdržal? (Nihče.)</p>
+                           prosim, glasuje. <stage>(Vsi delegati dvignejo roke.)</stage> Je kdo
+                           proti? <stage>(1 delegat.)</stage> Se je kdo vzdržal?
+                              <stage>(Nihče.)</stage>
+                        </p>
                         <p>Ugotavljam, da je Družbenopolitični zbor sprejel predlog odloka z večino
                            glasov.</p>
                         <p>Ugotavljam, da je Skupščina socialistične republike Slovenije sprejela
@@ -2338,19 +2366,25 @@
                            predlogu Predsedstva SFR Jugoslavije, da se začne postopek za spremembo
                            ustave SFR Jugoslavije.</p>
                         <p>Prosim delegate Zbora združenega dela, da glasujejo.</p>
-                        <p>Kdor je za, naj prosim, glasuje. (Vsi delegati dvignejo roke.) Je kdo
-                           proti? (Nihče.) Se je kdo vzdržal? (Nihče.)</p>
+                        <p>Kdor je za, naj prosim, glasuje. <stage>(Vsi delegati dvignejo
+                              roke.)</stage> Je kdo proti? <stage>(Nihče.)</stage> Se je kdo
+                           vzdržal? <stage>(Nihče.)</stage>
+                        </p>
                         <p>Ugotavljam, da je Zbor združenega dela soglasno sprejel predlog
                            stališč.</p>
                         <p>Prosim delegate Zbora občin, da glasujejo.</p>
-                        <p>Kdor je za, naj prosim, glasuje. (Vsi delegati dvignejo roke.) Je kdo
-                           proti? (Nihče.) Se je kdo vzdržal? (nihče.)</p>
+                        <p>Kdor je za, naj prosim, glasuje. <stage>(Vsi delegati dvignejo
+                              roke.)</stage> Je kdo proti? <stage>(Nihče.)</stage> Se je kdo
+                           vzdržal? <stage>(nihče.)</stage>
+                        </p>
                         <p>Ugotavljam, da je Zbor občin soglasno sprejel predlog stališč.</p>
                         <p>Prosim delegate Družbenopolitičnega zbora, da glasujemo o predlogu
                            stališč.</p>
                         <pb/>
-                        <p>Kdor je za, naj prosim, glasuje. (Vsi delegati dvignejo roke.) Je kdo
-                           proti? (Nihče.) Se je kdo vzdržal? (Nihče.)</p>
+                        <p>Kdor je za, naj prosim, glasuje. <stage>(Vsi delegati dvignejo
+                              roke.)</stage> Je kdo proti? <stage>(Nihče.)</stage> Se je kdo
+                           vzdržal? <stage>(Nihče.)</stage>
+                        </p>
                         <p>Ugotavljam, da je Družbenopolitični zbor soglasno sprejel predlog
                            stališč.</p>
                         <p>Ugotavljam, da so vsi zbori Skupščine SR Slovenije v enakem besedilu
@@ -2367,7 +2401,8 @@
                         <p>Zbor občin in Družbenopolitični zbor nadaljujeta sejo v svojih dvoranah,
                            Zbor združenega dela pa ima 45 minut odmora.</p>
                      </sp>
-                     <stage>(Skupno zasedanje je bilo končano ob 12.50 uri.)</stage>
+                     <stage type="time">(Skupno zasedanje je bilo <time to="1987-03-18T12:50:00"
+                           xml:id="stage.t.4">končano ob 12.50 uri</time>.)</stage>
                   </div>
                </div>
             </div>
