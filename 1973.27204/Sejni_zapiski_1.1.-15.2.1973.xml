@@ -37523,7 +37523,8 @@
                   <pb n="644" xml:id="pb.644"/>
                </div>
             </div>
-            <div>
+         </div>
+         <div>
                <castList>
                   <head>SEZNAM GOVORNIKOV</head>
                   <castGroup>
@@ -38179,7 +38180,7 @@
                <pb n="646" xml:id="pb.646"/>
                <pb n="I" xml:id="pb.I"/>
             </div>
-            <div type="contents">
+         <div type="contents">
                <head>VSEBINA</head>
                <list type="simple">
                   <item>
@@ -40010,21 +40011,20 @@
                   </item>
                </list>
             </div>
-            <div type="colophon">
-               <p>Izdala in založila</p>
-               <p>Skupščina SR Slovenije</p>
-               <p>Odgovorni urednik</p>
-               <p>Milan Megušar-Borut</p>
-               <p>Natisnila </p>
-               <p>Tiskarna »Jože Moškrič«</p>
-               <p>v Ljubljani</p>
-               <p>januarja 1974</p>
-               <p>v 300 izvodih</p>
-               <p>Obseg 664 strani</p>
-               <p>Z odločbo republiškega sekretariata za prosveto in kulturo SR Slovenije, št.
-                  421-2/72 z dne 28. 9. 1972, je edicija oproščena temeljnega davka od prometa
-                  proizvodov.</p>
-            </div>
+         <div type="colophon">
+            <p>Izdala in založila</p>
+            <p>Skupščina SR Slovenije</p>
+            <p>Odgovorni urednik</p>
+            <p>Milan Megušar-Borut</p>
+            <p>Natisnila </p>
+            <p>Tiskarna »Jože Moškrič«</p>
+            <p>v Ljubljani</p>
+            <p>januarja 1974</p>
+            <p>v 300 izvodih</p>
+            <p>Obseg 664 strani</p>
+            <p>Z odločbo republiškega sekretariata za prosveto in kulturo SR Slovenije, št.
+               421-2/72 z dne 28. 9. 1972, je edicija oproščena temeljnega davka od prometa
+               proizvodov.</p>
          </div>
       </back>
    </text>
