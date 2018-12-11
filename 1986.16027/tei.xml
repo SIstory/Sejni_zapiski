@@ -55,7 +55,7 @@
                   <title xml:lang="slv" type="sub" level="m">Zbor združenega dela, 1. seja (7. maj 1986)</title>
                   <title xml:lang="slv" type="sub" level="m">Zbor združenega dela, 2. seja (28. maj 1986)</title>
                   <imprint>
-                     <biblScope type="vol">zvezka   1</biblScope>
+                     <biblScope unit="volume">zvezka   1</biblScope>
                      <publisher>Skupščina Socialistične republike Slovenije</publisher>
                      <date when="1986">1986</date>
                   </imprint>
